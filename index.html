@@ -2,1103 +2,1103 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Loan Word Analysis</title>
-    <link rel="stylesheet" href="styles.css">
-    <style>
-        #word-analysis {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loan Word Analysis</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    #word-analysis {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
 
-        h1,
-        h2,
-        h3 {
-            color: #333;
-        }
+    h1,
+    h2,
+    h3 {
+      color: #333;
+    }
 
-        h1 {
-            color: #00b96b;
-        }
+    h1 {
+      color: #00b96b;
+    }
 
-        .example {
-            color: #409EFF;
-            font-style: italic;
-            font-weight: bold;
-        }
+    .example {
+      color: #409EFF;
+      font-style: italic;
+      font-weight: bold;
+    }
 
-        .label {
-            font-weight: bold;
-        }
-    </style>
+    .label {
+      font-weight: bold;
+    }
+  </style>
 </head>
 
 <body>
-    <div id="word-analysis">
-        <!-- Content will be dynamically rendered here -->
-    </div>
+  <div id="word-analysis">
+    <!-- Content will be dynamically rendered here -->
+  </div>
 
-    <script>
-        // JSON data (array of word objects)
-        const wordData = [
-        {
-  "word": "open up",
-  "pronunciation": {
-    "british": "/ˈəʊpən ʌp/ 🇬🇧",
-    "american": "/ˈoʊpən ʌp/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个短语在日常对话中非常常见，适用于英式英语和美式英语 ✅",
-  "meanings": [
-    {
-      "type": "动词短语",
-      "definition": {
-        "chinese": "Open up 🚪 指的是打开某个空间或物体，或使某事物变得开放。",
-        "english": "Open up 🚪 refers to opening something, like a space or object, or making something more accessible."
-      },
-      "examples": [
-        {
-          "sentence": "She opened up the window to let in fresh air. 🌬️💨",
-          "translation": "她打开窗户让新鲜空气进来。"
+  <script>
+    // JSON data (array of word objects)
+    const wordData = [
+      {
+        "word": "open up",
+        "pronunciation": {
+          "british": "/ˈəʊpən ʌp/ 🇬🇧",
+          "american": "/ˈoʊpən ʌp/ 🇺🇸"
         },
-        {
-          "sentence": "He opened up the box to reveal a surprise. 📦🎉",
-          "translation": "他打开盒子，揭开了一个惊喜。"
-        }
-      ]
-    },
-    {
-      "type": "动词短语",
-      "definition": {
-        "chinese": "Open up 也可以指开始谈论或表达自己的感受或想法。",
-        "english": "Open up can also mean to start talking about or expressing one’s feelings or thoughts."
-      },
-      "examples": [
-        {
-          "sentence": "She finally opened up about her problems. 🗣️💬",
-          "translation": "她终于谈论起她的问题。"
-        },
-        {
-          "sentence": "It’s hard for him to open up to others. 😔🔐",
-          "translation": "他很难向别人敞开心扉。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "reveal",
-      "type": "动词",
-      "definition": {
-        "chinese": "Reveal 🔍 指的是揭示或公开某事，通常指隐藏的信息或秘密。",
-        "english": "Reveal 🔍 refers to uncovering or making something known, typically something hidden or secret."
-      },
-      "examples": [
-        {
-          "sentence": "The investigation revealed new evidence. 🕵️‍♂️📜",
-          "translation": "调查揭示了新的证据。"
-        }
-      ]
-    },
-    {
-      "word": "disclose",
-      "type": "动词",
-      "definition": {
-        "chinese": "Disclose 📝 指的是公开或透露信息。",
-        "english": "Disclose 📝 refers to making information known or revealing it."
-      },
-      "examples": [
-        {
-          "sentence": "The company disclosed their new product plans. 🏢📢",
-          "translation": "公司公开了他们的新产品计划。"
-        }
-      ]
-    }
-  ]
-},
-        {
-  "word": "lose",
-  "pronunciation": {
-    "british": "/luːz/ 🇬🇧",
-    "american": "/luːz/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个动词在日常对话中非常常见，适用于英式英语和美式英语 ✅",
-  "meanings": [
-    {
-      "type": "动词",
-      "definition": {
-        "chinese": "Lose 💔 指的是失去某物或无法保留某物。",
-        "english": "Lose 💔 refers to being deprived of something or being unable to retain something."
-      },
-      "examples": [
-        {
-          "sentence": "I lost my keys this morning. 🔑😕",
-          "translation": "我今天早上丢了我的钥匙。"
-        },
-        {
-          "sentence": "She lost her job due to budget cuts. 💼❌",
-          "translation": "由于预算削减，她失去了工作。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "misplace",
-      "type": "动词",
-      "definition": {
-        "chinese": "Misplace 🔍 指的是不小心把东西放错地方。",
-        "english": "Misplace 🔍 refers to accidentally putting something in the wrong place."
-      },
-      "examples": [
-        {
-          "sentence": "I think I misplaced my wallet. 💳🤔",
-          "translation": "我想我把钱包放错地方了。"
-        }
-      ]
-    },
-    {
-      "word": "drop",
-      "type": "动词",
-      "definition": {
-        "chinese": "Drop 🧳 指的是不小心让某物掉落。",
-        "english": "Drop 🧳 refers to accidentally letting something fall."
-      },
-      "examples": [
-        {
-          "sentence": "She dropped her phone and cracked the screen. 📱💔",
-          "translation": "她把手机掉了，屏幕裂了。"
-        }
-      ]
-    }
-  ]
-},
-        {
-  "word": "lose",
-  "pronunciation": {
-    "british": "/luːz/ 🇬🇧",
-    "american": "/luːz/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个动词在日常对话中非常常见，适用于英式英语和美式英语 ✅",
-  "meanings": [
-    {
-      "type": "动词",
-      "definition": {
-        "chinese": "Lose 💔 指的是失去某物或无法保留某物。",
-        "english": "Lose 💔 refers to being deprived of something or being unable to retain something."
-      },
-      "examples": [
-        {
-          "sentence": "I lost my keys this morning. 🔑😕",
-          "translation": "我今天早上丢了我的钥匙。"
-        },
-        {
-          "sentence": "She lost her job due to budget cuts. 💼❌",
-          "translation": "由于预算削减，她失去了工作。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "misplace",
-      "type": "动词",
-      "definition": {
-        "chinese": "Misplace 🔍 指的是不小心把东西放错地方。",
-        "english": "Misplace 🔍 refers to accidentally putting something in the wrong place."
-      },
-      "examples": [
-        {
-          "sentence": "I think I misplaced my wallet. 💳🤔",
-          "translation": "我想我把钱包放错地方了。"
-        }
-      ]
-    },
-    {
-      "word": "drop",
-      "type": "动词",
-      "definition": {
-        "chinese": "Drop 🧳 指的是不小心让某物掉落。",
-        "english": "Drop 🧳 refers to accidentally letting something fall."
-      },
-      "examples": [
-        {
-          "sentence": "She dropped her phone and cracked the screen. 📱💔",
-          "translation": "她把手机掉了，屏幕裂了。"
-        }
-      ]
-    }
-  ]
-},
-        {
-  "word": "go wrong",
-  "pronunciation": {
-    "british": "/ɡəʊ rɒŋ/ 🇬🇧",
-    "american": "/ɡoʊ rɔːŋ/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个短语在日常对话中非常常见，适用于英式英语和美式英语 ✅",
-  "meanings": [
-    {
-      "type": "动词短语",
-      "definition": {
-        "chinese": "Go wrong ❌ 指的是某事失败或发生了错误，通常用于描述计划、行动或决定的失败。",
-        "english": "Go wrong ❌ refers to something failing or going awry, usually describing the failure of a plan, action, or decision."
-      },
-      "examples": [
-        {
-          "sentence": "Everything seemed to go wrong during the trip. 🧳🚨",
-          "translation": "旅行中似乎一切都出了问题。"
-        },
-        {
-          "sentence": "The plan went wrong and we had to make changes. 🛑🔄",
-          "translation": "计划失败了，我们不得不做出调整。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "fail",
-      "type": "动词",
-      "definition": {
-        "chinese": "Fail 🚫 指的是未能完成某个任务或目标。",
-        "english": "Fail 🚫 refers to not being able to complete a task or reach a goal."
-      },
-      "examples": [
-        {
-          "sentence": "I failed the exam because I didn’t study enough. 📚✖️",
-          "translation": "我考试没通过，因为我没好好学习。"
-        }
-      ]
-    },
-    {
-      "word": "mistake",
-      "type": "名词",
-      "definition": {
-        "chinese": "Mistake ❌ 指的是做错了的事情或判断错误。",
-        "english": "Mistake ❌ refers to something done incorrectly or an error in judgment."
-      },
-      "examples": [
-        {
-          "sentence": "She made a mistake in the calculations. 🔢❌",
-          "translation": "她在计算中犯了一个错误。"
-        }
-      ]
-    }
-  ]
-},
-        {
-  "word": "go through",
-  "pronunciation": {
-    "british": "/ɡəʊ θruː/ 🇬🇧",
-    "american": "/ɡoʊ θruː/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个短语在日常对话和工作中都很常见，英式英语和美式英语都适用 ✅",
-  "meanings": [
-    {
-      "type": "动词短语",
-      "definition": {
-        "chinese": "Go through 🔄 指的是仔细查看或经历某事，尤其是一个过程或检查某物。",
-        "english": "Go through 🔄 refers to carefully examining or experiencing something, especially a process or checking something."
-      },
-      "examples": [
-        {
-          "sentence": "We need to go through the reports before the meeting. 📑🔍",
-          "translation": "我们需要在会议前仔细查看报告。"
-        },
-        {
-          "sentence": "She went through a difficult time after the loss. 😔💔",
-          "translation": "失去亲人后，她经历了一段困难的时光。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "review",
-      "type": "动词",
-      "definition": {
-        "chinese": "Review 📚👓 指的是重新检查或回顾某事，通常为了确保没有遗漏或理解深刻。",
-        "english": "Review 📚👓 refers to examining or looking at something again, usually to ensure nothing is missed or to gain deeper understanding."
-      },
-      "examples": [
-        {
-          "sentence": "Let's review the documents before submitting them. 📄✅",
-          "translation": "让我们在提交之前复习一下这些文件。"
-        }
-      ]
-    },
-    {
-      "word": "examine",
-      "type": "动词",
-      "definition": {
-        "chinese": "Examine 🔬 指的是仔细检查某物，通常以寻找问题或理解其结构。",
-        "english": "Examine 🔬 refers to closely inspecting something, usually to find issues or understand its structure."
-      },
-      "examples": [
-        {
-          "sentence": "The doctor will examine your test results. 👨‍⚕️📊",
-          "translation": "医生会检查你的测试结果。"
-        }
-      ]
-    }
-  ]
-},
-
-        {
-  "word": "access",
-  "pronunciation": {
-    "british": "/ˈækses/ 🇬🇧",
-    "american": "/ˈækses/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个词在日常生活和技术领域都很常见，英式英语和美式英语都适用 ✅",
-  "meanings": [
-    {
-      "type": "名词",
-      "definition": {
-        "chinese": "Access 🚪🔑 指的是进入或使用某物的能力或权限。",
-        "english": "Access 🚪🔑 refers to the ability or permission to enter or use something."
-      },
-      "examples": [
-        {
-          "sentence": "Only authorized users have access to this system. 🔐💻",
-          "translation": "只有授权用户才能访问这个系统。"
-        },
-        {
-          "sentence": "The hotel provides free Wi-Fi access to guests. 🏨📶",
-          "translation": "这家酒店为客人提供免费 Wi-Fi 访问。"
-        }
-      ]
-    },
-    {
-      "type": "动词",
-      "definition": {
-        "chinese": "Access 🖥️📂 作为动词时，表示获取或进入某物。",
-        "english": "Access 🖥️📂 as a verb means to obtain or enter something."
-      },
-      "examples": [
-        {
-          "sentence": "You need a password to access your email. 🔑📧",
-          "translation": "你需要密码才能访问你的电子邮件。"
-        },
-        {
-          "sentence": "She accessed the files from her laptop. 💻📁",
-          "translation": "她从笔记本电脑上访问了这些文件。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "entry",
-      "type": "名词",
-      "definition": {
-        "chinese": "Entry 🚪🔓 指的是进入某个地方的动作或权限。",
-        "english": "Entry 🚪🔓 refers to the act or permission of entering a place."
-      },
-      "examples": [
-        {
-          "sentence": "No entry without a valid ticket. 🎫⛔",
-          "translation": "没有有效票证不得入内。"
-        }
-      ]
-    },
-    {
-      "word": "permission",
-      "type": "名词",
-      "definition": {
-        "chinese": "Permission ✅📜 指的是被允许做某事的授权。",
-        "english": "Permission ✅📜 refers to the authorization to do something."
-      },
-      "examples": [
-        {
-          "sentence": "You need permission to access this document. 🔐📄",
-          "translation": "你需要权限才能访问此文件。"
-        }
-      ]
-    }
-  ]
-},
-        {
-  "word": "phone banking",
-  "pronunciation": {
-    "british": "/fəʊn ˈbæŋkɪŋ/ 🇬🇧",
-    "american": "/foʊn ˈbæŋkɪŋ/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个词在金融领域中较常见，英式英语和美式英语都适用 ✅",
-  "meanings": [
-    {
-      "type": "名词",
-      "definition": {
-        "chinese": "Phone banking ☎🏦 指的是通过电话访问银行服务，如查询账户信息或进行转账。",
-        "english": "Phone banking ☎🏦 refers to accessing banking services over the phone, such as checking account details or making transfers."
-      },
-      "examples": [
-        {
-          "sentence": "I use phone banking to check my account balance. 📞💰",
-          "translation": "我使用电话银行查询我的账户余额。"
-        },
-        {
-          "sentence": "With phone banking, you can transfer money without visiting a branch. 🏦🔄",
-          "translation": "通过电话银行，你可以在不去银行的情况下转账。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "online banking",
-      "type": "名词",
-      "definition": {
-        "chinese": "Online banking 💻🏦 指的是通过互联网访问银行服务，例如转账和支付账单。",
-        "english": "Online banking 💻🏦 refers to accessing banking services via the internet, such as making transfers and paying bills."
-      },
-      "examples": [
-        {
-          "sentence": "Most people prefer online banking because it is more convenient. 🌐📊",
-          "translation": "大多数人喜欢网上银行，因为它更方便。"
-        }
-      ]
-    },
-    {
-      "word": "mobile banking",
-      "type": "名词",
-      "definition": {
-        "chinese": "Mobile banking 📱💳 是通过手机应用程序访问银行服务的一种方式。",
-        "english": "Mobile banking 📱💳 is a way of accessing banking services through a mobile app."
-      },
-      "examples": [
-        {
-          "sentence": "I use mobile banking to pay my bills on the go. 🚀💵",
-          "translation": "我使用手机银行随时随地支付账单。"
-        }
-      ]
-    }
-  ]
-},
-
-        {
-  "word": "a savings account",
-  "pronunciation": {
-    "british": "/ə ˈseɪvɪŋz əˌkaʊnt/ 🇬🇧",
-    "american": "/ə ˈseɪvɪŋz əˌkaʊnt/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个词在金融领域和日常生活中很常见。英式英语和美式英语都适用 ✅",
-  "meanings": [
-    {
-      "type": "名词",
-      "definition": {
-        "chinese": "A savings account 💰🏦 是银行提供的一种账户，主要用于存款和积累利息。",
-        "english": "A savings account 💰🏦 is a type of bank account designed for depositing money and earning interest."
-      },
-      "examples": [
-        {
-          "sentence": "I opened a savings account to start saving for my future. 📈",
-          "translation": "我开了一个储蓄账户来为我的未来存钱。"
-        },
-        {
-          "sentence": "The interest rate on my savings account is quite high. 📊💵",
-          "translation": "我的储蓄账户利率相当高。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "checking account",
-      "type": "名词",
-      "definition": {
-        "chinese": "Checking account 🏦💳 是一种银行账户，主要用于日常交易，如支付账单和取款。",
-        "english": "A checking account 🏦💳 is a bank account mainly used for daily transactions, such as paying bills and withdrawing cash."
-      },
-      "examples": [
-        {
-          "sentence": "I use my checking account to pay my rent. 🏠💰",
-          "translation": "我用我的支票账户支付房租。"
-        }
-      ]
-    },
-    {
-      "word": "fixed deposit",
-      "type": "名词",
-      "definition": {
-        "chinese": "Fixed deposit 📅💰 是一种定期存款账户，存款人在固定时间内不能提取资金，但利率较高。",
-        "english": "A fixed deposit 📅💰 is a type of bank account where money is locked for a fixed period, usually with a higher interest rate."
-      },
-      "examples": [
-        {
-          "sentence": "He put his extra money into a fixed deposit for five years. 🏦📆",
-          "translation": "他把多余的钱存入了五年的定期存款。"
-        }
-      ]
-    }
-  ]
-},
-        {
-  "word": "over the counter",
-  "pronunciation": {
-    "british": "/ˈəʊvər ðə ˈkaʊntər/ 🇬🇧",
-    "american": "/ˈoʊvər ðə ˈkaʊntər/ 🇺🇸"
-  },
-  "usage": "常用 👍: 这个词在日常生活中尤其在商业和药品领域非常常用。英式英语和美式英语都适用 ✅",
-  "meanings": [
-    {
-      "type": "短语",
-      "definition": {
-        "chinese": "Over the counter 💊 (短语) 通常指无需处方即可购买的药物或商品，也可以用来描述交易或购买行为，特别是非正式的或不通过中介的交易。",
-        "english": "Over the counter 💊 (phrase) typically refers to medicines or products that can be purchased without a prescription, or transactions conducted directly without intermediaries."
-      },
-      "examples": [
-        {
-          "sentence": "You can buy these painkillers over the counter. 💊🚶‍♂️",
-          "translation": "你可以不用处方直接购买这些止痛药。"
-        },
-        {
-          "sentence": "The stock was bought over the counter, without a broker. 📈💼",
-          "translation": "这支股票通过柜台交易购买，没有中介。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "prescription",
-      "type": "名词",
-      "definition": {
-        "chinese": "Prescription 📝 是指医生开具的药物或治疗建议，通常需要通过正规渠道购买。",
-        "english": "Prescription 📝 refers to a written order from a doctor for medication or treatment, typically required for purchasing certain medicines."
-      },
-      "examples": [
-        {
-          "sentence": "You need a prescription for this medicine. 💊📋",
-          "translation": "你需要处方才能购买这种药物。"
-        }
-      ]
-    },
-    {
-      "word": "direct",
-      "type": "形容词",
-      "definition": {
-        "chinese": "Direct 🔜 是指不经过任何中介或过程，直接进行的。",
-        "english": "Direct 🔜 refers to something done without intermediaries or steps, proceeding in an unmediated manner."
-      },
-      "examples": [
-        {
-          "sentence": "We had a direct meeting with the client. 🤝🏢",
-          "translation": "我们与客户进行了直接会议。"
-        }
-      ]
-    }
-  ]
-},
-
-            {
-                "word": "put through",
-                "pronunciation": {
-                    "british": "/pʊt θruː/ 🇬🇧",
-                    "american": "/pʊt θruː/ 🇺🇸"
-                },
-                "usage": "常用 👍: 这个词在日常生活中常用于电话或过程中的中介行为，英式英语和美式英语都适用 ✅",
-                "meanings": [
-                    {
-                        "type": "短语动词",
-                        "definition": {
-                            "chinese": "Put through 📞 (短语动词) 意味着将某人通过电话转接给另一人，或将某个过程完成。",
-                            "english": "Put through 📞 (phrasal verb) means to connect someone on the phone to another person or to complete a process."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "Can you put me through to the manager? 📱👨‍💼",
-                                "translation": "你能把我转接给经理吗？"
-                            },
-                            {
-                                "sentence": "The operator put me through after a few minutes. ⏳📞",
-                                "translation": "接线员在几分钟后把我转接过去了。"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "短语动词 (处理、完成)",
-                        "definition": {
-                            "chinese": "Put through 还可以表示完成某个任务或处理某件事。",
-                            "english": "Put through can also mean to complete a task or handle a matter."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "The lawyer put me through a difficult process. ⚖️📝",
-                                "translation": "律师让我经历了一个艰难的过程。"
-                            }
-                        ]
-                    }
-                ],
-                "related_words": [
-                    {
-                        "word": "connect",
-                        "type": "动词",
-                        "definition": {
-                            "chinese": "Connect 🔌 是指将两个或多个事物链接或联系起来，通常用于电话或网络。",
-                            "english": "Connect 🔌 means to link or establish a relationship between two or more things, often used in phone or network contexts."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I tried to connect to the internet. 🌐📶",
-                                "translation": "我试图连接到互联网。"
-                            }
-                        ]
-                    },
-                    {
-                        "word": "transfer",
-                        "type": "动词",
-                        "definition": {
-                            "chinese": "Transfer 🔄 是指将某物从一个地方或人转移到另一个地方或人。",
-                            "english": "Transfer 🔄 means to move something from one place or person to another."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "The call was transferred to the customer service department. 📞🏢",
-                                "translation": "电话被转接到客服部门。"
-                            }
-                        ]
-                    }
-                ]
+        "usage": "常用 👍: 这个短语在日常对话中非常常见，适用于英式英语和美式英语 ✅",
+        "meanings": [
+          {
+            "type": "动词短语",
+            "definition": {
+              "chinese": "Open up 🚪 指的是打开某个空间或物体，或使某事物变得开放。",
+              "english": "Open up 🚪 refers to opening something, like a space or object, or making something more accessible."
             },
-
-            {
-                "word": "drawer",
-                "pronunciation": {
-                    "british": "/ˈdrɔːə/ 🇬🇧",
-                    "american": "/ˈdrɔːɚ/ 🇺🇸"
-                },
-                "usage": "常用 👍: 这个词在日常生活中非常常用，特别是在家庭和办公环境中。英式英语和美式英语都适用 ✅",
-                "meanings": [
-                    {
-                        "word": "issue",
-                        "pronunciation": {
-                            "british": "/ˈɪʃuː/ 🇬🇧",
-                            "american": "/ˈɪʃuː/ 🇺🇸"
-                        },
-                        "usage": "常用 👍: 这个词在日常生活中和正式场合都很常用，尤其是在讨论问题或争议时。英式英语和美式英语都适用 ✅",
-                        "meanings": [
-                            {
-                                "type": "名词",
-                                "definition": {
-                                    "chinese": "Issue 📄 (名词) 是指问题、争议或主题，通常需要解决或讨论。",
-                                    "english": "Issue 📄 (noun) refers to a problem, concern, or subject that requires attention or resolution."
-                                },
-                                "examples": [
-                                    {
-                                        "sentence": "The main issue is the lack of funding. 💰🚧",
-                                        "translation": "主要问题是缺乏资金。"
-                                    },
-                                    {
-                                        "sentence": "We need to address the issue of climate change. 🌍⚠️",
-                                        "translation": "我们需要解决气候变化的问题。"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "动词",
-                                "definition": {
-                                    "chinese": "Issue 作为动词，意思是发布、发行或提供。",
-                                    "english": "As a verb, issue means to release, distribute, or provide something."
-                                },
-                                "examples": [
-                                    {
-                                        "sentence": "The government issued new guidelines on health. 🏛️📜",
-                                        "translation": "政府发布了新的健康指南。"
-                                    },
-                                    {
-                                        "sentence": "The company issued a statement about the incident. 📝💼",
-                                        "translation": "公司就事件发布了声明。"
-                                    }
-                                ]
-                            }
-                        ],
-                        "related_words": [
-                            {
-                                "word": "problem",
-                                "type": "名词",
-                                "definition": {
-                                    "chinese": "Problem 💡 是指需要解决的难题或困境，通常更侧重于困难或障碍。",
-                                    "english": "Problem 💡 refers to a difficult situation or challenge, often focusing on obstacles or issues that need resolution."
-                                },
-                                "examples": [
-                                    {
-                                        "sentence": "The problem with the software has been fixed. 💻🔧",
-                                        "translation": "软件的问题已经修复。"
-                                    }
-                                ]
-                            },
-                            {
-                                "word": "concern",
-                                "type": "名词",
-                                "definition": {
-                                    "chinese": "Concern 🙋‍♂️ 是指关心或忧虑的事情，通常用来表达对某事的担忧。",
-                                    "english": "Concern 🙋‍♂️ refers to something that causes worry or anxiety, often used to express an issue of importance."
-                                },
-                                "examples": [
-                                    {
-                                        "sentence": "There is a concern about the safety of the building. 🏢⚠️",
-                                        "translation": "关于这座建筑物的安全性有担忧。"
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Drawer 🗄️ (名词) 是指可以拉开的抽屉，通常用于存放物品。",
-                            "english": "Drawer 🗄️ (noun) refers to a sliding storage compartment, typically used for storing items."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I keep my pens in the drawer. ✍️🖊️",
-                                "translation": "我把笔放在抽屉里。"
-                            },
-                            {
-                                "sentence": "The documents are in the top drawer of the desk. 🗂️🖥️",
-                                "translation": "文件在桌子的最上面抽屉里。"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "名词 (金融术语)",
-                        "definition": {
-                            "chinese": "Drawer 💼 (金融术语) 也可以指签发支票的人。",
-                            "english": "Drawer 💼 (in finance) refers to the person who writes or signs a cheque."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "The drawer of the cheque must sign it. 📝💵",
-                                "translation": "支票的签发人必须签署它。"
-                            }
-                        ]
-                    }
-                ],
-                "related_words": [
-                    {
-                        "word": "cabinet",
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Cabinet 🗄️ 是指用于存放物品的大型存储柜，通常比抽屉要大。",
-                            "english": "Cabinet 🗄️ refers to a larger storage unit used to store items, usually bigger than a drawer."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "The dishes are stored in the kitchen cabinet. 🍽️🍴",
-                                "translation": "餐具存放在厨房的橱柜里。"
-                            }
-                        ]
-                    },
-                    {
-                        "word": "box",
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Box 📦 是一个可以装东西的容器，通常是长方形的。",
-                            "english": "Box 📦 is a container used to store things, typically rectangular."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I keep my shoes in a box under the bed. 👟📦",
-                                "translation": "我把鞋子放在床下的箱子里。"
-                            }
-                        ]
-                    }
-                ]
+            "examples": [
+              {
+                "sentence": "She opened up the window to let in fresh air. 🌬️💨",
+                "translation": "她打开窗户让新鲜空气进来。"
+              },
+              {
+                "sentence": "He opened up the box to reveal a surprise. 📦🎉",
+                "translation": "他打开盒子，揭开了一个惊喜。"
+              }
+            ]
+          },
+          {
+            "type": "动词短语",
+            "definition": {
+              "chinese": "Open up 也可以指开始谈论或表达自己的感受或想法。",
+              "english": "Open up can also mean to start talking about or expressing one’s feelings or thoughts."
             },
-            {
-                "word": "deposit",
-                "pronunciation": {
-                    "british": "/dɪˈpɒzɪt/ 🇬🇧",
-                    "american": "/dɪˈpɑːzɪt/ 🇺🇸"
-                },
-                "usage": "常用 👍: 这个词在金融领域非常常用，通常指存款或押金。\n\n英式英语和美式英语都适用 ✅",
-                "meanings": [
-                    {
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Deposit 💵 (名词) 是指将钱存入账户或支付作为押金。",
-                            "english": "Deposit 💵 (noun) refers to the act of putting money into an account or paying as a deposit."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I made a deposit into my savings account. 💰",
-                                "translation": "我将钱存入了我的储蓄账户。"
-                            },
-                            {
-                                "sentence": "She paid a deposit to secure the rental property. 🏠💵",
-                                "translation": "她支付了押金来确保租赁物业。"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "动词",
-                        "definition": {
-                            "chinese": "Deposit 也可以作动词，意思是将钱存入银行或支付押金。",
-                            "english": "As a verb, deposit means to put money into a bank account or to pay a deposit."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I will deposit the money tomorrow. 💳",
-                                "translation": "我明天会存钱。"
-                            },
-                            {
-                                "sentence": "He deposited his paycheck into the bank account. 💵🏦",
-                                "translation": "他将工资存入了银行账户。"
-                            }
-                        ]
-                    }
-                ],
-                "related_words": [
-                    {
-                        "word": "withdrawal",
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Withdrawal 💰 是指从账户中取出钱。",
-                            "english": "Withdrawal 💰 refers to the act of taking money out of an account."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I need to make a withdrawal from my savings account. 💸",
-                                "translation": "我需要从我的储蓄账户提取一些钱。"
-                            }
-                        ]
-                    },
-                    {
-                        "word": "saving",
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Saving 💰 是指将钱存入银行账户以便日后使用。",
-                            "english": "Saving 💰 refers to putting money into a bank account for future use."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "He has been putting money into savings every month. 💰📅",
-                                "translation": "他每个月都将钱存入储蓄账户。"
-                            }
-                        ]
-                    }
-                ]
+            "examples": [
+              {
+                "sentence": "She finally opened up about her problems. 🗣️💬",
+                "translation": "她终于谈论起她的问题。"
+              },
+              {
+                "sentence": "It’s hard for him to open up to others. 😔🔐",
+                "translation": "他很难向别人敞开心扉。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "reveal",
+            "type": "动词",
+            "definition": {
+              "chinese": "Reveal 🔍 指的是揭示或公开某事，通常指隐藏的信息或秘密。",
+              "english": "Reveal 🔍 refers to uncovering or making something known, typically something hidden or secret."
             },
-
-            {
-                "word": "brochure",
-                "pronunciation": {
-                    "british": "/ˈbrəʊʃʊə/ 🇬🇧",
-                    "american": "/broʊˈʃʊr/ 🇺🇸"
-                },
-                "usage": "常用 👍: 这个词在商业和营销领域很常见，尤其是在展示和推广产品时。英式英语和美式英语都适用 ✅",
-                "meanings": [
-                    {
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Brochure 📄 (名词) 是一本小册子，通常用于广告或宣传，包含有关产品、服务或地方的信息。",
-                            "english": "Brochure 📄 (noun) refers to a small booklet, often used for advertising or informational purposes, containing details about a product, service, or location."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "The company handed out brochures at the trade show. 📚",
-                                "translation": "公司在展会上发放了宣传册。"
-                            },
-                            {
-                                "sentence": "I picked up a brochure about the new hotel in town. 🏨",
-                                "translation": "我拿到了关于市区新酒店的小册子。"
-                            }
-                        ]
-                    }
-                ],
-                "related_words": [
-                    {
-                        "word": "catalog",
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Catalog 📚 是一份列出产品或服务的详细清单，通常用于销售。",
-                            "english": "Catalog 📚 is a detailed list of products or services, typically used for sales purposes."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "The store sent out a catalog of their new products. 🛍️",
-                                "translation": "商店发送了他们新产品的目录。"
-                            }
-                        ]
-                    },
-                    {
-                        "word": "flyer",
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Flyer 📜 是一种广告单页，通常用于促销活动或传达简短信息。",
-                            "english": "Flyer 📜 is a single-page advertisement, often used for promotions or conveying brief information."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "The restaurant handed out flyers for their grand opening. 🍽️",
-                                "translation": "餐厅发放了他们开业的大型广告单。"
-                            }
-                        ]
-                    }
-                ]
+            "examples": [
+              {
+                "sentence": "The investigation revealed new evidence. 🕵️‍♂️📜",
+                "translation": "调查揭示了新的证据。"
+              }
+            ]
+          },
+          {
+            "word": "disclose",
+            "type": "动词",
+            "definition": {
+              "chinese": "Disclose 📝 指的是公开或透露信息。",
+              "english": "Disclose 📝 refers to making information known or revealing it."
             },
-            {
-                "word": "withdrawal",
-                "pronunciation": {
-                    "british": "/wɪðˈdrɔːəl/ 🇬🇧",
-                    "american": "/wɪðˈdrɔːəl/ 🇺🇸"
+            "examples": [
+              {
+                "sentence": "The company disclosed their new product plans. 🏢📢",
+                "translation": "公司公开了他们的新产品计划。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "lose",
+        "pronunciation": {
+          "british": "/luːz/ 🇬🇧",
+          "american": "/luːz/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个动词在日常对话中非常常见，适用于英式英语和美式英语 ✅",
+        "meanings": [
+          {
+            "type": "动词",
+            "definition": {
+              "chinese": "Lose 💔 指的是失去某物或无法保留某物。",
+              "english": "Lose 💔 refers to being deprived of something or being unable to retain something."
+            },
+            "examples": [
+              {
+                "sentence": "I lost my keys this morning. 🔑😕",
+                "translation": "我今天早上丢了我的钥匙。"
+              },
+              {
+                "sentence": "She lost her job due to budget cuts. 💼❌",
+                "translation": "由于预算削减，她失去了工作。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "misplace",
+            "type": "动词",
+            "definition": {
+              "chinese": "Misplace 🔍 指的是不小心把东西放错地方。",
+              "english": "Misplace 🔍 refers to accidentally putting something in the wrong place."
+            },
+            "examples": [
+              {
+                "sentence": "I think I misplaced my wallet. 💳🤔",
+                "translation": "我想我把钱包放错地方了。"
+              }
+            ]
+          },
+          {
+            "word": "drop",
+            "type": "动词",
+            "definition": {
+              "chinese": "Drop 🧳 指的是不小心让某物掉落。",
+              "english": "Drop 🧳 refers to accidentally letting something fall."
+            },
+            "examples": [
+              {
+                "sentence": "She dropped her phone and cracked the screen. 📱💔",
+                "translation": "她把手机掉了，屏幕裂了。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "lose",
+        "pronunciation": {
+          "british": "/luːz/ 🇬🇧",
+          "american": "/luːz/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个动词在日常对话中非常常见，适用于英式英语和美式英语 ✅",
+        "meanings": [
+          {
+            "type": "动词",
+            "definition": {
+              "chinese": "Lose 💔 指的是失去某物或无法保留某物。",
+              "english": "Lose 💔 refers to being deprived of something or being unable to retain something."
+            },
+            "examples": [
+              {
+                "sentence": "I lost my keys this morning. 🔑😕",
+                "translation": "我今天早上丢了我的钥匙。"
+              },
+              {
+                "sentence": "She lost her job due to budget cuts. 💼❌",
+                "translation": "由于预算削减，她失去了工作。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "misplace",
+            "type": "动词",
+            "definition": {
+              "chinese": "Misplace 🔍 指的是不小心把东西放错地方。",
+              "english": "Misplace 🔍 refers to accidentally putting something in the wrong place."
+            },
+            "examples": [
+              {
+                "sentence": "I think I misplaced my wallet. 💳🤔",
+                "translation": "我想我把钱包放错地方了。"
+              }
+            ]
+          },
+          {
+            "word": "drop",
+            "type": "动词",
+            "definition": {
+              "chinese": "Drop 🧳 指的是不小心让某物掉落。",
+              "english": "Drop 🧳 refers to accidentally letting something fall."
+            },
+            "examples": [
+              {
+                "sentence": "She dropped her phone and cracked the screen. 📱💔",
+                "translation": "她把手机掉了，屏幕裂了。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "go wrong",
+        "pronunciation": {
+          "british": "/ɡəʊ rɒŋ/ 🇬🇧",
+          "american": "/ɡoʊ rɔːŋ/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个短语在日常对话中非常常见，适用于英式英语和美式英语 ✅",
+        "meanings": [
+          {
+            "type": "动词短语",
+            "definition": {
+              "chinese": "Go wrong ❌ 指的是某事失败或发生了错误，通常用于描述计划、行动或决定的失败。",
+              "english": "Go wrong ❌ refers to something failing or going awry, usually describing the failure of a plan, action, or decision."
+            },
+            "examples": [
+              {
+                "sentence": "Everything seemed to go wrong during the trip. 🧳🚨",
+                "translation": "旅行中似乎一切都出了问题。"
+              },
+              {
+                "sentence": "The plan went wrong and we had to make changes. 🛑🔄",
+                "translation": "计划失败了，我们不得不做出调整。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "fail",
+            "type": "动词",
+            "definition": {
+              "chinese": "Fail 🚫 指的是未能完成某个任务或目标。",
+              "english": "Fail 🚫 refers to not being able to complete a task or reach a goal."
+            },
+            "examples": [
+              {
+                "sentence": "I failed the exam because I didn’t study enough. 📚✖️",
+                "translation": "我考试没通过，因为我没好好学习。"
+              }
+            ]
+          },
+          {
+            "word": "mistake",
+            "type": "名词",
+            "definition": {
+              "chinese": "Mistake ❌ 指的是做错了的事情或判断错误。",
+              "english": "Mistake ❌ refers to something done incorrectly or an error in judgment."
+            },
+            "examples": [
+              {
+                "sentence": "She made a mistake in the calculations. 🔢❌",
+                "translation": "她在计算中犯了一个错误。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "go through",
+        "pronunciation": {
+          "british": "/ɡəʊ θruː/ 🇬🇧",
+          "american": "/ɡoʊ θruː/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个短语在日常对话和工作中都很常见，英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "动词短语",
+            "definition": {
+              "chinese": "Go through 🔄 指的是仔细查看或经历某事，尤其是一个过程或检查某物。",
+              "english": "Go through 🔄 refers to carefully examining or experiencing something, especially a process or checking something."
+            },
+            "examples": [
+              {
+                "sentence": "We need to go through the reports before the meeting. 📑🔍",
+                "translation": "我们需要在会议前仔细查看报告。"
+              },
+              {
+                "sentence": "She went through a difficult time after the loss. 😔💔",
+                "translation": "失去亲人后，她经历了一段困难的时光。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "review",
+            "type": "动词",
+            "definition": {
+              "chinese": "Review 📚👓 指的是重新检查或回顾某事，通常为了确保没有遗漏或理解深刻。",
+              "english": "Review 📚👓 refers to examining or looking at something again, usually to ensure nothing is missed or to gain deeper understanding."
+            },
+            "examples": [
+              {
+                "sentence": "Let's review the documents before submitting them. 📄✅",
+                "translation": "让我们在提交之前复习一下这些文件。"
+              }
+            ]
+          },
+          {
+            "word": "examine",
+            "type": "动词",
+            "definition": {
+              "chinese": "Examine 🔬 指的是仔细检查某物，通常以寻找问题或理解其结构。",
+              "english": "Examine 🔬 refers to closely inspecting something, usually to find issues or understand its structure."
+            },
+            "examples": [
+              {
+                "sentence": "The doctor will examine your test results. 👨‍⚕️📊",
+                "translation": "医生会检查你的测试结果。"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "word": "access",
+        "pronunciation": {
+          "british": "/ˈækses/ 🇬🇧",
+          "american": "/ˈækses/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在日常生活和技术领域都很常见，英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "Access 🚪🔑 指的是进入或使用某物的能力或权限。",
+              "english": "Access 🚪🔑 refers to the ability or permission to enter or use something."
+            },
+            "examples": [
+              {
+                "sentence": "Only authorized users have access to this system. 🔐💻",
+                "translation": "只有授权用户才能访问这个系统。"
+              },
+              {
+                "sentence": "The hotel provides free Wi-Fi access to guests. 🏨📶",
+                "translation": "这家酒店为客人提供免费 Wi-Fi 访问。"
+              }
+            ]
+          },
+          {
+            "type": "动词",
+            "definition": {
+              "chinese": "Access 🖥️📂 作为动词时，表示获取或进入某物。",
+              "english": "Access 🖥️📂 as a verb means to obtain or enter something."
+            },
+            "examples": [
+              {
+                "sentence": "You need a password to access your email. 🔑📧",
+                "translation": "你需要密码才能访问你的电子邮件。"
+              },
+              {
+                "sentence": "She accessed the files from her laptop. 💻📁",
+                "translation": "她从笔记本电脑上访问了这些文件。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "entry",
+            "type": "名词",
+            "definition": {
+              "chinese": "Entry 🚪🔓 指的是进入某个地方的动作或权限。",
+              "english": "Entry 🚪🔓 refers to the act or permission of entering a place."
+            },
+            "examples": [
+              {
+                "sentence": "No entry without a valid ticket. 🎫⛔",
+                "translation": "没有有效票证不得入内。"
+              }
+            ]
+          },
+          {
+            "word": "permission",
+            "type": "名词",
+            "definition": {
+              "chinese": "Permission ✅📜 指的是被允许做某事的授权。",
+              "english": "Permission ✅📜 refers to the authorization to do something."
+            },
+            "examples": [
+              {
+                "sentence": "You need permission to access this document. 🔐📄",
+                "translation": "你需要权限才能访问此文件。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "phone banking",
+        "pronunciation": {
+          "british": "/fəʊn ˈbæŋkɪŋ/ 🇬🇧",
+          "american": "/foʊn ˈbæŋkɪŋ/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在金融领域中较常见，英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "Phone banking ☎🏦 指的是通过电话访问银行服务，如查询账户信息或进行转账。",
+              "english": "Phone banking ☎🏦 refers to accessing banking services over the phone, such as checking account details or making transfers."
+            },
+            "examples": [
+              {
+                "sentence": "I use phone banking to check my account balance. 📞💰",
+                "translation": "我使用电话银行查询我的账户余额。"
+              },
+              {
+                "sentence": "With phone banking, you can transfer money without visiting a branch. 🏦🔄",
+                "translation": "通过电话银行，你可以在不去银行的情况下转账。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "online banking",
+            "type": "名词",
+            "definition": {
+              "chinese": "Online banking 💻🏦 指的是通过互联网访问银行服务，例如转账和支付账单。",
+              "english": "Online banking 💻🏦 refers to accessing banking services via the internet, such as making transfers and paying bills."
+            },
+            "examples": [
+              {
+                "sentence": "Most people prefer online banking because it is more convenient. 🌐📊",
+                "translation": "大多数人喜欢网上银行，因为它更方便。"
+              }
+            ]
+          },
+          {
+            "word": "mobile banking",
+            "type": "名词",
+            "definition": {
+              "chinese": "Mobile banking 📱💳 是通过手机应用程序访问银行服务的一种方式。",
+              "english": "Mobile banking 📱💳 is a way of accessing banking services through a mobile app."
+            },
+            "examples": [
+              {
+                "sentence": "I use mobile banking to pay my bills on the go. 🚀💵",
+                "translation": "我使用手机银行随时随地支付账单。"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "word": "a savings account",
+        "pronunciation": {
+          "british": "/ə ˈseɪvɪŋz əˌkaʊnt/ 🇬🇧",
+          "american": "/ə ˈseɪvɪŋz əˌkaʊnt/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在金融领域和日常生活中很常见。英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "A savings account 💰🏦 是银行提供的一种账户，主要用于存款和积累利息。",
+              "english": "A savings account 💰🏦 is a type of bank account designed for depositing money and earning interest."
+            },
+            "examples": [
+              {
+                "sentence": "I opened a savings account to start saving for my future. 📈",
+                "translation": "我开了一个储蓄账户来为我的未来存钱。"
+              },
+              {
+                "sentence": "The interest rate on my savings account is quite high. 📊💵",
+                "translation": "我的储蓄账户利率相当高。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "checking account",
+            "type": "名词",
+            "definition": {
+              "chinese": "Checking account 🏦💳 是一种银行账户，主要用于日常交易，如支付账单和取款。",
+              "english": "A checking account 🏦💳 is a bank account mainly used for daily transactions, such as paying bills and withdrawing cash."
+            },
+            "examples": [
+              {
+                "sentence": "I use my checking account to pay my rent. 🏠💰",
+                "translation": "我用我的支票账户支付房租。"
+              }
+            ]
+          },
+          {
+            "word": "fixed deposit",
+            "type": "名词",
+            "definition": {
+              "chinese": "Fixed deposit 📅💰 是一种定期存款账户，存款人在固定时间内不能提取资金，但利率较高。",
+              "english": "A fixed deposit 📅💰 is a type of bank account where money is locked for a fixed period, usually with a higher interest rate."
+            },
+            "examples": [
+              {
+                "sentence": "He put his extra money into a fixed deposit for five years. 🏦📆",
+                "translation": "他把多余的钱存入了五年的定期存款。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "over the counter",
+        "pronunciation": {
+          "british": "/ˈəʊvər ðə ˈkaʊntər/ 🇬🇧",
+          "american": "/ˈoʊvər ðə ˈkaʊntər/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在日常生活中尤其在商业和药品领域非常常用。英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "短语",
+            "definition": {
+              "chinese": "Over the counter 💊 (短语) 通常指无需处方即可购买的药物或商品，也可以用来描述交易或购买行为，特别是非正式的或不通过中介的交易。",
+              "english": "Over the counter 💊 (phrase) typically refers to medicines or products that can be purchased without a prescription, or transactions conducted directly without intermediaries."
+            },
+            "examples": [
+              {
+                "sentence": "You can buy these painkillers over the counter. 💊🚶‍♂️",
+                "translation": "你可以不用处方直接购买这些止痛药。"
+              },
+              {
+                "sentence": "The stock was bought over the counter, without a broker. 📈💼",
+                "translation": "这支股票通过柜台交易购买，没有中介。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "prescription",
+            "type": "名词",
+            "definition": {
+              "chinese": "Prescription 📝 是指医生开具的药物或治疗建议，通常需要通过正规渠道购买。",
+              "english": "Prescription 📝 refers to a written order from a doctor for medication or treatment, typically required for purchasing certain medicines."
+            },
+            "examples": [
+              {
+                "sentence": "You need a prescription for this medicine. 💊📋",
+                "translation": "你需要处方才能购买这种药物。"
+              }
+            ]
+          },
+          {
+            "word": "direct",
+            "type": "形容词",
+            "definition": {
+              "chinese": "Direct 🔜 是指不经过任何中介或过程，直接进行的。",
+              "english": "Direct 🔜 refers to something done without intermediaries or steps, proceeding in an unmediated manner."
+            },
+            "examples": [
+              {
+                "sentence": "We had a direct meeting with the client. 🤝🏢",
+                "translation": "我们与客户进行了直接会议。"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "word": "put through",
+        "pronunciation": {
+          "british": "/pʊt θruː/ 🇬🇧",
+          "american": "/pʊt θruː/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在日常生活中常用于电话或过程中的中介行为，英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "短语动词",
+            "definition": {
+              "chinese": "Put through 📞 (短语动词) 意味着将某人通过电话转接给另一人，或将某个过程完成。",
+              "english": "Put through 📞 (phrasal verb) means to connect someone on the phone to another person or to complete a process."
+            },
+            "examples": [
+              {
+                "sentence": "Can you put me through to the manager? 📱👨‍💼",
+                "translation": "你能把我转接给经理吗？"
+              },
+              {
+                "sentence": "The operator put me through after a few minutes. ⏳📞",
+                "translation": "接线员在几分钟后把我转接过去了。"
+              }
+            ]
+          },
+          {
+            "type": "短语动词 (处理、完成)",
+            "definition": {
+              "chinese": "Put through 还可以表示完成某个任务或处理某件事。",
+              "english": "Put through can also mean to complete a task or handle a matter."
+            },
+            "examples": [
+              {
+                "sentence": "The lawyer put me through a difficult process. ⚖️📝",
+                "translation": "律师让我经历了一个艰难的过程。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "connect",
+            "type": "动词",
+            "definition": {
+              "chinese": "Connect 🔌 是指将两个或多个事物链接或联系起来，通常用于电话或网络。",
+              "english": "Connect 🔌 means to link or establish a relationship between two or more things, often used in phone or network contexts."
+            },
+            "examples": [
+              {
+                "sentence": "I tried to connect to the internet. 🌐📶",
+                "translation": "我试图连接到互联网。"
+              }
+            ]
+          },
+          {
+            "word": "transfer",
+            "type": "动词",
+            "definition": {
+              "chinese": "Transfer 🔄 是指将某物从一个地方或人转移到另一个地方或人。",
+              "english": "Transfer 🔄 means to move something from one place or person to another."
+            },
+            "examples": [
+              {
+                "sentence": "The call was transferred to the customer service department. 📞🏢",
+                "translation": "电话被转接到客服部门。"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "word": "drawer",
+        "pronunciation": {
+          "british": "/ˈdrɔːə/ 🇬🇧",
+          "american": "/ˈdrɔːɚ/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在日常生活中非常常用，特别是在家庭和办公环境中。英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "word": "issue",
+            "pronunciation": {
+              "british": "/ˈɪʃuː/ 🇬🇧",
+              "american": "/ˈɪʃuː/ 🇺🇸"
+            },
+            "usage": "常用 👍: 这个词在日常生活中和正式场合都很常用，尤其是在讨论问题或争议时。英式英语和美式英语都适用 ✅",
+            "meanings": [
+              {
+                "type": "名词",
+                "definition": {
+                  "chinese": "Issue 📄 (名词) 是指问题、争议或主题，通常需要解决或讨论。",
+                  "english": "Issue 📄 (noun) refers to a problem, concern, or subject that requires attention or resolution."
                 },
-                "usage": "常用 👍: 这个词在金融、医疗和心理学等领域非常常用，尤其在金融交易和戒毒过程中。\n\n英式英语和美式英语都适用 ✅",
-                "meanings": [
-                    {
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Withdrawal 💰 (名词) 是指取款、提取款项，通常指从银行账户或存款中取出资金。",
-                            "english": "Withdrawal 💰 (noun) refers to the act of taking money or funds from an account, typically a bank account."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I need to make a withdrawal from my savings account. 💸",
-                                "translation": "我需要从我的储蓄账户提取一些钱。"
-                            },
-                            {
-                                "sentence": "She made a large withdrawal from her bank account yesterday. 🏦",
-                                "translation": "她昨天从银行账户取出了一大笔钱。"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "在医疗领域，withdrawal 也指戒断症状，尤其是当某人停止使用某种物质时出现的症状。",
-                            "english": "In medical terms, withdrawal refers to the symptoms that occur when someone stops using a substance, such as drugs or alcohol."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "He went through withdrawal symptoms after stopping his medication. 💊",
-                                "translation": "他停药后经历了戒断症状。"
-                            },
-                            {
-                                "sentence": "The patient is experiencing withdrawal due to alcohol dependence. 🍷",
-                                "translation": "患者因酒精依赖正在经历戒断症状。"
-                            }
-                        ]
-                    }
-                ],
-                "related_words": [
-                    {
-                        "word": "deposit",
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Deposit 💵 是指将钱存入账户。",
-                            "english": "Deposit 💵 refers to the act of putting money into an account."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I made a deposit into my savings account. 💰",
-                                "translation": "我将钱存入了我的储蓄账户。"
-                            }
-                        ]
-                    },
-                    {
-                        "word": "addiction",
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Addiction 🧠 是指对某物的强烈依赖，通常是药物、酒精或其他行为。",
-                            "english": "Addiction 🧠 refers to a strong dependence on a substance or behavior, often including drugs, alcohol, or gambling."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "His addiction to gambling caused many problems in his life. 🎲",
-                                "translation": "他对赌博的上瘾给他的生活带来了许多问题。"
-                            }
-                        ]
-                    }
+                "examples": [
+                  {
+                    "sentence": "The main issue is the lack of funding. 💰🚧",
+                    "translation": "主要问题是缺乏资金。"
+                  },
+                  {
+                    "sentence": "We need to address the issue of climate change. 🌍⚠️",
+                    "translation": "我们需要解决气候变化的问题。"
+                  }
                 ]
-            }, {
-                "word": "loan",
-                "pronunciation": {
-                    "british": "/ləʊn/ 🇬🇧",
-                    "american": "/loʊn/ 🇺🇸"
+              },
+              {
+                "type": "动词",
+                "definition": {
+                  "chinese": "Issue 作为动词，意思是发布、发行或提供。",
+                  "english": "As a verb, issue means to release, distribute, or provide something."
                 },
-                "usage": "常用 👍：这个词在日常生活中和金融领域都很常用。\n\n英式英语和美式英语都适用 ✅",
-                "meanings": [
-                    {
-                        "type": "名词",
-                        "definition": {
-                            "chinese": "Loan 💵 (名词) 是指借来的钱或借出的物品，通常是借款人需要按利率和约定时间偿还的。",
-                            "english": "Loan 💵 (noun) refers to money or items borrowed, typically requiring the borrower to repay with interest within an agreed period."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I took out a loan to buy a house. 🏠",
-                                "translation": "我贷款买了一栋房子。"
-                            },
-                            {
-                                "sentence": "The bank approved her loan application. 🏦✅",
-                                "translation": "银行批准了她的贷款申请。"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "动词",
-                        "definition": {
-                            "chinese": "Loan 也可以作动词，意思是将某物借给别人。",
-                            "english": "As a verb, loan means to lend something to someone."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "Can you loan me some money? 💸",
-                                "translation": "你能借我点钱吗？"
-                            },
-                            {
-                                "sentence": "He loaned his car to his friend for the weekend. 🚗👫",
-                                "translation": "他把车借给了朋友过周末。"
-                            }
-                        ]
-                    }
-                ],
-                "related_words": [
-                    {
-                        "word": "borrow",
-                        "type": "动词",
-                        "definition": {
-                            "chinese": "Borrow 🙋‍♂️ 是借用某物，强调的是借款者的行为。",
-                            "english": "Borrow 🙋‍♂️ refers to the action of taking something temporarily, focusing on the borrower's action."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "I need to borrow some money. 💰🙋‍♂️",
-                                "translation": "我需要借点钱。"
-                            }
-                        ]
-                    },
-                    {
-                        "word": "lend",
-                        "type": "动词",
-                        "definition": {
-                            "chinese": "Lend 🤝 是动词，表示将某物借给别人。",
-                            "english": "Lend 🤝 is a verb, meaning to give something to someone temporarily."
-                        },
-                        "examples": [
-                            {
-                                "sentence": "Can you lend me your book? 📚🤔",
-                                "translation": "你能把书借给我吗？"
-                            }
-                        ]
-                    }
+                "examples": [
+                  {
+                    "sentence": "The government issued new guidelines on health. 🏛️📜",
+                    "translation": "政府发布了新的健康指南。"
+                  },
+                  {
+                    "sentence": "The company issued a statement about the incident. 📝💼",
+                    "translation": "公司就事件发布了声明。"
+                  }
                 ]
-            }
+              }
+            ],
+            "related_words": [
+              {
+                "word": "problem",
+                "type": "名词",
+                "definition": {
+                  "chinese": "Problem 💡 是指需要解决的难题或困境，通常更侧重于困难或障碍。",
+                  "english": "Problem 💡 refers to a difficult situation or challenge, often focusing on obstacles or issues that need resolution."
+                },
+                "examples": [
+                  {
+                    "sentence": "The problem with the software has been fixed. 💻🔧",
+                    "translation": "软件的问题已经修复。"
+                  }
+                ]
+              },
+              {
+                "word": "concern",
+                "type": "名词",
+                "definition": {
+                  "chinese": "Concern 🙋‍♂️ 是指关心或忧虑的事情，通常用来表达对某事的担忧。",
+                  "english": "Concern 🙋‍♂️ refers to something that causes worry or anxiety, often used to express an issue of importance."
+                },
+                "examples": [
+                  {
+                    "sentence": "There is a concern about the safety of the building. 🏢⚠️",
+                    "translation": "关于这座建筑物的安全性有担忧。"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "Drawer 🗄️ (名词) 是指可以拉开的抽屉，通常用于存放物品。",
+              "english": "Drawer 🗄️ (noun) refers to a sliding storage compartment, typically used for storing items."
+            },
+            "examples": [
+              {
+                "sentence": "I keep my pens in the drawer. ✍️🖊️",
+                "translation": "我把笔放在抽屉里。"
+              },
+              {
+                "sentence": "The documents are in the top drawer of the desk. 🗂️🖥️",
+                "translation": "文件在桌子的最上面抽屉里。"
+              }
+            ]
+          },
+          {
+            "type": "名词 (金融术语)",
+            "definition": {
+              "chinese": "Drawer 💼 (金融术语) 也可以指签发支票的人。",
+              "english": "Drawer 💼 (in finance) refers to the person who writes or signs a cheque."
+            },
+            "examples": [
+              {
+                "sentence": "The drawer of the cheque must sign it. 📝💵",
+                "translation": "支票的签发人必须签署它。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "cabinet",
+            "type": "名词",
+            "definition": {
+              "chinese": "Cabinet 🗄️ 是指用于存放物品的大型存储柜，通常比抽屉要大。",
+              "english": "Cabinet 🗄️ refers to a larger storage unit used to store items, usually bigger than a drawer."
+            },
+            "examples": [
+              {
+                "sentence": "The dishes are stored in the kitchen cabinet. 🍽️🍴",
+                "translation": "餐具存放在厨房的橱柜里。"
+              }
+            ]
+          },
+          {
+            "word": "box",
+            "type": "名词",
+            "definition": {
+              "chinese": "Box 📦 是一个可以装东西的容器，通常是长方形的。",
+              "english": "Box 📦 is a container used to store things, typically rectangular."
+            },
+            "examples": [
+              {
+                "sentence": "I keep my shoes in a box under the bed. 👟📦",
+                "translation": "我把鞋子放在床下的箱子里。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "deposit",
+        "pronunciation": {
+          "british": "/dɪˈpɒzɪt/ 🇬🇧",
+          "american": "/dɪˈpɑːzɪt/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在金融领域非常常用，通常指存款或押金。\n\n英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "Deposit 💵 (名词) 是指将钱存入账户或支付作为押金。",
+              "english": "Deposit 💵 (noun) refers to the act of putting money into an account or paying as a deposit."
+            },
+            "examples": [
+              {
+                "sentence": "I made a deposit into my savings account. 💰",
+                "translation": "我将钱存入了我的储蓄账户。"
+              },
+              {
+                "sentence": "She paid a deposit to secure the rental property. 🏠💵",
+                "translation": "她支付了押金来确保租赁物业。"
+              }
+            ]
+          },
+          {
+            "type": "动词",
+            "definition": {
+              "chinese": "Deposit 也可以作动词，意思是将钱存入银行或支付押金。",
+              "english": "As a verb, deposit means to put money into a bank account or to pay a deposit."
+            },
+            "examples": [
+              {
+                "sentence": "I will deposit the money tomorrow. 💳",
+                "translation": "我明天会存钱。"
+              },
+              {
+                "sentence": "He deposited his paycheck into the bank account. 💵🏦",
+                "translation": "他将工资存入了银行账户。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "withdrawal",
+            "type": "名词",
+            "definition": {
+              "chinese": "Withdrawal 💰 是指从账户中取出钱。",
+              "english": "Withdrawal 💰 refers to the act of taking money out of an account."
+            },
+            "examples": [
+              {
+                "sentence": "I need to make a withdrawal from my savings account. 💸",
+                "translation": "我需要从我的储蓄账户提取一些钱。"
+              }
+            ]
+          },
+          {
+            "word": "saving",
+            "type": "名词",
+            "definition": {
+              "chinese": "Saving 💰 是指将钱存入银行账户以便日后使用。",
+              "english": "Saving 💰 refers to putting money into a bank account for future use."
+            },
+            "examples": [
+              {
+                "sentence": "He has been putting money into savings every month. 💰📅",
+                "translation": "他每个月都将钱存入储蓄账户。"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "word": "brochure",
+        "pronunciation": {
+          "british": "/ˈbrəʊʃʊə/ 🇬🇧",
+          "american": "/broʊˈʃʊr/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在商业和营销领域很常见，尤其是在展示和推广产品时。英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "Brochure 📄 (名词) 是一本小册子，通常用于广告或宣传，包含有关产品、服务或地方的信息。",
+              "english": "Brochure 📄 (noun) refers to a small booklet, often used for advertising or informational purposes, containing details about a product, service, or location."
+            },
+            "examples": [
+              {
+                "sentence": "The company handed out brochures at the trade show. 📚",
+                "translation": "公司在展会上发放了宣传册。"
+              },
+              {
+                "sentence": "I picked up a brochure about the new hotel in town. 🏨",
+                "translation": "我拿到了关于市区新酒店的小册子。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "catalog",
+            "type": "名词",
+            "definition": {
+              "chinese": "Catalog 📚 是一份列出产品或服务的详细清单，通常用于销售。",
+              "english": "Catalog 📚 is a detailed list of products or services, typically used for sales purposes."
+            },
+            "examples": [
+              {
+                "sentence": "The store sent out a catalog of their new products. 🛍️",
+                "translation": "商店发送了他们新产品的目录。"
+              }
+            ]
+          },
+          {
+            "word": "flyer",
+            "type": "名词",
+            "definition": {
+              "chinese": "Flyer 📜 是一种广告单页，通常用于促销活动或传达简短信息。",
+              "english": "Flyer 📜 is a single-page advertisement, often used for promotions or conveying brief information."
+            },
+            "examples": [
+              {
+                "sentence": "The restaurant handed out flyers for their grand opening. 🍽️",
+                "translation": "餐厅发放了他们开业的大型广告单。"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "word": "withdrawal",
+        "pronunciation": {
+          "british": "/wɪðˈdrɔːəl/ 🇬🇧",
+          "american": "/wɪðˈdrɔːəl/ 🇺🇸"
+        },
+        "usage": "常用 👍: 这个词在金融、医疗和心理学等领域非常常用，尤其在金融交易和戒毒过程中。\n\n英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "Withdrawal 💰 (名词) 是指取款、提取款项，通常指从银行账户或存款中取出资金。",
+              "english": "Withdrawal 💰 (noun) refers to the act of taking money or funds from an account, typically a bank account."
+            },
+            "examples": [
+              {
+                "sentence": "I need to make a withdrawal from my savings account. 💸",
+                "translation": "我需要从我的储蓄账户提取一些钱。"
+              },
+              {
+                "sentence": "She made a large withdrawal from her bank account yesterday. 🏦",
+                "translation": "她昨天从银行账户取出了一大笔钱。"
+              }
+            ]
+          },
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "在医疗领域，withdrawal 也指戒断症状，尤其是当某人停止使用某种物质时出现的症状。",
+              "english": "In medical terms, withdrawal refers to the symptoms that occur when someone stops using a substance, such as drugs or alcohol."
+            },
+            "examples": [
+              {
+                "sentence": "He went through withdrawal symptoms after stopping his medication. 💊",
+                "translation": "他停药后经历了戒断症状。"
+              },
+              {
+                "sentence": "The patient is experiencing withdrawal due to alcohol dependence. 🍷",
+                "translation": "患者因酒精依赖正在经历戒断症状。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "deposit",
+            "type": "名词",
+            "definition": {
+              "chinese": "Deposit 💵 是指将钱存入账户。",
+              "english": "Deposit 💵 refers to the act of putting money into an account."
+            },
+            "examples": [
+              {
+                "sentence": "I made a deposit into my savings account. 💰",
+                "translation": "我将钱存入了我的储蓄账户。"
+              }
+            ]
+          },
+          {
+            "word": "addiction",
+            "type": "名词",
+            "definition": {
+              "chinese": "Addiction 🧠 是指对某物的强烈依赖，通常是药物、酒精或其他行为。",
+              "english": "Addiction 🧠 refers to a strong dependence on a substance or behavior, often including drugs, alcohol, or gambling."
+            },
+            "examples": [
+              {
+                "sentence": "His addiction to gambling caused many problems in his life. 🎲",
+                "translation": "他对赌博的上瘾给他的生活带来了许多问题。"
+              }
+            ]
+          }
+        ]
+      }, {
+        "word": "loan",
+        "pronunciation": {
+          "british": "/ləʊn/ 🇬🇧",
+          "american": "/loʊn/ 🇺🇸"
+        },
+        "usage": "常用 👍：这个词在日常生活中和金融领域都很常用。\n\n英式英语和美式英语都适用 ✅",
+        "meanings": [
+          {
+            "type": "名词",
+            "definition": {
+              "chinese": "Loan 💵 (名词) 是指借来的钱或借出的物品，通常是借款人需要按利率和约定时间偿还的。",
+              "english": "Loan 💵 (noun) refers to money or items borrowed, typically requiring the borrower to repay with interest within an agreed period."
+            },
+            "examples": [
+              {
+                "sentence": "I took out a loan to buy a house. 🏠",
+                "translation": "我贷款买了一栋房子。"
+              },
+              {
+                "sentence": "The bank approved her loan application. 🏦✅",
+                "translation": "银行批准了她的贷款申请。"
+              }
+            ]
+          },
+          {
+            "type": "动词",
+            "definition": {
+              "chinese": "Loan 也可以作动词，意思是将某物借给别人。",
+              "english": "As a verb, loan means to lend something to someone."
+            },
+            "examples": [
+              {
+                "sentence": "Can you loan me some money? 💸",
+                "translation": "你能借我点钱吗？"
+              },
+              {
+                "sentence": "He loaned his car to his friend for the weekend. 🚗👫",
+                "translation": "他把车借给了朋友过周末。"
+              }
+            ]
+          }
+        ],
+        "related_words": [
+          {
+            "word": "borrow",
+            "type": "动词",
+            "definition": {
+              "chinese": "Borrow 🙋‍♂️ 是借用某物，强调的是借款者的行为。",
+              "english": "Borrow 🙋‍♂️ refers to the action of taking something temporarily, focusing on the borrower's action."
+            },
+            "examples": [
+              {
+                "sentence": "I need to borrow some money. 💰🙋‍♂️",
+                "translation": "我需要借点钱。"
+              }
+            ]
+          },
+          {
+            "word": "lend",
+            "type": "动词",
+            "definition": {
+              "chinese": "Lend 🤝 是动词，表示将某物借给别人。",
+              "english": "Lend 🤝 is a verb, meaning to give something to someone temporarily."
+            },
+            "examples": [
+              {
+                "sentence": "Can you lend me your book? 📚🤔",
+                "translation": "你能把书借给我吗？"
+              }
+            ]
+          }
+        ]
+      }
 
 
-        ];
+    ];
 
-        // Randomly select one word object from the array
-        // const selectedWord = wordData[Math.floor(Math.random() * wordData.length)];
-        const selectedWord = wordData[0];
-        // Function to render the word data to HTML
-        function renderWordData(word) {
-            const container = document.getElementById('word-analysis');
+    // Randomly select one word object from the array
+    const selectedWord = wordData[Math.floor(Math.random() * wordData.length)];
+    //const selectedWord = wordData[0];
+    // Function to render the word data to HTML
+    function renderWordData(word) {
+      const container = document.getElementById('word-analysis');
 
-            // Word and Pronunciation
-            container.innerHTML = `
+      // Word and Pronunciation
+      container.innerHTML = `
         <div id="word-info">
           <h1 id="word">${word.word}</h1>
           <p id="pronunciation">
@@ -1109,16 +1109,16 @@
         </div>
       `;
 
-            // Usage
-            container.innerHTML += `
+      // Usage
+      container.innerHTML += `
         <div id="usage">
           <h2>Usage</h2>
           <p id="usage-text">${word.usage}</p>
         </div>
       `;
 
-            // Meanings
-            container.innerHTML += `
+      // Meanings
+      container.innerHTML += `
         <div id="meanings">
           <h2>Meanings</h2>
           ${word.meanings.map(meaning => `
@@ -1140,8 +1140,8 @@
         </div>
       `;
 
-            // Related Words
-            container.innerHTML += `
+      // Related Words
+      container.innerHTML += `
         <div id="related-words">
           <h2>Related Words</h2>
           ${word.related_words.map(related => `
@@ -1161,11 +1161,11 @@
           `).join('')}
         </div>
       `;
-        }
+    }
 
-        // Call the function to render the selected word data
-        renderWordData(selectedWord);
-    </script>
+    // Call the function to render the selected word data
+    renderWordData(selectedWord);
+  </script>
 </body>
 
 </html>
