@@ -5,7 +5,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Vocabulary List</title>
-  <link rel="stylesheet" href="styles.css">
   <style>
     #word-analysis {
       font-family: Arial, sans-serif;
@@ -35,6 +34,7 @@
 </head>
 
 <body>
+  <button onclick="refreshPage()">refresh</button>
   <div id="word-analysis">
     <!-- Content will be dynamically rendered here -->
   </div>
@@ -42,6 +42,1409 @@
   <script>
     // JSON data (array of word objects)
     const wordData = [
+    {
+  "word": "against",
+  "pronunciation": {
+    "british": "/əˈɡɛɪnst/ 🇬🇧",
+    "american": "/əˈɡɛnst/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'against' 是一个常见的词汇，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "介词 (preposition) 🆚",
+      "definition": {
+        "chinese": "反对，逆，靠近",
+        "english": "in opposition to; in contact with or touching something"
+      },
+      "examples": [
+        {
+          "sentence": "He is against the new policy. 🚫",
+          "translation": "他反对这项新政策。"
+        },
+        {
+          "sentence": "The building was against the wall. 🏢🧱",
+          "translation": "这座建筑靠着墙。"
+        }
+      ]
+    },
+    {
+      "type": "介词 (preposition) ⚔️",
+      "definition": {
+        "chinese": "与……对抗",
+        "english": "in a contest or conflict with"
+      },
+      "examples": [
+        {
+          "sentence": "The two teams played against each other in the final. ⚽",
+          "translation": "这两支队伍在决赛中互相对抗。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "oppose",
+      "type": "动词 (verb) 🚫",
+      "definition": {
+        "chinese": "反对",
+        "english": "to disagree with or resist something"
+      },
+      "examples": [
+        {
+          "sentence": "Many people oppose the new law. 📜",
+          "translation": "许多人反对这项新法律。"
+        }
+      ]
+    },
+    {
+      "word": "protest",
+      "type": "动词 (verb) ✊",
+      "definition": {
+        "chinese": "抗议",
+        "english": "to express disagreement or objection to something"
+      },
+      "examples": [
+        {
+          "sentence": "They protested against the unfair treatment. 📢",
+          "translation": "他们抗议不公平的待遇。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "decimal",
+  "pronunciation": {
+    "british": "/ˈdɛsɪməl/ 🇬🇧",
+    "american": "/ˈdɛsɪməl/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'decimal' 是一个常见的词汇，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) 🔢",
+      "definition": {
+        "chinese": "小数，十进制",
+        "english": "a number that is expressed in the scale of tens, typically using a decimal point"
+      },
+      "examples": [
+        {
+          "sentence": "We learned to convert fractions to decimals in math class. 📚",
+          "translation": "我们在数学课上学会了将分数转换为小数。"
+        },
+        {
+          "sentence": "The decimal 0.5 is equivalent to 1/2 as a fraction. ➗",
+          "translation": "小数 0.5 等于分数 1/2。"
+        }
+      ]
+    },
+    {
+      "type": "形容词 (adjective) 💯",
+      "definition": {
+        "chinese": "十进制的",
+        "english": "related to or based on the number 10"
+      },
+      "examples": [
+        {
+          "sentence": "Decimal systems are used in most of the world's counting methods. 🔢",
+          "translation": "十进制系统在世界上大多数计数方法中都被使用。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "fraction",
+      "type": "名词 (noun) ➗",
+      "definition": {
+        "chinese": "分数",
+        "english": "a part of a whole, represented by a numerator and denominator"
+      },
+      "examples": [
+        {
+          "sentence": "A fraction like 3/4 represents three parts of four equal parts. 🔢",
+          "translation": "像 3/4 这样的分数表示四个相等部分中的三部分。"
+        }
+      ]
+    },
+    {
+      "word": "percent",
+      "type": "名词 (noun) 💯",
+      "definition": {
+        "chinese": "百分比",
+        "english": "a number expressed as a fraction of 100"
+      },
+      "examples": [
+        {
+          "sentence": "The discount is 20 percent off the original price. 🏷️",
+          "translation": "折扣是原价的 20%。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "expiry date",
+  "pronunciation": {
+    "british": "/ɪkˈspaɪə.ri deɪt/ 🇬🇧",
+    "american": "/ɪkˈspaɪri deɪt/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'expiry date' 是一个常见的短语，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词短语 (noun phrase) 📅",
+      "definition": {
+        "chinese": "有效期，过期日期",
+        "english": "the date after which something is no longer valid or safe to use"
+      },
+      "examples": [
+        {
+          "sentence": "Make sure to check the expiry date before using the medication. 💊",
+          "translation": "使用药物之前，确保检查有效期。"
+        },
+        {
+          "sentence": "The expiry date on the food product is printed on the label. 🥫",
+          "translation": "食品产品的有效期印在标签上。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "expiration",
+      "type": "名词 (noun) ⏳",
+      "definition": {
+        "chinese": "到期，失效",
+        "english": "the act of ending or the state of being no longer valid"
+      },
+      "examples": [
+        {
+          "sentence": "The expiration of your contract is next month. 📅",
+          "translation": "你的合同将在下个月到期。"
+        }
+      ]
+    },
+    {
+      "word": "best before",
+      "type": "名词短语 (noun phrase) 🥗",
+      "definition": {
+        "chinese": "最佳食用日期",
+        "english": "the date by which a food product should be consumed for optimal taste and quality"
+      },
+      "examples": [
+        {
+          "sentence": "The best before date on this can is next year. 🥫",
+          "translation": "这罐的最佳食用日期是明年。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "tub",
+  "pronunciation": {
+    "british": "/tʌb/ 🇬🇧",
+    "american": "/tʌb/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'tub' 是一个常见的词汇，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) 🛁",
+      "definition": {
+        "chinese": "浴缸，桶",
+        "english": "a large container for holding water, used for bathing or washing"
+      },
+      "examples": [
+        {
+          "sentence": "I took a long bath in the tub. 🛁",
+          "translation": "我在浴缸里泡了很长时间的澡。"
+        },
+        {
+          "sentence": "The tub was filled with warm water. 💧",
+          "translation": "浴缸里装满了温水。"
+        }
+      ]
+    },
+    {
+      "type": "名词 (noun) 🧴",
+      "definition": {
+        "chinese": "大桶，容器",
+        "english": "a large container used for holding liquids or other substances"
+      },
+      "examples": [
+        {
+          "sentence": "They bought a tub of ice cream for the party. 🍦",
+          "translation": "他们为派对买了一桶冰淇淋。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "bath",
+      "type": "名词 (noun) 🛁",
+      "definition": {
+        "chinese": "沐浴，洗澡",
+        "english": "the act of washing or soaking oneself in a tub of water"
+      },
+      "examples": [
+        {
+          "sentence": "I enjoy a relaxing bath before bed. 🛀",
+          "translation": "我喜欢在睡觉前泡一个放松的澡。"
+        }
+      ]
+    },
+    {
+      "word": "bucket",
+      "type": "名词 (noun) 🧑‍🔧",
+      "definition": {
+        "chinese": "水桶，桶",
+        "english": "a cylindrical container with a handle, used for carrying liquids or other materials"
+      },
+      "examples": [
+        {
+          "sentence": "He carried a bucket of water from the well. 🪣",
+          "translation": "他从水井里提了一桶水。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "drain out",
+  "pronunciation": {
+    "british": "/dreɪn aʊt/ 🇬🇧",
+    "american": "/dreɪn aʊt/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'drain out' 是一个常见的短语，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "短语动词 (phrasal verb) 💧",
+      "definition": {
+        "chinese": "排出，流出",
+        "english": "to remove or flow out, especially liquid from a container or surface"
+      },
+      "examples": [
+        {
+          "sentence": "The water drained out of the bathtub. 🛁",
+          "translation": "水从浴缸里排出了。"
+        },
+        {
+          "sentence": "I need to drain out the oil from the engine. ⛽",
+          "translation": "我需要把发动机里的油排出。"
+        }
+      ]
+    },
+    {
+      "type": "动词 (verb) 🌀",
+      "definition": {
+        "chinese": "（液体）流尽，排干",
+        "english": "to cause a liquid to run out completely or drain away"
+      },
+      "examples": [
+        {
+          "sentence": "The sink is clogged, and the water won’t drain out. 🚰",
+          "translation": "水槽堵住了，水排不出去。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "drain",
+      "type": "名词 (noun) 💧",
+      "definition": {
+        "chinese": "排水管，排水系统",
+        "english": "a pipe or system for carrying away excess water"
+      },
+      "examples": [
+        {
+          "sentence": "The drain outside was clogged. 🚿",
+          "translation": "外面的排水管堵住了。"
+        }
+      ]
+    },
+    {
+      "word": "flow out",
+      "type": "动词短语 (phrasal verb) 🌊",
+      "definition": {
+        "chinese": "流出，流动",
+        "english": "to move or spill out from a container or space"
+      },
+      "examples": [
+        {
+          "sentence": "The juice flowed out of the glass. 🍹",
+          "translation": "果汁从杯子里流了出来。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "suit",
+  "pronunciation": {
+    "british": "/suːt/ 🇬🇧",
+    "american": "/suːt/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'suit' 是一个常见的词汇，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) 👔",
+      "definition": {
+        "chinese": "西装，套装",
+        "english": "a set of clothes, typically a jacket and trousers or skirt, made of the same material"
+      },
+      "examples": [
+        {
+          "sentence": "He wore a dark suit to the interview. 👔",
+          "translation": "他穿了一套深色西装去面试。"
+        },
+        {
+          "sentence": "She looked elegant in her new suit. 👗",
+          "translation": "她穿上新西装看起来很优雅。"
+        }
+      ]
+    },
+    {
+      "type": "动词 (verb) ✅",
+      "definition": {
+        "chinese": "适合，合适",
+        "english": "to be acceptable or appropriate for a particular person, situation, or condition"
+      },
+      "examples": [
+        {
+          "sentence": "This dress suits you perfectly. 👗",
+          "translation": "这条裙子很适合你。"
+        },
+        {
+          "sentence": "Does this time suit you for the meeting? 🕔",
+          "translation": "这个时间对你开会合适吗？"
+        }
+      ]
+    },
+    {
+      "type": "名词 (noun) 🧳",
+      "definition": {
+        "chinese": "一套适用的事物，合适的选择",
+        "english": "something that is appropriate or fitting for a particular situation"
+      },
+      "examples": [
+        {
+          "sentence": "The new job opportunity is a perfect suit for her skills. 💼",
+          "translation": "这个新工作机会非常适合她的技能。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "outfit",
+      "type": "名词 (noun) 👗",
+      "definition": {
+        "chinese": "服装，套装",
+        "english": "a set of clothes worn together, often for a particular occasion"
+      },
+      "examples": [
+        {
+          "sentence": "She wore a beautiful outfit to the party. 🎉",
+          "translation": "她穿了一套漂亮的衣服去参加派对。"
+        }
+      ]
+    },
+    {
+      "word": "fit",
+      "type": "动词 (verb) ✅",
+      "definition": {
+        "chinese": "适合，合身",
+        "english": "to be the right size or shape for someone or something"
+      },
+      "examples": [
+        {
+          "sentence": "These shoes fit perfectly. 👠",
+          "translation": "这双鞋子非常合适。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "spin dry",
+  "pronunciation": {
+    "british": "/spɪn draɪ/ 🇬🇧",
+    "american": "/spɪn draɪ/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'spin dry' 是一个常见的短语动词，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "短语动词 (phrasal verb) 🌀",
+      "definition": {
+        "chinese": "甩干，脱水",
+        "english": "to use a washing machine’s spinning cycle to remove excess water from clothes or fabric"
+      },
+      "examples": [
+        {
+          "sentence": "I always spin dry my clothes after washing them. 👚",
+          "translation": "我总是在洗衣后用甩干功能脱水衣服。"
+        },
+        {
+          "sentence": "Make sure to spin dry the towels before hanging them up. 🧺",
+          "translation": "确保在晾衣前先将毛巾甩干。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "wash",
+      "type": "动词 (verb) 🧼",
+      "definition": {
+        "chinese": "清洗，洗涤",
+        "english": "to clean something, typically with water and soap"
+      },
+      "examples": [
+        {
+          "sentence": "I need to wash these dishes. 🍽️",
+          "translation": "我需要洗这些盘子。"
+        }
+      ]
+    },
+    {
+      "word": "dry",
+      "type": "动词 (verb) 🌬️",
+      "definition": {
+        "chinese": "弄干，烘干",
+        "english": "to remove moisture from something, typically with air or heat"
+      },
+      "examples": [
+        {
+          "sentence": "I will dry my hair after the shower. 💇‍♀️",
+          "translation": "我洗完澡后会吹干头发。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "the night before",
+  "pronunciation": {
+    "british": "/ðə naɪt bɪˈfɔː/ 🇬🇧",
+    "american": "/ðə naɪt bɪˈfɔːr/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'the night before' 是一个常见的短语，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "短语 (phrase) 🌙",
+      "definition": {
+        "chinese": "前一晚；前夜",
+        "english": "the evening or night that occurs immediately before a specific event or date"
+      },
+      "examples": [
+        {
+          "sentence": "I prepared everything the night before the meeting. 📅",
+          "translation": "我在会议前一晚准备好了所有的东西。"
+        },
+        {
+          "sentence": "We went to bed early the night before our trip. 🛏️",
+          "translation": "我们在旅行的前一晚早早就上床睡觉了。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "the previous night",
+      "type": "短语 (phrase) 🌙",
+      "definition": {
+        "chinese": "前一晚",
+        "english": "the night immediately before a specified event"
+      },
+      "examples": [
+        {
+          "sentence": "We had a party the previous night. 🎉",
+          "translation": "我们在前一晚举办了派对。"
+        }
+      ]
+    },
+    {
+      "word": "the day before",
+      "type": "短语 (phrase) 📅",
+      "definition": {
+        "chinese": "前一天",
+        "english": "the day immediately before a specified event"
+      },
+      "examples": [
+        {
+          "sentence": "She left the office the day before the holiday. 🏖️",
+          "translation": "她在假期前一天离开了办公室。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "put out",
+  "pronunciation": {
+    "british": "/pʊt aʊt/ 🇬🇧",
+    "american": "/pʊt aʊt/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'put out' 是一个常见的短语动词，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "短语动词 (phrasal verb) 🔥",
+      "definition": {
+        "chinese": "扑灭（火）；熄灭",
+        "english": "to extinguish something, especially fire or light"
+      },
+      "examples": [
+        {
+          "sentence": "The firefighters quickly put out the flames. 🚒",
+          "translation": "消防员迅速扑灭了火焰。"
+        },
+        {
+          "sentence": "She put out the candle before going to bed. 🕯️",
+          "translation": "她在睡觉前熄灭了蜡烛。"
+        }
+      ]
+    },
+    {
+      "type": "短语动词 (phrasal verb) 🚪",
+      "definition": {
+        "chinese": "发布；展示（某物）",
+        "english": "to release, publish, or make something available"
+      },
+      "examples": [
+        {
+          "sentence": "The company will put out a new product next month. 📦",
+          "translation": "公司将在下个月推出一款新产品。"
+        },
+        {
+          "sentence": "They put out a notice about the event. 📢",
+          "translation": "他们发布了关于活动的通知。"
+        }
+      ]
+    },
+    {
+      "type": "短语动词 (phrasal verb) 🤕",
+      "definition": {
+        "chinese": "使某人受困或不方便；让某人麻烦",
+        "english": "to cause inconvenience or trouble to someone"
+      },
+      "examples": [
+        {
+          "sentence": "I’m sorry to put you out, but could you help me with this? 😓",
+          "translation": "很抱歉打扰你，但你能帮我一下吗？"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "extinguish",
+      "type": "动词 (verb) 🔥",
+      "definition": {
+        "chinese": "熄灭；扑灭",
+        "english": "to stop something from burning or shining"
+      },
+      "examples": [
+        {
+          "sentence": "The rain helped to extinguish the fire. 🌧️",
+          "translation": "雨水帮助扑灭了火。"
+        }
+      ]
+    },
+    {
+      "word": "snuff out",
+      "type": "短语动词 (phrasal verb) 🕯️",
+      "definition": {
+        "chinese": "熄灭；扼杀",
+        "english": "to extinguish, especially a small fire or light"
+      },
+      "examples": [
+        {
+          "sentence": "He snuffed out the candle before leaving. 🕯️",
+          "translation": "他离开之前熄灭了蜡烛。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "footpath",
+  "pronunciation": {
+    "british": "/ˈfʊtˌpɑːθ/ 🇬🇧",
+    "american": "/ˈfʊtˌpæθ/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'footpath' 是一个常见的词汇，尤其在英式英语中常用，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) 🚶‍♀️",
+      "definition": {
+        "chinese": "人行道；步道",
+        "english": "a path for people to walk on, typically alongside a road"
+      },
+      "examples": [
+        {
+          "sentence": "We walked along the footpath beside the river. 🌳",
+          "translation": "我们沿着河边的人行道走。"
+        },
+        {
+          "sentence": "There is a footpath leading to the park. 🏞️",
+          "translation": "有一条人行道通向公园。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "sidewalk",
+      "type": "名词 (noun) 🚶‍♂️",
+      "definition": {
+        "chinese": "人行道（美式英语）",
+        "english": "a paved path for pedestrians, typically at the side of a street"
+      },
+      "examples": [
+        {
+          "sentence": "The sidewalk was crowded with people. 🏙️",
+          "translation": "人行道上挤满了人。"
+        }
+      ]
+    },
+    {
+      "word": "pathway",
+      "type": "名词 (noun) 🌳",
+      "definition": {
+        "chinese": "小道；步道",
+        "english": "a narrow or small path, usually in a park or garden"
+      },
+      "examples": [
+        {
+          "sentence": "The pathway through the forest was peaceful. 🌲",
+          "translation": "穿过森林的小道很安静。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "stereo",
+  "pronunciation": {
+    "british": "/ˈstɛrɪəʊ/ 🇬🇧",
+    "american": "/ˈstɛri.oʊ/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'stereo' 是一个非常常见的词汇，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) 🔊",
+      "definition": {
+        "chinese": "立体声音响系统",
+        "english": "a system for producing sound in two or more channels to create a sense of depth and direction"
+      },
+      "examples": [
+        {
+          "sentence": "He bought a new stereo for his living room. 🎶",
+          "translation": "他为客厅买了一台新立体声音响。"
+        },
+        {
+          "sentence": "I love listening to music on my stereo. 🎧",
+          "translation": "我喜欢用我的立体声音响听音乐。"
+        }
+      ]
+    },
+    {
+      "type": "形容词 (adjective) 🎼",
+      "definition": {
+        "chinese": "立体声的",
+        "english": "related to or using two or more channels of sound"
+      },
+      "examples": [
+        {
+          "sentence": "They are playing a stereo recording of the concert. 🎤",
+          "translation": "他们正在播放那场音乐会的立体声录音。"
+        },
+        {
+          "sentence": "The stereo effect makes the music sound more immersive. 🎶",
+          "translation": "立体声效果让音乐听起来更加沉浸。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "speaker",
+      "type": "名词 (noun) 🔈",
+      "definition": {
+        "chinese": "扬声器",
+        "english": "a device that converts electrical signals into sound"
+      },
+      "examples": [
+        {
+          "sentence": "I need to buy new speakers for the stereo system. 🔊",
+          "translation": "我需要为音响系统买新的扬声器。"
+        }
+      ]
+    },
+    {
+      "word": "audio",
+      "type": "名词 (noun) 🎵",
+      "definition": {
+        "chinese": "音频",
+        "english": "sound, especially when recorded or played back"
+      },
+      "examples": [
+        {
+          "sentence": "The audio quality is great on this stereo. 🎧",
+          "translation": "这个音响的音质非常好。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "mattress",
+  "pronunciation": {
+    "british": "/ˈmæt.rəs/ 🇬🇧",
+    "american": "/ˈmæt.rəs/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'mattress' 是一个非常常见的词汇，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) 🛏️",
+      "definition": {
+        "chinese": "床垫",
+        "english": "a large, soft, rectangular piece of material placed on a bed frame for sleeping on"
+      },
+      "examples": [
+        {
+          "sentence": "She bought a new mattress for her bed. 🛏️",
+          "translation": "她为床买了一张新的床垫。"
+        },
+        {
+          "sentence": "The mattress is very comfortable to sleep on. 😴",
+          "translation": "这张床垫非常舒服，适合睡觉。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "bed",
+      "type": "名词 (noun) 🛏️",
+      "definition": {
+        "chinese": "床",
+        "english": "a piece of furniture for sleeping or resting on"
+      },
+      "examples": [
+        {
+          "sentence": "He just made his bed. 🛏️",
+          "translation": "他刚刚整理好了床。"
+        }
+      ]
+    },
+    {
+      "word": "pillow",
+      "type": "名词 (noun) 🛌",
+      "definition": {
+        "chinese": "枕头",
+        "english": "a soft cushion used to support the head while sleeping"
+      },
+      "examples": [
+        {
+          "sentence": "She rests her head on a fluffy pillow. 😌",
+          "translation": "她把头靠在一个柔软的枕头上。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "wiring",
+  "pronunciation": {
+    "british": "/ˈwaɪərɪŋ/ 🇬🇧",
+    "american": "/ˈwaɪrɪŋ/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'wiring' 是一个常见的词汇，尤其在电气、建筑和安装方面，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) ⚡",
+      "definition": {
+        "chinese": "电线布线；电路系统",
+        "english": "the system of wires used for electricity or other signals in a building or machine"
+      },
+      "examples": [
+        {
+          "sentence": "The building has new wiring for all the electrical equipment. 💡",
+          "translation": "这座建筑有新的电线布线，供所有电气设备使用。"
+        },
+        {
+          "sentence": "They had to replace the old wiring in the house. 🏠",
+          "translation": "他们不得不更换房子里老旧的电线。"
+        }
+      ]
+    },
+    {
+      "type": "动词 (verb) 🔧",
+      "definition": {
+        "chinese": "为（设备、建筑等）安装电线",
+        "english": "to install or set up electrical wiring in a building or system"
+      },
+      "examples": [
+        {
+          "sentence": "The electrician is wiring the new house. 🔌",
+          "translation": "电工正在为新房子布线。"
+        },
+        {
+          "sentence": "They are wiring the office for better internet connection. 🌐",
+          "translation": "他们正在为办公室布设更好的互联网连接电路。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "circuit",
+      "type": "名词 (noun) 🔄",
+      "definition": {
+        "chinese": "电路",
+        "english": "a closed path through which an electric current flows"
+      },
+      "examples": [
+        {
+          "sentence": "The circuit is designed to prevent overloads. ⚡",
+          "translation": "这个电路设计用于防止过载。"
+        }
+      ]
+    },
+    {
+      "word": "electrical",
+      "type": "形容词 (adjective) 🔋",
+      "definition": {
+        "chinese": "电的；电气的",
+        "english": "related to or operated by electricity"
+      },
+      "examples": [
+        {
+          "sentence": "They are installing new electrical outlets. 🔌",
+          "translation": "他们正在安装新的电气插座。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "wait on",
+  "pronunciation": {
+    "british": "/weɪt ɒn/ 🇬🇧",
+    "american": "/weɪt ɔːn/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'wait on' 在日常生活中比较常见，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "动词短语 (phrasal verb) ⏳",
+      "definition": {
+        "chinese": "等待；等候某人或某事",
+        "english": "to wait for someone or something, often used in the context of awaiting a service or action"
+      },
+      "examples": [
+        {
+          "sentence": "We had to wait on the waiter to take our order. 🍽️",
+          "translation": "我们得等服务员来点餐。"
+        },
+        {
+          "sentence": "I had to wait on a call from the office. 📞",
+          "translation": "我得等办公室打电话来。"
+        }
+      ]
+    },
+    {
+      "type": "动词短语 (phrasal verb) 🍽️",
+      "definition": {
+        "chinese": "伺候，服务；通常指为别人提供服务或照顾",
+        "english": "to serve or attend to someone, often used in the context of providing food or assistance"
+      },
+      "examples": [
+        {
+          "sentence": "The staff was busy waiting on customers at the restaurant. 🍴",
+          "translation": "餐厅的工作人员忙着为顾客提供服务。"
+        },
+        {
+          "sentence": "She spent the afternoon waiting on her elderly parents. 👵👴",
+          "translation": "她整个下午都在照顾年迈的父母。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "serve",
+      "type": "动词 (verb) 🍽️",
+      "definition": {
+        "chinese": "服务；为某人提供食物或帮助",
+        "english": "to provide service or food to someone"
+      },
+      "examples": [
+        {
+          "sentence": "The waiter served us our drinks promptly. 🍹",
+          "translation": "服务员迅速地为我们上了饮料。"
+        }
+      ]
+    },
+    {
+      "word": "attend to",
+      "type": "动词短语 (phrasal verb) 🧑‍⚕️",
+      "definition": {
+        "chinese": "照顾；处理",
+        "english": "to take care of or deal with something or someone"
+      },
+      "examples": [
+        {
+          "sentence": "The nurse will attend to you shortly. 🏥",
+          "translation": "护士很快会照顾你。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "in the area",
+  "pronunciation": {
+    "british": "/ɪn ðə ˈɛə.rɪə/ 🇬🇧",
+    "american": "/ɪn ðə ˈɛə.rɪə/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'in the area' 是一个常见的短语，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "短语 (phrase) 🌍",
+      "definition": {
+        "chinese": "在这个地区；在附近",
+        "english": "refers to a location within a certain proximity or vicinity"
+      },
+      "examples": [
+        {
+          "sentence": "There are many great restaurants in the area. 🍽️",
+          "translation": "这个地区有许多不错的餐厅。"
+        },
+        {
+          "sentence": "I heard there’s a concert in the area tonight. 🎶",
+          "translation": "我听说今晚附近有一场音乐会。"
+        }
+      ]
+    },
+    {
+      "type": "短语 (phrase) 📍",
+      "definition": {
+        "chinese": "在此区域；在指定地点",
+        "english": "can refer to a specific region or place"
+      },
+      "examples": [
+        {
+          "sentence": "The nearest hospital is in the area. 🏥",
+          "translation": "最近的医院就在这个区域。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "nearby",
+      "type": "副词 (adverb) 📍",
+      "definition": {
+        "chinese": "附近的；不远的",
+        "english": "close to the location or within a short distance"
+      },
+      "examples": [
+        {
+          "sentence": "There’s a park nearby. 🌳",
+          "translation": "附近有一个公园。"
+        }
+      ]
+    },
+    {
+      "word": "vicinity",
+      "type": "名词 (noun) 🌍",
+      "definition": {
+        "chinese": "周围地区；邻近",
+        "english": "the area around a particular place"
+      },
+      "examples": [
+        {
+          "sentence": "The police are searching the vicinity for clues. 🕵️‍♂️",
+          "translation": "警方正在搜寻周围地区寻找线索。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "compost bins",
+  "pronunciation": {
+    "british": "/ˈkɒmpɒst bɪnz/ 🇬🇧",
+    "american": "/ˈkɑːmpoʊst bɪnz/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'compost bins' 是一个常见的词汇，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词短语 (noun phrase) 🌱",
+      "definition": {
+        "chinese": "堆肥箱；堆肥桶",
+        "english": "a container used for collecting organic waste that can be turned into compost"
+      },
+      "examples": [
+        {
+          "sentence": "I place all my kitchen scraps in the compost bin. 🍏🍞",
+          "translation": "我把所有厨房垃圾放入堆肥箱。"
+        },
+        {
+          "sentence": "Compost bins are great for turning organic waste into fertilizer for your garden. 🌻",
+          "translation": "堆肥箱非常适合将有机垃圾转化为花园的肥料。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "composting",
+      "type": "名词 (noun) ♻️",
+      "definition": {
+        "chinese": "堆肥；堆肥化过程",
+        "english": "the process of breaking down organic matter into compost"
+      },
+      "examples": [
+        {
+          "sentence": "Composting helps reduce waste and create useful soil. 🌱",
+          "translation": "堆肥有助于减少垃圾并创造有用的土壤。"
+        }
+      ]
+    },
+    {
+      "word": "organic waste",
+      "type": "名词短语 (noun phrase) 🍂",
+      "definition": {
+        "chinese": "有机垃圾",
+        "english": "waste that comes from plants or animals, which can be composted"
+      },
+      "examples": [
+        {
+          "sentence": "You can add organic waste like fruit peels and vegetable scraps to the compost bin. 🍊🥕",
+          "translation": "你可以将像水果皮和蔬菜残渣这样的有机垃圾放入堆肥箱。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "parking police",
+  "pronunciation": {
+    "british": "/ˈpɑː.kɪŋ pəˈliːs/ 🇬🇧",
+    "american": "/ˈpɑːrkɪŋ pəˈliːs/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'parking police' 在日常生活中较常见，特别是在城市地区，用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词短语 (noun phrase) 👮‍♂️",
+      "definition": {
+        "chinese": "负责管理停车违章的警员或执法人员",
+        "english": "officials responsible for enforcing parking laws and issuing fines for violations"
+      },
+      "examples": [
+        {
+          "sentence": "The parking police gave me a ticket for parking in a no-parking zone. 🧾",
+          "translation": "我因为停在禁止停车区被开了罚单。"
+        },
+        {
+          "sentence": "Be careful where you park—parking police are always around here. 🚨",
+          "translation": "注意停车位置——这里经常有停车执法人员巡逻。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "traffic warden",
+      "type": "名词 (noun) 🇬🇧",
+      "definition": {
+        "chinese": "（英式）交通管理员；违章停车管理人员",
+        "english": "a person employed to enforce parking regulations (British English)"
+      },
+      "examples": [
+        {
+          "sentence": "The traffic warden placed a fine on the windshield. 🧾🚘",
+          "translation": "交通管理员把罚单贴在挡风玻璃上。"
+        }
+      ]
+    },
+    {
+      "word": "parking enforcement officer",
+      "type": "名词 (noun) 🇺🇸",
+      "definition": {
+        "chinese": "（美式）停车执法人员",
+        "english": "an official who monitors and enforces parking laws (American English)"
+      },
+      "examples": [
+        {
+          "sentence": "A parking enforcement officer patrols the streets every morning. 👮‍♀️",
+          "translation": "一名停车执法人员每天早上在街区巡逻。"
+        }
+      ]
+    }
+  ]
+}
+,{
+  "word": "regulation",
+  "pronunciation": {
+    "british": "/ˌreɡ.jʊˈleɪ.ʃən/ 🇬🇧",
+    "american": "/ˌreɡ.jəˈleɪ.ʃən/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'regulation' 是一个常见的正式用语，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) ⚖️",
+      "definition": {
+        "chinese": "规章；条例；管理规定",
+        "english": "an official rule or law that controls how something is done"
+      },
+      "examples": [
+        {
+          "sentence": "There are strict regulations on food safety. 🍽️",
+          "translation": "食品安全方面有严格的规定。"
+        },
+        {
+          "sentence": "The new regulations will affect all small businesses. 🏢",
+          "translation": "新法规将影响所有小型企业。"
+        }
+      ]
+    },
+    {
+      "type": "名词 (noun) 🔧",
+      "definition": {
+        "chinese": "调节；控制",
+        "english": "the act of controlling or adjusting something"
+      },
+      "examples": [
+        {
+          "sentence": "The regulation of body temperature is essential for survival. 🌡️",
+          "translation": "调节体温对生存至关重要。"
+        },
+        {
+          "sentence": "Voltage regulation helps protect electronic devices. ⚡",
+          "translation": "电压调节有助于保护电子设备。"
+        }
+      ]
+    },
+    {
+      "type": "形容词 (adjective) 📏",
+      "definition": {
+        "chinese": "规定的；标准的（多用于美式英语）",
+        "english": "usual or standard; according to rules (mainly US usage)"
+      },
+      "examples": [
+        {
+          "sentence": "He wore a regulation uniform. 👔",
+          "translation": "他穿着标准制服。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "rule",
+      "type": "名词 (noun) 📘",
+      "definition": {
+        "chinese": "规则；规定",
+        "english": "a statement about what must or must not be done"
+      },
+      "examples": [
+        {
+          "sentence": "It's against the rules to smoke here. 🚭",
+          "translation": "这里禁止吸烟是规定好的。"
+        }
+      ]
+    },
+    {
+      "word": "law",
+      "type": "名词 (noun) ⚖️",
+      "definition": {
+        "chinese": "法律；法令",
+        "english": "a system of rules recognized by a country or community"
+      },
+      "examples": [
+        {
+          "sentence": "You must obey the law. 📜",
+          "translation": "你必须遵守法律。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "building regulations",
+  "pronunciation": {
+    "british": "/ˈbɪl.dɪŋ ˌreɡ.jʊˈleɪ.ʃənz/ 🇬🇧",
+    "american": "/ˈbɪl.dɪŋ ˌreɡ.jəˈleɪ.ʃənz/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'building regulations' 是一个在建筑行业中常用的术语，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词短语 (noun phrase) 🏗️",
+      "definition": {
+        "chinese": "建筑规范；建筑法规",
+        "english": "official rules that set standards for the design, construction, and safety of buildings"
+      },
+      "examples": [
+        {
+          "sentence": "The new house must comply with all building regulations. 🏠📋",
+          "translation": "新房屋必须符合所有建筑规范。"
+        },
+        {
+          "sentence": "Building regulations are in place to ensure safety and quality. 🛡️",
+          "translation": "建筑法规的制定是为了确保安全和质量。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "building code",
+      "type": "名词 (noun) 📘",
+      "definition": {
+        "chinese": "建筑规范（尤其用于美国）",
+        "english": "a set of standards for construction and safety of buildings, especially used in the U.S."
+      },
+      "examples": [
+        {
+          "sentence": "The construction project was delayed due to a violation of the building code.",
+          "translation": "由于违反建筑规范，该建设项目被推迟了。"
+        }
+      ]
+    },
+    {
+      "word": "planning permission",
+      "type": "名词短语 (noun phrase) 📝",
+      "definition": {
+        "chinese": "规划许可；建筑许可",
+        "english": "official approval to build or modify a structure, usually granted by local authorities"
+      },
+      "examples": [
+        {
+          "sentence": "You need planning permission before adding an extension to your house.",
+          "translation": "在给房子加建之前你需要获得规划许可。"
+        }
+      ]
+    }
+  ]
+},
+    {
+  "word": "sanitation worker",
+  "pronunciation": {
+    "british": "/ˌsæn.ɪˈteɪ.ʃən ˈwɜː.kər/ 🇬🇧",
+    "american": "/ˌsæn.əˈteɪ.ʃən ˈwɝː.kɚ/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'sanitation worker' 是一个常见的词汇，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词 (noun) 👷‍♂️",
+      "definition": {
+        "chinese": "环卫工人；清洁工人",
+        "english": "a person responsible for cleaning streets, collecting garbage, and maintaining public hygiene"
+      },
+      "examples": [
+        {
+          "sentence": "The sanitation workers start their job early in the morning. 🌅",
+          "translation": "环卫工人一大早就开始工作了。"
+        },
+        {
+          "sentence": "Sanitation workers play a vital role in keeping our cities clean. 🧼🏙️",
+          "translation": "环卫工人在保持城市清洁方面起着至关重要的作用。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "garbage collector",
+      "type": "名词 (noun) 🚛",
+      "definition": {
+        "chinese": "垃圾收集员",
+        "english": "a person who collects and disposes of waste from homes and businesses"
+      },
+      "examples": [
+        {
+          "sentence": "The garbage collector comes every Tuesday morning. 🗓️",
+          "translation": "垃圾收集员每周二早上来。"
+        }
+      ]
+    },
+    {
+      "word": "janitor",
+      "type": "名词 (noun) 🧹",
+      "definition": {
+        "chinese": "看门人；清洁工（主要指室内清洁）",
+        "english": "a person who cleans and maintains buildings, especially schools and offices"
+      },
+      "examples": [
+        {
+          "sentence": "The janitor cleaned the hallway after school. 🏫",
+          "translation": "放学后清洁工清扫了走廊。"
+        }
+      ]
+    }
+  ]
+},{
+  "word": "waste services",
+  "pronunciation": {
+    "british": "/weɪst ˈsɜː.vɪsɪz/ 🇬🇧",
+    "american": "/weɪst ˈsɝː.vɪsɪz/ 🇺🇸"
+  },
+  "usage": "常用 👍: 'waste services' 是一个常见的词组，适用于英式和美式英语 ✅",
+  "meanings": [
+    {
+      "type": "名词短语 (noun phrase) 🗑️",
+      "definition": {
+        "chinese": "垃圾服务；废物处理服务 ♻️",
+        "english": "services responsible for collecting, processing, and disposing of waste"
+      },
+      "examples": [
+        {
+          "sentence": "The city provides waste services twice a week. 🚛",
+          "translation": "这个城市每周提供两次垃圾服务。"
+        },
+        {
+          "sentence": "You need to contact the local waste services to dispose of hazardous materials. ☣️",
+          "translation": "你需要联系当地的垃圾处理服务来处理有害物质。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "waste management",
+      "type": "名词 (noun) 📋",
+      "definition": {
+        "chinese": "废物管理，垃圾处理管理 🔄",
+        "english": "the process of collecting, transporting, and disposing of waste"
+      },
+      "examples": [
+        {
+          "sentence": "Waste management is crucial for environmental protection. 🌍",
+          "translation": "废物管理对环境保护至关重要。"
+        }
+      ]
+    },
+    {
+      "word": "garbage collection",
+      "type": "名词短语 (noun phrase) 🧹",
+      "definition": {
+        "chinese": "垃圾收集 🚮",
+        "english": "the service of collecting household or commercial waste"
+      },
+      "examples": [
+        {
+          "sentence": "Garbage collection takes place every Monday. 📅",
+          "translation": "垃圾收集服务在每周一进行。"
+        }
+      ]
+    }
+  ]
+}
+,
     {
   "word": "landscape",
   "pronunciation": {
@@ -2807,6 +4210,9 @@
 
     // Call the function to render the selected word data
     renderWordData(selectedWord);
+    function refreshPage() {
+      location.reload();
+    }
   </script>
 </body>
 
