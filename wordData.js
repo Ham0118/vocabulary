@@ -3438,6 +3438,132 @@ const wordData = [
       british: "常用于日常生活与学术语境。",
       american: "用法一致，‘pizza crust’ 在美式口语中特别常见。"
     }
+  },
+  {
+    word: "in the sale",
+    pronunciation: { british: "/ɪn ðə seɪl/ 🇬🇧", american: "/ɪn ðə seɪl/ 🇺🇸" },
+    phrase_type: "phrase 短语",
+    usage: "常用 👍：表示商品正在打折促销中。",
+    meanings: [
+      {
+        type: "phrase",
+        definition: { chinese: "在打折中", english: "Being offered at a reduced price as part of a sale." },
+        examples: [
+          { sentence: "I bought this jacket in the sale.", translation: "我这件夹克是打折时买的。" }
+        ]
+      }
+    ],
+    related_words: [
+      { word: "on sale", type: "phrase", definition: { chinese: "在特价", english: "Being sold at a discounted price." }, examples: [] }
+    ],
+    notes: [ { point: "表达差异", explanation: "‘in the sale’ 英式更常见，‘on sale’ 为美式表达。" } ],
+    origin_of_multiple_meanings: { explanation_chinese: "固定表达，源自商业活动语境。", explanation_english: "A fixed expression from commercial and retail context." },
+    variation_between_british_american: { british: "常用‘in the sale’", american: "更常用‘on sale’" }
+  },
+  {
+    word: "you've made my day",
+    pronunciation: { british: "/juːv meɪd maɪ deɪ/ 🇬🇧", american: "/juv meɪd maɪ deɪ/ 🇺🇸" },
+    phrase_type: "phrase 短语",
+    usage: "常用 👍：表达感谢和喜悦，用于某人让你心情大好。",
+    meanings: [
+      {
+        type: "phrase",
+        definition: { chinese: "你让我今天过得很开心", english: "Used to express that someone has made you very happy." },
+        examples: [
+          { sentence: "Thanks for the surprise — you've made my day!", translation: "谢谢你的惊喜 —— 你让我今天很开心！" }
+        ]
+      }
+    ],
+    related_words: [
+      { word: "cheer up", type: "phrasal verb", definition: { chinese: "使振奋", english: "To make someone happier." }, examples: [] }
+    ],
+    notes: [ { point: "口语表达", explanation: "常见于口语场景，表达积极情绪。" } ],
+    origin_of_multiple_meanings: { explanation_chinese: "固定短语表达情感，与‘一天’的比喻有关。", explanation_english: "Figurative idiom expressing emotional impact on one's day." },
+    variation_between_british_american: { british: "用法一致", american: "同上" }
+  },
+  {
+    word: "resilient",
+    pronunciation: { british: "/rɪˈzɪliənt/ 🇬🇧", american: "/rɪˈzɪliənt/ 🇺🇸" },
+    phrase_type: "adjective 形容词",
+    usage: "常用 👍：描述人或物体有恢复力、抗打击能力。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: { chinese: "有弹性，有韧性", english: "Able to recover quickly from difficulties; tough or flexible." },
+        examples: [
+          { sentence: "She is a resilient person who never gives up.", translation: "她是一个永不放弃、有韧性的人。" }
+        ]
+      }
+    ],
+    related_words: [
+      { word: "tough", type: "adjective", definition: { chinese: "坚韧的", english: "Strong and durable; able to withstand hardship." }, examples: [] }
+    ],
+    notes: [ { point: "心理或物理", explanation: "可用于心理、身体或物理材料。" } ],
+    origin_of_multiple_meanings: { explanation_chinese: "源自拉丁语 resiliens，意为‘反弹’。", explanation_english: "From Latin 'resiliens', meaning 'to spring back'." },
+    variation_between_british_american: { british: "常用于心理和教育语境。", american: "广泛用于心理健康、军事等场景。" }
+  },
+  {
+    word: "runny nose",
+    pronunciation: { british: "/ˈrʌni nəʊz/ 🇬🇧", american: "/ˈrʌni noʊz/ 🇺🇸" },
+    phrase_type: "noun phrase 名词短语",
+    usage: "常用 👍：描述轻微感冒症状，鼻子流液体。",
+    meanings: [
+      {
+        type: "noun phrase",
+        definition: { chinese: "流鼻涕", english: "A condition where mucus flows from the nose." },
+        examples: [
+          { sentence: "The child has a cough and a runny nose.", translation: "这孩子咳嗽又流鼻涕。" }
+        ]
+      }
+    ],
+    related_words: [
+      { word: "cold", type: "noun", definition: { chinese: "感冒", english: "A common viral infection causing runny nose and sore throat." }, examples: [] }
+    ],
+    notes: [ { point: "口语常用", explanation: "属于描述日常小病的常用词。" } ],
+    origin_of_multiple_meanings: { explanation_chinese: "由‘runny’（流动的）与‘nose’组成的组合词。", explanation_english: "Compound of 'runny' and 'nose', descriptive of the symptom." },
+    variation_between_british_american: { british: "用法一致", american: "同上" }
+  },
+  {
+    word: "antonym",
+    pronunciation: { british: "/ˈæntənɪm/ 🇬🇧", american: "/ˈæntənɪm/ 🇺🇸" },
+    phrase_type: "noun 名词",
+    usage: "常用 👍：语言学习中常用词，表示意义相反的词。",
+    meanings: [
+      {
+        type: "noun",
+        definition: { chinese: "反义词", english: "A word that has the opposite meaning of another word." },
+        examples: [
+          { sentence: "‘Hot’ is an antonym of ‘cold’.", translation: "‘热’是‘冷’的反义词。" }
+        ]
+      }
+    ],
+    related_words: [
+      { word: "synonym", type: "noun", definition: { chinese: "同义词", english: "A word that has the same or nearly the same meaning as another." }, examples: [] }
+    ],
+    notes: [ { point: "语言学术语", explanation: "在词汇学习与语言分析中常用。" } ],
+    origin_of_multiple_meanings: { explanation_chinese: "来自希腊语 anti（反）+ onym（词）。", explanation_english: "From Greek anti- (opposite) + onym (name/word)." },
+    variation_between_british_american: { british: "用法一致。", american: "同上。" }
+  },
+  {
+    word: "be responsible for",
+    pronunciation: { british: "/biː rɪˈspɒnsəbl fə/ 🇬🇧", american: "/bi rɪˈspɑːnsəbl fər/ 🇺🇸" },
+    phrase_type: "phrase 短语",
+    usage: "常用 👍：表示某人对某事负有责任或应承担后果。",
+    meanings: [
+      {
+        type: "phrase",
+        definition: { chinese: "对…负责", english: "To have control over or care for something and be able to answer for it." },
+        examples: [
+          { sentence: "Parents are responsible for their children's safety.", translation: "父母对孩子的安全负有责任。" }
+        ]
+      }
+    ],
+    related_words: [
+      { word: "in charge of", type: "phrase", definition: { chinese: "主管", english: "Having control or command over something." }, examples: [] }
+    ],
+    notes: [ { point: "工作与法律", explanation: "用于职责、义务、道德责任等语境。" } ],
+    origin_of_multiple_meanings: { explanation_chinese: "短语由‘responsible’派生，表示义务承担。", explanation_english: "Derived from ‘responsible’, expressing duty or obligation." },
+    variation_between_british_american: { british: "语调略不同，含义一致。", american: "用法完全一致。" }
   }
 
 ]
