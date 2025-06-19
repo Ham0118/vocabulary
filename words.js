@@ -1,6 +1,5 @@
 words = [
-    "on my own",
-    "influx of constant communication",
+    
     "influx",
     "work through",
     "craving",

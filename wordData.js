@@ -8917,7 +8917,7 @@ const wordData = [
       "american": "用法一致。"
     }
   },
-  
+
   {
     "word": "versus",
     "pronunciation": {
@@ -9578,7 +9578,7 @@ const wordData = [
     ],
     "origin_of_multiple_meanings": {
       "explanation_chinese": "单一名词义。",
-      "explanation_english":" From Old French ‘bigotrie’, meaning religious hypocrisy."
+      "explanation_english": " From Old French ‘bigotrie’, meaning religious hypocrisy."
     },
     "variation_between_british_american": {
       "british": "用法一致。",
@@ -9910,6 +9910,310 @@ const wordData = [
     "origin_of_multiple_meanings": {
       "explanation_chinese": "单一副词义。",
       "explanation_english": "From ‘purpose’ + ‘-ly’; single sense."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "put up with",
+    "pronunciation": {
+      "british": "/pʊt ʌp wɪð/ 🇬🇧",
+      "american": "/pʊt ʌp wɪð/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：表示忍受或容忍不愉快的事物。",
+    "meanings": [
+      {
+        "type": "transitive verb",
+        "definition": {
+          "chinese": "容忍；忍受",
+          "english": "To tolerate or endure someone or something unpleasant."
+        },
+        "examples": [
+          {
+            "sentence": "I can’t put up with his constant complaining.",
+            "translation": "我再也忍受不了他不断的抱怨。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "tolerate",
+        "type": "verb",
+        "definition": {
+          "chinese": "容忍",
+          "english": "To allow or accept something you dislike without complaining."
+        },
+        "examples": [
+          {
+            "sentence": "She tolerated the noise for a while.",
+            "translation": "她暂时忍受了噪音。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语色彩",
+        "explanation": "非常口语化，书面时常用 ‘tolerate’ 替换。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘put up’ 本义“竖起”，与 ‘with’ 结合引申为“忍受”。",
+      "explanation_english": "Originally ‘put up’ means to place or raise; combined with ‘with’ it took on the sense of enduring."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，发音 /wɪð/ 更接近 /wɪθ/。",
+      "american": "用法一致，发音 /wɪð/。"
+    }
+  },
+  {
+    "word": "divert",
+    "pronunciation": {
+      "british": "/daɪˈvɜːt/ 🇬🇧",
+      "american": "/daɪˈvɜːrt/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：表示转移（注意、方向等）。",
+    "meanings": [
+      {
+        "type": "transitive verb",
+        "definition": {
+          "chinese": "使转移；使改道",
+          "english": "To cause someone or something to change direction or attention."
+        },
+        "examples": [
+          {
+            "sentence": "They diverted the river to prevent flooding.",
+            "translation": "他们改道引流以防洪水。"
+          },
+          {
+            "sentence": "He diverted my attention with a joke.",
+            "translation": "他用一个笑话转移了我的注意力。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "reroute",
+        "type": "verb",
+        "definition": {
+          "chinese": "重新导航",
+          "english": "To send or direct along a different path."
+        },
+        "examples": [
+          {
+            "sentence": "They rerouted traffic due to the accident.",
+            "translation": "事故导致他们重新规划了交通路线。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式/口语",
+        "explanation": "书面和口语均常用，交通和注意力场合皆可。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘divertere’，本义“转向”。",
+      "explanation_english": "From Latin ‘divertere’ meaning to turn aside; extended to attention and route senses."
+    },
+    "variation_between_british_american": {
+      "british": "发音 /daɪˈvɜːt/。",
+      "american": "发音 /daɪˈvɜːrt/。"
+    }
+  },
+  {
+    "word": "distract",
+    "pronunciation": {
+      "british": "/dɪˈstrækt/ 🇬🇧",
+      "american": "/dɪˈstrækt/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "非常常用 👍：表示分散注意力。",
+    "meanings": [
+      {
+        "type": "transitive verb",
+        "definition": {
+          "chinese": "转移（注意力）",
+          "english": "To draw someone’s attention away from something."
+        },
+        "examples": [
+          {
+            "sentence": "The noise distracted me from my work.",
+            "translation": "噪音让我分心，无法工作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "divert",
+        "type": "verb",
+        "definition": {
+          "chinese": "使分心",
+          "english": "To redirect attention."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "情感色彩",
+        "explanation": "通常带负面意义，因打断或干扰。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘distrahere’，本义“拉开”。",
+      "explanation_english": "From Latin ‘distrahere’ meaning to pull apart, hence to divert attention."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "disruptive",
+    "pronunciation": {
+      "british": "/dɪsˈrʌp.tɪv/ 🇬🇧",
+      "american": "/dɪsˈrʌp.tɪv/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：表示扰乱或破坏性地干扰。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "扰乱性的；破坏性的",
+          "english": "Causing interruption or disorder."
+        },
+        "examples": [
+          {
+            "sentence": "His disruptive behavior in class led to detention.",
+            "translation": "他在课堂上的捣乱行为导致被留校察看。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "interruptive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "打断的",
+          "english": "Serving to break continuity."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见场合",
+        "explanation": "教育、会议和技术（颠覆性创新）中常用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由动词 ‘disrupt’派生，单一形容义。",
+      "explanation_english": "Derived from ‘disrupt’; single adjectival sense."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "on my own",
+    "pronunciation": {
+      "british": "/ɒn maɪ əʊn/ 🇬🇧",
+      "american": "/ɒn maɪ oʊn/ 🇺🇸"
+    },
+    "phrase_type": "phrase 短语",
+    "usage": "非常常用 👍：表示独自完成或独自存在。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "独自；靠自己",
+          "english": "By oneself; without help from others."
+        },
+        "examples": [
+          {
+            "sentence": "I did the project on my own.",
+            "translation": "我独自完成了这个项目。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "alone",
+        "type": "adjective/adverb",
+        "definition": {
+          "chinese": "独自的",
+          "english": "Without others present."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语常用",
+        "explanation": "口语中比 ‘by myself’ 更自然。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "短语义单一。",
+      "explanation_english": "Single sense phrase."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "influx of constant communication",
+    "pronunciation": {
+      "british": "/ˈɪn.flʌks əv ˈkɒn.stənt kəˌmjuː.nɪˈkeɪ.ʃən/ 🇬🇧",
+      "american": "/ˈɪn.flʌks əv ˈkɑːn.stənt kəˌmjuː.nɪˈkeɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase 名词短语",
+    "usage": "正式/学术 👍：描述持续大量信息或消息的涌入。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "持续不断的沟通涌入",
+          "english": "A continual and heavy flow of messages or information."
+        },
+        "examples": [
+          {
+            "sentence": "The influx of constant communication can cause burnout.",
+            "translation": "持续不断的信息涌入可能导致倦怠。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "information overload",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "信息过载",
+          "english": "The state of being overwhelmed by too much information."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "多见于科技、心理学和职场研究。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "复合名词短语，义项单一。",
+      "explanation_english": "Compound descriptive phrase; single sense."
     },
     "variation_between_british_american": {
       "british": "用法一致。",
