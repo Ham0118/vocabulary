@@ -10724,8 +10724,666 @@ const wordData = [
       "british": "用法和情绪色彩与美式一致。",
       "american": "常与‘process’或‘system’搭配，强调操作失败时的挫败感。"
     }
+  },
+  {
+    "word": "quirk",
+    "pronunciation": {
+      "british": "/kwɜːk/ 🇬🇧",
+      "american": "/kwɝːk/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘quirk’ 常用来描述某人古怪的性格特点，也可用于意外的巧合或奇异情况。",
+    "meanings": [
+      {
+        "type": "noun (personality)",
+        "definition": {
+          "chinese": "怪癖；古怪的习惯",
+          "english": "A peculiar aspect of a person’s character or behavior."
+        },
+        "examples": [
+          {
+            "sentence": "One of her quirks is always carrying two pens in her pocket.",
+            "translation": "她的一个怪癖是总是口袋里带两支笔。"
+          }
+        ]
+      },
+      {
+        "type": "noun (event)",
+        "definition": {
+          "chinese": "偶发的奇事；反常现象",
+          "english": "An unusual or unexpected event, often accidental or coincidental."
+        },
+        "examples": [
+          {
+            "sentence": "By some quirk of fate, they met again in Paris.",
+            "translation": "命运的巧合让他们在巴黎再次相遇。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "eccentricity",
+        "type": "noun",
+        "definition": {
+          "chinese": "怪异行为",
+          "english": "Unusual or odd behavior or mannerism."
+        }
+      },
+      {
+        "word": "oddity",
+        "type": "noun",
+        "definition": {
+          "chinese": "怪人；怪事",
+          "english": "Something or someone strange or unusual."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气色彩",
+        "explanation": "‘Quirk’ 往往带轻松、幽默的色彩，描述别人有趣的个性特征，不一定贬义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源不详，但最早用于指“转弯”或“突然转折”，后引申为性格或事件中的“奇特变化”。",
+      "explanation_english": "Origin unclear; possibly from a word meaning 'twist' or 'turn', later extended to mean oddities in people or events."
+    },
+    "variation_between_british_american": {
+      "british": "‘Quirk’ 更常用于人或建筑风格上的“独特之处”。",
+      "american": "用法一致，但在科技、心理学中偶尔出现如“brain quirk”（大脑机制小特异）的用法。"
+    }
+  },
+  {
+    "word": "transcribe",
+    "pronunciation": {
+      "british": "/trænˈskraɪb/ 🇬🇧",
+      "american": "/trænˈskraɪb/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：‘transcribe’ 常用于将语音、手写内容或音乐转换成文字，也用于语言学和转录学场景。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "转录；抄写",
+          "english": "To make a written or typed copy of spoken words, or handwritten notes."
+        },
+        "examples": [
+          {
+            "sentence": "She transcribed the interview for the article.",
+            "translation": "她把采访内容转录成了文字，用于写文章。"
+          }
+        ]
+      },
+      {
+        "type": "verb (music)",
+        "definition": {
+          "chinese": "改编（乐曲）",
+          "english": "To adapt a piece of music for a different instrument or arrangement."
+        },
+        "examples": [
+          {
+            "sentence": "The piece was transcribed for guitar.",
+            "translation": "这首曲子被改编成了吉他演奏版本。"
+          }
+        ]
+      },
+      {
+        "type": "verb (linguistics)",
+        "definition": {
+          "chinese": "音标转写",
+          "english": "To represent speech sounds with phonetic symbols."
+        }
+      }
+    ],
+    "related_words": [
+      {
+        "word": "translate",
+        "type": "verb",
+        "definition": {
+          "chinese": "翻译",
+          "english": "To convert from one language to another."
+        }
+      },
+      {
+        "word": "record",
+        "type": "verb",
+        "definition": {
+          "chinese": "记录",
+          "english": "To write down or store information."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "和 translate 区别",
+        "explanation": "‘transcribe’ 是从语音或手写 → 转为文字，‘translate’ 是一种语言 → 转换为另一种语言。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘transcribere’（写下来），后在语言学、音乐中引申出专门用法。",
+      "explanation_english": "From Latin ‘transcribere’ (to write across), later specialized in fields like linguistics and music."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，常用于学术与法律语境。",
+      "american": "用法一致，也常出现在字幕制作和媒体转录中。"
+    }
+  },
+  {
+    "word": "telegraph",
+    "pronunciation": {
+      "british": "/ˈtel.ɪ.ɡrɑːf/ 🇬🇧",
+      "american": "/ˈtel.ə.ɡræf/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb 名词 / 动词",
+    "usage": "现在多用于历史语境，原指电报通信技术，也有引申义：不小心“泄露意图”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "电报；电报机",
+          "english": "A system for transmitting messages from a distance along a wire, especially one creating signals by making and breaking an electrical connection."
+        },
+        "examples": [
+          {
+            "sentence": "The invention of the telegraph revolutionized communication in the 19th century.",
+            "translation": "电报的发明在19世纪彻底改变了通信方式。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "发电报；无意间泄露意图",
+          "english": "To send a message by telegraph; to unintentionally reveal what you are going to do."
+        },
+        "examples": [
+          {
+            "sentence": "He telegraphed his move by glancing at the ball.",
+            "translation": "他看了眼球，无意中暴露了自己的动作意图。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "telegram",
+        "type": "noun",
+        "definition": {
+          "chinese": "电报（内容）",
+          "english": "A message sent by telegraph."
+        }
+      },
+      {
+        "word": "signal",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "信号 / 发出信号",
+          "english": "An indicator or action that conveys information."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "现代含义",
+        "explanation": "动词 ‘telegraph’ 现在常用作比喻义，指在不经意中透露信息或意图。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Telegraph’ 原为通信工具，后引申为“预示”或“泄露意图”的动作。",
+      "explanation_english": "Originally a communication tool; later metaphorically used for giving away one's intention."
+    },
+    "variation_between_british_american": {
+      "british": "名词含义常用于历史语境；比喻义也存在。",
+      "american": "动词比喻义‘telegraph your move’较常用于体育或策略类对话。"
+    }
+  },
+  {
+    "word": "resemble",
+    "pronunciation": {
+      "british": "/rɪˈzem.bəl/ 🇬🇧",
+      "american": "/rɪˈzem.bəl/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词（及物）",
+    "usage": "常用 👍：‘resemble’ 用来表达两人或两物在外貌、行为或特征上相似。只能用于陈述事实，不用于进行时态。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "像；与…相似",
+          "english": "To be similar to someone or something, especially in appearance."
+        },
+        "examples": [
+          {
+            "sentence": "She closely resembles her mother.",
+            "translation": "她长得很像她妈妈。"
+          },
+          {
+            "sentence": "This building resembles a spaceship.",
+            "translation": "这座建筑像一艘太空船。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "look like",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "看起来像",
+          "english": "To appear similar to someone or something."
+        }
+      },
+      {
+        "word": "take after",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "（在性格或外貌上）像（父母或其他家庭成员）",
+          "english": "To resemble a parent or ancestor in appearance or character."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法限制",
+        "explanation": "‘Resemble’ 是状态动词，不能用于进行时（❌ ~is resembling~）；常用于客观描述。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Resemble’ 源自古法语 ‘resembler’，原意为‘像’或‘有相似之处’，一直保持单一词义。",
+      "explanation_english": "From Old French ‘resembler’, meaning 'to be like'; has maintained a consistent meaning over time."
+    },
+    "variation_between_british_american": {
+      "british": "‘Resemble’ 在书面语中更常出现。",
+      "american": "同样使用，但在口语中更常说 ‘look like’。"
+    }
+  },
+  {
+    "word": "period",
+    "pronunciation": {
+      "british": "/ˈpɪə.ri.əd/ 🇬🇧",
+      "american": "/ˈpɪr.i.əd/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "非常常用 👍：‘period’ 用于表达时间段、学科课时、标点符号、生理期等语义，是英语中最常见的多义词之一。",
+    "meanings": [
+      {
+        "type": "noun (time)",
+        "definition": {
+          "chinese": "一段时间；时期",
+          "english": "A length or portion of time."
+        },
+        "examples": [
+          {
+            "sentence": "She was away for a long period.",
+            "translation": "她离开了很长一段时间。"
+          }
+        ]
+      },
+      {
+        "type": "noun (school)",
+        "definition": {
+          "chinese": "课时",
+          "english": "A unit of time in a school day, usually for one subject."
+        },
+        "examples": [
+          {
+            "sentence": "I have math in the second period.",
+            "translation": "我第二节是数学课。"
+          }
+        ]
+      },
+      {
+        "type": "noun (punctuation)",
+        "definition": {
+          "chinese": "句号",
+          "english": "The punctuation mark (.) used at the end of a sentence (mainly in American English)."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t forget to put a period at the end.",
+            "translation": "别忘了句尾加句号。"
+          }
+        ]
+      },
+      {
+        "type": "noun (biology)",
+        "definition": {
+          "chinese": "月经",
+          "english": "A woman's menstrual flow or cycle."
+        },
+        "examples": [
+          {
+            "sentence": "She gets cramps during her period.",
+            "translation": "她月经期间会腹痛。"
+          }
+        ]
+      },
+      {
+        "type": "noun (slang/affirmation)",
+        "definition": {
+          "chinese": "强调语气（非正式）",
+          "english": "Used informally at the end of a statement to emphasize finality (mainly American slang)."
+        },
+        "examples": [
+          {
+            "sentence": "I’m not going, period.",
+            "translation": "我不去，就这样。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "era",
+        "type": "noun",
+        "definition": {
+          "chinese": "时代；纪元",
+          "english": "A long and distinct period in history."
+        }
+      },
+      {
+        "word": "session",
+        "type": "noun",
+        "definition": {
+          "chinese": "（某活动的）一段时间",
+          "english": "A period during which a meeting or activity occurs."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气用法",
+        "explanation": "‘Period.’ 作强调语气使用时，常见于口语和网络对话，表示“没有商量的余地”。"
+      },
+      {
+        "point": "文化语境",
+        "explanation": "美式中常见‘period’作‘句号’，英式中称其为‘full stop’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘periodos’（循环、周期），后引申为时间段、课时、标点、月经等相关概念。",
+      "explanation_english": "From Greek ‘periodos’ (a circuit or cycle); meanings diversified through time-related and structural contexts."
+    },
+    "variation_between_british_american": {
+      "british": "指“句号”时多用‘full stop’；“period”更常用于指时间段或课时。",
+      "american": "既指时间段，也广泛用作“句号”；口语中用于强调结束语气（如“Period!”）。"
+    }
+  },
+  {
+    "word": "flick",
+    "pronunciation": {
+      "british": "/flɪk/ 🇬🇧",
+      "american": "/flɪk/ 🇺🇸"
+    },
+    "phrase_type": "verb / noun 动词 / 名词",
+    "usage": "常用 👍：用于描述快速轻打、轻弹的动作，也可以指快速切换或“电影”的非正式说法。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "轻弹；快速移动",
+          "english": "To move or hit something with a sudden quick motion."
+        },
+        "examples": [
+          {
+            "sentence": "She flicked the switch and the lights came on.",
+            "translation": "她轻轻一拨开关，灯就亮了。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "轻打；电影（非正式）",
+          "english": "A quick, light movement; also slang for 'film' or 'movie'."
+        },
+        "examples": [
+          {
+            "sentence": "We watched a horror flick last night.",
+            "translation": "我们昨晚看了一部恐怖片。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "snap",
+        "type": "verb",
+        "definition": {
+          "chinese": "啪地一声弄断；猛地动作",
+          "english": "To move or cause to move suddenly and sharply."
+        }
+      },
+      {
+        "word": "tap",
+        "type": "verb",
+        "definition": {
+          "chinese": "轻敲",
+          "english": "To strike lightly."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "‘Flick’ 作名词时的非正式含义",
+        "explanation": "主要在美式口语中用作电影的俚语，如“action flick”（动作片）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Flick’ 原指轻快的动作，后在俚语中引申为“电影”，因电影胶片快速滚动而得名。",
+      "explanation_english": "Originally meant a quick motion; the movie sense comes from the quick flickering of film frames."
+    },
+    "variation_between_british_american": {
+      "british": "‘Flick’ 作‘电影’也常用，但略显轻佻。",
+      "american": "广泛用于口语中指电影。"
+    }
+  },
+  {
+    "word": "divert",
+    "pronunciation": {
+      "british": "/daɪˈvɜːt/ 🇬🇧",
+      "american": "/daɪˈvɝːt/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用于交通、注意力转移等语境 👍。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使转向；使转移注意力",
+          "english": "To change the direction of something; to shift attention or focus."
+        },
+        "examples": [
+          {
+            "sentence": "Traffic was diverted due to roadworks.",
+            "translation": "由于道路施工，交通被改道。"
+          },
+          {
+            "sentence": "She tried to divert his attention from the mistake.",
+            "translation": "她试图把他的注意力从错误上转移开。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "reroute",
+        "type": "verb",
+        "definition": {
+          "chinese": "改道",
+          "english": "To change the path or direction of travel."
+        }
+      },
+      {
+        "word": "distract",
+        "type": "verb",
+        "definition": {
+          "chinese": "分散注意力",
+          "english": "To draw attention away from something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法场景",
+        "explanation": "既可用于物理方向转移（如交通），也可用于心理层面（如注意力或话题）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语‘divertere’，意思是‘转向’，后用于多种“转移”语境。",
+      "explanation_english": "From Latin 'divertere' meaning 'to turn aside', extended to mental and physical redirection."
+    },
+    "variation_between_british_american": {
+      "british": "常用于交通和媒体报道。",
+      "american": "同样常用，在心理学和日常对话中频率更高。"
+    }
+  },
+  {
+    "word": "fork",
+    "pronunciation": {
+      "british": "/fɔːk/ 🇬🇧",
+      "american": "/fɔːrk/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb 名词 / 动词",
+    "usage": "常用 👍：作为名词指餐具‘叉子’，动词可指‘分叉’或‘分岔路’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "叉子；分叉处",
+          "english": "A utensil with two or more prongs; a place where something divides into branches."
+        },
+        "examples": [
+          {
+            "sentence": "Use a fork to eat your salad.",
+            "translation": "用叉子吃你的沙拉。"
+          },
+          {
+            "sentence": "Take the right fork at the road junction.",
+            "translation": "在路口选择右边的岔路。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "分叉；分裂",
+          "english": "To divide into two or more directions."
+        }
+      }
+    ],
+    "related_words": [
+      {
+        "word": "branch",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "分支",
+          "english": "To divide into parts; a subdivision."
+        }
+      },
+      {
+        "word": "split",
+        "type": "verb",
+        "definition": {
+          "chinese": "分裂",
+          "english": "To divide or break apart."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "技术用法",
+        "explanation": "在编程或开源项目中，‘fork’ 还表示复制一个代码库以独立开发（例如 GitHub 上的 fork）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Fork’ 最初指农具或餐具，后因形状而引申为道路分叉、代码分支等。",
+      "explanation_english": "Originally a tool or utensil, extended metaphorically to branching paths or software development."
+    },
+    "variation_between_british_american": {
+      "british": "含义一致，‘fork in the road’ 常用于文学或比喻中。",
+      "american": "同样广泛使用，技术语义在硅谷和开源社区中尤为常见。"
+    }
+  },
+  {
+    "word": "at a price",
+    "pronunciation": {
+      "british": "/ət ə praɪs/ 🇬🇧",
+      "american": "/ət ə praɪs/ 🇺🇸"
+    },
+    "phrase_type": "phrase 短语",
+    "usage": "常用 👍：‘at a price’ 表示虽然某事得到了，但付出了很大代价。既可指金钱上的高代价，也可指牺牲、损失等抽象代价。",
+    "meanings": [
+      {
+        "type": "phrase (literal)",
+        "definition": {
+          "chinese": "以高价；价格昂贵地",
+          "english": "Costing a lot of money; not cheap."
+        },
+        "examples": [
+          {
+            "sentence": "You can buy convenience, but at a price.",
+            "translation": "你可以买到便利，但代价不菲。"
+          }
+        ]
+      },
+      {
+        "type": "phrase (figurative)",
+        "definition": {
+          "chinese": "付出代价；以牺牲为代价",
+          "english": "Achieved by sacrificing something important such as time, energy, health, or values."
+        },
+        "examples": [
+          {
+            "sentence": "She became successful, but at a price — her health suffered.",
+            "translation": "她确实成功了，但代价是健康受损。"
+          },
+          {
+            "sentence": "Freedom was won, but at a terrible price.",
+            "translation": "自由赢得了，但付出了惨重的代价。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "come at a cost",
+        "type": "phrase",
+        "definition": {
+          "chinese": "需要付出代价",
+          "english": "To involve some kind of loss or sacrifice."
+        }
+      },
+      {
+        "word": "pay the price",
+        "type": "phrase",
+        "definition": {
+          "chinese": "为某事付出代价",
+          "english": "To suffer as a result of an action or decision."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "感情色彩",
+        "explanation": "通常带有负面语气，暗示虽然结果达成了，但损失值得反思。"
+      },
+      {
+        "point": "与 ‘at the price’ 的区别",
+        "explanation": "‘At a price’ 更强调代价感或牺牲；‘at the price’ 更中性，偏向价格评估。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原为金钱意义的‘付出高价’，逐渐被引申为任何形式的代价，如牺牲时间、健康、道德等。",
+      "explanation_english": "Originally meant paying a high cost in money, but evolved to include metaphorical costs like sacrifice or loss."
+    },
+    "variation_between_british_american": {
+      "british": "常用于文学、新闻与演讲中表达深层代价。",
+      "american": "也常见，特别在谈论成功、自由、幸福等背后代价时使用。"
+    }
   }
-
 ]
 
 
