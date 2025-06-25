@@ -10219,6 +10219,511 @@ const wordData = [
       "british": "用法一致。",
       "american": "用法一致。"
     }
+  },
+  {
+    "word": "gymnasiums",
+    "pronunciation": {
+      "british": "/dʒɪmˈneɪ.zi.əmz/ 🇬🇧",
+      "american": "/dʒɪmˈneɪ.zi.əmz/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词（复数）",
+    "usage": "常用 👍：‘gymnasiums’ 是 ‘gymnasium’ 的复数，常用于描述学校、体育馆等正式场所，不同于口语中常说的 ‘gym’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "体育馆，健身房",
+          "english": "Large rooms or buildings equipped for physical education, sports, or exercise."
+        },
+        "examples": [
+          {
+            "sentence": "Most high schools have gymnasiums for physical education classes.",
+            "translation": "大多数高中都有体育馆用于体育课。"
+          },
+          {
+            "sentence": "Two new gymnasiums were built to host the regional basketball tournament.",
+            "translation": "为了举办地区篮球比赛，新建了两个体育馆。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "gym",
+        "type": "noun",
+        "definition": {
+          "chinese": "健身房（口语）",
+          "english": "Informal word for a place where people go to exercise."
+        },
+        "examples": [
+          {
+            "sentence": "I go to the gym three times a week.",
+            "translation": "我每周去三次健身房。"
+          }
+        ]
+      },
+      {
+        "word": "arena",
+        "type": "noun",
+        "definition": {
+          "chinese": "竞技场",
+          "english": "A large enclosed space used for sports or entertainment."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "形式区别",
+        "explanation": "‘Gymnasium’ 更正式，用于建筑或学校场所；‘gym’ 为非正式用法，泛指健身场所。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊语 ‘gymnasion’，原意为锻炼身体的场所，现代引申用于体育馆或健身设施。",
+      "explanation_english": "From Greek ‘gymnasion’, meaning a place for physical training, later extended to indoor sports facilities."
+    },
+    "variation_between_british_american": {
+      "british": "‘Gymnasium’ 多用于学校场景，‘gym’ 是健身房。",
+      "american": "‘Gymnasium’ 同样用于学校，但日常中更常用 ‘gym’ 表示健身场所。"
+    }
+  },
+  {
+    "word": "pension",
+    "pronunciation": {
+      "british": "/ˈpen.ʃən/ 🇬🇧",
+      "american": "/ˈpen.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用于指退休后按月领取的退休金或津贴。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "养老金；退休金",
+          "english": "A regular payment made to a person after retirement."
+        },
+        "examples": [
+          {
+            "sentence": "She lives on a small pension.",
+            "translation": "她靠一笔不多的退休金生活。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "retirement fund",
+        "type": "noun",
+        "definition": {
+          "chinese": "退休基金",
+          "english": "A savings plan for retirement."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语“pensio”，意为付款；后专指定期支付的养老金。",
+      "explanation_english": "From Latin ‘pensio’ meaning payment; evolved to mean retirement income."
+    },
+    "variation_between_british_american": {
+      "british": "常说 'state pension' 指国家发放的养老金。",
+      "american": "可说 'pension plan' 或 '401(k)' 形式的养老金储备计划。"
+    }
+  },
+  {
+    "word": "entitled",
+    "pronunciation": {
+      "british": "/ɪnˈtaɪ.təld/ 🇬🇧",
+      "american": "/ɪnˈtaɪ.t̬əld/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用于表达某人有资格获得某物，也可贬义指“自认为应得”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "有资格的",
+          "english": "Having the right to do or receive something."
+        },
+        "examples": [
+          {
+            "sentence": "You are entitled to a full refund.",
+            "translation": "你有资格获得全额退款。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (informal)",
+        "definition": {
+          "chinese": "自以为应得的",
+          "english": "Acting as though you deserve special treatment or privileges."
+        },
+        "examples": [
+          {
+            "sentence": "He has an entitled attitude.",
+            "translation": "他有一种自以为是的态度。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "eligible",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有资格的",
+          "english": "Having the right to do or receive something."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原义为“被授予头衔”，后延伸为“被授予权利”，再引申为“自认为有权”。",
+      "explanation_english": "Originally meant 'given a title'; extended to mean 'has a right', and later as 'acting privileged'."
+    },
+    "variation_between_british_american": {
+      "british": "两义均常见。",
+      "american": "第二义（贬义）在社会文化讨论中更常出现。"
+    }
+  },
+  {
+    "word": "apostrophe",
+    "pronunciation": {
+      "british": "/əˈpɒs.trə.fi/ 🇬🇧",
+      "american": "/əˈpɑː.strə.fi/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "表示省略或所有格的标点符号（’）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "撇号；省略符号",
+          "english": "A punctuation mark used to show possession or omission."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t forget to add the apostrophe in ‘John’s book’.",
+            "translation": "别忘了在 ‘John’s book’ 里加上撇号。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "古希腊语“apostrophos”表示省略，现代用于标记缩略或所有格。",
+      "explanation_english": "From Greek ‘apostrophos’ meaning omission; now used in contractions and possession."
+    },
+    "variation_between_british_american": {
+      "british": "使用一致。",
+      "american": "使用一致。"
+    }
+  },
+  {
+    "word": "rhinoceros",
+    "pronunciation": {
+      "british": "/raɪˈnɒs.ər.əs/ 🇬🇧",
+      "american": "/raɪˈnɑː.sɚ.rəs/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "动物学名词，指一种大型有角哺乳动物。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "犀牛",
+          "english": "A large, thick-skinned animal with one or two horns on its nose."
+        },
+        "examples": [
+          {
+            "sentence": "Rhinoceroses are endangered due to poaching.",
+            "translation": "犀牛因盗猎濒临灭绝。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊语 'rhino'（鼻子）和 'keras'（角），词义单一。",
+      "explanation_english": "From Greek ‘rhino’ (nose) and ‘keras’ (horn); single zoological meaning."
+    },
+    "variation_between_british_american": {
+      "british": "发音略不同。",
+      "american": "发音更强烈突出中部音节。"
+    }
+  },
+  {
+    "word": "possessive",
+    "pronunciation": {
+      "british": "/pəˈzes.ɪv/ 🇬🇧",
+      "american": "/pəˈzes.ɪv/ 🇺🇸"
+    },
+    "phrase_type": "adjective, noun 形容词 / 名词",
+    "usage": "可作语法术语或表示人过于占有欲强。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "占有的；所有的",
+          "english": "Showing ownership or desire to control."
+        },
+        "examples": [
+          {
+            "sentence": "He’s very possessive of his books.",
+            "translation": "他对自己的书非常占有欲强。"
+          }
+        ]
+      },
+      {
+        "type": "noun (grammar)",
+        "definition": {
+          "chinese": "所有格",
+          "english": "The grammatical form that shows ownership (e.g., John’s, hers)."
+        },
+        "examples": [
+          {
+            "sentence": "Use the possessive form with ’s.",
+            "translation": "使用带撇号 s 的所有格形式。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘possess’ 派生，既有语法功能，也形容情感性格。",
+      "explanation_english": "From ‘possess’, applied both grammatically and psychologically."
+    },
+    "variation_between_british_american": {
+      "british": "语法和心理用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "heave",
+    "pronunciation": {
+      "british": "/hiːv/ 🇬🇧",
+      "american": "/hiːv/ 🇺🇸"
+    },
+    "phrase_type": "verb, noun 动词 / 名词",
+    "usage": "常指用力举起或抛掷，也可作名词。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "举起；拖；呕吐",
+          "english": "To lift or throw with effort; to vomit (informal)."
+        },
+        "examples": [
+          {
+            "sentence": "They heaved the box onto the truck.",
+            "translation": "他们吃力地把箱子搬上卡车。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "用力举起",
+          "english": "An effortful lifting or throwing action."
+        }
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初为“举起”之义，后引申为呕吐动作。",
+      "explanation_english": "Originally meant to lift, later extended metaphorically to vomiting."
+    },
+    "variation_between_british_american": {
+      "british": "同样使用 ‘heave’ 表达呕吐。",
+      "american": "也用 ‘heave’ 作口语中“反胃”。"
+    }
+  },
+  {
+    "word": "literacy",
+    "pronunciation": {
+      "british": "/ˈlɪt.ər.ə.si/ 🇬🇧",
+      "american": "/ˈlɪt̬.ɚ.ə.si/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "用于描述阅读写作或某个领域的基本能力。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "读写能力；素养",
+          "english": "The ability to read and write; or basic competence in a specific area."
+        },
+        "examples": [
+          {
+            "sentence": "Digital literacy is important in the modern world.",
+            "translation": "数字素养在现代社会非常重要。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "numeracy",
+        "type": "noun",
+        "definition": {
+          "chinese": "计算能力",
+          "english": "The ability to work with numbers."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘literate’ 派生，用于描述通识能力。",
+      "explanation_english": "From ‘literate’, extended to any competence area."
+    },
+    "variation_between_british_american": {
+      "british": "广泛用于教育政策中。",
+      "american": "强调包括科技、金融等多种素养。"
+    }
+  },
+  {
+    "word": "carer",
+    "pronunciation": {
+      "british": "/ˈkeə.rər/ 🇬🇧",
+      "american": "/ˈker.ɚ/ 🇺🇸 (rare)",
+    },
+    "phrase_type": "noun 名词",
+    "usage": "主要英式用词，指照顾老人或病人的人。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "看护者；照顾者",
+          "english": "A person who takes care of someone who is ill, elderly, or disabled."
+        },
+        "examples": [
+          {
+            "sentence": "She works as a carer in a nursing home.",
+            "translation": "她在养老院做看护工作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "caregiver",
+        "type": "noun",
+        "definition": {
+          "chinese": "照顾者",
+          "english": "Common American English equivalent of ‘carer’."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘care’ 加后缀 -er 构成，英式中较常见。",
+      "explanation_english": "Formed from ‘care’ + ‘-er’; more common in UK English."
+    },
+    "variation_between_british_american": {
+      "british": "常用 ‘carer’。",
+      "american": "更常说 ‘caregiver’。"
+    }
+  },
+  {
+    "word": "balm",
+    "pronunciation": {
+      "british": "/bɑːm/ 🇬🇧",
+      "american": "/bɑːm/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "用于指药膏、润肤膏，也可比喻“安慰”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "润肤膏；安慰物",
+          "english": "A soothing substance for the skin; something comforting."
+        },
+        "examples": [
+          {
+            "sentence": "The lip balm soothed her dry lips.",
+            "translation": "润唇膏缓解了她干裂的嘴唇。"
+          },
+          {
+            "sentence": "His kind words were a balm to her soul.",
+            "translation": "他温柔的话语是她心灵的安慰。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自植物芳香油的用途，引申为心理上的安慰。",
+      "explanation_english": "Originally referred to aromatic salves; later metaphor for emotional relief."
+    },
+    "variation_between_british_american": {
+      "british": "两义均通用。",
+      "american": "常用于护肤品或文学中。"
+    }
+  },
+  {
+    "word": "frustrating",
+    "pronunciation": {
+      "british": "/ˈfrʌs.treɪ.tɪŋ/ 🇬🇧",
+      "american": "/ˈfrʌs.treɪ.t̬ɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "非常常用 👍：表示令人懊恼、沮丧或难以应对的事情或经历。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "令人沮丧的；令人懊恼的",
+          "english": "Causing annoyance or upset because of being unable to do something or because something does not go as expected."
+        },
+        "examples": [
+          {
+            "sentence": "It’s so frustrating when the internet keeps cutting out.",
+            "translation": "当网络不断断线时真的很令人懊恼。"
+          },
+          {
+            "sentence": "Learning a new language can be frustrating at times.",
+            "translation": "学习一门新语言有时会让人沮丧。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "annoying",
+        "type": "adjective",
+        "definition": {
+          "chinese": "令人恼怒的",
+          "english": "Making someone feel irritated or bothered."
+        }
+      },
+      {
+        "word": "discouraging",
+        "type": "adjective",
+        "definition": {
+          "chinese": "令人气馁的",
+          "english": "Making you feel less confident or enthusiastic."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气强弱",
+        "explanation": "‘frustrating’ 强调因为某事不能如愿以致沮丧，比 ‘annoying’ 更情绪化。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 ‘frustrate’（阻挠、使沮丧）的现在分词形式，用作形容词表达事物本身带来挫败感。",
+      "explanation_english": "Derived from the verb ‘frustrate’ (to thwart), used as an adjective to describe things that cause that feeling."
+    },
+    "variation_between_british_american": {
+      "british": "用法和情绪色彩与美式一致。",
+      "american": "常与‘process’或‘system’搭配，强调操作失败时的挫败感。"
+    }
   }
 
 ]
