@@ -11383,6 +11383,492 @@ const wordData = [
       "british": "常用于文学、新闻与演讲中表达深层代价。",
       "american": "也常见，特别在谈论成功、自由、幸福等背后代价时使用。"
     }
+  },
+  {
+    "word": "crystal",
+    "pronunciation": {
+      "british": "/ˈkrɪs.təl/ 🇬🇧",
+      "american": "/ˈkrɪs.təl/ 🇺🇸"
+    },
+    "phrase_type": "noun / adjective 名词 / 形容词",
+    "usage": "常用 👍：‘crystal’ 既可指矿物或人造水晶制品，也可作形容词比喻清澈透明，如 crystal clear。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "水晶；结晶体",
+          "english": "A clear, transparent mineral or glass resembling it; also any solid material whose atoms are arranged in a regular pattern."
+        },
+        "examples": [
+          {
+            "sentence": "She wore a necklace made of Swarovski crystal.",
+            "translation": "她戴着一条施华洛世奇水晶项链。"
+          },
+          {
+            "sentence": "Snowflakes are beautiful ice crystals.",
+            "translation": "雪花是美丽的冰晶体。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (figurative)",
+        "definition": {
+          "chinese": "清澈的；透明的",
+          "english": "Perfectly clear and easy to see or understand."
+        },
+        "examples": [
+          {
+            "sentence": "The instructions were crystal clear.",
+            "translation": "说明清晰明了。"
+          },
+          {
+            "sentence": "The water in the lake was crystal clear.",
+            "translation": "湖水清澈见底。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "glass",
+        "type": "noun",
+        "definition": {
+          "chinese": "玻璃",
+          "english": "A hard, usually transparent material used for windows and bottles."
+        }
+      },
+      {
+        "word": "gemstone",
+        "type": "noun",
+        "definition": {
+          "chinese": "宝石",
+          "english": "A precious or semi-precious stone used in jewelry."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "形容词用法",
+        "explanation": "‘Crystal clear’ 是固定搭配，用于形容视觉或概念都十分清晰。"
+      },
+      {
+        "point": "专业领域",
+        "explanation": "在物理学与化学中，‘crystal’ 特指原子排列有序的固体，如盐晶体。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指矿物学中的晶体或天然水晶，后引申为清澈透明、明白易懂的比喻用法。",
+      "explanation_english": "Originally meant natural or synthetic crystalline minerals, later extended metaphorically to describe clarity and transparency."
+    },
+    "variation_between_british_american": {
+      "british": "‘Crystal glass’ 常指高铅玻璃制成的高档餐具。",
+      "american": "用法一致，但在品牌和商品宣传中更常作为形容词：crystal vase, crystal chandelier 等。"
+    }
+  },
+  {
+    "word": "tariff",
+    "pronunciation": {
+      "british": "/ˈtær.ɪf/ 🇬🇧",
+      "american": "/ˈter.ɪf/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘tariff’ 常指政府对进口或出口商品征收的关税，也可泛指官方规定的收费标准（如水电费、电话费等）。",
+    "meanings": [
+      {
+        "type": "noun (trade/economics)",
+        "definition": {
+          "chinese": "关税；关税表",
+          "english": "A tax imposed by a government on goods imported from other countries, sometimes also on exports."
+        },
+        "examples": [
+          {
+            "sentence": "The government has raised tariffs on foreign steel.",
+            "translation": "政府提高了对进口钢铁的关税。"
+          },
+          {
+            "sentence": "Lower tariffs can encourage international trade.",
+            "translation": "较低的关税可以促进国际贸易。"
+          }
+        ]
+      },
+      {
+        "type": "noun (general pricing)",
+        "definition": {
+          "chinese": "（官方规定的）收费标准；价格表",
+          "english": "An official list of prices or charges for services, such as electricity, phone plans, or hotel rates."
+        },
+        "examples": [
+          {
+            "sentence": "The hotel has different tariffs for summer and winter.",
+            "translation": "这家酒店在夏季和冬季有不同的房价标准。"
+          },
+          {
+            "sentence": "Please check the current mobile phone tariff before signing the contract.",
+            "translation": "签合同前请查看当前的手机资费标准。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "duty",
+        "type": "noun",
+        "definition": {
+          "chinese": "税；关税",
+          "english": "A tax paid on imports, exports, or goods produced within a country."
+        }
+      },
+      {
+        "word": "levy",
+        "type": "noun / verb",
+        "definition": {
+          "chinese": "征税；征收",
+          "english": "An act of imposing or collecting a tax; the tax itself."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "经济与日常双重用法",
+        "explanation": "在贸易新闻中多指关税，在日常生活中也能指资费、房价表等。"
+      },
+      {
+        "point": "词语搭配",
+        "explanation": "常见搭配有 import/export tariff（进出口关税）、tariff rate（关税税率）、mobile tariff（手机资费）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Tariff’ 来源于意大利语 ‘tariffa’，意指价格单或清单，原本指官方价格表，后被用于征收关税及其他官方收费。",
+      "explanation_english": "From Italian ‘tariffa’ meaning a list of prices or fees; originally about official price lists, later extended to customs duties and general charges."
+    },
+    "variation_between_british_american": {
+      "british": "在日常用语中 ‘tariff’ 常用于指话费、酒店价目表等；也用于贸易中指关税。",
+      "american": "主要用于表示关税；在资费等生活场景更常用 words like ‘rate’ 或 ‘plan’。"
+    }
+  },
+  {
+    "word": "languish",
+    "pronunciation": {
+      "british": "/ˈlæŋ.ɡwɪʃ/ 🇬🇧",
+      "american": "/ˈlæŋ.ɡwɪʃ/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：‘languish’ 用来表示“长期受苦”“失去活力”“被忽视”，常带有无奈、消极或悲哀的情感色彩。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "长期受苦；被忽视；衰退",
+          "english": "To suffer from being forced to remain in an unpleasant situation; to lose strength, vitality, or effectiveness over time."
+        },
+        "examples": [
+          {
+            "sentence": "The law languished in Congress for years before it was finally passed.",
+            "translation": "该法案在国会被搁置多年才终于通过。"
+          },
+          {
+            "sentence": "The garden languished without care during the drought.",
+            "translation": "旱灾期间花园无人打理，渐渐枯萎。"
+          },
+          {
+            "sentence": "Prisoners often languish in jails for years awaiting trial.",
+            "translation": "囚犯们常常在监狱中长期等待审判。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "wither",
+        "type": "verb",
+        "definition": {
+          "chinese": "枯萎；衰退",
+          "english": "To become dry and weak; to gradually lose vitality."
+        }
+      },
+      {
+        "word": "fade",
+        "type": "verb",
+        "definition": {
+          "chinese": "逐渐消失；褪色",
+          "english": "To gradually lose color, strength, or importance."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感提示",
+        "explanation": "‘Languish’ 常用于正式或文学语境，带有缓慢消耗、无人问津的无力感。"
+      },
+      {
+        "point": "搭配",
+        "explanation": "常见搭配有 languish in jail/prison（在狱中长期受苦）、languish for years（多年被搁置）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘languere’，意为‘变软弱’或‘无力’，最初仅指身体衰弱，后延伸至抽象含义如失去活力、被忽视。",
+      "explanation_english": "From Latin ‘languere’ meaning ‘to be weak or faint’; originally physical weakness, later extended to abstract ideas like neglect and decline."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，稍偏书面化或文学化。",
+      "american": "同样常用于正式语境，也用于新闻或社会议题报道（如 languishing schools, languishing reforms）。"
+    }
+  },
+  {
+    "word": "premature",
+    "pronunciation": {
+      "british": "/ˌpriː.məˈtʃʊə/ 或 /ˌpriː.məˈtjʊə/ 🇬🇧",
+      "american": "/ˌpriː.məˈtʊr/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：‘premature’ 常指“过早的；提前的”，可用在医学、判断、死亡、决定等语境。",
+    "meanings": [
+      {
+        "type": "adjective (literal)",
+        "definition": {
+          "chinese": "早产的",
+          "english": "Born before the usual time of gestation."
+        },
+        "examples": [
+          {
+            "sentence": "The baby was born five weeks premature.",
+            "translation": "这个婴儿早产了五周。"
+          },
+          {
+            "sentence": "Premature infants often need special care.",
+            "translation": "早产儿通常需要特殊护理。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (figurative)",
+        "definition": {
+          "chinese": "过早的；仓促的",
+          "english": "Happening before the appropriate time; too early and possibly unwise."
+        },
+        "examples": [
+          {
+            "sentence": "It’s too early to make a premature judgment.",
+            "translation": "现在做出过早的判断还为时尚早。"
+          },
+          {
+            "sentence": "His premature death shocked everyone.",
+            "translation": "他的英年早逝让所有人震惊。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "early",
+        "type": "adjective",
+        "definition": {
+          "chinese": "早的；提前的",
+          "english": "Happening before the expected or usual time."
+        }
+      },
+      {
+        "word": "hasty",
+        "type": "adjective",
+        "definition": {
+          "chinese": "仓促的；草率的",
+          "english": "Done too quickly, often without enough thought."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学与日常双重用法",
+        "explanation": "医学中专指‘早产’；日常语境用于形容决定、反应或死亡等“过早发生”的事。"
+      },
+      {
+        "point": "情感色彩",
+        "explanation": "常带轻微负面或遗憾语气，暗示事情原本应更晚发生。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于拉丁语‘praematurus’，意为‘比成熟期早的’，医学用义与比喻用义都由此引申而来。",
+      "explanation_english": "From Latin ‘praematurus’ meaning ‘too early’; medical and figurative senses both evolved from this root."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致，但在口语中更常使用 ‘early’ 替代。",
+      "american": "常见于正式场合和医学报告，也在日常口语中使用。"
+    }
+  },
+  {
+    "word": "eat away",
+    "pronunciation": {
+      "british": "/iːt əˈweɪ/ 🇬🇧",
+      "american": "/iːt əˈweɪ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：‘eat away’ 表示“逐渐腐蚀、侵蚀”，既可用于物理上的侵蚀，也可比喻情感、信心等被一点点消耗。",
+    "meanings": [
+      {
+        "type": "phrasal verb (literal)",
+        "definition": {
+          "chinese": "侵蚀；腐蚀",
+          "english": "To gradually damage or destroy something by chemical action or physical wear."
+        },
+        "examples": [
+          {
+            "sentence": "Acid rain can eat away at the stone of old buildings.",
+            "translation": "酸雨会逐渐侵蚀古建筑的石头。"
+          },
+          {
+            "sentence": "The sea slowly ate away the coastline.",
+            "translation": "海水慢慢侵蚀海岸线。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb (figurative)",
+        "definition": {
+          "chinese": "逐渐消耗（信心、情绪、耐心等）",
+          "english": "To gradually reduce or undermine something abstract like confidence, patience, or morale."
+        },
+        "examples": [
+          {
+            "sentence": "Her constant worries began to eat away at her happiness.",
+            "translation": "她不断的担忧开始消磨她的幸福感。"
+          },
+          {
+            "sentence": "The uncertainty is eating away at everyone's nerves.",
+            "translation": "不确定性正在一点点消耗大家的神经。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "erode",
+        "type": "verb",
+        "definition": {
+          "chinese": "侵蚀；削弱",
+          "english": "To gradually wear away or weaken."
+        }
+      },
+      {
+        "word": "wear down",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "磨损；耗尽",
+          "english": "To gradually reduce the strength, confidence, or power of something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见结构",
+        "explanation": "常与介词 ‘at’ 连用：eat away at sth.；也可直接作及物短语动词：eat away the wood."
+      },
+      {
+        "point": "语气特点",
+        "explanation": "强调过程缓慢但持续，通常带有负面意义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Eat away’ 源于‘吃’的具体动作，形象地比喻一点点蚕食或削弱，后衍生出对抽象事物的消耗意义。",
+      "explanation_english": "Comes from the literal idea of eating gradually, then extended metaphorically to describe slow reduction of abstract things like confidence."
+    },
+    "variation_between_british_american": {
+      "british": "与美式用法相同，多见于文学或新闻报道中。",
+      "american": "用法一致，在口语中也很常用，特别是 ‘eat away at’ 表示情绪消磨。"
+    }
+  },
+  {
+    "word": "overall",
+    "pronunciation": {
+      "british": "/ˈəʊ.vər.ɔːl/ 🇬🇧",
+      "american": "/ˈoʊ.vɚ.ɔːl/ 🇺🇸"
+    },
+    "phrase_type": "adjective / adverb / noun 形容词 / 副词 / 名词",
+    "usage": "常用 👍：‘overall’ 用作形容词或副词表示“总体的/总体上”，还可作名词指工作时穿的连体工作服（常用复数形式 overalls）。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "总体的；全面的",
+          "english": "Considering or including everything; general or total."
+        },
+        "examples": [
+          {
+            "sentence": "The overall cost of the project is very high.",
+            "translation": "这个项目的总成本非常高。"
+          },
+          {
+            "sentence": "Overall quality has improved this year.",
+            "translation": "今年的整体质量有所提高。"
+          }
+        ]
+      },
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "总体上；大体上",
+          "english": "Generally; when everything is considered."
+        },
+        "examples": [
+          {
+            "sentence": "Overall, I think the event was a success.",
+            "translation": "总体来说，我觉得这次活动是成功的。"
+          },
+          {
+            "sentence": "Overall, sales are up compared to last year.",
+            "translation": "总体来看，销售额比去年有所增加。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "工装；工作服（常用复数 overalls）",
+          "english": "A piece of clothing covering the whole body, worn over other clothes to protect them, especially while working."
+        },
+        "examples": [
+          {
+            "sentence": "He wore a pair of blue overalls in the workshop.",
+            "translation": "他在车间穿着一条蓝色的连体工作服。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "general",
+        "type": "adjective",
+        "definition": {
+          "chinese": "总体的；普遍的",
+          "english": "Including or affecting all or nearly all."
+        }
+      },
+      {
+        "word": "total",
+        "type": "adjective / noun",
+        "definition": {
+          "chinese": "总的；总数",
+          "english": "The whole number or amount."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法提示",
+        "explanation": "用作形容词通常放在名词前（overall cost），用作副词通常放在句首或句尾（Overall, ... / ... overall）。"
+      },
+      {
+        "point": "美式与英式差异",
+        "explanation": "‘Overalls’ 在美式里也特指带背带的牛仔工装裤；英式则更广义表示工作时的防护服。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初来自‘over all’（覆盖在…之上），作为名词指覆盖全身的衣服；后来引申为“总体的”或“总的来说”。",
+      "explanation_english": "Originally from the phrase ‘over all’ meaning ‘covering everything’; extended metaphorically to mean ‘general’ or ‘total’."
+    },
+    "variation_between_british_american": {
+      "british": "‘Overalls’ 可指任何连体工作服；形容词和副词用法与美式一致。",
+      "american": "‘Overalls’ 通常特指有背带的牛仔工装裤（bib overalls）；形容词/副词用法广泛且常见。"
+    }
   }
 ]
 
