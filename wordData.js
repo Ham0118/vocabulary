@@ -12711,7 +12711,149 @@ const wordData = [
       "british": "用法与美式相同；在职场、生活成本和青少年心理健康话题中常出现。",
       "american": "同样常用；也经常出现在心理学和社会学讨论中，如 job insecurity, food insecurity。"
     }
-  }
+  },
+  {
+    "word": "wear off",
+    "pronunciation": {
+      "british": "/weər ɒf/ 🇬🇧",
+      "american": "/wer ɔːf/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：‘wear off’ 用来表示药效、感觉、疼痛或情绪等随着时间慢慢消失或减弱，非常口语化也常见。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "逐渐消失；逐渐减弱",
+          "english": "To gradually disappear or become less strong."
+        },
+        "examples": [
+          {
+            "sentence": "The effect of the medicine will wear off after a few hours.",
+            "translation": "药效几小时后会逐渐消失。"
+          },
+          {
+            "sentence": "His excitement wore off quickly.",
+            "translation": "他的兴奋很快就消退了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "the pain wears off",
+      "the effect wears off",
+      "the excitement wears off",
+      "the novelty wears off",
+      "wait for it to wear off"
+    ],
+    "related_words": [
+      {
+        "word": "fade",
+        "type": "verb",
+        "definition": {
+          "chinese": "褪去；逐渐消失",
+          "english": "To slowly disappear or lose strength or color."
+        }
+      },
+      {
+        "word": "subside",
+        "type": "verb",
+        "definition": {
+          "chinese": "平息；减弱",
+          "english": "To become less intense, violent, or severe."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "通常是描述自然、缓慢的过程，而非突然中断。"
+      },
+      {
+        "point": "主语多为感觉或药效",
+        "explanation": "常用于 pain, effect, excitement, novelty 等。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Wear’ 本意是“磨损”，‘wear off’ 引申为随着时间推移而消退或减弱。",
+      "explanation_english": "Originally from ‘wear’ meaning ‘to erode or diminish by use or time’; ‘wear off’ metaphorically means something gradually disappears."
+    },
+    "variation_between_british_american": {
+      "british": "与美式用法一致，在日常口语中非常常见。",
+      "american": "同样常用，尤其是描述药效、感觉或情绪逐渐消失。"
+    }
+  },
+  {
+    "word": "long shot",
+    "pronunciation": {
+      "british": "/ˈlɒŋ ʃɒt/ 🇬🇧",
+      "american": "/ˈlɔːŋ ʃɑːt/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词短语",
+    "usage": "常用 👍：‘a long shot’ 指成功机会很小但仍值得一试的尝试，用于生活、工作和讨论中都很自然。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "机会渺茫的尝试",
+          "english": "An attempt or guess that has little chance of success but might be worth trying."
+        },
+        "examples": [
+          {
+            "sentence": "It’s a long shot, but we might finish the project on time.",
+            "translation": "这可能性不大，但我们或许能按时完成项目。"
+          },
+          {
+            "sentence": "He applied for the job even though he knew it was a long shot.",
+            "translation": "虽然他知道希望渺茫，但还是申请了这份工作。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "take a long shot",
+      "it's a long shot, but...",
+      "seems like a long shot",
+      "worth a long shot",
+      "by any long shot (更少见)"
+    ],
+    "related_words": [
+      {
+        "word": "outside chance",
+        "type": "noun",
+        "definition": {
+          "chinese": "极小的机会",
+          "english": "A very small possibility of success."
+        }
+      },
+      {
+        "word": "shot in the dark",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "瞎猜；碰运气的尝试",
+          "english": "A wild guess or an attempt without much information or hope."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "感情色彩",
+        "explanation": "常带有轻松、积极的语气：虽然机会小，但还是值得一试。"
+      },
+      {
+        "point": "影视用法",
+        "explanation": "电影拍摄中 ‘long shot’ 也指远景镜头，但口语里更常指可能性小的尝试。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原本来源于射击或赛马术语，指需要非常远距离命中目标，因此成功概率很低。",
+      "explanation_english": "Originated from shooting or horse racing, where hitting or winning from a long distance had a very low chance of success."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式基本相同，也常用在生活对话和媒体中。",
+      "american": "非常常用，尤其是表达工作、生活、商业中的冒险或低概率尝试。"
+    }
+  },
 ]
 
 
