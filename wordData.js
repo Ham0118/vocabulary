@@ -11869,6 +11869,848 @@ const wordData = [
       "british": "‘Overalls’ 可指任何连体工作服；形容词和副词用法与美式一致。",
       "american": "‘Overalls’ 通常特指有背带的牛仔工装裤（bib overalls）；形容词/副词用法广泛且常见。"
     }
+  },
+  {
+    "word": "contaminate",
+    "pronunciation": {
+      "british": "/kənˈtæm.ɪ.neɪt/ 🇬🇧",
+      "american": "/kənˈtæm.ə.neɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：‘contaminate’ 常表示“污染、弄脏”，既可用于环境、食物等具体事物，也可用于抽象概念如名声、思想等。",
+    "meanings": [
+      {
+        "type": "verb (literal)",
+        "definition": {
+          "chinese": "污染；弄脏",
+          "english": "To make something dirty, impure, or harmful by adding something unwanted or dangerous."
+        },
+        "examples": [
+          {
+            "sentence": "Chemicals from the factory have contaminated the river.",
+            "translation": "工厂排放的化学物质污染了这条河流。"
+          },
+          {
+            "sentence": "Be careful not to contaminate the drinking water.",
+            "translation": "注意不要污染饮用水。"
+          }
+        ]
+      },
+      {
+        "type": "verb (figurative)",
+        "definition": {
+          "chinese": "玷污；败坏（名声、思想等）",
+          "english": "To spoil the character, purity, or quality of something non-physical."
+        },
+        "examples": [
+          {
+            "sentence": "Greed can contaminate even the best intentions.",
+            "translation": "贪婪甚至会玷污最好的初衷。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "contaminate water / drinking water / rivers / lakes",
+      "contaminate food / crops",
+      "contaminate soil / land",
+      "contaminate evidence / sample",
+      "contaminate reputation / mind (figurative)"
+    ],
+    "related_words": [
+      {
+        "word": "pollute",
+        "type": "verb",
+        "definition": {
+          "chinese": "污染",
+          "english": "To make air, water, or land dirty and dangerous."
+        }
+      },
+      {
+        "word": "taint",
+        "type": "verb",
+        "definition": {
+          "chinese": "玷污；使感染",
+          "english": "To damage or spoil the quality or reputation of something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语体风格",
+        "explanation": "‘Contaminate’ 比 ‘pollute’ 更正式，多用于科学、医学或法律文中。"
+      },
+      {
+        "point": "语气",
+        "explanation": "通常带有消极甚至危险的意味，暗示后果比较严重。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来源于拉丁语 ‘contaminare’，原意是“弄脏”，后来引申到抽象意义上的“玷污”。",
+      "explanation_english": "From Latin ‘contaminare’ meaning ‘to make unclean’; originally about physical impurity, then extended metaphorically to reputation or ideas."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致，广泛用于环境、食品安全话题。",
+      "american": "同样常用于新闻、学术、法律等正式场合，也用于比喻语境。"
+    }
+  },
+  {
+    "word": "systematic",
+    "pronunciation": {
+      "british": "/ˌsɪs.təˈmæt.ɪk/ 🇬🇧",
+      "american": "/ˌsɪs.təˈmæt.ɪk/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：‘systematic’ 指做事有条理、有计划，按系统或方法进行；常用于正式/学术/工作场合，表达“系统化的、成体系的”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "有系统的；有条理的；系统化的",
+          "english": "Done or acting according to a fixed plan or system; methodical."
+        },
+        "examples": [
+          {
+            "sentence": "We need a more systematic approach to solving this problem.",
+            "translation": "我们需要一种更系统的方法来解决这个问题。"
+          },
+          {
+            "sentence": "She made a systematic study of the language over several years.",
+            "translation": "她用了几年时间系统地学习这门语言。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "systematic approach / method / review",
+      "systematic analysis / study / research",
+      "systematic effort / plan / process",
+      "systematic training / investigation"
+    ],
+    "related_words": [
+      {
+        "word": "methodical",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有条理的；有步骤的",
+          "english": "Done in an orderly and careful way."
+        }
+      },
+      {
+        "word": "organized",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有组织的；有条理的",
+          "english": "Arranged in a systematic way, especially on a large scale."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气风格",
+        "explanation": "‘Systematic’ 在学术、科学研究和商业报告中很常见，显得更专业。"
+      },
+      {
+        "point": "区别",
+        "explanation": "‘Systematic’ 强调遵循系统或固定方法；‘systemic’ 则多指影响整个系统（如 systemic risk, systemic disease）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源来自拉丁语 ‘systematicus’，最初指‘属于一个系统的’，原义就是结构化、成体系。",
+      "explanation_english": "From Latin ‘systematicus’, meaning ‘of or pertaining to a system’; original sense kept its focus on structure and method."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，经常出现在科研论文或正式报告中。",
+      "american": "用法一致，也常见于管理、商业策略等正式语境。"
+    }
+  },
+  {
+    "word": "exposure",
+    "pronunciation": {
+      "british": "/ɪkˈspəʊ.ʒər/ 🇬🇧",
+      "american": "/ɪkˈspoʊ.ʒɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘exposure’ 常指“接触”“暴露”，既可用在具体（如阳光、危险、辐射）也可用在抽象（媒体曝光、接触文化等）语境，是正式又常用的词。",
+    "meanings": [
+      {
+        "type": "noun (being exposed to something harmful or dangerous)",
+        "definition": {
+          "chinese": "暴露（于危险、有害环境等）",
+          "english": "The state of being in a place or situation where there is no protection from something harmful or unpleasant."
+        },
+        "examples": [
+          {
+            "sentence": "Prolonged exposure to the sun can cause skin damage.",
+            "translation": "长时间暴露在阳光下会对皮肤造成伤害。"
+          },
+          {
+            "sentence": "Workers complained about exposure to toxic chemicals.",
+            "translation": "工人们抱怨接触有毒化学物质。"
+          }
+        ]
+      },
+      {
+        "type": "noun (public attention)",
+        "definition": {
+          "chinese": "（媒体）曝光；宣传",
+          "english": "The attention that someone or something gets in the media or public."
+        },
+        "examples": [
+          {
+            "sentence": "The new brand got a lot of media exposure.",
+            "translation": "这个新品牌获得了大量媒体曝光。"
+          },
+          {
+            "sentence": "The scandal received widespread exposure.",
+            "translation": "这起丑闻受到了广泛关注。"
+          }
+        ]
+      },
+      {
+        "type": "noun (experience)",
+        "definition": {
+          "chinese": "接触；体验",
+          "english": "The fact of experiencing something new or different, often to learn from it."
+        },
+        "examples": [
+          {
+            "sentence": "Children need exposure to different cultures.",
+            "translation": "孩子们需要接触不同的文化。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "exposure to sunlight / radiation / chemicals",
+      "media exposure / press exposure",
+      "gain exposure / get exposure",
+      "limited / high / maximum exposure",
+      "exposure time (摄影里的曝光时间)"
+    ],
+    "related_words": [
+      {
+        "word": "disclosure",
+        "type": "noun",
+        "definition": {
+          "chinese": "披露；公开",
+          "english": "The action of making new or secret information known."
+        }
+      },
+      {
+        "word": "contact",
+        "type": "noun",
+        "definition": {
+          "chinese": "接触",
+          "english": "The state or condition of touching or meeting."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "摄影术语",
+        "explanation": "在摄影中，‘exposure’ 还指‘曝光量’（决定照片明暗）。"
+      },
+      {
+        "point": "中性或负面",
+        "explanation": "‘Exposure’ 本身中性，但和危险/毒物搭配时带负面意义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初来自拉丁语 ‘exponere’，意为‘放在外面’，引申为具体的暴露和抽象的曝光。",
+      "explanation_english": "From Latin ‘exponere’ meaning ‘to put out’; evolved to mean both physical exposure and abstract publicity."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致；在新闻、医疗、教育中都常用。",
+      "american": "同样高频使用；也在商业和市场营销中用来指品牌曝光。"
+    }
+  },
+  {
+    "word": "diameter",
+    "pronunciation": {
+      "british": "/daɪˈæm.ɪ.tər/ 🇬🇧",
+      "american": "/daɪˈæm.ə.t̬ɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘diameter’ 是几何学、工程学和日常生活中都非常常用的词，指“直径”，即通过圆心连接圆上两点的直线长度。",
+    "meanings": [
+      {
+        "type": "noun (geometry)",
+        "definition": {
+          "chinese": "直径",
+          "english": "A straight line passing from side to side through the center of a circle or sphere."
+        },
+        "examples": [
+          {
+            "sentence": "The diameter of the circle is 10 centimeters.",
+            "translation": "这个圆的直径是10厘米。"
+          },
+          {
+            "sentence": "Measure the diameter to find the size of the pipe.",
+            "translation": "测量直径来确定管子的大小。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "measure the diameter",
+      "the diameter of a circle / pipe / lens / wheel",
+      "outer diameter / inner diameter",
+      "large / small diameter",
+      "diameter and radius"
+    ],
+    "related_words": [
+      {
+        "word": "radius",
+        "type": "noun",
+        "definition": {
+          "chinese": "半径",
+          "english": "A line from the center of a circle to any point on its circumference."
+        }
+      },
+      {
+        "word": "circumference",
+        "type": "noun",
+        "definition": {
+          "chinese": "圆周；周长",
+          "english": "The distance around the edge of a circle."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "数学公式",
+        "explanation": "直径 = 半径 × 2；符号常用 ‘D’ 表示。"
+      },
+      {
+        "point": "生活用法",
+        "explanation": "在描述盘子、轮胎、水管等物体的大小时经常用 diameter，而不是 width。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊语 ‘diametros’，意思是“测量对面”，本义就是连接圆两边、通过中心的线；没有其他引申含义。",
+      "explanation_english": "From Greek ‘diametros’ meaning ‘measuring across’; originally and still specifically about geometry or round objects."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，多用于工程、数学和日常度量。",
+      "american": "同样常用；在生活场景（比如买锅具、管道）中也经常提到 diameter。"
+    }
+  },
+  {
+    "word": "brew",
+    "pronunciation": {
+      "british": "/bruː/ 🇬🇧",
+      "american": "/bruː/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词 / noun 名词",
+    "usage": "常用 👍：‘brew’ 原指“酿造啤酒”或“冲泡茶/咖啡”，也可引申为“酝酿（事态、情绪等）”。在英式口语中，名词 ‘brew’ 还常指一杯茶或咖啡。",
+    "meanings": [
+      {
+        "type": "verb (make drink)",
+        "definition": {
+          "chinese": "酿造；冲泡（茶或咖啡）",
+          "english": "To make beer by soaking, boiling, and fermentation; or to make tea or coffee by mixing it with hot water."
+        },
+        "examples": [
+          {
+            "sentence": "She brewed a fresh pot of coffee.",
+            "translation": "她冲泡了一壶新鲜咖啡。"
+          },
+          {
+            "sentence": "This beer is brewed locally.",
+            "translation": "这款啤酒是本地酿造的。"
+          }
+        ]
+      },
+      {
+        "type": "verb (figurative)",
+        "definition": {
+          "chinese": "酝酿；即将发生（常指坏事）",
+          "english": "To start to form or develop, often something bad or unpleasant."
+        },
+        "examples": [
+          {
+            "sentence": "A storm is brewing on the horizon.",
+            "translation": "地平线上正酝酿着一场风暴。"
+          },
+          {
+            "sentence": "Trouble had been brewing for weeks.",
+            "translation": "麻烦已经酝酿了好几个星期。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "饮品；（尤指）一杯茶/咖啡",
+          "english": "A drink made by brewing, especially a cup of tea or coffee."
+        },
+        "examples": [
+          {
+            "sentence": "Would you like a brew?",
+            "translation": "想来杯茶吗？"
+          },
+          {
+            "sentence": "That’s a strong brew!",
+            "translation": "这茶泡得挺浓啊！"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "brew tea / coffee / beer",
+      "freshly brewed coffee",
+      "a storm is brewing",
+      "trouble is brewing",
+      "have a brew (英式口语)"
+    ],
+    "related_words": [
+      {
+        "word": "infuse",
+        "type": "verb",
+        "definition": {
+          "chinese": "泡制；浸泡",
+          "english": "To steep something (like tea leaves) in liquid to extract flavor."
+        }
+      },
+      {
+        "word": "ferment",
+        "type": "verb",
+        "definition": {
+          "chinese": "发酵",
+          "english": "To undergo or cause to undergo fermentation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "英式用法",
+        "explanation": "在英式英语里，‘brew’ 很常指一杯茶（更少用来指咖啡）。"
+      },
+      {
+        "point": "比喻用法",
+        "explanation": "‘Something is brewing’ 常用来比喻危机或冲突正在形成。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指‘煮、酿造’，后来引申为任何需要‘慢慢形成’的东西，包括情绪或事件。",
+      "explanation_english": "Originally meant ‘to boil or ferment’; later metaphorically extended to things that develop or build up over time."
+    },
+    "variation_between_british_american": {
+      "british": "名词 ‘brew’ 更常用指一杯茶（比如 ‘fancy a brew?’）。",
+      "american": "‘Brew’ 更多指咖啡或啤酒本身；‘brew a cup of coffee’ 很常用。"
+    }
+  },
+  {
+    "word": "carton",
+    "pronunciation": {
+      "british": "/ˈkɑː.tən/ 🇬🇧",
+      "american": "/ˈkɑːr.tən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘carton’ 常指装液体、食品或小物件的纸板盒或硬纸盒，比如牛奶盒、果汁盒等。在批量包装中也可指一大箱装的纸箱（比 box 正式些）。",
+    "meanings": [
+      {
+        "type": "noun (container)",
+        "definition": {
+          "chinese": "纸板盒；硬纸盒",
+          "english": "A light cardboard or plastic container, especially for food and drink."
+        },
+        "examples": [
+          {
+            "sentence": "He bought a carton of milk.",
+            "translation": "他买了一盒牛奶。"
+          },
+          {
+            "sentence": "Please throw the empty juice cartons into the recycling bin.",
+            "translation": "请把空的果汁盒扔进回收桶。"
+          }
+        ]
+      },
+      {
+        "type": "noun (large box for shipping)",
+        "definition": {
+          "chinese": "（运送货物用的）大纸箱",
+          "english": "A large cardboard box used for packing and shipping goods."
+        },
+        "examples": [
+          {
+            "sentence": "The books arrived packed in large cartons.",
+            "translation": "这些书装在大纸箱里运到的。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "a carton of milk / juice / eggs",
+      "empty / full carton",
+      "cardboard carton",
+      "large / small carton",
+      "pack in cartons / ship in cartons"
+    ],
+    "related_words": [
+      {
+        "word": "box",
+        "type": "noun",
+        "definition": {
+          "chinese": "盒子；箱子",
+          "english": "A container with flat sides and a lid."
+        }
+      },
+      {
+        "word": "package",
+        "type": "noun",
+        "definition": {
+          "chinese": "包裹",
+          "english": "A wrapped or boxed object; something prepared for shipping."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "日常区别",
+        "explanation": "‘Carton’ 多指轻便的硬纸盒或食品饮料容器；‘box’ 是更通用的词，可指各种形状和材料的盒子。"
+      },
+      {
+        "point": "发音提示",
+        "explanation": "英式发音 /ˈkɑː.tən/ 末尾 -ton 较轻；美式则更清晰读出 /ˈkɑːr.tən/。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初来自意大利语 ‘cartone’，意为“厚纸或纸板”，所以一开始就表示纸板容器，后扩展到运输用的大纸箱。",
+      "explanation_english": "From Italian ‘cartone’ meaning ‘thick paper or cardboard’; originally meant a paper container, later also large boxes for shipping."
+    },
+    "variation_between_british_american": {
+      "british": "‘Carton’ 在超市常用来指牛奶盒或果汁盒。",
+      "american": "同样用来指牛奶盒，但在日常口语里有时也简单说 ‘box of milk’；‘carton of cigarettes’ 在美式也常用。"
+    }
+  },
+  {
+    "word": "inequality",
+    "pronunciation": {
+      "british": "/ˌɪn.ɪˈkwɒl.ə.ti/ 🇬🇧",
+      "american": "/ˌɪn.ɪˈkwɑː.lə.ti/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘inequality’ 常指不平等、不公平，既可以用于社会学、经济学（收入不平等、机会不平等），也可以在数学中指“不等式”。",
+    "meanings": [
+      {
+        "type": "noun (social/economic context)",
+        "definition": {
+          "chinese": "不平等；不公平",
+          "english": "An unfair situation in society when some people have more opportunities, money, or rights than others."
+        },
+        "examples": [
+          {
+            "sentence": "The government is trying to reduce income inequality.",
+            "translation": "政府正努力减少收入不平等。"
+          },
+          {
+            "sentence": "Gender inequality is still a major issue in many countries.",
+            "translation": "性别不平等在许多国家仍然是一个重要问题。"
+          }
+        ]
+      },
+      {
+        "type": "noun (mathematics)",
+        "definition": {
+          "chinese": "不等式",
+          "english": "A mathematical statement showing that two expressions are not equal, using signs like <, >, ≤, or ≥."
+        },
+        "examples": [
+          {
+            "sentence": "Solve the inequality x + 3 > 7.",
+            "translation": "解这个不等式：x + 3 > 7。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "income inequality",
+      "social / economic inequality",
+      "gender / racial inequality",
+      "reduce / address / tackle inequality",
+      "widening / growing inequality"
+    ],
+    "related_words": [
+      {
+        "word": "disparity",
+        "type": "noun",
+        "definition": {
+          "chinese": "差距；悬殊",
+          "english": "A great difference, often used to describe inequality in numbers or amounts."
+        }
+      },
+      {
+        "word": "unfairness",
+        "type": "noun",
+        "definition": {
+          "chinese": "不公平",
+          "english": "The quality or state of being unfair or unjust."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用语境",
+        "explanation": "最常用于描述社会问题，如收入、性别、教育等领域的不平等。"
+      },
+      {
+        "point": "数学用法",
+        "explanation": "数学中是中性词，只表示两个数值或表达式不相等。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本义是“状态不相等”，自然延伸为社会经济上的不公平，也用于数学表示大小关系。",
+      "explanation_english": "Originally meant ‘the state of being unequal’; extended to social/economic unfairness and used technically in math."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，在公共政策和社会学中高频出现。",
+      "american": "同样常用；也特别强调 racial inequality 和 income inequality 的讨论。"
+    }
+  },
+  {
+    "word": "workforce",
+    "pronunciation": {
+      "british": "/ˈwɜːk.fɔːs/ 🇬🇧",
+      "american": "/ˈwɝːk.fɔːrs/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘workforce’ 指“劳动人口；全体员工”，既可以指一个国家、行业的总劳动力，也可以指某个公司的所有员工。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "劳动人口；员工总数",
+          "english": "All the people who work for a particular company, organization, or country."
+        },
+        "examples": [
+          {
+            "sentence": "The factory employs a workforce of 500.",
+            "translation": "这家工厂雇佣了500名员工。"
+          },
+          {
+            "sentence": "Women now make up almost half of the workforce.",
+            "translation": "如今女性几乎占劳动力总数的一半。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "the global / national / local workforce",
+      "skilled / unskilled workforce",
+      "diverse workforce",
+      "workforce development / reduction / planning",
+      "join / enter / leave the workforce"
+    ],
+    "related_words": [
+      {
+        "word": "labor force",
+        "type": "noun",
+        "definition": {
+          "chinese": "劳动力（经济学上术语）",
+          "english": "The total number of people available to work, especially those actively seeking work."
+        }
+      },
+      {
+        "word": "staff",
+        "type": "noun",
+        "definition": {
+          "chinese": "（公司或机构的）全体员工",
+          "english": "All the people employed by a particular organization."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "搭配范围",
+        "explanation": "既可以指一个组织内部的员工，也可以泛指社会或国家层面的劳动人口。"
+      },
+      {
+        "point": "常用修饰词",
+        "explanation": "比如 skilled workforce（熟练劳动力）、aging workforce（劳动力老龄化）等。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘work’（工作）+ ‘force’（力量、群体）组成，原本就指从事工作的群体，因此含义较单一。",
+      "explanation_english": "Formed from ‘work’ + ‘force’, meaning the collective group doing work; meaning remains focused on people who work."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式几乎一致，经常在政府和经济报告中使用。",
+      "american": "同样常用；在商业、管理、人力资源等领域高频出现。"
+    }
+  },
+  {
+    "word": "cite",
+    "pronunciation": {
+      "british": "/saɪt/ 🇬🇧",
+      "american": "/saɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：‘cite’ 最常用于学术、法律或正式写作里，表示“引用、提及、举例说明”，也可以指在官方文件中“传唤”。",
+    "meanings": [
+      {
+        "type": "verb (mention as evidence)",
+        "definition": {
+          "chinese": "引用；引述；举例",
+          "english": "To mention something as an example, evidence, or reason to support an argument or idea."
+        },
+        "examples": [
+          {
+            "sentence": "She cited several studies to support her theory.",
+            "translation": "她引用了几项研究来支持她的理论。"
+          },
+          {
+            "sentence": "The article cites the mayor’s speech on climate change.",
+            "translation": "这篇文章引用了市长关于气候变化的演讲。"
+          }
+        ]
+      },
+      {
+        "type": "verb (officially order to appear in court)",
+        "definition": {
+          "chinese": "传讯；传唤",
+          "english": "To order someone officially to appear in a court of law."
+        },
+        "examples": [
+          {
+            "sentence": "He was cited for contempt of court.",
+            "translation": "他因藐视法庭被传讯。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "cite an example / case / instance",
+      "cite evidence / sources / reasons",
+      "cite a study / report / article",
+      "be cited for (法律用法)",
+      "as cited in (引用中用到)"
+    ],
+    "related_words": [
+      {
+        "word": "quote",
+        "type": "verb",
+        "definition": {
+          "chinese": "引用（具体原话）",
+          "english": "To repeat exactly what someone else has said or written."
+        }
+      },
+      {
+        "word": "reference",
+        "type": "verb / noun",
+        "definition": {
+          "chinese": "提及；参考",
+          "english": "To mention or allude to something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "学术用法",
+        "explanation": "‘Cite’ 常用于论文写作中，指明出处，体现学术诚信。"
+      },
+      {
+        "point": "quote 与 cite 区别",
+        "explanation": "‘Quote’ 通常是逐字引用；‘cite’ 更强调指出来源或引用观点。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘citare’，意为“召唤、呼喊”，后来既指‘法律上的传唤’，也引申为‘引用提及’。",
+      "explanation_english": "From Latin ‘citare’ meaning ‘to summon or call’; extended from legal sense to academic and general use of mentioning sources."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致；学术、新闻和法律场景都常用。",
+      "american": "同样常用；在美式法律中 ‘be cited’ 也可指收到罚单（如交通违规）。"
+    }
+  },
+  {
+    "word": "insecurity",
+    "pronunciation": {
+      "british": "/ˌɪn.sɪˈkjʊə.rə.ti/ 🇬🇧",
+      "american": "/ˌɪn.səˈkjʊr.ə.ti/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘insecurity’ 指缺乏安全感、不安或自我怀疑，可以用在情绪、生活条件或工作环境上，是很常用的抽象名词。",
+    "meanings": [
+      {
+        "type": "noun (emotional state)",
+        "definition": {
+          "chinese": "不安全感；缺乏自信",
+          "english": "A feeling of uncertainty, anxiety, or lack of confidence in oneself."
+        },
+        "examples": [
+          {
+            "sentence": "His constant insecurity made it hard for him to trust others.",
+            "translation": "他持续的缺乏安全感让他很难信任别人。"
+          },
+          {
+            "sentence": "Many teenagers struggle with feelings of insecurity.",
+            "translation": "很多青少年都在与不安全感作斗争。"
+          }
+        ]
+      },
+      {
+        "type": "noun (situation)",
+        "definition": {
+          "chinese": "不稳定；不安全（环境或状况）",
+          "english": "The state of being unsafe or unstable, for example in employment or living conditions."
+        },
+        "examples": [
+          {
+            "sentence": "Job insecurity is a major source of stress.",
+            "translation": "工作不稳定是压力的主要来源。"
+          },
+          {
+            "sentence": "Food insecurity affects millions worldwide.",
+            "translation": "粮食不安全影响着全世界数百万人。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "feel insecurity / struggle with insecurity",
+      "job insecurity",
+      "emotional insecurity",
+      "deep / constant / chronic insecurity",
+      "overcome insecurity"
+    ],
+    "related_words": [
+      {
+        "word": "uncertainty",
+        "type": "noun",
+        "definition": {
+          "chinese": "不确定；不安",
+          "english": "The state of being unsure or not knowing what will happen."
+        }
+      },
+      {
+        "word": "vulnerability",
+        "type": "noun",
+        "definition": {
+          "chinese": "脆弱；易受伤",
+          "english": "The quality of being easily hurt or attacked, physically or emotionally."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "感情色彩",
+        "explanation": "多为负面情绪，但也可用于社会学或经济学中客观描述（如 food insecurity）。"
+      },
+      {
+        "point": "与 insecure 对比",
+        "explanation": "‘Insecure’ 是形容词，描述人或事物；‘insecurity’ 是名词，指具体的感觉或状态。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指‘不安全的状态’，后来引申出心理层面对自我的不信任或不确定感。",
+      "explanation_english": "Originally meant ‘lack of safety’, later extended metaphorically to feelings of doubt or low self-confidence."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同；在职场、生活成本和青少年心理健康话题中常出现。",
+      "american": "同样常用；也经常出现在心理学和社会学讨论中，如 job insecurity, food insecurity。"
+    }
   }
 ]
 
