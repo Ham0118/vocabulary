@@ -12854,6 +12854,590 @@ const wordData = [
       "american": "非常常用，尤其是表达工作、生活、商业中的冒险或低概率尝试。"
     }
   },
+  {
+    "word": "role model",
+    "pronunciation": {
+      "british": "/ˈrəʊl ˌmɒd.əl/ 🇬🇧",
+      "american": "/ˈroʊl ˌmɑː.dəl/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词短语",
+    "usage": "常用 👍：‘role model’ 指被他人模仿或仰慕的榜样人物，常用于教育、成长、管理等语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "榜样；楷模",
+          "english": "A person admired by others and whose behavior is emulated or copied."
+        },
+        "examples": [
+          {
+            "sentence": "She is a positive role model for young women everywhere.",
+            "translation": "她是全世界年轻女性的积极榜样。"
+          },
+          {
+            "sentence": "Parents should try to be good role models for their children.",
+            "translation": "父母应努力成为孩子的好榜样。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "be / become a role model",
+      "positive / negative role model",
+      "act as a role model",
+      "look up to a role model",
+      "serve as a role model"
+    ],
+    "related_words": [
+      {
+        "word": "mentor",
+        "type": "noun",
+        "definition": {
+          "chinese": "导师；指导者",
+          "english": "An experienced and trusted adviser."
+        }
+      },
+      {
+        "word": "idol",
+        "type": "noun",
+        "definition": {
+          "chinese": "偶像",
+          "english": "A person who is greatly admired or loved, often famous."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "通常带有积极、尊敬的含义，但也可以说 someone is a negative role model（反面榜样）。"
+      },
+      {
+        "point": "生活场景",
+        "explanation": "常用于教育、家庭、职场或公众人物等语境。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源来自心理学，指在人格发展中可供模仿的社会榜样。",
+      "explanation_english": "Originates from psychology, describing someone whose behavior is modeled by others during development."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式相同，日常对话和教育讨论中常见。",
+      "american": "同样常用，尤其在青少年教育、公众演讲中频繁出现。"
+    }
+  },
+  {
+    "word": "a state of mind",
+    "pronunciation": {
+      "british": "/ə steɪt əv maɪnd/ 🇬🇧",
+      "american": "/ə steɪt əv maɪnd/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase 名词短语",
+    "usage": "常用 👍：‘a state of mind’ 指一个人当下的心境、情绪或心理状态，可描述积极、消极或中性状态。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "心态；心境；心理状态",
+          "english": "The particular mental or emotional condition someone is in at a specific time."
+        },
+        "examples": [
+          {
+            "sentence": "Happiness is really just a state of mind.",
+            "translation": "幸福其实只是一种心态。"
+          },
+          {
+            "sentence": "He was in a very negative state of mind after the loss.",
+            "translation": "在失败后，他处于一种非常消极的心态。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "be in a ... state of mind",
+      "positive / negative state of mind",
+      "peaceful / anxious state of mind",
+      "achieve / maintain a calm state of mind",
+      "a temporary / constant state of mind"
+    ],
+    "related_words": [
+      {
+        "word": "mindset",
+        "type": "noun",
+        "definition": {
+          "chinese": "心态；思维模式",
+          "english": "The established set of attitudes or ways of thinking of a person or group."
+        }
+      },
+      {
+        "word": "frame of mind",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "心境；情绪",
+          "english": "A particular mood that influences how you think or feel."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "搭配用法",
+        "explanation": "常和 be in a ... state of mind 一起用，如 in a creative state of mind, in a relaxed state of mind。"
+      },
+      {
+        "point": "正式与非正式",
+        "explanation": "既可以在正式写作中使用，也常见于日常对话。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "直译是“心灵的状态”，原本就是抽象表达，没有特别的引申。",
+      "explanation_english": "Literally means 'the condition of one's mind'; used abstractly from the start, with no major extension of meaning."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式一致，在文学或日常表达中都很自然。",
+      "american": "同样常用；常用于励志、心理学或日常谈话中。"
+    }
+  },
+  {
+    "word": "socioeconomic",
+    "pronunciation": {
+      "british": "/ˌsəʊ.si.əʊˌiː.kəˈnɒm.ɪk/ 🇬🇧",
+      "american": "/ˌsoʊ.si.oʊˌiː.kəˈnɑː.mɪk/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：‘socioeconomic’ 用来形容与社会（social）和经济（economic）因素相关的情况、影响或群体特征，常见于研究、新闻和学术写作。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "社会经济的；涉及社会与经济因素的",
+          "english": "Relating to or concerned with the interaction of social and economic factors."
+        },
+        "examples": [
+          {
+            "sentence": "Children from lower socioeconomic backgrounds often face more challenges in education.",
+            "translation": "来自社会经济地位较低家庭的孩子通常面临更多教育挑战。"
+          },
+          {
+            "sentence": "Socioeconomic factors influence health outcomes significantly.",
+            "translation": "社会经济因素对健康结果有显著影响。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "socioeconomic status",
+      "socioeconomic background",
+      "socioeconomic factors",
+      "socioeconomic inequality",
+      "socioeconomic impact"
+    ],
+    "related_words": [
+      {
+        "word": "demographic",
+        "type": "adjective / noun",
+        "definition": {
+          "chinese": "人口统计的 / 人口群体",
+          "english": "Relating to the structure of populations / a particular group in a population."
+        }
+      },
+      {
+        "word": "economic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "经济的",
+          "english": "Relating to the economy or finances."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "学术与正式用法",
+        "explanation": "常用于政策、研究、新闻和学术论文；日常口语较少使用。"
+      },
+      {
+        "point": "合成词",
+        "explanation": "由 social 和 economic 两词合成，专门描述社会和经济交织的情况。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本身是合成词，直接结合‘社会’和‘经济’两个概念，无较大引申义。",
+      "explanation_english": "It’s a compound word formed by ‘social’ and ‘economic’, used directly to discuss their combined effects without major extension."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致，广泛用于政策、社会研究等。",
+      "american": "同样常用，尤其是在教育、公共健康和社会科学讨论中。"
+    }
+  },
+  {
+    "word": "curriculum",
+    "pronunciation": {
+      "british": "/kəˈrɪk.jʊ.ləm/ 🇬🇧",
+      "american": "/kəˈrɪk.jə.ləm/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘curriculum’ 指学校、培训或教育体系中规定的课程内容和计划，是教育领域的核心词汇。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "课程；课程体系",
+          "english": "The subjects or courses offered by an educational institution, or the overall plan for what will be taught."
+        },
+        "examples": [
+          {
+            "sentence": "History was added to the school curriculum last year.",
+            "translation": "去年历史被加入到学校课程中。"
+          },
+          {
+            "sentence": "The college is reviewing its curriculum to include more practical skills.",
+            "translation": "这所学院正在审查课程体系，以增加更多实用技能课程。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "school curriculum",
+      "national curriculum",
+      "design / revise / review the curriculum",
+      "curriculum development",
+      "curriculum content",
+      "curriculum vitae (CV)（另一个常见含义）"
+    ],
+    "related_words": [
+      {
+        "word": "syllabus",
+        "type": "noun",
+        "definition": {
+          "chinese": "教学大纲",
+          "english": "An outline of the subjects or topics covered in a specific course."
+        }
+      },
+      {
+        "word": "program",
+        "type": "noun",
+        "definition": {
+          "chinese": "课程项目",
+          "english": "A structured series of courses or training leading to a qualification."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "单复数形式",
+        "explanation": "复数可写作 ‘curricula’（拉丁复数，更正式）或 ‘curriculums’（更常用）。"
+      },
+      {
+        "point": "正式用语",
+        "explanation": "多用于教育文件、政策讨论或学校官方材料中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘curriculum’，本意是‘跑道’或‘赛程’，后来比喻为学习的“路线或进程”。",
+      "explanation_english": "From Latin ‘curriculum’ meaning ‘course’ or ‘race track’, metaphorically extended to mean a course of study."
+    },
+    "variation_between_british_american": {
+      "british": "常说 national curriculum，特指国家规定的教育标准。",
+      "american": "常用于指学校或学区内的具体课程安排，也更侧重于本地和灵活性。"
+    }
+  },
+  {
+    "word": "curriculum",
+    "pronunciation": {
+      "british": "/kəˈrɪk.jʊ.ləm/ 🇬🇧",
+      "american": "/kəˈrɪk.jə.ləm/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：‘curriculum’ 指学校、培训或教育体系中规定的课程内容和计划，是教育领域的核心词汇。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "课程；课程体系",
+          "english": "The subjects or courses offered by an educational institution, or the overall plan for what will be taught."
+        },
+        "examples": [
+          {
+            "sentence": "History was added to the school curriculum last year.",
+            "translation": "去年历史被加入到学校课程中。"
+          },
+          {
+            "sentence": "The college is reviewing its curriculum to include more practical skills.",
+            "translation": "这所学院正在审查课程体系，以增加更多实用技能课程。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "school curriculum",
+      "national curriculum",
+      "design / revise / review the curriculum",
+      "curriculum development",
+      "curriculum content",
+      "curriculum vitae (CV)（另一个常见含义）"
+    ],
+    "related_words": [
+      {
+        "word": "syllabus",
+        "type": "noun",
+        "definition": {
+          "chinese": "教学大纲",
+          "english": "An outline of the subjects or topics covered in a specific course."
+        }
+      },
+      {
+        "word": "program",
+        "type": "noun",
+        "definition": {
+          "chinese": "课程项目",
+          "english": "A structured series of courses or training leading to a qualification."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "单复数形式",
+        "explanation": "复数可写作 ‘curricula’（拉丁复数，更正式）或 ‘curriculums’（更常用）。"
+      },
+      {
+        "point": "正式用语",
+        "explanation": "多用于教育文件、政策讨论或学校官方材料中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘curriculum’，本意是‘跑道’或‘赛程’，后来比喻为学习的“路线或进程”。",
+      "explanation_english": "From Latin ‘curriculum’ meaning ‘course’ or ‘race track’, metaphorically extended to mean a course of study."
+    },
+    "variation_between_british_american": {
+      "british": "常说 national curriculum，特指国家规定的教育标准。",
+      "american": "常用于指学校或学区内的具体课程安排，也更侧重于本地和灵活性。"
+    }
+  },
+  {
+    "word": "intermediate",
+    "pronunciation": {
+      "british": "/ˌɪn.təˈmiː.di.ət/ 🇬🇧",
+      "american": "/ˌɪn.t̬ɚˈmiː.di.ət/ 🇺🇸"
+    },
+    "phrase_type": "adjective / noun 形容词 / 名词",
+    "usage": "常用 👍：‘intermediate’ 多用于描述水平（如语言、技能）、阶段或位置，介于初级（beginner）和高级（advanced）之间。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "中级的；中间的",
+          "english": "Being between two other levels, stages, places, or things."
+        },
+        "examples": [
+          {
+            "sentence": "He’s taking an intermediate English course.",
+            "translation": "他正在上中级英语课程。"
+          },
+          {
+            "sentence": "The mountain has beginner, intermediate, and advanced ski slopes.",
+            "translation": "这座山有初级、中级和高级滑雪道。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "中级水平的人；中间体",
+          "english": "A person who has an intermediate level of skill, or something situated between two points."
+        },
+        "examples": [
+          {
+            "sentence": "The class is suitable for intermediates as well as beginners.",
+            "translation": "这门课适合中级水平者和初学者。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "intermediate level",
+      "intermediate course",
+      "intermediate learner",
+      "lower-intermediate / upper-intermediate",
+      "intermediate stage / step"
+    ],
+    "related_words": [
+      {
+        "word": "beginner",
+        "type": "noun",
+        "definition": {
+          "chinese": "初学者",
+          "english": "A person just starting to learn a skill or subject."
+        }
+      },
+      {
+        "word": "advanced",
+        "type": "adjective",
+        "definition": {
+          "chinese": "高级的",
+          "english": "At a high level of skill or difficulty."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见语境",
+        "explanation": "尤其常用于语言学习（intermediate English / Chinese）和运动技能等分级课程中。"
+      },
+      {
+        "point": "程度表达",
+        "explanation": "也可用 lower-intermediate, upper-intermediate 来表达更细化的中级水平。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘intermedius’，意思是‘中间的’，后来既用作形容词也用作名词。",
+      "explanation_english": "From Latin ‘intermedius’ meaning ‘in between’, later used as both adjective and noun."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式基本一致，广泛用于教育和体育分级。",
+      "american": "同样常用，尤其在语言教育和滑雪、瑜伽等课程中频繁出现。"
+    }
+  },
+  {
+    "word": "significant",
+    "pronunciation": {
+      "british": "/sɪɡˈnɪf.ɪ.kənt/ 🇬🇧",
+      "american": "/sɪɡˈnɪf.ə.kənt/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：‘significant’ 用于描述影响、数量、差异、结果等很大或重要，常出现在正式、学术和日常语境中。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "重要的；显著的；意义重大的",
+          "english": "Large enough to be important or to have an effect; meaningful."
+        },
+        "examples": [
+          {
+            "sentence": "There has been a significant increase in sales this year.",
+            "translation": "今年销售额出现了显著增长。"
+          },
+          {
+            "sentence": "This discovery is significant for medical research.",
+            "translation": "这一发现对医学研究具有重要意义。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "significant increase / decrease",
+      "significant impact / effect",
+      "statistically significant",
+      "significant difference",
+      "highly significant"
+    ],
+    "related_words": [
+      {
+        "word": "considerable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "相当大的；可观的",
+          "english": "Fairly large or important."
+        }
+      },
+      {
+        "word": "substantial",
+        "type": "adjective",
+        "definition": {
+          "chinese": "大量的；重大的",
+          "english": "Large in amount, value, or importance."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气强度",
+        "explanation": "比 big / large 更正式，也更强调对结果或意义的重要性。"
+      },
+      {
+        "point": "学术用语",
+        "explanation": "在科研中 often used with ‘statistically significant’，指统计上有显著差异。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘significare’，意为“表明、意味着”，后来引申为‘重要的’或‘有显著影响的’。",
+      "explanation_english": "From Latin ‘significare’ meaning ‘to indicate or mean’, later extended to mean ‘important or meaningful’."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式基本一致；常见于学术、政府报告等正式语境。",
+      "american": "同样常用，在学术、商业和日常对话中频繁出现。"
+    }
+  },
+  {
+    "word": "rob",
+    "pronunciation": {
+      "british": "/rɒb/ 🇬🇧",
+      "american": "/rɑːb/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：‘rob’ 指用武力或威胁等非法手段从某人或某地偷走钱或东西，比 'steal' 更侧重对受害者或地点的直接影响。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "抢劫；掠夺",
+          "english": "To take property unlawfully from a person or place, often using force or threats."
+        },
+        "examples": [
+          {
+            "sentence": "They robbed a bank in broad daylight.",
+            "translation": "他们在大白天抢劫了一家银行。"
+          },
+          {
+            "sentence": "She was robbed on her way home.",
+            "translation": "她在回家的路上被抢劫了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "rob a bank",
+      "rob someone of something",
+      "be robbed at gunpoint",
+      "feel robbed (感到被剥夺)",
+      "armed robbery (武装抢劫)"
+    ],
+    "related_words": [
+      {
+        "word": "steal",
+        "type": "verb",
+        "definition": {
+          "chinese": "偷窃",
+          "english": "To take something secretly without permission."
+        }
+      },
+      {
+        "word": "burglarize",
+        "type": "verb (美式)",
+        "definition": {
+          "chinese": "入室盗窃",
+          "english": "To illegally enter a building to steal things."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "和 steal 的区别",
+        "explanation": "‘Rob’ 强调对受害者或地点的直接攻击（如人、银行）；‘steal’ 更强调偷走的动作和物品本身。"
+      },
+      {
+        "point": "固定搭配",
+        "explanation": "如 rob someone of something：意为‘剥夺某人某物’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古英语 ‘robben’，意为掠夺；后来引申可指抽象的‘剥夺’（如 rob someone of a chance）。",
+      "explanation_english": "From Old English ‘robben’ meaning ‘to plunder’; later extended to figurative meanings like depriving someone of something."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，也常说 ‘hold up’ 指抢劫。",
+      "american": "同样常用；美式中还用 ‘burglarize’ 强调入室盗窃。"
+    }
+  },
+
 ]
 
 
