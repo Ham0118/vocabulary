@@ -13437,6 +13437,408 @@ const wordData = [
       "american": "同样常用；美式中还用 ‘burglarize’ 强调入室盗窃。"
     }
   },
+  {
+    "word": "supervision",
+    "pronunciation": {
+      "british": "/ˌsuː.pəˈvɪʒ.ən/ 🇬🇧",
+      "american": "/ˌsuː.pɚˈvɪʒ.ən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指对人或过程的监督、管理或指导，常用于工作场所、学校或任何需要负责人的情境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "监督；管理；指导",
+          "english": "The action of supervising someone or something."
+        },
+        "examples": [
+          { "sentence": "Children must be under adult supervision at all times.", "translation": "孩子们必须始终有成人看护。" },
+          { "sentence": "The work was done under the close supervision of an engineer.", "translation": "这项工作是在一位工程师的密切监督下完成的。" }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "under supervision",
+      "close supervision",
+      "lack of supervision",
+      "supervision of staff"
+    ],
+    "related_words": [
+      { "word": "supervise", "type": "verb", "definition": { "chinese": "监督", "english": "To oversee or watch over." } },
+      { "word": "oversight", "type": "noun", "definition": { "chinese": "监管", "english": "The action of overseeing something." } }
+    ],
+    "notes": [{ "point": "正式程度", "explanation": "比 watch / manage 更正式，更偏向官方场合。" }],
+    "origin_of_multiple_meanings": { "explanation_chinese": "原始含义就是监督，无太大引申义。", "explanation_english": "Directly means overseeing; hasn’t changed much." },
+    "variation_between_british_american": { "british": "常用于职场或教育场景。", "american": "用法相同，也常用于医疗、法律监督中。" }
+  },
+  {
+    "word": "humanoid",
+    "pronunciation": {
+      "british": "/ˈhjuː.mə.nɔɪd/ 🇬🇧",
+      "american": "/ˈhjuː.mə.nɔɪd/ 🇺🇸"
+    },
+    "phrase_type": "noun / adjective 名词 / 形容词",
+    "usage": "常用 👍：多指长得像人类或具有类人特征的机器人、外星生物或想象生物。",
+    "meanings": [
+      {
+        "type": "adjective", "definition": { "chinese": "类似人的；具有人形的", "english": "Having an appearance or characteristics resembling a human." },
+        "examples": [{ "sentence": "The lab is testing a new humanoid robot.", "translation": "实验室正在测试一种新的人形机器人。" }]
+      },
+      {
+        "type": "noun", "definition": { "chinese": "类人生物", "english": "A being that looks like a human." },
+        "examples": [{ "sentence": "The movie features several alien humanoids.", "translation": "电影中有几个外星类人生物。" }]
+      }
+    ],
+    "common_collocations": [
+      "humanoid robot",
+      "humanoid figure",
+      "humanoid creature"
+    ],
+    "related_words": [
+      { "word": "android", "type": "noun", "definition": { "chinese": "机器人（尤其指人形）", "english": "A robot with a human appearance." } },
+      { "word": "cyborg", "type": "noun", "definition": { "chinese": "半机械人", "english": "A being with both organic and biomechatronic parts." } }
+    ],
+    "notes": [{ "point": "科幻常用", "explanation": "尤其在科幻、机器人学和游戏中使用。" }],
+    "origin_of_multiple_meanings": { "explanation_chinese": "直接由 human + -oid（表示‘类似’）构成。", "explanation_english": "Formed by human + -oid suffix meaning ‘resembling’." },
+    "variation_between_british_american": { "british": "用法一致。", "american": "同样常见于 sci-fi、科技媒体。" }
+  },
+  {
+    "word": "autonomous",
+    "pronunciation": {
+      "british": "/ɔːˈtɒn.ə.məs/ 🇬🇧",
+      "american": "/ɑːˈtɑː.nə.məs/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：指自主、自治的个体、组织或技术，如 autonomous vehicles（自动驾驶汽车）。",
+    "meanings": [
+      {
+        "type": "adjective", "definition": { "chinese": "自主的；自治的", "english": "Having the freedom to act independently; self-governing." },
+        "examples": [
+          { "sentence": "The region is an autonomous republic.", "translation": "这个地区是一个自治共和国。" },
+          { "sentence": "The company is developing autonomous drones.", "translation": "公司正在研发自主无人机。" }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "autonomous vehicle",
+      "autonomous system",
+      "autonomous region",
+      "autonomous decision"
+    ],
+    "related_words": [
+      { "word": "self-driving", "type": "adjective", "definition": { "chinese": "自动驾驶的", "english": "Capable of driving itself." } },
+      { "word": "independent", "type": "adjective", "definition": { "chinese": "独立的", "english": "Free from outside control." } }
+    ],
+    "notes": [{ "point": "技术用语", "explanation": "近年来科技语境里尤指 AI 和机器人自主行动能力。" }],
+    "origin_of_multiple_meanings": { "explanation_chinese": "来自希腊语 auto-（自我）+ nomos（法律）。", "explanation_english": "From Greek auto- ‘self’ + nomos ‘law’." },
+    "variation_between_british_american": { "british": "用法相同。", "american": "同样常用于科技、地缘政治等领域。" }
+  },
+  {
+    "word": "in a different ... from",
+    "pronunciation": {
+      "british": "/ɪn ə ˈdɪfərənt ... frɒm/ 🇬🇧",
+      "american": "/ɪn ə ˈdɪfərənt ... frʌm/ 🇺🇸"
+    },
+    "phrase_type": "prepositional phrase 介词短语",
+    "usage": "常用 👍：用于比较，表示‘在…方面不同于…’，结构中 ‘...’ 代表具体比较的方面或属性。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "在某方面不同于…",
+          "english": "Different in a particular way or aspect compared to something or someone else."
+        },
+        "examples": [
+          {
+            "sentence": "Her style is in a different league from mine.",
+            "translation": "她的风格和我的完全不同。"
+          },
+          {
+            "sentence": "The new model is in a different category from the old one.",
+            "translation": "新型号和旧型号属于不同的类别。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "in a different way from",
+      "in a different form from",
+      "in a different style from",
+      "in a different manner from",
+      "in a different class from"
+    ],
+    "related_words": [
+      {
+        "word": "different from",
+        "type": "phrase",
+        "definition": {
+          "chinese": "不同于",
+          "english": "Used to compare two things or people showing they are not the same."
+        }
+      },
+      {
+        "word": "different than",
+        "type": "phrase",
+        "definition": {
+          "chinese": "不同于（美式口语）",
+          "english": "Alternative to ‘different from’, more common in American English."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法说明",
+        "explanation": "‘in a different ... from’ 是正式且常见的表达方式，‘from’ 不可省略。"
+      },
+      {
+        "point": "英美差异",
+        "explanation": "英式英语更偏好 ‘different from’，美式英语中 ‘different than’ 也很常见。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "这是一个固定的比较结构，没有多重含义。",
+      "explanation_english": "A fixed comparative phrase without multiple meanings."
+    },
+    "variation_between_british_american": {
+      "british": "偏好用 ‘different from’。",
+      "american": "‘different from’ 和 ‘different than’ 都常用。"
+    }
+  },
+  {
+    "word": "algorithm",
+    "pronunciation": {
+      "british": "/ˈæl.ɡə.rɪ.ðəm/ 🇬🇧",
+      "american": "/ˈæl.ɡə.rɪ.ðəm/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：计算机科学和数学中指一系列明确的步骤或规则，用来解决问题或执行任务。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "算法；运算规则",
+          "english": "A step-by-step procedure for solving a problem or performing a task, especially by a computer."
+        },
+        "examples": [
+          {
+            "sentence": "Google uses complex algorithms to rank search results.",
+            "translation": "谷歌使用复杂的算法来排名搜索结果。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "computer algorithm",
+      "search algorithm",
+      "sorting algorithm",
+      "algorithm design",
+      "algorithm efficiency"
+    ],
+    "related_words": [
+      {
+        "word": "program",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "程序；编程",
+          "english": "A set of coded instructions for a computer."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "应用广泛",
+        "explanation": "不仅限于计算机，也用在数学、数据分析、日常生活问题解决中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来源于中世纪数学家Al-Khwarizmi名字，指一系列计算步骤，含义清晰单一。",
+      "explanation_english": "Derived from the name of mathematician Al-Khwarizmi, referring to a clear sequence of computational steps."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "用法与英式一致，科技领域通用。"
+    }
+  },
+  {
+    "word": "problem-solving",
+    "pronunciation": {
+      "british": "/ˈprɒb.ləm ˌsɒlv.ɪŋ/ 🇬🇧",
+      "american": "/ˈprɑː.bləm ˌsɑːlvɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指识别问题、分析并找到解决方案的能力或过程，广泛应用于学习、工作和生活中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "问题解决（能力/过程）",
+          "english": "The process or skill of finding solutions to difficult or complex issues."
+        },
+        "examples": [
+          {
+            "sentence": "Good problem-solving skills are essential in any job.",
+            "translation": "良好的解决问题能力在任何工作中都很重要。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "problem-solving skills",
+      "problem-solving techniques",
+      "effective problem-solving",
+      "problem-solving process"
+    ],
+    "related_words": [
+      {
+        "word": "critical thinking",
+        "type": "noun",
+        "definition": {
+          "chinese": "批判性思维",
+          "english": "The ability to analyze facts to form a judgment."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "复合名词",
+        "explanation": "通常作为不可数名词使用，描述能力或过程。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面组合，含义直接明确，无多义。",
+      "explanation_english": "A compound word; meaning is straightforward without multiple senses."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式无差异。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "win over",
+    "pronunciation": {
+      "british": "/wɪn ˈəʊ.vər/ 🇬🇧",
+      "american": "/wɪn ˈoʊ.vɚ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：通过说服、表现或行为使某人支持、同意或喜欢自己。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "赢得（支持、同情、喜爱）",
+          "english": "To persuade someone to support you or agree with you."
+        },
+        "examples": [
+          {
+            "sentence": "The politician won over many voters with his speech.",
+            "translation": "这位政治家凭借演讲赢得了许多选民的支持。"
+          },
+          {
+            "sentence": "She quickly won me over with her kindness.",
+            "translation": "她用她的善良很快赢得了我的好感。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "win over supporters",
+      "win over an audience",
+      "win over customers",
+      "win someone over"
+    ],
+    "related_words": [
+      {
+        "word": "persuade",
+        "type": "verb",
+        "definition": {
+          "chinese": "说服",
+          "english": "To convince someone to do or believe something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "多用于社交、政治、销售、关系维护中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "短语动词，含义集中于‘通过努力获得支持’，无多义。",
+      "explanation_english": "A phrasal verb meaning specifically to gain support or favor, no multiple meanings."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "carry off",
+    "pronunciation": {
+      "british": "/ˈkær.i ɒf/ 🇬🇧",
+      "american": "/ˈkær.i ɔːf/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：有两大常见含义——成功完成某事，或夺走（通常指意外或不好的事情）。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "成功完成（困难任务）",
+          "english": "To succeed in doing something difficult or impressive."
+        },
+        "examples": [
+          {
+            "sentence": "She carried off the role perfectly.",
+            "translation": "她完美地完成了那个角色。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "夺走；带走（尤指意外死亡）",
+          "english": "To take someone away, especially by death or illness."
+        },
+        "examples": [
+          {
+            "sentence": "The disease carried off thousands last year.",
+            "translation": "去年这场疾病夺走了数千人的生命。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "carry off a victory",
+      "carry off a performance",
+      "carry off a prize",
+      "carry off a life"
+    ],
+    "related_words": [
+      {
+        "word": "win",
+        "type": "verb",
+        "definition": {
+          "chinese": "赢得",
+          "english": "To succeed in a contest."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语境区分",
+        "explanation": "根据上下文 ‘carry off’ 意义可正面或负面，要注意区分。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思‘带走’，引申为成功‘拿下’某事。",
+      "explanation_english": "Literally ‘take away’; extended to mean succeeding in achieving something."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法一致。"
+    }
+  }
 
 ]
 
