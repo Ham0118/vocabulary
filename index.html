@@ -176,7 +176,7 @@
 
         <div class="section">
           <div class="section-title">Related Words</div>
-          ${word.related_words.map(r => `
+          ${word.related_words && word.related_words.map(r => `
             <div class="item"><strong>${r.word}</strong> (${r.type}) - ${r.definition.chinese} (${r.definition.english})</div>
             ${r.examples && r.examples.map(ex => `
               <div class="example">🔹 ${ex.sentence}<br>🔸 ${ex.translation}</div>
