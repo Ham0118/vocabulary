@@ -13838,8 +13838,154 @@ const wordData = [
       "british": "用法相同。",
       "american": "用法一致。"
     }
+  },
+  {
+    "word": "backlash",
+    "pronunciation": {
+      "british": "/ˈbæk.læʃ/ 🇬🇧",
+      "american": "/ˈbæk.læʃ/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指强烈的、通常是突然的公众反对或负面反应，常用于社会、政治、流行文化等语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "强烈反对；强烈抵制",
+          "english": "A strong negative reaction by a large number of people, especially to social or political change."
+        },
+        "examples": [
+          {
+            "sentence": "The company faced a huge public backlash after the price increase.",
+            "translation": "公司在涨价后遭遇了巨大的公众反对。"
+          },
+          {
+            "sentence": "The new policy sparked a backlash from environmental groups.",
+            "translation": "新政策引发了环保组织的强烈反对。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "face a backlash",
+      "trigger a backlash",
+      "spark a backlash",
+      "public backlash",
+      "social backlash"
+    ],
+    "related_words": [
+      {
+        "word": "opposition",
+        "type": "noun",
+        "definition": {
+          "chinese": "反对",
+          "english": "Strong disagreement with something."
+        }
+      },
+      {
+        "word": "criticism",
+        "type": "noun",
+        "definition": {
+          "chinese": "批评",
+          "english": "Expressing disapproval of someone or something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法",
+        "explanation": "‘backlash’ 多指集体或社会层面的负面反应，而不是个别人小范围的反对。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指机械装置中齿轮反向运动的间隙或冲击，后引申为社会舆论的“强烈回击”。",
+      "explanation_english": "Originally from engineering (the play or recoil in gears), later extended metaphorically to mean a social or political reaction."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，常用于媒体报道。",
+      "american": "同样常用，尤其在新闻、社交媒体语境中高频出现。"
+    }
+  },
+  {
+    "word": "gourmet",
+    "pronunciation": {
+      "british": "/ˈɡʊə.meɪ/ 🇬🇧",
+      "american": "/ˈɡʊr.meɪ/ 🇺🇸"
+    },
+    "phrase_type": "noun & adjective 名词 & 形容词",
+    "usage": "常用 👍：作名词时指美食家；作形容词时指高品质的、精致的（尤指食物）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "美食家",
+          "english": "A person who enjoys and knows a lot about high-quality food and drink."
+        },
+        "examples": [
+          {
+            "sentence": "He's a real gourmet who loves fine dining.",
+            "translation": "他是真正的美食家，热爱高档餐饮。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "精美的；优质的",
+          "english": "Relating to or characteristic of high-quality food."
+        },
+        "examples": [
+          {
+            "sentence": "They serve gourmet meals at that restaurant.",
+            "translation": "那家餐厅供应精美的餐点。"
+          },
+          {
+            "sentence": "She bought some gourmet chocolate for the party.",
+            "translation": "她为聚会买了一些高档巧克力。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "gourmet food",
+      "gourmet meal",
+      "gourmet chocolate",
+      "gourmet restaurant",
+      "gourmet coffee"
+    ],
+    "related_words": [
+      {
+        "word": "gourmand",
+        "type": "noun",
+        "definition": {
+          "chinese": "嗜食者（有时含贬义，指贪吃的人）",
+          "english": "A person who enjoys eating, sometimes excessively."
+        }
+      },
+      {
+        "word": "epicure",
+        "type": "noun",
+        "definition": {
+          "chinese": "美食鉴赏家",
+          "english": "Someone who enjoys fine food and drink and has refined tastes."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法区别",
+        "explanation": "作形容词时强调‘高档、精致、优质’，作名词时特指对美食有研究或特别讲究的人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自法语‘gourmet’，原指品酒师，后引申为美食家；再用作形容词表示‘优质的’。",
+      "explanation_english": "From French 'gourmet' originally meaning a wine expert, later extended to mean a food expert, then as an adjective meaning high quality."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，常见于餐饮行业或高档食品广告。",
+      "american": "同样高频使用，尤其在食品、旅游和生活方式中。"
+    }
   }
-
 ]
 
 
