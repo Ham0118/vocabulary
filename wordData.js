@@ -13985,7 +13985,478 @@ const wordData = [
       "british": "用法相同，常见于餐饮行业或高档食品广告。",
       "american": "同样高频使用，尤其在食品、旅游和生活方式中。"
     }
-  }
+  },
+  {
+    "word": "get under my skin",
+    "pronunciation": {
+      "british": "/ɡɛt ˈʌn.də maɪ skɪn/ 🇬🇧",
+      "american": "/ɡɛt ˈʌn.dɚ maɪ skɪn/ 🇺🇸"
+    },
+    "phrase_type": "idiom 惯用语",
+    "usage": "常用 👍：通常指某人或某事让你感到恼火、烦躁（负面）；有时也可用于形容某人让你着迷、挥之不去（正面）。",
+    "meanings": [
+      {
+        "type": "idiom (negative meaning)",
+        "definition": {
+          "chinese": "使我心烦意乱；惹恼我",
+          "english": "To annoy or irritate someone greatly."
+        },
+        "examples": [
+          {
+            "sentence": "His constant complaining really gets under my skin.",
+            "translation": "他不停的抱怨真让我心烦意乱。"
+          }
+        ]
+      },
+      {
+        "type": "idiom (positive meaning, less common)",
+        "definition": {
+          "chinese": "让我难以忘怀；让我着迷",
+          "english": "To become deeply fascinated or obsessed with someone."
+        },
+        "examples": [
+          {
+            "sentence": "She's really gotten under my skin lately — I can’t stop thinking about her.",
+            "translation": "她最近真让我魂牵梦萦，挥之不去。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "really get under my skin",
+      "start to get under my skin",
+      "let someone get under your skin"
+    ],
+    "related_words": [
+      {
+        "word": "annoy",
+        "type": "verb",
+        "definition": {
+          "chinese": "惹恼",
+          "english": "To make someone slightly angry."
+        }
+      },
+      {
+        "word": "obsess",
+        "type": "verb",
+        "definition": {
+          "chinese": "使痴迷",
+          "english": "To preoccupy the mind excessively."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "感情色彩",
+        "explanation": "更多时候是负面含义（惹人恼火）；但在爱情语境中也可表示正面的‘深深触动’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意是‘进入皮肤之下’，引申为‘深深影响到情绪’；根据上下文，有时是惹怒，有时是让人难以忘怀。",
+      "explanation_english": "Literally means to get beneath someone's skin, extended to mean affecting someone deeply — either irritating or captivating them."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，多数场合指烦恼或被惹怒。",
+      "american": "同样用法，但正面（痴迷）含义在美式中更常见。"
+    }
+  },
+  {
+    "word": "press",
+    "pronunciation": {
+      "british": "/pres/ 🇬🇧",
+      "american": "/pres/ 🇺🇸"
+    },
+    "phrase_type": "verb & noun 动词 & 名词",
+    "usage": "常用 👍：作动词可表示按压、催促、印刷；作名词最常指‘新闻媒体’或‘印刷机’。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "按；压；挤",
+          "english": "To push something firmly, often with your hand or finger."
+        },
+        "examples": [
+          {
+            "sentence": "Press the button to start the machine.",
+            "translation": "按按钮启动机器。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "催促；敦促",
+          "english": "To urge someone to do something."
+        },
+        "examples": [
+          {
+            "sentence": "She pressed him to answer the question.",
+            "translation": "她催促他回答问题。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "熨平（衣物）",
+          "english": "To smooth clothes using an iron."
+        },
+        "examples": [
+          {
+            "sentence": "I need to press my shirt before the meeting.",
+            "translation": "开会前我得把衬衫熨一下。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "新闻界；媒体",
+          "english": "Newspapers, magazines, and other news organizations and journalists."
+        },
+        "examples": [
+          {
+            "sentence": "The story was reported widely in the press.",
+            "translation": "这则新闻被媒体广泛报道。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "印刷机；压力机",
+          "english": "A machine used for printing books, newspapers, etc., or for pressing things together."
+        },
+        "examples": [
+          {
+            "sentence": "They used an old press to print the flyers.",
+            "translation": "他们用一台老旧的印刷机印传单。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "press a button",
+      "press charges",
+      "press for answers",
+      "freedom of the press",
+      "the national press",
+      "printing press"
+    ],
+    "related_words": [
+      {
+        "word": "pressure",
+        "type": "noun",
+        "definition": {
+          "chinese": "压力",
+          "english": "The continuous physical force exerted on something."
+        }
+      },
+      {
+        "word": "pressing",
+        "type": "adjective",
+        "definition": {
+          "chinese": "紧迫的",
+          "english": "Urgent or needing immediate attention."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词性多样",
+        "explanation": "同一个单词可作动词或名词；上下文决定含义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘press’ 最初意为物理上的压，后引申出‘印刷’（通过压力印刷）、‘媒体’（印刷出版的集合体），以及‘催促’（施加心理压力）。",
+      "explanation_english": "Originally meant to apply physical pressure; extended to printing (using pressure), then to 'the press' (printed media), and figuratively to urging someone."
+    },
+    "variation_between_british_american": {
+      "british": "‘press’ 也可指‘碗橱’（如 airing press，衣物储物柜，爱尔兰和苏格兰常用）。",
+      "american": "此用法罕见，‘press’ 更常用于‘新闻界’或‘按钮’等意思。"
+    }
+  },
+  {
+    "word": "in a row",
+    "pronunciation": {
+      "british": "/ɪn ə rəʊ/ 🇬🇧",
+      "american": "/ɪn ə roʊ/ 🇺🇸"
+    },
+    "phrase_type": "phrase 短语",
+    "usage": "常用 👍：表示连续发生的事情，通常指不间断的次数或天数等。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "连续地；一个接一个地",
+          "english": "Happening one after another without interruption."
+        },
+        "examples": [
+          {
+            "sentence": "He won the championship three years in a row.",
+            "translation": "他连续三年赢得了冠军。"
+          },
+          {
+            "sentence": "I've had pizza for lunch two days in a row.",
+            "translation": "我已经连续两天午饭吃披萨了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "two days in a row",
+      "three times in a row",
+      "five wins in a row",
+      "lost in a row",
+      "weeks in a row"
+    ],
+    "related_words": [
+      {
+        "word": "consecutive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "连续的",
+          "english": "Following one after another without interruption."
+        }
+      },
+      {
+        "word": "back-to-back",
+        "type": "phrase/adjective",
+        "definition": {
+          "chinese": "背靠背；接连的",
+          "english": "Happening directly one after another."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语特征",
+        "explanation": "‘in a row’ 是日常口语中非常常用的表达，比‘consecutively’更自然生活化。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指物体排成一排（如树、椅子），后来引申为‘事情接连发生’。",
+      "explanation_english": "Originally described physical things arranged in a line, extended metaphorically to mean repeated or consecutive events."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，发音 ‘rəʊ’。",
+      "american": "用法一致，发音 ‘roʊ’。"
+    }
+  },
+  {
+    "word": "harassment",
+    "pronunciation": {
+      "british": "/ˈhær.ə.smənt/ 🇬🇧",
+      "american": "/həˈræs.mənt/ 🇺🇸 or /ˈhær.əs.mənt/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指持续的、让人不安或痛苦的骚扰、辱骂或攻击行为，尤其指工作场所、校园或法律语境中的骚扰。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "骚扰；侵扰",
+          "english": "Aggressive pressure, intimidation, or repeated unwanted behavior towards someone."
+        },
+        "examples": [
+          {
+            "sentence": "She filed a complaint of sexual harassment against her supervisor.",
+            "translation": "她对上司提出了性骚扰投诉。"
+          },
+          {
+            "sentence": "Online harassment has become a serious issue in recent years.",
+            "translation": "近年来网络骚扰已成为一个严重问题。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "sexual harassment",
+      "workplace harassment",
+      "online harassment",
+      "harassment complaint",
+      "victim of harassment"
+    ],
+    "related_words": [
+      {
+        "word": "harass",
+        "type": "verb",
+        "definition": {
+          "chinese": "骚扰；侵扰",
+          "english": "To subject someone to aggressive pressure or intimidation repeatedly."
+        }
+      },
+      {
+        "word": "bullying",
+        "type": "noun",
+        "definition": {
+          "chinese": "霸凌；欺凌",
+          "english": "Repeated aggressive behavior intended to hurt or intimidate someone perceived as vulnerable."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气与使用场合",
+        "explanation": "‘harassment’ 多出现在正式、法律或职场用语中，也常用于描述网络环境中的辱骂和威胁。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指‘不断攻击或侵扰’，后引申到性骚扰、网络骚扰等多种场景。",
+      "explanation_english": "Originally meant repeated attacks or pressure; later extended to sexual, workplace, and online contexts."
+    },
+    "variation_between_british_american": {
+      "british": "常发音为 /ˈhær.ə.smənt/；用法上多见于职场和学校语境。",
+      "american": "两种发音都常见 /həˈræs.mənt/ 和 /ˈhær.əs.mənt/；法律、职场及网络语境均高频出现。"
+    }
+  },
+  {
+    "word": "ethic",
+    "pronunciation": {
+      "british": "/ˈeθ.ɪk/ 🇬🇧",
+      "american": "/ˈeθ.ɪk/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：多指某个人、团体或职业在道德层面的原则或价值观。",
+    "meanings": [
+      {
+        "type": "noun (usually singular)",
+        "definition": {
+          "chinese": "道德观；行为准则",
+          "english": "A set of moral principles or values guiding a person or group's behavior."
+        },
+        "examples": [
+          {
+            "sentence": "She has a strong work ethic and always finishes tasks on time.",
+            "translation": "她有很强的职业操守，总能按时完成任务。"
+          },
+          {
+            "sentence": "The company promotes an ethic of honesty and respect.",
+            "translation": "公司提倡诚实和尊重的价值观。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "work ethic",
+      "professional ethic",
+      "strong ethic",
+      "business ethic",
+      "moral ethic"
+    ],
+    "related_words": [
+      {
+        "word": "ethics",
+        "type": "noun (plural)",
+        "definition": {
+          "chinese": "伦理学；道德规范",
+          "english": "The branch of philosophy dealing with what is morally right and wrong; moral principles in general."
+        }
+      },
+      {
+        "word": "moral",
+        "type": "adjective",
+        "definition": {
+          "chinese": "道德的",
+          "english": "Relating to right and wrong in human behavior."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "单数与复数",
+        "explanation": "‘ethic’ 单数强调具体个人或群体的原则；‘ethics’ 是集合名词，常指整体道德体系或伦理学学科。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘ethos’，最初表示习惯或品格，引申出道德规范、个人原则等含义。",
+      "explanation_english": "From Greek 'ethos' meaning character or custom; extended to mean moral principles and codes of conduct."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式基本相同。",
+      "american": "‘work ethic’ 在美式中尤为常用，用来描述勤奋、责任感等职业精神。"
+    }
+  },
+  {
+    "word": "plaid",
+    "pronunciation": {
+      "british": "/plæd/ 🇬🇧",
+      "american": "/plæd/ 🇺🇸"
+    },
+    "phrase_type": "noun & adjective 名词 & 形容词",
+    "usage": "常用 👍：指格子图案或格子呢布料，在美式英语中也可指有这种图案的衬衫、衣物等。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "格子呢；格子图案；（尤指苏格兰方格呢披肩）",
+          "english": "A cloth with a tartan or checked pattern, traditionally associated with Scottish clothing."
+        },
+        "examples": [
+          {
+            "sentence": "He wore a red plaid shirt to the party.",
+            "translation": "他穿着一件红色格子衬衫去参加聚会。"
+          },
+          {
+            "sentence": "The traditional Scottish kilt is made of plaid fabric.",
+            "translation": "传统的苏格兰短裙是用格子呢布料做成的。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "有格子图案的",
+          "english": "Having a tartan or checked pattern."
+        },
+        "examples": [
+          {
+            "sentence": "She bought a plaid scarf for winter.",
+            "translation": "她买了一条格子围巾过冬。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "plaid shirt",
+      "plaid skirt",
+      "plaid fabric",
+      "plaid pattern",
+      "wear plaid"
+    ],
+    "related_words": [
+      {
+        "word": "tartan",
+        "type": "noun",
+        "definition": {
+          "chinese": "（苏格兰）格子呢",
+          "english": "A pattern consisting of criss-crossed horizontal and vertical bands in multiple colors, often linked to Scottish clans."
+        }
+      },
+      {
+        "word": "checkered",
+        "type": "adjective",
+        "definition": {
+          "chinese": "格子的",
+          "english": "Marked with squares or checks of different colors."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化背景",
+        "explanation": "‘plaid’ 与苏格兰文化紧密相关，是一种历史悠久的民族服饰元素；在美国尤其流行于休闲或乡村风格。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘plaid’ 源自苏格兰盖肩或披肩，后来引申为所有带这种图案的布料或衣物。",
+      "explanation_english": "Originally referred to a type of Scottish woolen cloth used as a cloak, then broadened to mean the checked or tartan pattern itself."
+    },
+    "variation_between_british_american": {
+      "british": "‘plaid’ 通常指苏格兰披肩或斗篷；描述图案更常用 ‘tartan’。",
+      "american": "‘plaid’ 常用来泛指任何格子图案的衣物（如 plaid shirt）。"
+    }
+  },
 ]
 
 
