@@ -14457,6 +14457,947 @@ const wordData = [
       "american": "‘plaid’ 常用来泛指任何格子图案的衣物（如 plaid shirt）。"
     }
   },
+  {
+    "word": "reversal",
+    "pronunciation": {
+      "british": "/rɪˈvɜː.səl/ 🇬🇧",
+      "american": "/rɪˈvɜːr.səl/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：表示方向、决定、情况等的完全相反或转变。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "逆转，反转，撤销",
+          "english": "A complete change to the opposite direction, order, or situation."
+        },
+        "examples": [
+          {
+            "sentence": "The team suffered a surprising reversal in the final minutes of the game.",
+            "translation": "球队在比赛最后几分钟遭遇了令人惊讶的逆转。"
+          },
+          {
+            "sentence": "The court's reversal of the earlier decision shocked many.",
+            "translation": "法院撤销早先的判决令许多人震惊。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "complete reversal",
+      "policy reversal",
+      "reversal of fortune",
+      "court reversal",
+      "reversal in trend"
+    ],
+    "related_words": [
+      {
+        "word": "reverse",
+        "type": "verb/noun/adjective",
+        "definition": {
+          "chinese": "反转，倒退",
+          "english": "To change to the opposite direction or position."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性",
+        "explanation": "‘reversal’ 多指过程或结果的彻底改变。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自‘reverse’的名词形式，强调‘反转’的动作或结果。",
+      "explanation_english": "Derived from the noun form of ‘reverse’, emphasizing the action or result of turning back or changing."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "maternal",
+    "pronunciation": {
+      "british": "/məˈtɜː.nəl/ 🇬🇧",
+      "american": "/məˈtɜːr.nəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：描述母亲相关的特征、感情或义务。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "母亲的，母性的",
+          "english": "Relating to a mother, especially in terms of feelings or qualities."
+        },
+        "examples": [
+          {
+            "sentence": "She showed great maternal care for her children.",
+            "translation": "她对孩子表现出极大的母爱。"
+          },
+          {
+            "sentence": "Maternal instincts often guide new mothers.",
+            "translation": "母性本能常指引新妈妈。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "maternal love",
+      "maternal care",
+      "maternal instincts",
+      "maternal health",
+      "maternal grandmother"
+    ],
+    "related_words": [
+      {
+        "word": "paternal",
+        "type": "adjective",
+        "definition": {
+          "chinese": "父亲的",
+          "english": "Relating to a father."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音区别",
+        "explanation": "英美发音略有差异，主要是r音的卷舌。",
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘maternal’ 来源于拉丁语 ‘mater’（母亲），含义单一。",
+      "explanation_english": "From Latin ‘mater’ meaning mother; mainly used to describe mother-related aspects."
+    },
+    "variation_between_british_american": {
+      "british": "发音中r不明显 /məˈtɜː.nəl/。",
+      "american": "发音中r较明显 /məˈtɜːr.nəl/。"
+    }
+  },
+  {
+    "word": "hesitancy",
+    "pronunciation": {
+      "british": "/ˈhez.ɪ.tən.si/ 🇬🇧",
+      "american": "/ˈhez.ɪ.tən.si/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指犹豫不决、迟疑或不确定的状态，常用来描述做决定或行动时的犹豫。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "犹豫，迟疑",
+          "english": "The state or quality of being hesitant or uncertain."
+        },
+        "examples": [
+          {
+            "sentence": "Her hesitancy to speak up was noticeable during the meeting.",
+            "translation": "她在会议中犹豫不决，不太敢发言。"
+          },
+          {
+            "sentence": "There was some hesitancy before making the final decision.",
+            "translation": "做最终决定之前有些犹豫。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "show hesitancy",
+      "express hesitancy",
+      "overcome hesitancy",
+      "hesitancy to act",
+      "hesitancy in making decisions"
+    ],
+    "related_words": [
+      {
+        "word": "hesitation",
+        "type": "noun",
+        "definition": {
+          "chinese": "犹豫，踌躇",
+          "english": "The action of pausing before saying or doing something."
+        }
+      },
+      {
+        "word": "reluctance",
+        "type": "noun",
+        "definition": {
+          "chinese": "不情愿，勉强",
+          "english": "Unwillingness or disinclination to do something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词义细微区别",
+        "explanation": "‘hesitancy’ 偏正式，强调状态；‘hesitation’ 更常用且口语化。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘hesitancy’ 和 ‘hesitation’ 同源，主要用于表示‘犹豫’的状态，含义接近。",
+      "explanation_english": "Both share the same root and meaning; ‘hesitancy’ is a more formal noun describing the quality or state."
+    },
+    "variation_between_british_american": {
+      "british": "发音一致，使用频率略低于 ‘hesitation’。",
+      "american": "发音一致，同样用法和频率。"
+    }
+  },
+  {
+    "word": "secretary",
+    "pronunciation": {
+      "british": "/ˈsek.rə.tər.i/ 🇬🇧",
+      "american": "/ˈsek.rə.ter.i/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指担任文书工作、管理文件或协助上级的职位，也指政府部门的高级官员。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "秘书，助理",
+          "english": "A person employed to handle correspondence, keep records, and manage administrative tasks."
+        },
+        "examples": [
+          {
+            "sentence": "She works as the secretary to the company’s CEO.",
+            "translation": "她是公司的首席执行官秘书。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "部长，国务大臣（政府高级官员）",
+          "english": "A senior government official in charge of a department, e.g., Secretary of State."
+        },
+        "examples": [
+          {
+            "sentence": "The Secretary of Defense gave a speech today.",
+            "translation": "国防部长今天发表了演讲。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "personal secretary",
+      "executive secretary",
+      "secretary general",
+      "secretary of state",
+      "company secretary"
+    ],
+    "related_words": [
+      {
+        "word": "assistant",
+        "type": "noun",
+        "definition": {
+          "chinese": "助理",
+          "english": "A person who helps or supports someone."
+        }
+      },
+      {
+        "word": "administrator",
+        "type": "noun",
+        "definition": {
+          "chinese": "行政人员",
+          "english": "A person responsible for managing operations."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多重含义",
+        "explanation": "‘secretary’ 既可以是文职助理，也可以是政府高级官员，具体含义依上下文而定。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘secretarius’，原指‘处理秘密事务的人’，后来扩展为秘书和政府职位。",
+      "explanation_english": "Derived from Latin ‘secretarius’ meaning a person who handles secret matters; extended to various administrative roles."
+    },
+    "variation_between_british_american": {
+      "british": "用法基本相同，‘company secretary’ 在英式英语中尤为常见。",
+      "american": "用法基本相同，‘secretary’ 在公司和政府中均常用。"
+    }
+  },
+  {
+    "word": "firearm",
+    "pronunciation": {
+      "british": "/ˈfaɪə.ɑːm/ 🇬🇧",
+      "american": "/ˈfaɪr.ɑːrm/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指便于携带和发射弹药的枪械，包括手枪、步枪等。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "枪支，火器",
+          "english": "A portable gun that is designed to be fired by hand."
+        },
+        "examples": [
+          {
+            "sentence": "The police confiscated illegal firearms from the suspect.",
+            "translation": "警方没收了嫌疑人手中的非法枪支。"
+          },
+          {
+            "sentence": "Firearms must be stored safely and securely.",
+            "translation": "枪支必须安全妥善地存放。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "firearm license",
+      "firearm safety",
+      "illegal firearm",
+      "firearm possession",
+      "firearm regulations"
+    ],
+    "related_words": [
+      {
+        "word": "gun",
+        "type": "noun",
+        "definition": {
+          "chinese": "枪",
+          "english": "A general term for a weapon that shoots bullets."
+        }
+      },
+      {
+        "word": "rifle",
+        "type": "noun",
+        "definition": {
+          "chinese": "步枪",
+          "english": "A long gun designed for precision shooting."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式与非正式",
+        "explanation": "‘firearm’ 是正式术语，‘gun’ 更口语化。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘firearm’ 主要指枪械，无多义性，‘fire’（火）+ ‘arm’（武器）的组合。",
+      "explanation_english": "Combines ‘fire’ and ‘arm’ meaning a weapon that fires projectiles; primarily refers to guns."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式基本一致，通常指法律和正式场合用词。",
+      "american": "用法一致，常见于法律和安全讨论中。"
+    }
+  },
+  {
+    "word": "association",
+    "pronunciation": {
+      "british": "/əˌsəʊ.siˈeɪ.ʃən/ 🇬🇧",
+      "american": "/əˌsoʊ.siˈeɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指组织、联合体，也可以指人与事物之间的联系或联想。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "协会，社团，联合会",
+          "english": "A group of people organized for a joint purpose, especially a professional or social organization."
+        },
+        "examples": [
+          {
+            "sentence": "She is a member of the teachers’ association.",
+            "translation": "她是教师协会的成员。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "联系，关联，联想",
+          "english": "A mental connection or relation between ideas, feelings, or things."
+        },
+        "examples": [
+          {
+            "sentence": "The word ‘beach’ has strong associations with summer and holidays.",
+            "translation": "‘海滩’这个词让人联想到夏天和假期。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "professional association",
+      "trade association",
+      "association with",
+      "make an association",
+      "mental association"
+    ],
+    "related_words": [
+      {
+        "word": "organization",
+        "type": "noun",
+        "definition": {
+          "chinese": "组织",
+          "english": "A group of people with a particular purpose."
+        }
+      },
+      {
+        "word": "connection",
+        "type": "noun",
+        "definition": {
+          "chinese": "连接，联系",
+          "english": "A relationship or link between things."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义词特点",
+        "explanation": "‘association’ 可以指具体的团体，也可以是抽象的心理联系。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来源于拉丁语 ‘associatio’，原指‘联合、结合’，后来引申出团体和心理联系两种含义。",
+      "explanation_english": "From Latin ‘associatio’ meaning ‘union, connection’; evolved to mean both a group and a mental link."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式一致。",
+      "american": "用法和英式一致。"
+    }
+  },
+  {
+    "word": "hesitancy",
+    "pronunciation": {
+      "british": "/ˈhez.ɪ.tən.si/ 🇬🇧",
+      "american": "/ˈhez.ɪ.tən.si/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指犹豫不决、迟疑或不确定的状态，常用来描述做决定或行动时的犹豫。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "犹豫，迟疑",
+          "english": "The state or quality of being hesitant or uncertain."
+        },
+        "examples": [
+          {
+            "sentence": "Her hesitancy to speak up was noticeable during the meeting.",
+            "translation": "她在会议中犹豫不决，不太敢发言。"
+          },
+          {
+            "sentence": "There was some hesitancy before making the final decision.",
+            "translation": "做最终决定之前有些犹豫。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "show hesitancy",
+      "express hesitancy",
+      "overcome hesitancy",
+      "hesitancy to act",
+      "hesitancy in making decisions"
+    ],
+    "related_words": [
+      {
+        "word": "hesitation",
+        "type": "noun",
+        "definition": {
+          "chinese": "犹豫，踌躇",
+          "english": "The action of pausing before saying or doing something."
+        }
+      },
+      {
+        "word": "reluctance",
+        "type": "noun",
+        "definition": {
+          "chinese": "不情愿，勉强",
+          "english": "Unwillingness or disinclination to do something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词义细微区别",
+        "explanation": "‘hesitancy’ 偏正式，强调状态；‘hesitation’ 更常用且口语化。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘hesitancy’ 和 ‘hesitation’ 同源，主要用于表示‘犹豫’的状态，含义接近。",
+      "explanation_english": "Both share the same root and meaning; ‘hesitancy’ is a more formal noun describing the quality or state."
+    },
+    "variation_between_british_american": {
+      "british": "发音一致，使用频率略低于 ‘hesitation’。",
+      "american": "发音一致，同样用法和频率。"
+    }
+  },
+  {
+    "word": "infant",
+    "pronunciation": {
+      "british": "/ˈɪn.fənt/ 🇬🇧",
+      "american": "/ˈɪn.fənt/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词 / adjective 形容词",
+    "usage": "常用 👍：指刚出生到1岁左右的婴儿，也用作形容词表示‘婴儿的’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "婴儿，婴幼儿",
+          "english": "A very young child or baby, especially under one year old."
+        },
+        "examples": [
+          {
+            "sentence": "The infant was sleeping peacefully in the crib.",
+            "translation": "婴儿安静地睡在婴儿床里。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "婴儿的，初期的",
+          "english": "Relating to infants or the earliest stage of development."
+        },
+        "examples": [
+          {
+            "sentence": "Infant care requires special attention.",
+            "translation": "婴儿护理需要特别的关注。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "infant mortality",
+      "infant formula",
+      "infant development",
+      "infant health",
+      "infant care"
+    ],
+    "related_words": [
+      {
+        "word": "baby",
+        "type": "noun",
+        "definition": {
+          "chinese": "婴儿",
+          "english": "A very young child or newborn."
+        }
+      },
+      {
+        "word": "newborn",
+        "type": "noun/adjective",
+        "definition": {
+          "chinese": "新生儿；新生的",
+          "english": "A baby recently born or relating to a newborn."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法区别",
+        "explanation": "‘infant’ 比 ‘baby’ 更正式，多见于医学和法律文本中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘infant’ 源自拉丁语，原意是‘不能说话的人’，指刚出生的小孩。",
+      "explanation_english": "Derived from Latin meaning ‘unable to speak’, referring to very young children."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式相同，发音相同。",
+      "american": "用法和英式相同，发音相同。"
+    }
+  },
+  {
+    "word": "comprehensive",
+    "pronunciation": {
+      "british": "/ˌkɒm.prɪˈhen.sɪv/ 🇬🇧",
+      "american": "/ˌkɑːm.prɪˈhen.sɪv/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：表示内容广泛、全面、详尽，适用于报告、计划、检查等场合。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "全面的，综合的，详尽的",
+          "english": "Including all or nearly all elements or aspects of something."
+        },
+        "examples": [
+          {
+            "sentence": "The report provides a comprehensive overview of the project.",
+            "translation": "这份报告对项目做了全面的概述。"
+          },
+          {
+            "sentence": "She has comprehensive knowledge of the subject.",
+            "translation": "她对该学科有全面的了解。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "comprehensive report",
+      "comprehensive plan",
+      "comprehensive study",
+      "comprehensive review",
+      "comprehensive understanding"
+    ],
+    "related_words": [
+      {
+        "word": "thorough",
+        "type": "adjective",
+        "definition": {
+          "chinese": "彻底的，详尽的",
+          "english": "Complete with regard to every detail."
+        }
+      },
+      {
+        "word": "extensive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "广泛的，大量的",
+          "english": "Covering a large area or amount."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法",
+        "explanation": "‘comprehensive’ 强调内容的完整性和覆盖面，适合正式语境。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词根来源于‘comprehend’，原意为‘包含、理解’，引申为‘全面的’。",
+      "explanation_english": "Derived from ‘comprehend’ meaning to include or understand, extended to mean inclusive and complete."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式基本一致。",
+      "american": "用法和英式基本一致。"
+    }
+  },
+  {
+    "word": "chronic",
+    "pronunciation": {
+      "british": "/ˈkrɒn.ɪk/ 🇬🇧",
+      "american": "/ˈkrɑː.nɪk/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：用来形容疾病或问题长期存在且难以治愈，也可用来形容某种负面情况持续发生。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "慢性的，长期的",
+          "english": "Describing an illness or problem persisting for a long time or constantly recurring."
+        },
+        "examples": [
+          {
+            "sentence": "She suffers from chronic back pain.",
+            "translation": "她患有慢性背痛。"
+          },
+          {
+            "sentence": "Chronic stress can lead to serious health issues.",
+            "translation": "长期压力可能导致严重的健康问题。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "chronic illness",
+      "chronic pain",
+      "chronic disease",
+      "chronic condition",
+      "chronic problem",
+      "chronic stress"
+    ],
+    "related_words": [
+      {
+        "word": "acute",
+        "type": "adjective",
+        "definition": {
+          "chinese": "急性的",
+          "english": "Describes a condition that is severe and sudden in onset."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "区别 acute 和 chronic",
+        "explanation": "‘chronic’ 指长期的，‘acute’ 指急性的、短期的。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘chronic’ 源自希腊语 ‘chronos’ 意为时间，强调持续时间长。",
+      "explanation_english": "Derived from Greek ‘chronos’ meaning time, emphasizing long duration."
+    },
+    "variation_between_british_american": {
+      "british": "发音较短促 /ˈkrɒn.ɪk/。",
+      "american": "发音稍长 /ˈkrɑː.nɪk/，用法基本一致。"
+    }
+  },
+  {
+    "word": "pediatric",
+    "pronunciation": {
+      "british": "/ˌpiː.diˈæt.rɪk/ 🇬🇧",
+      "american": "/ˌpiː.diˈæt.rɪk/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：用于描述与儿童医疗相关的事物，比如医生、护理、疾病等。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "儿科的，儿童医学的",
+          "english": "Relating to the medical care and treatment of children."
+        },
+        "examples": [
+          {
+            "sentence": "She is a pediatric nurse specializing in newborn care.",
+            "translation": "她是一名专门照顾新生儿的儿科护士。"
+          },
+          {
+            "sentence": "The hospital has a pediatric ward for young patients.",
+            "translation": "这家医院有专门为儿童设立的儿科病房。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "pediatrician (儿科医生)",
+      "pediatric care",
+      "pediatric nurse",
+      "pediatric ward",
+      "pediatric medicine"
+    ],
+    "related_words": [
+      {
+        "word": "pediatrics",
+        "type": "noun",
+        "definition": {
+          "chinese": "儿科学",
+          "english": "The branch of medicine dealing with children and their diseases."
+        }
+      },
+      {
+        "word": "neonatal",
+        "type": "adjective",
+        "definition": {
+          "chinese": "新生儿的",
+          "english": "Relating to newborn babies, especially the first few weeks after birth."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词源",
+        "explanation": "来自希腊语 ‘pais’（孩子）和 ‘iatros’（医生）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘pediatric’ 专指儿童医学领域，含义较为单一。",
+      "explanation_english": "Mainly relates to children's medical care, with little variation in meaning."
+    },
+    "variation_between_british_american": {
+      "british": "有时拼写为 ‘paediatric’。",
+      "american": "标准拼写为 ‘pediatric’。"
+    }
+  },
+  {
+    "word": "dorm",
+    "pronunciation": {
+      "british": "/dɔːm/ 🇬🇧",
+      "american": "/dɔːrm/ 🇺🇸"
+    },
+    "phrase_type": "noun (informal) 名词（非正式）",
+    "usage": "常用 👍：口语里指大学或寄宿学校的宿舍，全称是 dormitory。",
+    "meanings": [
+      {
+        "type": "noun (informal)",
+        "definition": {
+          "chinese": "宿舍（尤其是大学宿舍）",
+          "english": "A building or room where students live at college or boarding school; short for 'dormitory'."
+        },
+        "examples": [
+          {
+            "sentence": "I left my books back in the dorm.",
+            "translation": "我的书还在宿舍里。"
+          },
+          {
+            "sentence": "She shares a dorm with three other students.",
+            "translation": "她和另外三位学生合住一个宿舍。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "college dorm",
+      "live in a dorm",
+      "move into the dorm",
+      "dorm life",
+      "dorm room"
+    ],
+    "related_words": [
+      {
+        "word": "dormitory",
+        "type": "noun",
+        "definition": {
+          "chinese": "宿舍（正式用法）",
+          "english": "The formal word for a large sleeping area, especially for students."
+        }
+      },
+      {
+        "word": "hall of residence",
+        "type": "noun (British)",
+        "definition": {
+          "chinese": "学生宿舍",
+          "english": "The British term for university accommodation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式与非正式",
+        "explanation": "‘dorm’ 是非常口语化的表达；在正式书面语中通常用‘dormitory’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘dorm’ 是‘dormitory’的缩写，用于口语中表示宿舍，没有太多引申义。",
+      "explanation_english": "A clipped form of ‘dormitory’, mainly used informally to mean student housing."
+    },
+    "variation_between_british_american": {
+      "british": "更常用 ‘hall of residence’ 或直接说 ‘student halls’。",
+      "american": "‘dorm’ 非常常用，是学生生活的日常用词。"
+    }
+  },
+  {
+    "word": "grab a bite",
+    "pronunciation": {
+      "british": "/ɡræb ə baɪt/ 🇬🇧",
+      "american": "/ɡræb ə baɪt/ 🇺🇸"
+    },
+    "phrase_type": "phrase 短语",
+    "usage": "常用 👍：日常口语表达‘随便吃点东西’，通常指快速简单地吃饭或小吃。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "随便吃点东西；快速吃一口",
+          "english": "To have a quick, informal meal or snack."
+        },
+        "examples": [
+          {
+            "sentence": "Let’s grab a bite before the movie starts.",
+            "translation": "电影开场前我们去随便吃点吧。"
+          },
+          {
+            "sentence": "I didn’t have breakfast, so I’ll grab a bite on the way to work.",
+            "translation": "我没吃早餐，打算上班路上随便吃点。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "grab a quick bite",
+      "grab a bite to eat",
+      "let's grab a bite",
+      "grab a bite on the way"
+    ],
+    "related_words": [
+      {
+        "word": "have a snack",
+        "type": "phrase",
+        "definition": {
+          "chinese": "吃点零食",
+          "english": "To eat a small amount of food between meals."
+        }
+      },
+      {
+        "word": "bite to eat",
+        "type": "phrase",
+        "definition": {
+          "chinese": "随便吃点东西",
+          "english": "A small meal or snack."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "属于非常口语化、轻松的说法，用于朋友、同事之间，不正式。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘bite’ 本意是‘咬’，引申为‘吃一小口’，再延伸到‘吃点简单的饭或小吃’。",
+      "explanation_english": "Originally about literally taking a bite; extended to mean having a light meal quickly."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，常听到 ‘fancy grabbing a bite?’",
+      "american": "也非常常用，尤其在日常对话中。"
+    }
+  },
+  {
+    "word": "cod",
+    "pronunciation": {
+      "british": "/kɒd/ 🇬🇧",
+      "american": "/kɑːd/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指一种常见的白色海鱼，尤其常见于‘fish and chips’中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "鳕鱼",
+          "english": "A type of large cold-water fish with white flesh, popular as food."
+        },
+        "examples": [
+          {
+            "sentence": "I’ll have cod and chips, please.",
+            "translation": "请给我来一份鳕鱼薯条。"
+          },
+          {
+            "sentence": "Cod is a staple in many British seaside towns.",
+            "translation": "鳕鱼是英国许多海滨小镇的主食之一。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "cod and chips",
+      "Atlantic cod",
+      "fresh cod",
+      "cod fillet",
+      "salted cod"
+    ],
+    "related_words": [
+      {
+        "word": "haddock",
+        "type": "noun",
+        "definition": {
+          "chinese": "黑线鳕（另一种常见白鱼）",
+          "english": "A similar white fish, also popular in fish and chips."
+        }
+      },
+      {
+        "word": "pollock",
+        "type": "noun",
+        "definition": {
+          "chinese": "狭鳕",
+          "english": "Another type of white fish often used as a cheaper alternative to cod."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "食用习惯",
+        "explanation": "在英式‘fish and chips’里，cod 是最经典也最受欢迎的选择之一。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘cod’ 原本仅指鱼类，后几乎专指这种特定的白肉鱼；偶尔在俚语里也表示‘假的’（如 cod story）。",
+      "explanation_english": "Originally meant the fish itself; in slang can also mean ‘fake’ or ‘joke’ (e.g., a cod story)."
+    },
+    "variation_between_british_american": {
+      "british": "‘cod and chips’ 特别常见。",
+      "american": "也吃 cod，但 less associated with ‘fish and chips’ culture."
+    }
+  }
 ]
 
 
