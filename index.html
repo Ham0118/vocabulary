@@ -143,8 +143,8 @@
 
     const app = document.getElementById("app");
     // Randomly select one word object from the array
-    // const selectedWord = wordData[Math.floor(Math.random() * wordData.length)];
-    const selectedWord = wordData[wordData.length - 1];
+    const selectedWord = wordData[Math.floor(Math.random() * wordData.length)];
+    // const selectedWord = wordData[wordData.length - 1];
     [selectedWord].forEach(word => {
       const card = document.createElement("div");
       card.className = "word-card";
