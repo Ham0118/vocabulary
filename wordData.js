@@ -15399,1705 +15399,1705 @@ const wordData = [
     }
   },
   {
-  "word": "treaty",
-  "pronunciation": {
-    "british": "/ˈtriː.ti/ 🇬🇧",
-    "american": "/ˈtriː.ti/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：指国家、政府或团体之间经过正式谈判达成的协议，具有法律效力。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "条约；协定",
-        "english": "A formally concluded and ratified agreement between countries or groups."
-      },
-      "examples": [
-        {
-          "sentence": "The two countries signed a peace treaty.",
-          "translation": "两国签署了和平条约。"
+    "word": "treaty",
+    "pronunciation": {
+      "british": "/ˈtriː.ti/ 🇬🇧",
+      "american": "/ˈtriː.ti/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指国家、政府或团体之间经过正式谈判达成的协议，具有法律效力。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "条约；协定",
+          "english": "A formally concluded and ratified agreement between countries or groups."
         },
-        {
-          "sentence": "The treaty aims to limit the use of nuclear weapons.",
-          "translation": "该条约旨在限制核武器的使用。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "sign a treaty",
-    "peace treaty",
-    "international treaty",
-    "ratify a treaty",
-    "treaty obligations"
-  ],
-  "related_words": [
-    {
-      "word": "agreement",
-      "type": "noun",
-      "definition": {
-        "chinese": "协议",
-        "english": "A negotiated and typically legally binding arrangement between parties."
+        "examples": [
+          {
+            "sentence": "The two countries signed a peace treaty.",
+            "translation": "两国签署了和平条约。"
+          },
+          {
+            "sentence": "The treaty aims to limit the use of nuclear weapons.",
+            "translation": "该条约旨在限制核武器的使用。"
+          }
+        ]
       }
-    },
-    {
-      "word": "pact",
-      "type": "noun",
-      "definition": {
-        "chinese": "协定；公约",
-        "english": "A formal agreement between individuals or parties."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "法律性质",
-      "explanation": "‘Treaty’ 通常需要各国立法机构批准，具有国际法约束力，不同于一般合同或口头协定。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 ‘tractatus’，意为‘处理、谈判’，最初指谈判过程，后特指谈判结果——正式的条约文件。",
-    "explanation_english": "From Latin ‘tractatus’ meaning ‘handling, discussion’; originally referred to the process of negotiation, later came to mean the formal document itself."
-  },
-  "variation_between_british_american": {
-    "british": "多用于历史、国际关系、殖民背景（如《凡尔赛条约》）。",
-    "american": "同样广泛使用，常出现在政治、历史课及法律文本中。"
-  }
-},
-{
-  "word": "appreciation",
-  "pronunciation": {
-    "british": "/əˌpriː.ʃiˈeɪ.ʃən/ 🇬🇧",
-    "american": "/əˌpriː.ʃiˈeɪ.ʃən/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：指对某人或某事的感激、欣赏或理解，也可表示（价值的）上涨。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "感激，感谢",
-        "english": "Recognition and enjoyment of the good qualities of someone or something; gratitude."
-      },
-      "examples": [
-        {
-          "sentence": "She showed her appreciation for his help with a thank-you note.",
-          "translation": "她写了封感谢信来表达对他帮助的感激。"
+    ],
+    "common_collocations": [
+      "sign a treaty",
+      "peace treaty",
+      "international treaty",
+      "ratify a treaty",
+      "treaty obligations"
+    ],
+    "related_words": [
+      {
+        "word": "agreement",
+        "type": "noun",
+        "definition": {
+          "chinese": "协议",
+          "english": "A negotiated and typically legally binding arrangement between parties."
         }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "欣赏，鉴赏",
-        "english": "Understanding or recognizing the value and quality of something."
       },
-      "examples": [
-        {
-          "sentence": "He has a deep appreciation of classical music.",
-          "translation": "他对古典音乐有深刻的欣赏力。"
+      {
+        "word": "pact",
+        "type": "noun",
+        "definition": {
+          "chinese": "协定；公约",
+          "english": "A formal agreement between individuals or parties."
         }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "增值，上涨",
-        "english": "An increase in the value of an asset over time."
-      },
-      "examples": [
-        {
-          "sentence": "The appreciation of property prices has slowed this year.",
-          "translation": "今年房产价格的上涨放缓了。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "show appreciation",
-    "express appreciation",
-    "in appreciation of",
-    "have an appreciation for",
-    "property appreciation"
-  ],
-  "related_words": [
-    {
-      "word": "gratitude",
-      "type": "noun",
-      "definition": {
-        "chinese": "感激之情",
-        "english": "The quality of being thankful; readiness to show appreciation."
       }
-    },
-    {
-      "word": "admiration",
-      "type": "noun",
-      "definition": {
-        "chinese": "钦佩",
-        "english": "Respect and warm approval."
+    ],
+    "notes": [
+      {
+        "point": "法律性质",
+        "explanation": "‘Treaty’ 通常需要各国立法机构批准，具有国际法约束力，不同于一般合同或口头协定。"
       }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘tractatus’，意为‘处理、谈判’，最初指谈判过程，后特指谈判结果——正式的条约文件。",
+      "explanation_english": "From Latin ‘tractatus’ meaning ‘handling, discussion’; originally referred to the process of negotiation, later came to mean the formal document itself."
+    },
+    "variation_between_british_american": {
+      "british": "多用于历史、国际关系、殖民背景（如《凡尔赛条约》）。",
+      "american": "同样广泛使用，常出现在政治、历史课及法律文本中。"
     }
-  ],
-  "notes": [
-    {
-      "point": "语境差异",
-      "explanation": "‘Appreciation’ 在金融中表示价值上升；在日常语境中多表示感谢或欣赏。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原意为‘估价’、‘评估’，延伸出‘欣赏’和‘感激’；金融语境保留了‘价值提高’的含义。",
-    "explanation_english": "Originally meant ‘to appraise or assess’; extended to mean gratitude and recognition, while retaining ‘increase in value’ in finance."
   },
-  "variation_between_british_american": {
-    "british": "用法与美式几乎一致，但在金融领域常更正式。",
-    "american": "同样使用，多见于演讲、商业报告和日常对话中表达感谢或资产增值。"
-  }
-},
-{
-  "word": "headset",
-  "pronunciation": {
-    "british": "/ˈhed.set/ 🇬🇧",
-    "american": "/ˈhed.set/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：指带有耳机和通常带麦克风的设备，用于通话、游戏或听音。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "耳机（通常带麦克风）",
-        "english": "A device worn on the head that includes headphones and often a microphone, used for communication or listening to audio."
-      },
-      "examples": [
-        {
-          "sentence": "He put on his gaming headset to chat with his friends online.",
-          "translation": "他戴上游戏耳机和朋友们在线聊天。"
+  {
+    "word": "appreciation",
+    "pronunciation": {
+      "british": "/əˌpriː.ʃiˈeɪ.ʃən/ 🇬🇧",
+      "american": "/əˌpriː.ʃiˈeɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指对某人或某事的感激、欣赏或理解，也可表示（价值的）上涨。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "感激，感谢",
+          "english": "Recognition and enjoyment of the good qualities of someone or something; gratitude."
         },
-        {
-          "sentence": "The call center staff all wear headsets.",
-          "translation": "呼叫中心的工作人员都戴着耳机。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "wireless headset",
-    "Bluetooth headset",
-    "VR headset",
-    "gaming headset",
-    "headset microphone"
-  ],
-  "related_words": [
-    {
-      "word": "headphones",
-      "type": "noun",
-      "definition": {
-        "chinese": "耳机（仅用于听音）",
-        "english": "A pair of small speakers worn over or in the ears to listen to audio."
-      }
-    },
-    {
-      "word": "earbuds",
-      "type": "noun",
-      "definition": {
-        "chinese": "入耳式耳机",
-        "english": "Small earphones that fit directly into the outer ear."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "设备区别",
-      "explanation": "‘Headset’ 通常指包含麦克风的设备；‘headphones’ 仅限听音功能。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原意简单指戴在头上的装置，后来演变为专指包含麦克风的耳机。",
-    "explanation_english": "Originally meant any device worn on the head; evolved to mean headphones combined with a microphone."
-  },
-  "variation_between_british_american": {
-    "british": "‘Headset’ 用于办公室设备或游戏设备。",
-    "american": "同样用法，也常指 VR 设备如 ‘VR headset’。"
-  }
-},
-{
-  "word": "cellar",
-  "pronunciation": {
-    "british": "/ˈsel.ər/ 🇬🇧",
-    "american": "/ˈsel.ɚ/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：指房屋地下用于储存酒、食物或其他物品的空间，也可用于比喻表示‘最低点’。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "地窖；地下室",
-        "english": "A room below ground level in a house, often used for storage, especially of wine or food."
+        "examples": [
+          {
+            "sentence": "She showed her appreciation for his help with a thank-you note.",
+            "translation": "她写了封感谢信来表达对他帮助的感激。"
+          }
+        ]
       },
-      "examples": [
-        {
-          "sentence": "They keep the wine in a cool, dark cellar.",
-          "translation": "他们把葡萄酒存放在一个阴凉的地窖里。"
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "欣赏，鉴赏",
+          "english": "Understanding or recognizing the value and quality of something."
         },
-        {
-          "sentence": "We had to take shelter in the cellar during the storm.",
-          "translation": "暴风雨来时我们躲到了地窖里。"
-        }
-      ]
-    },
-    {
-      "type": "noun (figurative, informal)",
-      "definition": {
-        "chinese": "（体育联赛）垫底位置",
-        "english": "The lowest position in a league or competition table."
+        "examples": [
+          {
+            "sentence": "He has a deep appreciation of classical music.",
+            "translation": "他对古典音乐有深刻的欣赏力。"
+          }
+        ]
       },
-      "examples": [
-        {
-          "sentence": "The team ended the season stuck in the cellar.",
-          "translation": "这个赛季球队最终排名垫底。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "wine cellar",
-    "basement cellar",
-    "cool cellar",
-    "root cellar",
-    "in the cellar (figurative)"
-  ],
-  "related_words": [
-    {
-      "word": "basement",
-      "type": "noun",
-      "definition": {
-        "chinese": "地下室",
-        "english": "The floor of a building that is partly or entirely below ground level."
-      }
-    },
-    {
-      "word": "vault",
-      "type": "noun",
-      "definition": {
-        "chinese": "金库；地窖式储藏室",
-        "english": "A secure room or compartment, often underground, used to store valuable items."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "用法区别",
-      "explanation": "‘Cellar’ 强调存储功能，尤其是食物或酒；‘basement’ 更广义，可作为居住或娱乐空间。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 ‘cella’，意为小房间，最初是储藏室；后被比喻为排名或状态的最低位置。",
-    "explanation_english": "From Latin ‘cella’ meaning small room; figuratively extended to mean the bottom place in a ranking."
-  },
-  "variation_between_british_american": {
-    "british": "常指传统石砌酒窖或食品储藏室。",
-    "american": "用法相同，但美式口语中更常用 ‘basement’ 指整体地下空间。"
-  }
-},
-{
-  "word": "in the deep end",
-  "pronunciation": {
-    "british": "/ɪn ðə diːp end/ 🇬🇧",
-    "american": "/ɪn ðə dip end/ 🇺🇸"
-  },
-  "phrase_type": "idiom / phrase 短语 / 成语",
-  "usage": "常用 👍：比喻某人被推入或突然置身于困难或挑战很大的处境，多带有措手不及的意味。",
-  "meanings": [
-    {
-      "type": "idiom",
-      "definition": {
-        "chinese": "置身困境；突然面临巨大挑战",
-        "english": "To be put into a difficult situation that you are not prepared for, especially without help."
-      },
-      "examples": [
-        {
-          "sentence": "On my first day at work, they just threw me in the deep end.",
-          "translation": "上班第一天，他们就直接把我扔进了难题堆里。"
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "增值，上涨",
+          "english": "An increase in the value of an asset over time."
         },
-        {
-          "sentence": "She handled being in the deep end surprisingly well.",
-          "translation": "她应对突如其来的困难表现得出奇地好。"
+        "examples": [
+          {
+            "sentence": "The appreciation of property prices has slowed this year.",
+            "translation": "今年房产价格的上涨放缓了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "show appreciation",
+      "express appreciation",
+      "in appreciation of",
+      "have an appreciation for",
+      "property appreciation"
+    ],
+    "related_words": [
+      {
+        "word": "gratitude",
+        "type": "noun",
+        "definition": {
+          "chinese": "感激之情",
+          "english": "The quality of being thankful; readiness to show appreciation."
         }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "thrown in the deep end",
-    "be in the deep end",
-    "feel in the deep end",
-    "jump in the deep end",
-    "start in the deep end"
-  ],
-  "related_words": [
-    {
-      "word": "sink or swim",
-      "type": "idiom",
-      "definition": {
-        "chinese": "要么成功要么失败（比喻置身挑战，只能靠自己）",
-        "english": "To be left to succeed or fail without help or support."
-      }
-    },
-    {
-      "word": "out of one's depth",
-      "type": "idiom",
-      "definition": {
-        "chinese": "超出能力范围",
-        "english": "In a situation that is too difficult to manage or understand."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "比喻来源",
-      "explanation": "源自游泳池的‘深水区’，比喻刚学游泳的人被迫到深水区，只能硬着头皮学会游泳。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原意指游泳池深水区，后引申比喻人突然面对重大挑战或未知环境。",
-    "explanation_english": "Originally meant the deep end of a swimming pool; figuratively extended to situations where someone must cope with difficulty without preparation."
-  },
-  "variation_between_british_american": {
-    "british": "表达更常用 ‘be thrown in the deep end’。",
-    "american": "同样使用，但有时也说 ‘thrown into the deep end’ 或 ‘at the deep end’。"
-  }
-},
-{
-  "word": "peer view",
-  "pronunciation": {
-    "british": "/pɪə vjuː/ 🇬🇧",
-    "american": "/pɪr vjuː/ 🇺🇸"
-  },
-  "phrase_type": "noun phrase 名词短语",
-  "usage": "常用 👍：主要用在学术或工作环境，指同行之间对彼此工作的评价或检查。",
-  "meanings": [
-    {
-      "type": "noun phrase",
-      "definition": {
-        "chinese": "同行评审；同侪审阅",
-        "english": "An evaluation or review of someone's work, project, or research by others of similar competence in the same field."
       },
-      "examples": [
-        {
-          "sentence": "Her article went through peer view before publication.",
-          "translation": "她的文章在发表前经过了同行评审。"
+      {
+        "word": "admiration",
+        "type": "noun",
+        "definition": {
+          "chinese": "钦佩",
+          "english": "Respect and warm approval."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语境差异",
+        "explanation": "‘Appreciation’ 在金融中表示价值上升；在日常语境中多表示感谢或欣赏。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意为‘估价’、‘评估’，延伸出‘欣赏’和‘感激’；金融语境保留了‘价值提高’的含义。",
+      "explanation_english": "Originally meant ‘to appraise or assess’; extended to mean gratitude and recognition, while retaining ‘increase in value’ in finance."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式几乎一致，但在金融领域常更正式。",
+      "american": "同样使用，多见于演讲、商业报告和日常对话中表达感谢或资产增值。"
+    }
+  },
+  {
+    "word": "headset",
+    "pronunciation": {
+      "british": "/ˈhed.set/ 🇬🇧",
+      "american": "/ˈhed.set/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指带有耳机和通常带麦克风的设备，用于通话、游戏或听音。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "耳机（通常带麦克风）",
+          "english": "A device worn on the head that includes headphones and often a microphone, used for communication or listening to audio."
         },
-        {
-          "sentence": "We use peer view to maintain quality in our projects.",
-          "translation": "我们通过同事互评来保持项目质量。"
+        "examples": [
+          {
+            "sentence": "He put on his gaming headset to chat with his friends online.",
+            "translation": "他戴上游戏耳机和朋友们在线聊天。"
+          },
+          {
+            "sentence": "The call center staff all wear headsets.",
+            "translation": "呼叫中心的工作人员都戴着耳机。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "wireless headset",
+      "Bluetooth headset",
+      "VR headset",
+      "gaming headset",
+      "headset microphone"
+    ],
+    "related_words": [
+      {
+        "word": "headphones",
+        "type": "noun",
+        "definition": {
+          "chinese": "耳机（仅用于听音）",
+          "english": "A pair of small speakers worn over or in the ears to listen to audio."
         }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "peer view process",
-    "submit for peer view",
-    "peer view feedback",
-    "peer view meeting",
-    "under peer view"
-  ],
-  "related_words": [
-    {
-      "word": "peer review",
-      "type": "noun phrase",
-      "definition": {
-        "chinese": "同行评审（学术中更标准的说法）",
-        "english": "The process by which scholarly work is checked by experts in the same field before it is published."
-      }
-    },
-    {
-      "word": "feedback",
-      "type": "noun",
-      "definition": {
-        "chinese": "反馈",
-        "english": "Information or criticism about how well someone is doing something."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "术语差异",
-      "explanation": "学术出版最常用标准术语是 ‘peer review’，而 ‘peer view’ 更多在团队或非正式环境里用作互相评阅。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "‘Peer’ 表示同行、同侪，‘view’ 表示看待或审视，两词组合用于互相检查或评价。",
-    "explanation_english": "Combines ‘peer’ (colleague or equal) and ‘view’ (to examine), creating the idea of colleagues reviewing each other's work."
-  },
-  "variation_between_british_american": {
-    "british": "更倾向使用标准术语 ‘peer review’。",
-    "american": "也偏好 ‘peer review’，但在团队内部口语中可能说 ‘peer view’。"
-  }
-},
-{
-  "word": "philosophical",
-  "pronunciation": {
-    "british": "/ˌfɪl.əˈsɒf.ɪ.kəl/ 🇬🇧",
-    "american": "/ˌfɪl.əˈsɑː.fɪ.kəl/ 🇺🇸"
-  },
-  "phrase_type": "adjective 形容词",
-  "usage": "常用 👍：既可以指与哲学相关的，也可以指人态度冷静理智、豁达。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "哲学的；与哲学有关的",
-        "english": "Relating to the study or ideas of philosophy."
       },
-      "examples": [
-        {
-          "sentence": "He wrote several philosophical essays on human nature.",
-          "translation": "他写了几篇关于人性的哲学论文。"
+      {
+        "word": "earbuds",
+        "type": "noun",
+        "definition": {
+          "chinese": "入耳式耳机",
+          "english": "Small earphones that fit directly into the outer ear."
         }
-      ]
-    },
-    {
-      "type": "adjective (figurative)",
-      "definition": {
-        "chinese": "冷静的；豁达的",
-        "english": "Calm and wise in dealing with difficult situations, showing an attitude of acceptance."
-      },
-      "examples": [
-        {
-          "sentence": "She was quite philosophical about losing the competition.",
-          "translation": "她对比赛失利表现得很豁达。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "philosophical question",
-    "philosophical approach",
-    "philosophical discussion",
-    "take a philosophical view",
-    "be philosophical about something"
-  ],
-  "related_words": [
-    {
-      "word": "philosophy",
-      "type": "noun",
-      "definition": {
-        "chinese": "哲学",
-        "english": "The study of the fundamental nature of knowledge, reality, and existence."
       }
-    },
-    {
-      "word": "philosopher",
-      "type": "noun",
-      "definition": {
-        "chinese": "哲学家",
-        "english": "A person engaged or learned in philosophy."
+    ],
+    "notes": [
+      {
+        "point": "设备区别",
+        "explanation": "‘Headset’ 通常指包含麦克风的设备；‘headphones’ 仅限听音功能。"
       }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意简单指戴在头上的装置，后来演变为专指包含麦克风的耳机。",
+      "explanation_english": "Originally meant any device worn on the head; evolved to mean headphones combined with a microphone."
+    },
+    "variation_between_british_american": {
+      "british": "‘Headset’ 用于办公室设备或游戏设备。",
+      "american": "同样用法，也常指 VR 设备如 ‘VR headset’。"
     }
-  ],
-  "notes": [
-    {
-      "point": "抽象与比喻",
-      "explanation": "除指专业的哲学领域外，也可用作形容态度冷静、理智和超然。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自‘philosophy’（哲学），后因哲学家常给人冷静理智印象，引申为遇事冷静、看得开。",
-    "explanation_english": "From ‘philosophy’; extended figuratively to describe someone who reacts calmly and thoughtfully to problems."
   },
-  "variation_between_british_american": {
-    "british": "用法与美式一致，学术和日常都常用。",
-    "american": "同样常用于学术写作和描述性格态度。"
-  }
-},
-{
-  "word": "indigenous",
-  "pronunciation": {
-    "british": "/ɪnˈdɪdʒ.ɪ.nəs/ 🇬🇧",
-    "american": "/ɪnˈdɪdʒ.ə.nəs/ 🇺🇸"
-  },
-  "phrase_type": "adjective 形容词",
-  "usage": "常用 👍：表示原产于某地、本地的，尤指土著民族或原生动植物。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "本土的；土著的；当地的",
-        "english": "Originating or occurring naturally in a particular place; native."
-      },
-      "examples": [
-        {
-          "sentence": "Kangaroos are indigenous to Australia.",
-          "translation": "袋鼠是澳大利亚的本土动物。"
+  {
+    "word": "cellar",
+    "pronunciation": {
+      "british": "/ˈsel.ər/ 🇬🇧",
+      "american": "/ˈsel.ɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指房屋地下用于储存酒、食物或其他物品的空间，也可用于比喻表示‘最低点’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "地窖；地下室",
+          "english": "A room below ground level in a house, often used for storage, especially of wine or food."
         },
-        {
-          "sentence": "The festival celebrates the culture of indigenous peoples.",
-          "translation": "这个节日庆祝土著民族的文化。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "indigenous people",
-    "indigenous culture",
-    "indigenous language",
-    "indigenous community",
-    "indigenous species"
-  ],
-  "related_words": [
-    {
-      "word": "native",
-      "type": "adjective/noun",
-      "definition": {
-        "chinese": "本土的；当地人",
-        "english": "Belonging to a particular place by birth or origin; also, a person born in a specific place."
-      }
-    },
-    {
-      "word": "aboriginal",
-      "type": "adjective",
-      "definition": {
-        "chinese": "土著的，原住民的",
-        "english": "Relating to the people or things that have been in a region from the earliest time."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "文化背景",
-      "explanation": "‘Indigenous’ 在讨论原住民（如 Australian Indigenous peoples）时，要使用尊重语境，避免贬义。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "‘Indigenous’ 来自拉丁语 ‘indigenus’，原意为‘本地出生的’，从动植物本土延伸到指代原住民。",
-    "explanation_english": "From Latin ‘indigenus’ meaning ‘born in a place’; extended from native flora and fauna to human populations."
-  },
-  "variation_between_british_american": {
-    "british": "常用于指原住民（如澳大利亚原住民）及本土动植物。",
-    "american": "同样用法，常指 Native American peoples 或本土文化。"
-  }
-},
-{
-  "word": "hidden away",
-  "pronunciation": {
-    "british": "/ˈhɪd.ən əˈweɪ/ 🇬🇧",
-    "american": "/ˈhɪd.ən əˈweɪ/ 🇺🇸"
-  },
-  "phrase_type": "phrasal adjective 短语形容词 / 短语动词",
-  "usage": "常用 👍：用于形容某物或某地被藏起来或位于不易被发现的地方，常表达隐秘、安静或偏僻的意味。",
-  "meanings": [
-    {
-      "type": "phrasal adjective / phrase",
-      "definition": {
-        "chinese": "藏起来的；隐蔽的",
-        "english": "Located in a place where it is difficult to find or notice; kept out of sight."
+        "examples": [
+          {
+            "sentence": "They keep the wine in a cool, dark cellar.",
+            "translation": "他们把葡萄酒存放在一个阴凉的地窖里。"
+          },
+          {
+            "sentence": "We had to take shelter in the cellar during the storm.",
+            "translation": "暴风雨来时我们躲到了地窖里。"
+          }
+        ]
       },
-      "examples": [
-        {
-          "sentence": "The café is hidden away in a narrow alley.",
-          "translation": "这家咖啡馆藏在一条狭窄的小巷里。"
+      {
+        "type": "noun (figurative, informal)",
+        "definition": {
+          "chinese": "（体育联赛）垫底位置",
+          "english": "The lowest position in a league or competition table."
         },
-        {
-          "sentence": "She kept her old letters hidden away in a drawer.",
-          "translation": "她把旧信件藏在抽屉里。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "hidden away somewhere",
-    "hidden away in the mountains",
-    "hidden away from view",
-    "kept hidden away",
-    "tucked or hidden away"
-  ],
-  "related_words": [
-    {
-      "word": "tucked away",
-      "type": "phrasal adjective",
-      "definition": {
-        "chinese": "隐蔽的，藏匿的",
-        "english": "Situated in a quiet or hidden place."
+        "examples": [
+          {
+            "sentence": "The team ended the season stuck in the cellar.",
+            "translation": "这个赛季球队最终排名垫底。"
+          }
+        ]
       }
-    },
-    {
-      "word": "concealed",
-      "type": "adjective",
-      "definition": {
-        "chinese": "隐藏的",
-        "english": "Kept out of sight; hidden."
+    ],
+    "common_collocations": [
+      "wine cellar",
+      "basement cellar",
+      "cool cellar",
+      "root cellar",
+      "in the cellar (figurative)"
+    ],
+    "related_words": [
+      {
+        "word": "basement",
+        "type": "noun",
+        "definition": {
+          "chinese": "地下室",
+          "english": "The floor of a building that is partly or entirely below ground level."
+        }
+      },
+      {
+        "word": "vault",
+        "type": "noun",
+        "definition": {
+          "chinese": "金库；地窖式储藏室",
+          "english": "A secure room or compartment, often underground, used to store valuable items."
+        }
       }
-    }
-  ],
-  "notes": [
-    {
-      "point": "语感",
-      "explanation": "‘Hidden away’ 常带有轻微诗意或浪漫色彩，给人一种宁静或私密的感觉。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "‘Hidden’ 原意是‘隐藏’，加上 ‘away’ 强调‘远离视线’或‘更隐蔽’的状态，整体作为短语强调位置的隐蔽。",
-    "explanation_english": "Formed from the adjective ‘hidden’ plus ‘away’, adding a nuance of being tucked out of sight or in a remote place."
-  },
-  "variation_between_british_american": {
-    "british": "常用来形容小镇、咖啡馆或风景点位于偏僻处。",
-    "american": "用法相同，也常用于形容家中收藏物或记忆被藏起来的地方。"
-  }
-},
-{
-  "word": "belonging",
-  "pronunciation": {
-    "british": "/bɪˈlɒŋ.ɪŋ/ 🇬🇧",
-    "american": "/bɪˈlɔːŋ.ɪŋ/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：既可指‘归属感’（抽象意义），也可指‘个人物品’（具体名词，常用复数）。",
-  "meanings": [
-    {
-      "type": "noun (uncountable)",
-      "definition": {
-        "chinese": "归属感，归属",
-        "english": "The feeling of being accepted and included in a group or place."
-      },
-      "examples": [
-        {
-          "sentence": "A sense of belonging is important for mental health.",
-          "translation": "归属感对心理健康很重要。"
-        }
-      ]
-    },
-    {
-      "type": "noun (plural: belongings)",
-      "definition": {
-        "chinese": "个人物品，财物",
-        "english": "The things that a person owns; possessions."
-      },
-      "examples": [
-        {
-          "sentence": "She packed her belongings and moved to a new city.",
-          "translation": "她收拾好自己的行李搬到了新城市。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "sense of belonging",
-    "emotional belonging",
-    "personal belongings",
-    "collect your belongings",
-    "feel a strong belonging"
-  ],
-  "related_words": [
-    {
-      "word": "possession",
-      "type": "noun",
-      "definition": {
-        "chinese": "财物，所有物",
-        "english": "Something owned or possessed by someone."
+    ],
+    "notes": [
+      {
+        "point": "用法区别",
+        "explanation": "‘Cellar’ 强调存储功能，尤其是食物或酒；‘basement’ 更广义，可作为居住或娱乐空间。"
       }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘cella’，意为小房间，最初是储藏室；后被比喻为排名或状态的最低位置。",
+      "explanation_english": "From Latin ‘cella’ meaning small room; figuratively extended to mean the bottom place in a ranking."
     },
-    {
-      "word": "identity",
-      "type": "noun",
-      "definition": {
-        "chinese": "身份，认同",
-        "english": "The qualities, beliefs, etc., that make a person or group different from others."
-      }
+    "variation_between_british_american": {
+      "british": "常指传统石砌酒窖或食品储藏室。",
+      "american": "用法相同，但美式口语中更常用 ‘basement’ 指整体地下空间。"
     }
-  ],
-  "notes": [
-    {
-      "point": "抽象与具体",
-      "explanation": "单数形式常表示抽象的‘归属感’，复数形式 ‘belongings’ 表示具体的个人物品。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原意为‘属于（某人/某地）’，抽象化为‘归属感’，具体化为‘属于某人的物品’。",
-    "explanation_english": "Originally from the verb ‘belong’ (to be part of), extended abstractly to mean ‘sense of belonging’ and concretely to mean ‘things that belong to someone’."
   },
-  "variation_between_british_american": {
-    "british": "用法与美式一致，复数常用 ‘belongings’ 表示行李或随身物品。",
-    "american": "同样使用 ‘belongings’ 指个人财物，‘sense of belonging’ 在心理学和社群研究中常见。"
-  }
-},
-{
-  "word": "assembly",
-  "pronunciation": {
-    "british": "/əˈsem.bli/ 🇬🇧",
-    "american": "/əˈsem.bli/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：指集会、立法机构，或零件装配过程，根据上下文有所不同。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "集会，集合",
-        "english": "A group of people gathered together in one place for a common purpose."
-      },
-      "examples": [
-        {
-          "sentence": "The school holds a morning assembly every Monday.",
-          "translation": "学校每周一举行晨会。"
-        }
-      ]
+  {
+    "word": "in the deep end",
+    "pronunciation": {
+      "british": "/ɪn ðə diːp end/ 🇬🇧",
+      "american": "/ɪn ðə dip end/ 🇺🇸"
     },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "装配，组装",
-        "english": "The action of putting together the parts of something."
-      },
-      "examples": [
-        {
-          "sentence": "The car goes through final assembly before shipping.",
-          "translation": "汽车在出厂前需要经过最后的组装工序。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "立法机构，议会",
-        "english": "A legislative body or group of elected representatives."
-      },
-      "examples": [
-        {
-          "sentence": "The National Assembly will vote on the bill next week.",
-          "translation": "国民议会将在下周对该法案进行表决。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "school assembly",
-    "general assembly",
-    "final assembly",
-    "assembly line",
-    "legislative assembly"
-  ],
-  "related_words": [
-    {
-      "word": "meeting",
-      "type": "noun",
-      "definition": {
-        "chinese": "会议",
-        "english": "An occasion when people come together to discuss or decide something."
-      }
-    },
-    {
-      "word": "parliament",
-      "type": "noun",
-      "definition": {
-        "chinese": "议会",
-        "english": "A formal assembly of representatives with authority to make laws."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "多义性",
-      "explanation": "‘Assembly’ 可指人群的集会，也指工业生产中的组装工艺，或正式立法机构。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原意是‘聚集’，后延伸为集会（人群）、装配（部件聚合），以及由成员组成的议会。",
-    "explanation_english": "Originally means ‘a gathering together’; extended to gatherings of people, assembling parts in manufacturing, and a legislative body formed by elected members."
-  },
-  "variation_between_british_american": {
-    "british": "常指学校晨会、议会（如 Scottish Assembly）。",
-    "american": "同样指学校集会，也指州议会（State Assembly），工业语境中常用于 assembly line（装配线）。"
-  }
-},
-{
-  "word": "siren",
-  "pronunciation": {
-    "british": "/ˈsaɪə.rən/ 🇬🇧",
-    "american": "/ˈsaɪrən/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：指发出响亮警报声的装置，也指神话中的海妖（用歌声诱惑水手）。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "警报器，汽笛",
-        "english": "A device that makes a loud warning sound to alert people to danger or call attention."
-      },
-      "examples": [
-        {
-          "sentence": "We pulled over when we heard the ambulance siren.",
-          "translation": "听到救护车的警报声后我们靠边停车。"
-        }
-      ]
-    },
-    {
-      "type": "noun (mythology)",
-      "definition": {
-        "chinese": "塞壬（古希腊神话中用歌声引诱水手的女妖）",
-        "english": "A creature from Greek mythology that lured sailors to their doom with enchanting music and singing voices."
-      },
-      "examples": [
-        {
-          "sentence": "In the story, the sailors could not resist the call of the sirens.",
-          "translation": "故事中，水手们无法抵抗塞壬的歌声诱惑。"
-        }
-      ]
-    },
-    {
-      "type": "noun (figurative)",
-      "definition": {
-        "chinese": "有致命吸引力的女人",
-        "english": "A seductive or dangerously attractive woman."
-      },
-      "examples": [
-        {
-          "sentence": "She was described as a modern-day siren.",
-          "translation": "她被形容为现代的‘女海妖’（危险的美人）。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "police siren",
-    "ambulance siren",
-    "wailing siren",
-    "sound the siren",
-    "the call of the siren"
-  ],
-  "related_words": [
-    {
-      "word": "alarm",
-      "type": "noun",
-      "definition": {
-        "chinese": "警报",
-        "english": "A device that warns of danger by making a loud noise."
-      }
-    },
-    {
-      "word": "temptress",
-      "type": "noun",
-      "definition": {
-        "chinese": "妖艳女子",
-        "english": "A woman who tempts someone to do something, often morally wrong or risky."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "神话与现代用法",
-      "explanation": "最早指神话中的海妖，现代主要用来指警报装置，也可比喻危险而迷人的女人。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自古希腊神话中的塞壬，她们用歌声诱惑水手；现代被引申为警报器（发出强烈警告声），以及形容具有危险魅力的女人。",
-    "explanation_english": "From Greek mythology (Sirens who lured sailors); extended to mean ‘alarm device’ due to the idea of a loud, irresistible call, and figuratively for seductive women."
-  },
-  "variation_between_british_american": {
-    "british": "警报器用法一致，也常提到神话意义。",
-    "american": "用法相同，尤其常用于紧急车辆警报器，也比喻有致命吸引力的人。"
-  }
-},
-{
-  "word": "warden",
-  "pronunciation": {
-    "british": "/ˈwɔː.dən/ 🇬🇧",
-    "american": "/ˈwɔːr.dən/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：指看守、管理人、监狱长或校园宿舍舍监等，依场景略有不同。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "监狱长",
-        "english": "A person in charge of a prison."
-      },
-      "examples": [
-        {
-          "sentence": "The warden announced new rules to improve security.",
-          "translation": "监狱长宣布了新的规定以提高安全性。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "（宿舍等的）舍监，管理人",
-        "english": "A person responsible for supervising a building, such as a dormitory or residence hall."
-      },
-      "examples": [
-        {
-          "sentence": "The warden made sure the students followed the dorm rules.",
-          "translation": "舍监确保学生遵守宿舍规定。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "看守人，管理员",
-        "english": "Someone who is responsible for taking care of a particular place or thing, like a park warden or game warden."
-      },
-      "examples": [
-        {
-          "sentence": "The park warden explained the rules to visitors.",
-          "translation": "公园管理员向游客讲解了规定。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "prison warden",
-    "game warden",
-    "hall warden",
-    "warden of the college",
-    "park warden"
-  ],
-  "related_words": [
-    {
-      "word": "guard",
-      "type": "noun",
-      "definition": {
-        "chinese": "警卫，看守",
-        "english": "A person who protects or watches over a place or people."
-      }
-    },
-    {
-      "word": "superintendent",
-      "type": "noun",
-      "definition": {
-        "chinese": "主管，负责人",
-        "english": "A person who manages or oversees an organization or operation."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "不同场景含义",
-      "explanation": "在英国高校或宿舍，‘warden’ 常指宿舍或学院负责人；在美国更多用于监狱或野生动物保护区的负责人。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "‘Warden’ 源自古法语 ‘warden’（守卫、保护），最初表示保护者或管理者，后来具体化到不同管理场景，如监狱、公园或学校。",
-    "explanation_english": "Derived from Old French ‘warden’ meaning ‘guard’ or ‘protector’; later specialized into roles in prisons, parks, or educational institutions."
-  },
-  "variation_between_british_american": {
-    "british": "常用于大学宿舍、学院或宿舍楼负责人，也指监狱长。",
-    "american": "多指监狱长，也常见于‘game warden’（野生动物保护官）。"
-  }
-},
-{
-  "word": "induction",
-  "pronunciation": {
-    "british": "/ɪnˈdʌk.ʃən/ 🇬🇧",
-    "american": "/ɪnˈdʌk.ʃən/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：用于表示正式就职、引导新人成熟悉环境，也可用于科学或逻辑中的‘归纳法’。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "就职仪式；入职培训",
-        "english": "The process or ceremony of introducing someone to a new job, position, or organization."
-      },
-      "examples": [
-        {
-          "sentence": "All new employees must attend an induction session.",
-          "translation": "所有新员工都必须参加入职培训。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "归纳法（逻辑）",
-        "english": "A method of reasoning that draws general conclusions from specific observations."
-      },
-      "examples": [
-        {
-          "sentence": "Scientific theories are often developed through induction.",
-          "translation": "科学理论通常是通过归纳法提出的。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "感应（物理）",
-        "english": "The production of an electric or magnetic effect through the influence of a nearby field."
-      },
-      "examples": [
-        {
-          "sentence": "The device works by electromagnetic induction.",
-          "translation": "该设备通过电磁感应工作。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "induction program",
-    "staff induction",
-    "induction process",
-    "mathematical induction",
-    "electromagnetic induction"
-  ],
-  "related_words": [
-    {
-      "word": "orientation",
-      "type": "noun",
-      "definition": {
-        "chinese": "迎新/培训；方向",
-        "english": "A program or process to help new people become familiar with an organization."
-      }
-    },
-    {
-      "word": "deduction",
-      "type": "noun",
-      "definition": {
-        "chinese": "演绎法",
-        "english": "A method of reasoning from general principles to specific cases."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "多义性来源",
-      "explanation": "‘Induction’ 在不同学科有不同含义：工作中指引导或培训，逻辑学中指归纳推理，物理中指电磁感应。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 ‘inductio’，原意为‘引入、带领’，后引申至逻辑学和物理学等领域。",
-    "explanation_english": "From Latin ‘inductio’ meaning ‘leading in’; extended to reasoning and scientific contexts over time."
-  },
-  "variation_between_british_american": {
-    "british": "常在 HR 和教育场景用作‘新员工培训’，学术语境中也用在数学和物理中。",
-    "american": "用法相同，也同样常用于企业和学校中的入职培训与归纳推理。"
-  }
-},
-{
-  "word": "linguistically",
-  "pronunciation": {
-    "british": "/lɪŋˈɡwɪs.tɪ.kəl.i/ 🇬🇧",
-    "american": "/lɪŋˈɡwɪs.tɪ.kəl.i/ 🇺🇸"
-  },
-  "phrase_type": "adverb 副词",
-  "usage": "常用 👍：用于描述与语言相关的方式或角度，强调语言层面的特征或行为。",
-  "meanings": [
-    {
-      "type": "adverb",
-      "definition": {
-        "chinese": "语言上；语言学上",
-        "english": "In a way that relates to language or linguistics."
-      },
-      "examples": [
-        {
-          "sentence": "The dialect is linguistically distinct from the standard language.",
-          "translation": "该方言在语言学上与标准语言有所不同。"
+    "phrase_type": "idiom / phrase 短语 / 成语",
+    "usage": "常用 👍：比喻某人被推入或突然置身于困难或挑战很大的处境，多带有措手不及的意味。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "置身困境；突然面临巨大挑战",
+          "english": "To be put into a difficult situation that you are not prepared for, especially without help."
         },
-        {
-          "sentence": "Linguistically, the two languages share many similarities.",
-          "translation": "从语言学角度来看，这两种语言有许多相似之处。"
+        "examples": [
+          {
+            "sentence": "On my first day at work, they just threw me in the deep end.",
+            "translation": "上班第一天，他们就直接把我扔进了难题堆里。"
+          },
+          {
+            "sentence": "She handled being in the deep end surprisingly well.",
+            "translation": "她应对突如其来的困难表现得出奇地好。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "thrown in the deep end",
+      "be in the deep end",
+      "feel in the deep end",
+      "jump in the deep end",
+      "start in the deep end"
+    ],
+    "related_words": [
+      {
+        "word": "sink or swim",
+        "type": "idiom",
+        "definition": {
+          "chinese": "要么成功要么失败（比喻置身挑战，只能靠自己）",
+          "english": "To be left to succeed or fail without help or support."
         }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "linguistically diverse",
-    "linguistically different",
-    "linguistically rich",
-    "linguistically significant",
-    "linguistically complex"
-  ],
-  "related_words": [
-    {
-      "word": "linguistic",
-      "type": "adjective",
-      "definition": {
-        "chinese": "语言的，语言学的",
-        "english": "Relating to language or linguistics."
-      }
-    },
-    {
-      "word": "language",
-      "type": "noun",
-      "definition": {
-        "chinese": "语言",
-        "english": "The method of human communication, either spoken or written."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "副词用法",
-      "explanation": "‘Linguistically’ 主要用于描述从语言学角度或语言方面的特征，通常用于学术或正式语境。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "作为副词，词义单一，源自动词 ‘linguistic’ 的副词形式，强调‘语言方面’的概念。",
-    "explanation_english": "As an adverb, it has a single meaning derived from the adjective ‘linguistic’, emphasizing something related to language."
-  },
-  "variation_between_british_american": {
-    "british": "用法一致，常见于学术文章。",
-    "american": "用法相同，也广泛用于教育和语言学研究。"
-  }
-},
-{
-  "word": "linguistic",
-  "pronunciation": {
-    "british": "/lɪŋˈɡwɪs.tɪk/ 🇬🇧",
-    "american": "/lɪŋˈɡwɪs.tɪk/ 🇺🇸"
-  },
-  "phrase_type": "adjective 形容词",
-  "usage": "常用 👍：用于描述与语言或语言学相关的事物，如‘linguistic analysis’（语言学分析）。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "语言的；语言学的",
-        "english": "Relating to language or the scientific study of language (linguistics)."
       },
-      "examples": [
-        {
-          "sentence": "She has a strong interest in linguistic theory.",
-          "translation": "她对语言学理论很感兴趣。"
+      {
+        "word": "out of one's depth",
+        "type": "idiom",
+        "definition": {
+          "chinese": "超出能力范围",
+          "english": "In a situation that is too difficult to manage or understand."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻来源",
+        "explanation": "源自游泳池的‘深水区’，比喻刚学游泳的人被迫到深水区，只能硬着头皮学会游泳。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意指游泳池深水区，后引申比喻人突然面对重大挑战或未知环境。",
+      "explanation_english": "Originally meant the deep end of a swimming pool; figuratively extended to situations where someone must cope with difficulty without preparation."
+    },
+    "variation_between_british_american": {
+      "british": "表达更常用 ‘be thrown in the deep end’。",
+      "american": "同样使用，但有时也说 ‘thrown into the deep end’ 或 ‘at the deep end’。"
+    }
+  },
+  {
+    "word": "peer view",
+    "pronunciation": {
+      "british": "/pɪə vjuː/ 🇬🇧",
+      "american": "/pɪr vjuː/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase 名词短语",
+    "usage": "常用 👍：主要用在学术或工作环境，指同行之间对彼此工作的评价或检查。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "同行评审；同侪审阅",
+          "english": "An evaluation or review of someone's work, project, or research by others of similar competence in the same field."
         },
-        {
-          "sentence": "There are many linguistic differences between dialects.",
-          "translation": "不同方言之间存在许多语言差异。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "linguistic analysis",
-    "linguistic diversity",
-    "linguistic skills",
-    "linguistic features",
-    "linguistic research"
-  ],
-  "related_words": [
-    {
-      "word": "linguistics",
-      "type": "noun",
-      "definition": {
-        "chinese": "语言学",
-        "english": "The scientific study of language and its structure."
+        "examples": [
+          {
+            "sentence": "Her article went through peer view before publication.",
+            "translation": "她的文章在发表前经过了同行评审。"
+          },
+          {
+            "sentence": "We use peer view to maintain quality in our projects.",
+            "translation": "我们通过同事互评来保持项目质量。"
+          }
+        ]
       }
-    },
-    {
-      "word": "polyglot",
-      "type": "noun/adjective",
-      "definition": {
-        "chinese": "通晓多种语言的人；会多种语言的",
-        "english": "A person who knows and is able to use several languages."
+    ],
+    "common_collocations": [
+      "peer view process",
+      "submit for peer view",
+      "peer view feedback",
+      "peer view meeting",
+      "under peer view"
+    ],
+    "related_words": [
+      {
+        "word": "peer review",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "同行评审（学术中更标准的说法）",
+          "english": "The process by which scholarly work is checked by experts in the same field before it is published."
+        }
+      },
+      {
+        "word": "feedback",
+        "type": "noun",
+        "definition": {
+          "chinese": "反馈",
+          "english": "Information or criticism about how well someone is doing something."
+        }
       }
-    }
-  ],
-  "notes": [
-    {
-      "point": "学科背景",
-      "explanation": "‘Linguistic’ 多用于学术或研究语境中，也常出现在讨论语言结构、语言习得、语言差异等主题时。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "本词直接来自 ‘linguistics’（语言学），仅指与语言或语言学相关，没有本质多义，只是应用领域多样。",
-    "explanation_english": "Directly derived from ‘linguistics’, it mainly means ‘relating to language’—one meaning but used in many contexts."
-  },
-  "variation_between_british_american": {
-    "british": "用法一致，主要用于学术领域。",
-    "american": "用法相同，也常用于教育、心理学和社会科学领域讨论中。"
-  }
-},
-{
-  "word": "uncapped",
-  "pronunciation": {
-    "british": "/ʌnˈkæpt/ 🇬🇧",
-    "american": "/ʌnˈkæpt/ 🇺🇸"
-  },
-  "phrase_type": "adjective 形容词",
-  "usage": "常用 👍：用于表示无限制、不设上限，也可指体育运动员尚未入选国家队。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "不设上限的，无限制的",
-        "english": "Not limited by a maximum amount or cap."
-      },
-      "examples": [
-        {
-          "sentence": "The new mobile data plan is uncapped, so you can use as much as you want.",
-          "translation": "新的移动数据套餐是无限流量的，你想用多少就用多少。"
-        }
-      ]
-    },
-    {
-      "type": "adjective (sports)",
-      "definition": {
-        "chinese": "（运动员）尚未入选国家队的",
-        "english": "Describing a player who has not yet been selected to play for a national team."
-      },
-      "examples": [
-        {
-          "sentence": "The uncapped player showed great potential in the league.",
-          "translation": "这位尚未入选国家队的球员在联赛中表现出了巨大的潜力。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "uncapped data",
-    "uncapped salary",
-    "remain uncapped",
-    "uncapped player",
-    "uncapped plan"
-  ],
-  "related_words": [
-    {
-      "word": "unlimited",
-      "type": "adjective",
-      "definition": {
-        "chinese": "无限的",
-        "english": "Without any limit."
+    ],
+    "notes": [
+      {
+        "point": "术语差异",
+        "explanation": "学术出版最常用标准术语是 ‘peer review’，而 ‘peer view’ 更多在团队或非正式环境里用作互相评阅。"
       }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Peer’ 表示同行、同侪，‘view’ 表示看待或审视，两词组合用于互相检查或评价。",
+      "explanation_english": "Combines ‘peer’ (colleague or equal) and ‘view’ (to examine), creating the idea of colleagues reviewing each other's work."
     },
-    {
-      "word": "cap",
-      "type": "noun/verb",
-      "definition": {
-        "chinese": "上限；限制",
-        "english": "A limit or to place a limit on something."
-      }
+    "variation_between_british_american": {
+      "british": "更倾向使用标准术语 ‘peer review’。",
+      "american": "也偏好 ‘peer review’，但在团队内部口语中可能说 ‘peer view’。"
     }
-  ],
-  "notes": [
-    {
-      "point": "多义性",
-      "explanation": "既可指资源或费用上的‘不设限’，也可用在体育语境形容球员还没代表国家队出场。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "‘Cap’ 原意是帽子，引申为‘限制、上限’；‘uncapped’ 则表示‘未限制’或‘未戴帽’（体育术语中代表国家队出场被称为“戴帽”）。",
-    "explanation_english": "‘Cap’ originally means ‘hat’; extended to mean ‘limit’. ‘Uncapped’ thus means ‘without a limit’ or in sports, ‘not having earned a cap’ (appearance for a national team)."
   },
-  "variation_between_british_american": {
-    "british": "常用在体育和电信领域，如 uncapped broadband。",
-    "american": "同样用在体育和电信，也常指 uncapped commission or salary。"
-  }
-},
-{
-  "word": "acknowledgement",
-  "pronunciation": {
-    "british": "/əkˈnɒl.ɪdʒ.mənt/ 🇬🇧",
-    "american": "/əkˈnɑː.lɪdʒ.mənt/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：表示承认、感谢或对收到信息的确认，多见于书籍、论文或正式通信中。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "承认，认可",
-        "english": "The act of accepting that something is true or exists."
-      },
-      "examples": [
-        {
-          "sentence": "His smile was an acknowledgement of her presence.",
-          "translation": "他的微笑是对她到来的认可。"
-        }
-      ]
+  {
+    "word": "philosophical",
+    "pronunciation": {
+      "british": "/ˌfɪl.əˈsɒf.ɪ.kəl/ 🇬🇧",
+      "american": "/ˌfɪl.əˈsɑː.fɪ.kəl/ 🇺🇸"
     },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "答谢，鸣谢",
-        "english": "An expression of gratitude, especially in writing."
-      },
-      "examples": [
-        {
-          "sentence": "She wrote an acknowledgement to thank her mentors.",
-          "translation": "她写了一段鸣谢文字来感谢她的导师们。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "回执，确认收悉",
-        "english": "A formal statement or letter confirming that something has been received."
-      },
-      "examples": [
-        {
-          "sentence": "We received an acknowledgement of our application.",
-          "translation": "我们收到了申请的回执。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "letter of acknowledgement",
-    "public acknowledgement",
-    "acknowledgement of receipt",
-    "in the acknowledgements (of a book)",
-    "silent acknowledgement"
-  ],
-  "related_words": [
-    {
-      "word": "recognition",
-      "type": "noun",
-      "definition": {
-        "chinese": "认可，承认",
-        "english": "The acknowledgment of something's existence, validity, or legality."
-      }
-    },
-    {
-      "word": "thanks",
-      "type": "noun",
-      "definition": {
-        "chinese": "感谢",
-        "english": "An expression of gratitude."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "英美拼写差异",
-      "explanation": "英式拼写为 ‘acknowledgement’，美式常简化为 ‘acknowledgment’（少了第一个‘e’）。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "最初指承认某事的真实性，后引申为表示感谢或确认收悉。",
-    "explanation_english": "Originally meant admitting or recognizing the truth; later extended to include thanking and formal receipts."
-  },
-  "variation_between_british_american": {
-    "british": "通常写作 ‘acknowledgement’。",
-    "american": "常写作 ‘acknowledgment’，含义和用法相同。"
-  }
-},
-{
-  "word": "acknowledge",
-  "pronunciation": {
-    "british": "/əkˈnɒl.ɪdʒ/ 🇬🇧",
-    "american": "/əkˈnɑː.lɪdʒ/ 🇺🇸"
-  },
-  "phrase_type": "verb 动词",
-  "usage": "常用 👍：表示承认、确认或对他人表达感谢；既可正式也可日常使用。",
-  "meanings": [
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "承认（事实、情况等）",
-        "english": "To accept or admit the existence or truth of something."
-      },
-      "examples": [
-        {
-          "sentence": "She refused to acknowledge her mistake.",
-          "translation": "她拒绝承认自己的错误。"
-        }
-      ]
-    },
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "（通过点头、微笑等）表示收到或注意到",
-        "english": "To show that one has noticed someone or something."
-      },
-      "examples": [
-        {
-          "sentence": "He acknowledged her presence with a brief nod.",
-          "translation": "他点头示意注意到了她的到来。"
-        }
-      ]
-    },
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "答谢，感谢",
-        "english": "To express thanks for something received."
-      },
-      "examples": [
-        {
-          "sentence": "We gratefully acknowledge the support of our sponsors.",
-          "translation": "我们衷心感谢赞助商的支持。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "acknowledge receipt",
-    "acknowledge an error",
-    "acknowledge someone’s contribution",
-    "publicly acknowledge",
-    "acknowledge a letter/email"
-  ],
-  "related_words": [
-    {
-      "word": "admit",
-      "type": "verb",
-      "definition": {
-        "chinese": "承认",
-        "english": "To confess to be true or to be the case."
-      }
-    },
-    {
-      "word": "recognize",
-      "type": "verb",
-      "definition": {
-        "chinese": "认识到，承认",
-        "english": "To accept or be aware of something's existence or validity."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "正式与非正式用法",
-      "explanation": "‘Acknowledge’ 在正式文件或演讲中非常常用；日常口语中也可以用来表示点头或微笑示意。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "最初意为‘承认’（知识、事实），后来引申出‘感谢’或‘回应别人’的用法。",
-    "explanation_english": "Originally meant to admit or accept; later extended to include thanking and showing recognition."
-  },
-  "variation_between_british_american": {
-    "british": "用法相同，也常用于正式书信 ‘I acknowledge receipt of…’。",
-    "american": "用法一致，同样常用于正式或商业语境。"
-  }
-},
-{
-  "word": "reconciliation",
-  "pronunciation": {
-    "british": "/ˌrek.ənˌsɪl.iˈeɪ.ʃən/ 🇬🇧",
-    "american": "/ˌrek.ənˌsɪl.iˈeɪ.ʃən/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：指重归于好、和解，也用于财务或报表对账时的核对。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "和解，调解，重修旧好",
-        "english": "The restoration of friendly relations after disagreement or conflict."
-      },
-      "examples": [
-        {
-          "sentence": "They hoped for a reconciliation after years of dispute.",
-          "translation": "他们希望多年争执后能和解。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "对账，核对",
-        "english": "The process of making two financial accounts or records consistent with each other."
-      },
-      "examples": [
-        {
-          "sentence": "The accountant is preparing the monthly reconciliation.",
-          "translation": "会计正在准备月度对账。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "national reconciliation",
-    "seek reconciliation",
-    "achieve reconciliation",
-    "reconciliation process",
-    "bank reconciliation"
-  ],
-  "related_words": [
-    {
-      "word": "resolve",
-      "type": "verb",
-      "definition": {
-        "chinese": "解决，化解",
-        "english": "To settle or find a solution to a dispute or problem."
-      }
-    },
-    {
-      "word": "harmony",
-      "type": "noun",
-      "definition": {
-        "chinese": "和谐",
-        "english": "A state of agreement or peaceful coexistence."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "多义性",
-      "explanation": "既可指人际关系中的和解，也用于专业财务对账领域。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 ‘reconciliare’，原意是‘使重新友好’，后被引申为财务对账上的‘核对一致’。",
-    "explanation_english": "From Latin ‘reconciliare’ meaning ‘to bring together again’, extended to financial usage meaning ‘make records agree’."
-  },
-  "variation_between_british_american": {
-    "british": "用法相同，尤其在指社会或国家层面的和解时常见。",
-    "american": "用法一致，也在政治或企业财务中常用。"
-  }
-},
-{
-  "word": "orientation",
-  "pronunciation": {
-    "british": "/ˌɔː.ri.enˈteɪ.ʃən/ 🇬🇧",
-    "american": "/ˌɔːr.i.enˈteɪ.ʃən/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词",
-  "usage": "常用 👍：用于表示方向、态度，也指新生或新员工培训介绍。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "方向，定位",
-        "english": "The determination of the relative position or direction of something or someone."
-      },
-      "examples": [
-        {
-          "sentence": "The building has an east–west orientation.",
-          "translation": "这座建筑是东西走向的。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "态度，倾向",
-        "english": "A person's basic attitude, beliefs, or preferences."
-      },
-      "examples": [
-        {
-          "sentence": "His political orientation is quite clear.",
-          "translation": "他的政治倾向非常明显。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "培训，入职介绍",
-        "english": "A program or session introducing newcomers to an organization, place, or system."
-      },
-      "examples": [
-        {
-          "sentence": "The company provides a two-day orientation for new employees.",
-          "translation": "公司为新员工提供为期两天的入职培训。"
-        }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "new employee orientation",
-    "orientation session",
-    "sexual orientation",
-    "political orientation",
-    "orientation program"
-  ],
-  "related_words": [
-    {
-      "word": "introduction",
-      "type": "noun",
-      "definition": {
-        "chinese": "介绍，入门",
-        "english": "The action of introducing something or someone."
-      }
-    },
-    {
-      "word": "direction",
-      "type": "noun",
-      "definition": {
-        "chinese": "方向",
-        "english": "The course along which someone or something moves."
-      }
-    }
-  ],
-  "notes": [
-    {
-      "point": "多义性",
-      "explanation": "‘orientation’ 可以指具体空间方向，也可指抽象态度或正式培训活动。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 ‘orientare’，原意为‘朝向东方’，后引申为方向、态度及培训。",
-    "explanation_english": "From Latin ‘orientare’ meaning ‘to face east’, extended to include direction, attitude, and introductory sessions."
-  },
-  "variation_between_british_american": {
-    "british": "用法基本一致，常用于学校、公司或医院的介绍会。",
-    "american": "用法相同，在校园和企业文化中尤为常见。"
-  }
-},
-{
-  "word": "gerund",
-  "pronunciation": {
-    "british": "/ˈdʒer.ənd/ 🇬🇧",
-    "american": "/ˈdʒer.ənd/ 🇺🇸"
-  },
-  "phrase_type": "noun 名词（语法术语）",
-  "usage": "常用 👍：指动词的 -ing 形式在句中作名词用的情况，是语法学习中常见概念。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "动名词",
-        "english": "The -ing form of a verb used as a noun, e.g., 'Swimming is fun.'"
-      },
-      "examples": [
-        {
-          "sentence": "Reading helps improve your vocabulary.",
-          "translation": "阅读有助于提升词汇量。"
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：既可以指与哲学相关的，也可以指人态度冷静理智、豁达。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "哲学的；与哲学有关的",
+          "english": "Relating to the study or ideas of philosophy."
         },
-        {
-          "sentence": "I enjoy cooking for my family.",
-          "translation": "我喜欢为家人做饭。"
+        "examples": [
+          {
+            "sentence": "He wrote several philosophical essays on human nature.",
+            "translation": "他写了几篇关于人性的哲学论文。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (figurative)",
+        "definition": {
+          "chinese": "冷静的；豁达的",
+          "english": "Calm and wise in dealing with difficult situations, showing an attitude of acceptance."
+        },
+        "examples": [
+          {
+            "sentence": "She was quite philosophical about losing the competition.",
+            "translation": "她对比赛失利表现得很豁达。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "philosophical question",
+      "philosophical approach",
+      "philosophical discussion",
+      "take a philosophical view",
+      "be philosophical about something"
+    ],
+    "related_words": [
+      {
+        "word": "philosophy",
+        "type": "noun",
+        "definition": {
+          "chinese": "哲学",
+          "english": "The study of the fundamental nature of knowledge, reality, and existence."
         }
-      ]
-    }
-  ],
-  "common_collocations": [
-    "gerund phrase",
-    "gerund as subject",
-    "gerund as object",
-    "using gerunds",
-    "gerund vs. infinitive"
-  ],
-  "related_words": [
-    {
-      "word": "participle",
-      "type": "noun",
-      "definition": {
-        "chinese": "分词",
-        "english": "A form of a verb used as an adjective or to form verb tenses."
+      },
+      {
+        "word": "philosopher",
+        "type": "noun",
+        "definition": {
+          "chinese": "哲学家",
+          "english": "A person engaged or learned in philosophy."
+        }
       }
+    ],
+    "notes": [
+      {
+        "point": "抽象与比喻",
+        "explanation": "除指专业的哲学领域外，也可用作形容态度冷静、理智和超然。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自‘philosophy’（哲学），后因哲学家常给人冷静理智印象，引申为遇事冷静、看得开。",
+      "explanation_english": "From ‘philosophy’; extended figuratively to describe someone who reacts calmly and thoughtfully to problems."
     },
-    {
-      "word": "infinitive",
-      "type": "noun",
-      "definition": {
-        "chinese": "不定式",
-        "english": "The base form of a verb, often preceded by 'to', e.g., 'to run'."
-      }
+    "variation_between_british_american": {
+      "british": "用法与美式一致，学术和日常都常用。",
+      "american": "同样常用于学术写作和描述性格态度。"
     }
-  ],
-  "notes": [
-    {
-      "point": "语法要点",
-      "explanation": "Gerunds 既有动词的特征（如可带宾语），也有名词的功能（可作主语、宾语等）。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "‘gerund’ 本身是一个语法术语，含义专指动名词，用途多，但含义单一。",
-    "explanation_english": "‘Gerund’ specifically refers to the noun use of the -ing form of verbs; has one grammatical meaning but wide usage."
   },
-  "variation_between_british_american": {
-    "british": "用法一致，多用于语法讨论。",
-    "american": "用法一致，也常出现在英语教学中。"
-  }
-},
-{
+  {
+    "word": "indigenous",
+    "pronunciation": {
+      "british": "/ɪnˈdɪdʒ.ɪ.nəs/ 🇬🇧",
+      "american": "/ɪnˈdɪdʒ.ə.nəs/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：表示原产于某地、本地的，尤指土著民族或原生动植物。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "本土的；土著的；当地的",
+          "english": "Originating or occurring naturally in a particular place; native."
+        },
+        "examples": [
+          {
+            "sentence": "Kangaroos are indigenous to Australia.",
+            "translation": "袋鼠是澳大利亚的本土动物。"
+          },
+          {
+            "sentence": "The festival celebrates the culture of indigenous peoples.",
+            "translation": "这个节日庆祝土著民族的文化。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "indigenous people",
+      "indigenous culture",
+      "indigenous language",
+      "indigenous community",
+      "indigenous species"
+    ],
+    "related_words": [
+      {
+        "word": "native",
+        "type": "adjective/noun",
+        "definition": {
+          "chinese": "本土的；当地人",
+          "english": "Belonging to a particular place by birth or origin; also, a person born in a specific place."
+        }
+      },
+      {
+        "word": "aboriginal",
+        "type": "adjective",
+        "definition": {
+          "chinese": "土著的，原住民的",
+          "english": "Relating to the people or things that have been in a region from the earliest time."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化背景",
+        "explanation": "‘Indigenous’ 在讨论原住民（如 Australian Indigenous peoples）时，要使用尊重语境，避免贬义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Indigenous’ 来自拉丁语 ‘indigenus’，原意为‘本地出生的’，从动植物本土延伸到指代原住民。",
+      "explanation_english": "From Latin ‘indigenus’ meaning ‘born in a place’; extended from native flora and fauna to human populations."
+    },
+    "variation_between_british_american": {
+      "british": "常用于指原住民（如澳大利亚原住民）及本土动植物。",
+      "american": "同样用法，常指 Native American peoples 或本土文化。"
+    }
+  },
+  {
+    "word": "hidden away",
+    "pronunciation": {
+      "british": "/ˈhɪd.ən əˈweɪ/ 🇬🇧",
+      "american": "/ˈhɪd.ən əˈweɪ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal adjective 短语形容词 / 短语动词",
+    "usage": "常用 👍：用于形容某物或某地被藏起来或位于不易被发现的地方，常表达隐秘、安静或偏僻的意味。",
+    "meanings": [
+      {
+        "type": "phrasal adjective / phrase",
+        "definition": {
+          "chinese": "藏起来的；隐蔽的",
+          "english": "Located in a place where it is difficult to find or notice; kept out of sight."
+        },
+        "examples": [
+          {
+            "sentence": "The café is hidden away in a narrow alley.",
+            "translation": "这家咖啡馆藏在一条狭窄的小巷里。"
+          },
+          {
+            "sentence": "She kept her old letters hidden away in a drawer.",
+            "translation": "她把旧信件藏在抽屉里。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "hidden away somewhere",
+      "hidden away in the mountains",
+      "hidden away from view",
+      "kept hidden away",
+      "tucked or hidden away"
+    ],
+    "related_words": [
+      {
+        "word": "tucked away",
+        "type": "phrasal adjective",
+        "definition": {
+          "chinese": "隐蔽的，藏匿的",
+          "english": "Situated in a quiet or hidden place."
+        }
+      },
+      {
+        "word": "concealed",
+        "type": "adjective",
+        "definition": {
+          "chinese": "隐藏的",
+          "english": "Kept out of sight; hidden."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "‘Hidden away’ 常带有轻微诗意或浪漫色彩，给人一种宁静或私密的感觉。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Hidden’ 原意是‘隐藏’，加上 ‘away’ 强调‘远离视线’或‘更隐蔽’的状态，整体作为短语强调位置的隐蔽。",
+      "explanation_english": "Formed from the adjective ‘hidden’ plus ‘away’, adding a nuance of being tucked out of sight or in a remote place."
+    },
+    "variation_between_british_american": {
+      "british": "常用来形容小镇、咖啡馆或风景点位于偏僻处。",
+      "american": "用法相同，也常用于形容家中收藏物或记忆被藏起来的地方。"
+    }
+  },
+  {
+    "word": "belonging",
+    "pronunciation": {
+      "british": "/bɪˈlɒŋ.ɪŋ/ 🇬🇧",
+      "american": "/bɪˈlɔːŋ.ɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：既可指‘归属感’（抽象意义），也可指‘个人物品’（具体名词，常用复数）。",
+    "meanings": [
+      {
+        "type": "noun (uncountable)",
+        "definition": {
+          "chinese": "归属感，归属",
+          "english": "The feeling of being accepted and included in a group or place."
+        },
+        "examples": [
+          {
+            "sentence": "A sense of belonging is important for mental health.",
+            "translation": "归属感对心理健康很重要。"
+          }
+        ]
+      },
+      {
+        "type": "noun (plural: belongings)",
+        "definition": {
+          "chinese": "个人物品，财物",
+          "english": "The things that a person owns; possessions."
+        },
+        "examples": [
+          {
+            "sentence": "She packed her belongings and moved to a new city.",
+            "translation": "她收拾好自己的行李搬到了新城市。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "sense of belonging",
+      "emotional belonging",
+      "personal belongings",
+      "collect your belongings",
+      "feel a strong belonging"
+    ],
+    "related_words": [
+      {
+        "word": "possession",
+        "type": "noun",
+        "definition": {
+          "chinese": "财物，所有物",
+          "english": "Something owned or possessed by someone."
+        }
+      },
+      {
+        "word": "identity",
+        "type": "noun",
+        "definition": {
+          "chinese": "身份，认同",
+          "english": "The qualities, beliefs, etc., that make a person or group different from others."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "抽象与具体",
+        "explanation": "单数形式常表示抽象的‘归属感’，复数形式 ‘belongings’ 表示具体的个人物品。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意为‘属于（某人/某地）’，抽象化为‘归属感’，具体化为‘属于某人的物品’。",
+      "explanation_english": "Originally from the verb ‘belong’ (to be part of), extended abstractly to mean ‘sense of belonging’ and concretely to mean ‘things that belong to someone’."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致，复数常用 ‘belongings’ 表示行李或随身物品。",
+      "american": "同样使用 ‘belongings’ 指个人财物，‘sense of belonging’ 在心理学和社群研究中常见。"
+    }
+  },
+  {
+    "word": "assembly",
+    "pronunciation": {
+      "british": "/əˈsem.bli/ 🇬🇧",
+      "american": "/əˈsem.bli/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指集会、立法机构，或零件装配过程，根据上下文有所不同。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "集会，集合",
+          "english": "A group of people gathered together in one place for a common purpose."
+        },
+        "examples": [
+          {
+            "sentence": "The school holds a morning assembly every Monday.",
+            "translation": "学校每周一举行晨会。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "装配，组装",
+          "english": "The action of putting together the parts of something."
+        },
+        "examples": [
+          {
+            "sentence": "The car goes through final assembly before shipping.",
+            "translation": "汽车在出厂前需要经过最后的组装工序。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "立法机构，议会",
+          "english": "A legislative body or group of elected representatives."
+        },
+        "examples": [
+          {
+            "sentence": "The National Assembly will vote on the bill next week.",
+            "translation": "国民议会将在下周对该法案进行表决。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "school assembly",
+      "general assembly",
+      "final assembly",
+      "assembly line",
+      "legislative assembly"
+    ],
+    "related_words": [
+      {
+        "word": "meeting",
+        "type": "noun",
+        "definition": {
+          "chinese": "会议",
+          "english": "An occasion when people come together to discuss or decide something."
+        }
+      },
+      {
+        "word": "parliament",
+        "type": "noun",
+        "definition": {
+          "chinese": "议会",
+          "english": "A formal assembly of representatives with authority to make laws."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性",
+        "explanation": "‘Assembly’ 可指人群的集会，也指工业生产中的组装工艺，或正式立法机构。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意是‘聚集’，后延伸为集会（人群）、装配（部件聚合），以及由成员组成的议会。",
+      "explanation_english": "Originally means ‘a gathering together’; extended to gatherings of people, assembling parts in manufacturing, and a legislative body formed by elected members."
+    },
+    "variation_between_british_american": {
+      "british": "常指学校晨会、议会（如 Scottish Assembly）。",
+      "american": "同样指学校集会，也指州议会（State Assembly），工业语境中常用于 assembly line（装配线）。"
+    }
+  },
+  {
+    "word": "siren",
+    "pronunciation": {
+      "british": "/ˈsaɪə.rən/ 🇬🇧",
+      "american": "/ˈsaɪrən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指发出响亮警报声的装置，也指神话中的海妖（用歌声诱惑水手）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "警报器，汽笛",
+          "english": "A device that makes a loud warning sound to alert people to danger or call attention."
+        },
+        "examples": [
+          {
+            "sentence": "We pulled over when we heard the ambulance siren.",
+            "translation": "听到救护车的警报声后我们靠边停车。"
+          }
+        ]
+      },
+      {
+        "type": "noun (mythology)",
+        "definition": {
+          "chinese": "塞壬（古希腊神话中用歌声引诱水手的女妖）",
+          "english": "A creature from Greek mythology that lured sailors to their doom with enchanting music and singing voices."
+        },
+        "examples": [
+          {
+            "sentence": "In the story, the sailors could not resist the call of the sirens.",
+            "translation": "故事中，水手们无法抵抗塞壬的歌声诱惑。"
+          }
+        ]
+      },
+      {
+        "type": "noun (figurative)",
+        "definition": {
+          "chinese": "有致命吸引力的女人",
+          "english": "A seductive or dangerously attractive woman."
+        },
+        "examples": [
+          {
+            "sentence": "She was described as a modern-day siren.",
+            "translation": "她被形容为现代的‘女海妖’（危险的美人）。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "police siren",
+      "ambulance siren",
+      "wailing siren",
+      "sound the siren",
+      "the call of the siren"
+    ],
+    "related_words": [
+      {
+        "word": "alarm",
+        "type": "noun",
+        "definition": {
+          "chinese": "警报",
+          "english": "A device that warns of danger by making a loud noise."
+        }
+      },
+      {
+        "word": "temptress",
+        "type": "noun",
+        "definition": {
+          "chinese": "妖艳女子",
+          "english": "A woman who tempts someone to do something, often morally wrong or risky."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "神话与现代用法",
+        "explanation": "最早指神话中的海妖，现代主要用来指警报装置，也可比喻危险而迷人的女人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古希腊神话中的塞壬，她们用歌声诱惑水手；现代被引申为警报器（发出强烈警告声），以及形容具有危险魅力的女人。",
+      "explanation_english": "From Greek mythology (Sirens who lured sailors); extended to mean ‘alarm device’ due to the idea of a loud, irresistible call, and figuratively for seductive women."
+    },
+    "variation_between_british_american": {
+      "british": "警报器用法一致，也常提到神话意义。",
+      "american": "用法相同，尤其常用于紧急车辆警报器，也比喻有致命吸引力的人。"
+    }
+  },
+  {
+    "word": "warden",
+    "pronunciation": {
+      "british": "/ˈwɔː.dən/ 🇬🇧",
+      "american": "/ˈwɔːr.dən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指看守、管理人、监狱长或校园宿舍舍监等，依场景略有不同。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "监狱长",
+          "english": "A person in charge of a prison."
+        },
+        "examples": [
+          {
+            "sentence": "The warden announced new rules to improve security.",
+            "translation": "监狱长宣布了新的规定以提高安全性。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（宿舍等的）舍监，管理人",
+          "english": "A person responsible for supervising a building, such as a dormitory or residence hall."
+        },
+        "examples": [
+          {
+            "sentence": "The warden made sure the students followed the dorm rules.",
+            "translation": "舍监确保学生遵守宿舍规定。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "看守人，管理员",
+          "english": "Someone who is responsible for taking care of a particular place or thing, like a park warden or game warden."
+        },
+        "examples": [
+          {
+            "sentence": "The park warden explained the rules to visitors.",
+            "translation": "公园管理员向游客讲解了规定。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "prison warden",
+      "game warden",
+      "hall warden",
+      "warden of the college",
+      "park warden"
+    ],
+    "related_words": [
+      {
+        "word": "guard",
+        "type": "noun",
+        "definition": {
+          "chinese": "警卫，看守",
+          "english": "A person who protects or watches over a place or people."
+        }
+      },
+      {
+        "word": "superintendent",
+        "type": "noun",
+        "definition": {
+          "chinese": "主管，负责人",
+          "english": "A person who manages or oversees an organization or operation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "不同场景含义",
+        "explanation": "在英国高校或宿舍，‘warden’ 常指宿舍或学院负责人；在美国更多用于监狱或野生动物保护区的负责人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Warden’ 源自古法语 ‘warden’（守卫、保护），最初表示保护者或管理者，后来具体化到不同管理场景，如监狱、公园或学校。",
+      "explanation_english": "Derived from Old French ‘warden’ meaning ‘guard’ or ‘protector’; later specialized into roles in prisons, parks, or educational institutions."
+    },
+    "variation_between_british_american": {
+      "british": "常用于大学宿舍、学院或宿舍楼负责人，也指监狱长。",
+      "american": "多指监狱长，也常见于‘game warden’（野生动物保护官）。"
+    }
+  },
+  {
+    "word": "induction",
+    "pronunciation": {
+      "british": "/ɪnˈdʌk.ʃən/ 🇬🇧",
+      "american": "/ɪnˈdʌk.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：用于表示正式就职、引导新人成熟悉环境，也可用于科学或逻辑中的‘归纳法’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "就职仪式；入职培训",
+          "english": "The process or ceremony of introducing someone to a new job, position, or organization."
+        },
+        "examples": [
+          {
+            "sentence": "All new employees must attend an induction session.",
+            "translation": "所有新员工都必须参加入职培训。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "归纳法（逻辑）",
+          "english": "A method of reasoning that draws general conclusions from specific observations."
+        },
+        "examples": [
+          {
+            "sentence": "Scientific theories are often developed through induction.",
+            "translation": "科学理论通常是通过归纳法提出的。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "感应（物理）",
+          "english": "The production of an electric or magnetic effect through the influence of a nearby field."
+        },
+        "examples": [
+          {
+            "sentence": "The device works by electromagnetic induction.",
+            "translation": "该设备通过电磁感应工作。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "induction program",
+      "staff induction",
+      "induction process",
+      "mathematical induction",
+      "electromagnetic induction"
+    ],
+    "related_words": [
+      {
+        "word": "orientation",
+        "type": "noun",
+        "definition": {
+          "chinese": "迎新/培训；方向",
+          "english": "A program or process to help new people become familiar with an organization."
+        }
+      },
+      {
+        "word": "deduction",
+        "type": "noun",
+        "definition": {
+          "chinese": "演绎法",
+          "english": "A method of reasoning from general principles to specific cases."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性来源",
+        "explanation": "‘Induction’ 在不同学科有不同含义：工作中指引导或培训，逻辑学中指归纳推理，物理中指电磁感应。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘inductio’，原意为‘引入、带领’，后引申至逻辑学和物理学等领域。",
+      "explanation_english": "From Latin ‘inductio’ meaning ‘leading in’; extended to reasoning and scientific contexts over time."
+    },
+    "variation_between_british_american": {
+      "british": "常在 HR 和教育场景用作‘新员工培训’，学术语境中也用在数学和物理中。",
+      "american": "用法相同，也同样常用于企业和学校中的入职培训与归纳推理。"
+    }
+  },
+  {
+    "word": "linguistically",
+    "pronunciation": {
+      "british": "/lɪŋˈɡwɪs.tɪ.kəl.i/ 🇬🇧",
+      "american": "/lɪŋˈɡwɪs.tɪ.kəl.i/ 🇺🇸"
+    },
+    "phrase_type": "adverb 副词",
+    "usage": "常用 👍：用于描述与语言相关的方式或角度，强调语言层面的特征或行为。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "语言上；语言学上",
+          "english": "In a way that relates to language or linguistics."
+        },
+        "examples": [
+          {
+            "sentence": "The dialect is linguistically distinct from the standard language.",
+            "translation": "该方言在语言学上与标准语言有所不同。"
+          },
+          {
+            "sentence": "Linguistically, the two languages share many similarities.",
+            "translation": "从语言学角度来看，这两种语言有许多相似之处。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "linguistically diverse",
+      "linguistically different",
+      "linguistically rich",
+      "linguistically significant",
+      "linguistically complex"
+    ],
+    "related_words": [
+      {
+        "word": "linguistic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "语言的，语言学的",
+          "english": "Relating to language or linguistics."
+        }
+      },
+      {
+        "word": "language",
+        "type": "noun",
+        "definition": {
+          "chinese": "语言",
+          "english": "The method of human communication, either spoken or written."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "副词用法",
+        "explanation": "‘Linguistically’ 主要用于描述从语言学角度或语言方面的特征，通常用于学术或正式语境。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "作为副词，词义单一，源自动词 ‘linguistic’ 的副词形式，强调‘语言方面’的概念。",
+      "explanation_english": "As an adverb, it has a single meaning derived from the adjective ‘linguistic’, emphasizing something related to language."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，常见于学术文章。",
+      "american": "用法相同，也广泛用于教育和语言学研究。"
+    }
+  },
+  {
+    "word": "linguistic",
+    "pronunciation": {
+      "british": "/lɪŋˈɡwɪs.tɪk/ 🇬🇧",
+      "american": "/lɪŋˈɡwɪs.tɪk/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：用于描述与语言或语言学相关的事物，如‘linguistic analysis’（语言学分析）。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "语言的；语言学的",
+          "english": "Relating to language or the scientific study of language (linguistics)."
+        },
+        "examples": [
+          {
+            "sentence": "She has a strong interest in linguistic theory.",
+            "translation": "她对语言学理论很感兴趣。"
+          },
+          {
+            "sentence": "There are many linguistic differences between dialects.",
+            "translation": "不同方言之间存在许多语言差异。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "linguistic analysis",
+      "linguistic diversity",
+      "linguistic skills",
+      "linguistic features",
+      "linguistic research"
+    ],
+    "related_words": [
+      {
+        "word": "linguistics",
+        "type": "noun",
+        "definition": {
+          "chinese": "语言学",
+          "english": "The scientific study of language and its structure."
+        }
+      },
+      {
+        "word": "polyglot",
+        "type": "noun/adjective",
+        "definition": {
+          "chinese": "通晓多种语言的人；会多种语言的",
+          "english": "A person who knows and is able to use several languages."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "学科背景",
+        "explanation": "‘Linguistic’ 多用于学术或研究语境中，也常出现在讨论语言结构、语言习得、语言差异等主题时。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本词直接来自 ‘linguistics’（语言学），仅指与语言或语言学相关，没有本质多义，只是应用领域多样。",
+      "explanation_english": "Directly derived from ‘linguistics’, it mainly means ‘relating to language’—one meaning but used in many contexts."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，主要用于学术领域。",
+      "american": "用法相同，也常用于教育、心理学和社会科学领域讨论中。"
+    }
+  },
+  {
+    "word": "uncapped",
+    "pronunciation": {
+      "british": "/ʌnˈkæpt/ 🇬🇧",
+      "american": "/ʌnˈkæpt/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：用于表示无限制、不设上限，也可指体育运动员尚未入选国家队。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "不设上限的，无限制的",
+          "english": "Not limited by a maximum amount or cap."
+        },
+        "examples": [
+          {
+            "sentence": "The new mobile data plan is uncapped, so you can use as much as you want.",
+            "translation": "新的移动数据套餐是无限流量的，你想用多少就用多少。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (sports)",
+        "definition": {
+          "chinese": "（运动员）尚未入选国家队的",
+          "english": "Describing a player who has not yet been selected to play for a national team."
+        },
+        "examples": [
+          {
+            "sentence": "The uncapped player showed great potential in the league.",
+            "translation": "这位尚未入选国家队的球员在联赛中表现出了巨大的潜力。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "uncapped data",
+      "uncapped salary",
+      "remain uncapped",
+      "uncapped player",
+      "uncapped plan"
+    ],
+    "related_words": [
+      {
+        "word": "unlimited",
+        "type": "adjective",
+        "definition": {
+          "chinese": "无限的",
+          "english": "Without any limit."
+        }
+      },
+      {
+        "word": "cap",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "上限；限制",
+          "english": "A limit or to place a limit on something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性",
+        "explanation": "既可指资源或费用上的‘不设限’，也可用在体育语境形容球员还没代表国家队出场。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Cap’ 原意是帽子，引申为‘限制、上限’；‘uncapped’ 则表示‘未限制’或‘未戴帽’（体育术语中代表国家队出场被称为“戴帽”）。",
+      "explanation_english": "‘Cap’ originally means ‘hat’; extended to mean ‘limit’. ‘Uncapped’ thus means ‘without a limit’ or in sports, ‘not having earned a cap’ (appearance for a national team)."
+    },
+    "variation_between_british_american": {
+      "british": "常用在体育和电信领域，如 uncapped broadband。",
+      "american": "同样用在体育和电信，也常指 uncapped commission or salary。"
+    }
+  },
+  {
+    "word": "acknowledgement",
+    "pronunciation": {
+      "british": "/əkˈnɒl.ɪdʒ.mənt/ 🇬🇧",
+      "american": "/əkˈnɑː.lɪdʒ.mənt/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：表示承认、感谢或对收到信息的确认，多见于书籍、论文或正式通信中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "承认，认可",
+          "english": "The act of accepting that something is true or exists."
+        },
+        "examples": [
+          {
+            "sentence": "His smile was an acknowledgement of her presence.",
+            "translation": "他的微笑是对她到来的认可。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "答谢，鸣谢",
+          "english": "An expression of gratitude, especially in writing."
+        },
+        "examples": [
+          {
+            "sentence": "She wrote an acknowledgement to thank her mentors.",
+            "translation": "她写了一段鸣谢文字来感谢她的导师们。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "回执，确认收悉",
+          "english": "A formal statement or letter confirming that something has been received."
+        },
+        "examples": [
+          {
+            "sentence": "We received an acknowledgement of our application.",
+            "translation": "我们收到了申请的回执。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "letter of acknowledgement",
+      "public acknowledgement",
+      "acknowledgement of receipt",
+      "in the acknowledgements (of a book)",
+      "silent acknowledgement"
+    ],
+    "related_words": [
+      {
+        "word": "recognition",
+        "type": "noun",
+        "definition": {
+          "chinese": "认可，承认",
+          "english": "The acknowledgment of something's existence, validity, or legality."
+        }
+      },
+      {
+        "word": "thanks",
+        "type": "noun",
+        "definition": {
+          "chinese": "感谢",
+          "english": "An expression of gratitude."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "英美拼写差异",
+        "explanation": "英式拼写为 ‘acknowledgement’，美式常简化为 ‘acknowledgment’（少了第一个‘e’）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指承认某事的真实性，后引申为表示感谢或确认收悉。",
+      "explanation_english": "Originally meant admitting or recognizing the truth; later extended to include thanking and formal receipts."
+    },
+    "variation_between_british_american": {
+      "british": "通常写作 ‘acknowledgement’。",
+      "american": "常写作 ‘acknowledgment’，含义和用法相同。"
+    }
+  },
+  {
+    "word": "acknowledge",
+    "pronunciation": {
+      "british": "/əkˈnɒl.ɪdʒ/ 🇬🇧",
+      "american": "/əkˈnɑː.lɪdʒ/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：表示承认、确认或对他人表达感谢；既可正式也可日常使用。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "承认（事实、情况等）",
+          "english": "To accept or admit the existence or truth of something."
+        },
+        "examples": [
+          {
+            "sentence": "She refused to acknowledge her mistake.",
+            "translation": "她拒绝承认自己的错误。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（通过点头、微笑等）表示收到或注意到",
+          "english": "To show that one has noticed someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "He acknowledged her presence with a brief nod.",
+            "translation": "他点头示意注意到了她的到来。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "答谢，感谢",
+          "english": "To express thanks for something received."
+        },
+        "examples": [
+          {
+            "sentence": "We gratefully acknowledge the support of our sponsors.",
+            "translation": "我们衷心感谢赞助商的支持。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "acknowledge receipt",
+      "acknowledge an error",
+      "acknowledge someone’s contribution",
+      "publicly acknowledge",
+      "acknowledge a letter/email"
+    ],
+    "related_words": [
+      {
+        "word": "admit",
+        "type": "verb",
+        "definition": {
+          "chinese": "承认",
+          "english": "To confess to be true or to be the case."
+        }
+      },
+      {
+        "word": "recognize",
+        "type": "verb",
+        "definition": {
+          "chinese": "认识到，承认",
+          "english": "To accept or be aware of something's existence or validity."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式与非正式用法",
+        "explanation": "‘Acknowledge’ 在正式文件或演讲中非常常用；日常口语中也可以用来表示点头或微笑示意。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初意为‘承认’（知识、事实），后来引申出‘感谢’或‘回应别人’的用法。",
+      "explanation_english": "Originally meant to admit or accept; later extended to include thanking and showing recognition."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，也常用于正式书信 ‘I acknowledge receipt of…’。",
+      "american": "用法一致，同样常用于正式或商业语境。"
+    }
+  },
+  {
+    "word": "reconciliation",
+    "pronunciation": {
+      "british": "/ˌrek.ənˌsɪl.iˈeɪ.ʃən/ 🇬🇧",
+      "american": "/ˌrek.ənˌsɪl.iˈeɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指重归于好、和解，也用于财务或报表对账时的核对。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "和解，调解，重修旧好",
+          "english": "The restoration of friendly relations after disagreement or conflict."
+        },
+        "examples": [
+          {
+            "sentence": "They hoped for a reconciliation after years of dispute.",
+            "translation": "他们希望多年争执后能和解。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "对账，核对",
+          "english": "The process of making two financial accounts or records consistent with each other."
+        },
+        "examples": [
+          {
+            "sentence": "The accountant is preparing the monthly reconciliation.",
+            "translation": "会计正在准备月度对账。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "national reconciliation",
+      "seek reconciliation",
+      "achieve reconciliation",
+      "reconciliation process",
+      "bank reconciliation"
+    ],
+    "related_words": [
+      {
+        "word": "resolve",
+        "type": "verb",
+        "definition": {
+          "chinese": "解决，化解",
+          "english": "To settle or find a solution to a dispute or problem."
+        }
+      },
+      {
+        "word": "harmony",
+        "type": "noun",
+        "definition": {
+          "chinese": "和谐",
+          "english": "A state of agreement or peaceful coexistence."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性",
+        "explanation": "既可指人际关系中的和解，也用于专业财务对账领域。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘reconciliare’，原意是‘使重新友好’，后被引申为财务对账上的‘核对一致’。",
+      "explanation_english": "From Latin ‘reconciliare’ meaning ‘to bring together again’, extended to financial usage meaning ‘make records agree’."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，尤其在指社会或国家层面的和解时常见。",
+      "american": "用法一致，也在政治或企业财务中常用。"
+    }
+  },
+  {
+    "word": "orientation",
+    "pronunciation": {
+      "british": "/ˌɔː.ri.enˈteɪ.ʃən/ 🇬🇧",
+      "american": "/ˌɔːr.i.enˈteɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：用于表示方向、态度，也指新生或新员工培训介绍。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "方向，定位",
+          "english": "The determination of the relative position or direction of something or someone."
+        },
+        "examples": [
+          {
+            "sentence": "The building has an east–west orientation.",
+            "translation": "这座建筑是东西走向的。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "态度，倾向",
+          "english": "A person's basic attitude, beliefs, or preferences."
+        },
+        "examples": [
+          {
+            "sentence": "His political orientation is quite clear.",
+            "translation": "他的政治倾向非常明显。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "培训，入职介绍",
+          "english": "A program or session introducing newcomers to an organization, place, or system."
+        },
+        "examples": [
+          {
+            "sentence": "The company provides a two-day orientation for new employees.",
+            "translation": "公司为新员工提供为期两天的入职培训。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "new employee orientation",
+      "orientation session",
+      "sexual orientation",
+      "political orientation",
+      "orientation program"
+    ],
+    "related_words": [
+      {
+        "word": "introduction",
+        "type": "noun",
+        "definition": {
+          "chinese": "介绍，入门",
+          "english": "The action of introducing something or someone."
+        }
+      },
+      {
+        "word": "direction",
+        "type": "noun",
+        "definition": {
+          "chinese": "方向",
+          "english": "The course along which someone or something moves."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性",
+        "explanation": "‘orientation’ 可以指具体空间方向，也可指抽象态度或正式培训活动。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘orientare’，原意为‘朝向东方’，后引申为方向、态度及培训。",
+      "explanation_english": "From Latin ‘orientare’ meaning ‘to face east’, extended to include direction, attitude, and introductory sessions."
+    },
+    "variation_between_british_american": {
+      "british": "用法基本一致，常用于学校、公司或医院的介绍会。",
+      "american": "用法相同，在校园和企业文化中尤为常见。"
+    }
+  },
+  {
+    "word": "gerund",
+    "pronunciation": {
+      "british": "/ˈdʒer.ənd/ 🇬🇧",
+      "american": "/ˈdʒer.ənd/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词（语法术语）",
+    "usage": "常用 👍：指动词的 -ing 形式在句中作名词用的情况，是语法学习中常见概念。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "动名词",
+          "english": "The -ing form of a verb used as a noun, e.g., 'Swimming is fun.'"
+        },
+        "examples": [
+          {
+            "sentence": "Reading helps improve your vocabulary.",
+            "translation": "阅读有助于提升词汇量。"
+          },
+          {
+            "sentence": "I enjoy cooking for my family.",
+            "translation": "我喜欢为家人做饭。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "gerund phrase",
+      "gerund as subject",
+      "gerund as object",
+      "using gerunds",
+      "gerund vs. infinitive"
+    ],
+    "related_words": [
+      {
+        "word": "participle",
+        "type": "noun",
+        "definition": {
+          "chinese": "分词",
+          "english": "A form of a verb used as an adjective or to form verb tenses."
+        }
+      },
+      {
+        "word": "infinitive",
+        "type": "noun",
+        "definition": {
+          "chinese": "不定式",
+          "english": "The base form of a verb, often preceded by 'to', e.g., 'to run'."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法要点",
+        "explanation": "Gerunds 既有动词的特征（如可带宾语），也有名词的功能（可作主语、宾语等）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘gerund’ 本身是一个语法术语，含义专指动名词，用途多，但含义单一。",
+      "explanation_english": "‘Gerund’ specifically refers to the noun use of the -ing form of verbs; has one grammatical meaning but wide usage."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，多用于语法讨论。",
+      "american": "用法一致，也常出现在英语教学中。"
+    }
+  },
+  {
     "word": "reversal",
     "pronunciation": {
       "british": "/rɪˈvɜː.səl/ 🇬🇧",
@@ -17280,6 +17280,1035 @@ const wordData = [
     "variation_between_british_american": {
       "british": "发音一致，使用频率略低于 ‘hesitation’。",
       "american": "发音一致，同样用法和频率。"
+    }
+  },
+  {
+    "phrase": "take guts",
+    "pronunciation": {
+      "british": "/teɪk ɡʌts/ 🇬🇧",
+      "american": "/teɪk ɡʌts/ 🇺🇸"
+    },
+    "phrase_type": "口语表达（idiom）",
+    "usage": "常用 👍：表示“需要勇气、胆量”，多用于称赞某人敢于做困难或危险的事。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "需要勇气，需要胆量",
+          "english": "To require courage, bravery, or determination."
+        },
+        "examples": [
+          {
+            "sentence": "It takes guts to stand up to your boss like that.",
+            "translation": "敢那样顶撞老板是需要勇气的。"
+          },
+          {
+            "sentence": "Starting your own business really takes guts.",
+            "translation": "自己创业真的需要很大的勇气。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "take guts to do sth",
+      "takes real guts",
+      "have the guts",
+      "show guts",
+      "no guts, no glory"
+    ],
+    "related_words": [
+      {
+        "word": "courage",
+        "type": "noun",
+        "definition": {
+          "chinese": "勇气，胆量",
+          "english": "The ability to do something that frightens one."
+        }
+      },
+      {
+        "word": "bravery",
+        "type": "noun",
+        "definition": {
+          "chinese": "英勇，勇敢",
+          "english": "Courageous behavior or character."
+        }
+      },
+      {
+        "word": "bold",
+        "type": "adjective",
+        "definition": {
+          "chinese": "大胆的",
+          "english": "Showing a willingness to take risks."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "‘guts’ 是复数形式",
+        "explanation": "这里的 ‘guts’ 指的是胆量或勇气，不是字面意思的‘肠子’。口语中经常以复数形式使用。"
+      },
+      {
+        "point": "搭配方式",
+        "explanation": "常见搭配是 ‘it takes guts to...’，主语是 it，后面跟动词不定式。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘guts’ 原意是“内脏”，象征勇气来源，因而引申为“胆量”；‘take guts’ 就是“需要胆量”。",
+      "explanation_english": "Originally, 'guts' refers to internal organs, symbolizing courage or inner strength in idiomatic use."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中也常说 ‘it takes some doing’ 表达类似意思。",
+      "american": "美式英语更直接使用 ‘take guts’ 或 ‘have guts’。"
+    }
+  },
+  {
+    "word": "lock in",
+    "pronunciation": {
+      "british": "/lɒk ɪn/ 🇬🇧",
+      "american": "/lɑːk ɪn/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：表示“锁定”（价格、利率、决定等），也可表示“限制、困住”，或口语中指“酒吧关门后的非正式聚会（英式）”。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "锁定（价格、协议、利率等）；确定下来",
+          "english": "To secure something so it cannot change, especially in a deal or agreement."
+        },
+        "examples": [
+          {
+            "sentence": "We managed to lock in a great interest rate on our mortgage.",
+            "translation": "我们设法锁定了一个很好的房贷利率。"
+          },
+          {
+            "sentence": "Lock in your ticket price before the sale ends.",
+            "translation": "在优惠结束前锁定你的票价。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "限制住，使无法逃脱（比喻或物理上的）",
+          "english": "To confine or trap someone or something, often making change or movement difficult."
+        },
+        "examples": [
+          {
+            "sentence": "The company is locked into a long-term contract.",
+            "translation": "这家公司被锁在一个长期合同里，难以更改。"
+          },
+          {
+            "sentence": "They were locked in the building overnight by mistake.",
+            "translation": "他们被误锁在大楼里一整晚。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（英式）关门后继续在酒吧里聚会",
+          "english": "(UK) An informal social gathering in a pub after official closing time."
+        },
+        "examples": [
+          {
+            "sentence": "We had a lock-in at the pub last night.",
+            "translation": "我们昨晚在酒吧关门后继续聚会。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "lock in a price",
+      "lock in a rate",
+      "lock in a contract",
+      "lock in gains",
+      "locked into a decision"
+    ],
+    "related_words": [
+      {
+        "word": "secure",
+        "type": "verb",
+        "definition": {
+          "chinese": "确保；稳固",
+          "english": "To obtain or achieve something firmly."
+        }
+      },
+      {
+        "word": "trap",
+        "type": "verb",
+        "definition": {
+          "chinese": "困住；陷入",
+          "english": "To catch or hold something so it cannot escape."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气与语境",
+        "explanation": "‘lock in’ 用于财务、计划等正式语境时意为“锁定”，而在日常口语中也可用于形象地表示“被困住”。"
+      },
+      {
+        "point": "被动形式",
+        "explanation": "常见如 ‘be locked in/into’ 表示被绑定、被限制。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Lock in’ 原始意义为“锁在里面”，后来引申为“锁定价格、利率”等抽象用法，也发展出酒吧文化中的“关门聚会”义。",
+      "explanation_english": "Originally meant physically locking something inside; later extended metaphorically to agreements, decisions, and informal gatherings."
+    },
+    "variation_between_british_american": {
+      "british": "‘lock-in’ 作名词时更常用于酒吧文化中的非正式聚会。",
+      "american": "在美式英语中，‘lock in’ 更多用于经济、金融领域，如锁定利率、股价等。"
+    }
+  },
+  {
+    "word": "bleach",
+    "pronunciation": {
+      "british": "/bliːtʃ/ 🇬🇧",
+      "american": "/bliːtʃ/ 🇺🇸"
+    },
+    "phrase_type": "verb & noun 动词 & 名词",
+    "usage": "常用 👍：用于漂白布料、头发等，也可以指去色、变浅（包括自然或化学方式）。作为名词指“漂白剂”。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "漂白；脱色；变白",
+          "english": "To make something white or lighter in color by using chemicals or sunlight."
+        },
+        "examples": [
+          {
+            "sentence": "She bleached her hair blonde.",
+            "translation": "她把头发漂成了金色。"
+          },
+          {
+            "sentence": "The sun bleached the curtains over time.",
+            "translation": "阳光久而久之把窗帘晒得褪了色。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "漂白剂",
+          "english": "A chemical used to whiten or disinfect, especially in cleaning or laundry."
+        },
+        "examples": [
+          {
+            "sentence": "Be careful not to mix bleach with ammonia.",
+            "translation": "注意不要将漂白剂与氨混合。"
+          },
+          {
+            "sentence": "Use bleach to disinfect the surface.",
+            "translation": "使用漂白剂来消毒表面。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "bleach hair",
+      "bleach stains",
+      "bleach white",
+      "bleach out",
+      "chlorine bleach",
+      "bleach solution"
+    ],
+    "related_words": [
+      {
+        "word": "whiten",
+        "type": "verb",
+        "definition": {
+          "chinese": "使变白",
+          "english": "To make something white, often without chemicals."
+        }
+      },
+      {
+        "word": "fade",
+        "type": "verb",
+        "definition": {
+          "chinese": "褪色；逐渐变淡",
+          "english": "To lose color or brightness gradually, often due to light or time."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "安全使用",
+        "explanation": "‘bleach’ 是强腐蚀性化学品，应避免直接接触皮肤或吸入气体。"
+      },
+      {
+        "point": "动词用法",
+        "explanation": "可作及物或不及物动词，如 'bleach the fabric' 和 'The fabric bleached in the sun.'"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Bleach’ 来自古英语 *blǣcan*，意思是“使发白”。作为动词表示动作，名词指使用的物质。",
+      "explanation_english": "From Old English *blǣcan* (to whiten), the verb and noun forms naturally evolved in parallel."
+    },
+    "variation_between_british_american": {
+      "british": "常见于清洁和衣物漂白，漂白剂有时称为“bleaching agent”。",
+      "american": "在美式英语中，‘bleach’ 很常见用于家庭清洁，如 'Clorox bleach'。"
+    }
+  },
+  {
+    "word": "glow",
+    "pronunciation": {
+      "british": "/ɡləʊ/ 🇬🇧",
+      "american": "/ɡloʊ/ 🇺🇸"
+    },
+    "phrase_type": "verb & noun 动词 & 名词",
+    "usage": "常用 👍：用于描述柔和的光、发光的状态，或形容人的容光焕发（例如脸上泛光）。也用于比喻心情温暖、满足。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "发出柔和的光；容光焕发；（因情绪、健康等）脸泛红",
+          "english": "To produce a soft, steady light; to look radiant or healthy; to show emotion on one's face (like blushing or joy)."
+        },
+        "examples": [
+          {
+            "sentence": "The coals still glowed in the fireplace.",
+            "translation": "壁炉里的煤炭仍在发着光。"
+          },
+          {
+            "sentence": "She glowed with happiness on her wedding day.",
+            "translation": "她在婚礼那天幸福地容光焕发。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "微光；光辉；红晕；满足感",
+          "english": "A steady light; the brightness of a face or body due to health or emotion; a warm feeling of pleasure."
+        },
+        "examples": [
+          {
+            "sentence": "The glow of the sunset filled the room.",
+            "translation": "夕阳的光辉洒满了房间。"
+          },
+          {
+            "sentence": "He felt a warm glow of pride.",
+            "translation": "他感到一阵自豪的暖意。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "soft glow",
+      "warm glow",
+      "glow in the dark",
+      "glow of pride",
+      "healthy glow",
+      "inner glow"
+    ],
+    "related_words": [
+      {
+        "word": "radiate",
+        "type": "verb",
+        "definition": {
+          "chinese": "散发；流露",
+          "english": "To emit energy or emotion outward, such as warmth or joy."
+        }
+      },
+      {
+        "word": "shine",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "闪耀；光亮",
+          "english": "To give off bright light or to reflect light strongly."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "‘glow’ 常用于形容内在的幸福、骄傲、满意等感觉，例如 'a glow of pride'（自豪感）或 'glow with joy'（因高兴而脸泛光）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Glow’ 源自古英语 *glowan*，意指“燃烧或发光”，后来引申到“脸上因情绪或健康而发红发亮”的比喻意义。",
+      "explanation_english": "From Old English *glowan* (to burn/shine), its meaning expanded from literal light to emotional and physical radiance."
+    },
+    "variation_between_british_american": {
+      "british": "通常用于天气或人面容，如 'a healthy glow after the holiday'。",
+      "american": "更强调个人情绪或自豪感，如 'a glow of success'，用法一致但略偏向感情色彩。"
+    }
+  },
+  {
+    "word": "feature",
+    "pronunciation": {
+      "british": "/ˈfiː.tʃər/ 🇬🇧",
+      "american": "/ˈfiː.tʃɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun & verb 名词 & 动词",
+    "usage": "常用 👍：既可作名词表示“特征、特色、功能”，也可作动词表示“以……为特色”或“主演”。广泛用于科技、媒体、人物描述等场景。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "特征；特色；功能；五官（常用复数）",
+          "english": "A typical quality or important part of something; also refers to parts of the face."
+        },
+        "examples": [
+          {
+            "sentence": "The new phone has several innovative features.",
+            "translation": "这款新手机具有几个创新功能。"
+          },
+          {
+            "sentence": "Her facial features are very delicate.",
+            "translation": "她的五官非常精致。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "以……为特色；重点介绍；由……主演",
+          "english": "To include someone or something as an important part or special attraction."
+        },
+        "examples": [
+          {
+            "sentence": "The movie features several famous actors.",
+            "translation": "这部电影由几位著名演员主演。"
+          },
+          {
+            "sentence": "The exhibition features local artists.",
+            "translation": "这个展览以本地艺术家为主。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "key feature",
+      "distinctive feature",
+      "facial features",
+      "special feature",
+      "feature film",
+      "feature in a show",
+      "feature a product"
+    ],
+    "related_words": [
+      {
+        "word": "characteristic",
+        "type": "noun",
+        "definition": {
+          "chinese": "特点，特性",
+          "english": "A quality or trait typical of someone or something."
+        }
+      },
+      {
+        "word": "highlight",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "强调；最精彩的部分",
+          "english": "To emphasize or make something stand out; or the most exciting part."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性说明",
+        "explanation": "‘Feature’ 的含义根据语境变化较大，从‘物理特征’到‘功能’，再到‘节目、报道中的重点内容’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Feature’ 源自拉丁语“facies”（面貌），最初用于描述人的外貌，后逐渐扩展到描述事物的特点、科技功能和文艺作品中的内容焦点。",
+      "explanation_english": "From Latin ‘facies’ (face/appearance), originally referring to facial traits, then broadened to include prominent aspects, functions, and media content."
+    },
+    "variation_between_british_american": {
+      "british": "‘Feature film’ 特指院线主片；‘feature’ 也常用于科技和报道中。",
+      "american": "与英式用法一致，新闻或电影行业中更高频使用‘feature story’（特写报道）或‘feature presentation’。"
+    }
+  },
+  {
+    "word": "landmark",
+    "pronunciation": {
+      "british": "/ˈlænd.mɑːk/ 🇬🇧",
+      "american": "/ˈlænd.mɑːrk/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：既可指地理上的标志性建筑或地点，也可以比喻重大转折点或具有历史意义的事件。",
+    "meanings": [
+      {
+        "type": "noun (literal)",
+        "definition": {
+          "chinese": "地标；标志性建筑",
+          "english": "An easily recognized building or place, often used for navigation or symbolic value."
+        },
+        "examples": [
+          {
+            "sentence": "The Eiffel Tower is a famous landmark in Paris.",
+            "translation": "埃菲尔铁塔是巴黎著名的地标。"
+          }
+        ]
+      },
+      {
+        "type": "noun (figurative)",
+        "definition": {
+          "chinese": "重大事件；里程碑",
+          "english": "An important stage or turning point in something, especially history or development."
+        },
+        "examples": [
+          {
+            "sentence": "The court’s ruling was a landmark decision for civil rights.",
+            "translation": "该法院的裁决是民权方面的里程碑事件。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "historical landmark",
+      "major landmark",
+      "landmark decision",
+      "landmark case",
+      "landmark event"
+    ],
+    "related_words": [
+      {
+        "word": "milestone",
+        "type": "noun",
+        "definition": {
+          "chinese": "重要节点，里程碑",
+          "english": "A significant event or point in development or progress."
+        }
+      },
+      {
+        "word": "monument",
+        "type": "noun",
+        "definition": {
+          "chinese": "纪念碑，纪念建筑",
+          "english": "A structure erected to commemorate a person or event."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "双重用法",
+        "explanation": "‘Landmark’ 既可具体指地理标志物，也常用于比喻“具有决定性意义的事件或成就”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于‘土地上的标记’（land + mark），原指导航用的标志物，后来引申为历史上的重大转折点。",
+      "explanation_english": "Originally referred to a marked point on the land (land + mark), used for navigation; later metaphorically extended to mean a significant event or turning point."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，广泛用于历史、法律和旅游语境中。",
+      "american": "同样高频使用，特别是在法律（如 landmark case）和新闻中。"
+    }
+  },
+  {
+    "word": "lead up",
+    "pronunciation": {
+      "british": "/liːd ʌp/ 🇬🇧",
+      "american": "/liːd ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：常用于描述引出某事、导致某结果或为某事作铺垫的过程。也可作为 ‘lead up to’ 的短写。",
+    "meanings": [
+      {
+        "type": "phrasal verb (lead up to something)",
+        "definition": {
+          "chinese": "为……铺垫；导致……发生",
+          "english": "To prepare for or result in something happening, especially an important event."
+        },
+        "examples": [
+          {
+            "sentence": "All the meetings and discussions led up to the final decision.",
+            "translation": "所有会议和讨论最终促成了这个决定。"
+          },
+          {
+            "sentence": "In the weeks leading up to the election, tensions were high.",
+            "translation": "在选举前的几周里，气氛非常紧张。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb (conversation)",
+        "definition": {
+          "chinese": "引入话题；逐步谈到",
+          "english": "To gradually introduce a topic or idea before directly stating it."
+        },
+        "examples": [
+          {
+            "sentence": "He led up to his main point with a few examples.",
+            "translation": "他通过几个例子逐步引出主要观点。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "lead up to the event",
+      "lead up to the decision",
+      "weeks leading up to",
+      "lead up to a question",
+      "everything led up to"
+    ],
+    "related_words": [
+      {
+        "word": "build up to",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "逐步发展到……",
+          "english": "To develop gradually and reach a climax or major event."
+        }
+      },
+      {
+        "word": "result in",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "导致，造成",
+          "english": "To cause something to happen."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法差异",
+        "explanation": "‘Lead up’ 多用于‘lead up to’，单独用较少，一般用于搭配某个事件、结果或话题。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Lead’ 表引导，‘up’ 表方向或推进；组合表示逐渐引向某事，无论是事件还是话题。",
+      "explanation_english": "‘Lead’ means to guide, and ‘up’ adds the sense of direction or progression, forming a phrase meaning gradual approach to something."
+    },
+    "variation_between_british_american": {
+      "british": "与美式用法无显著差异，常用于正式或新闻语境。",
+      "american": "同样广泛使用于书面语与日常对话，特别是在描述重大事件前的过程时。"
+    }
+  },
+  {
+    "word": "have called for",
+    "pronunciation": {
+      "british": "/hæv kɔːld fɔː/ 🇬🇧",
+      "american": "/hæv kɔːld fɔːr/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词（现在完成时）",
+    "usage": "常用 👍：表示已经公开要求或正式呼吁某事发生，常用于报道、评论或集体声明中。",
+    "meanings": [
+      {
+        "type": "phrasal verb (present perfect)",
+        "definition": {
+          "chinese": "已经呼吁；已经要求",
+          "english": "To have publicly demanded or strongly suggested that something should happen."
+        },
+        "examples": [
+          {
+            "sentence": "Many scientists have called for urgent action to address climate change.",
+            "translation": "许多科学家已经呼吁采取紧急措施应对气候变化。"
+          },
+          {
+            "sentence": "Local residents have called for better public transport services.",
+            "translation": "当地居民已经要求改善公共交通服务。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "have called for reform",
+      "have called for action",
+      "have called for change",
+      "have called for an investigation",
+      "have called for restraint"
+    ],
+    "related_words": [
+      {
+        "word": "demand",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "要求；需求",
+          "english": "To ask for something forcefully; the need for something."
+        }
+      },
+      {
+        "word": "urge",
+        "type": "verb",
+        "definition": {
+          "chinese": "敦促；力劝",
+          "english": "To strongly advise or try to persuade someone to do something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法特点",
+        "explanation": "‘Have called for’ 是 ‘call for’ 的现在完成时，表示从过去到现在的持续或已发生的呼吁。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Call for’ 原意是‘呼喊以要求’，后来固定短语化为‘强烈要求或需要’，在完成时中表示已经发生的行为。",
+      "explanation_english": "Originally meant ‘to call loudly for something’; became a fixed phrasal verb meaning ‘to demand or request’, and in present perfect shows an action already taken."
+    },
+    "variation_between_british_american": {
+      "british": "常用于媒体或官方声明中表达集体或公众诉求。",
+      "american": "同样常用，也多见于新闻报道和政治讨论中。"
+    }
+  },
+  {
+    "word": "decline",
+    "pronunciation": {
+      "british": "/dɪˈklaɪn/ 🇬🇧",
+      "american": "/dɪˈklaɪn/ 🇺🇸"
+    },
+    "phrase_type": "verb & noun 动词 & 名词",
+    "usage": "常用 👍：作动词时表示拒绝或数量、质量等的下降；作名词时指衰退、下降趋势。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "拒绝；下降，衰退",
+          "english": "To politely refuse; to become smaller, fewer, or less important."
+        },
+        "examples": [
+          {
+            "sentence": "She declined the invitation to the party.",
+            "translation": "她婉拒了参加聚会的邀请。"
+          },
+          {
+            "sentence": "The company's profits have declined in recent years.",
+            "translation": "近年来这家公司的利润有所下降。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "下降，衰退",
+          "english": "A gradual decrease or loss in strength, numbers, quality, or value."
+        },
+        "examples": [
+          {
+            "sentence": "There has been a steady decline in birth rates.",
+            "translation": "出生率持续下降。"
+          },
+          {
+            "sentence": "The civilization fell into decline over several centuries.",
+            "translation": "几个世纪以来，这个文明逐渐衰落。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "decline an offer",
+      "decline in value",
+      "economic decline",
+      "gradual decline",
+      "decline sharply"
+    ],
+    "related_words": [
+      {
+        "word": "refuse",
+        "type": "verb",
+        "definition": {
+          "chinese": "拒绝",
+          "english": "To say or show that you are not willing to do something."
+        }
+      },
+      {
+        "word": "decrease",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "减少；下降",
+          "english": "To become smaller or less; the process of reducing."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词性与用法",
+        "explanation": "作为动词时可表示婉拒（更礼貌）；作为名词强调趋势性下降。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘declinare’，意为“弯下、倾斜”，引申出“向下”→“衰退”，同时因姿态往下也引申为“婉拒”。",
+      "explanation_english": "From Latin ‘declinare’ meaning ‘to bend down’; extended figuratively to mean ‘to go downward’ (decline in quality) and ‘to politely refuse’ (turning away)."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，但在英式书面语中 ‘decline’ 常比 ‘refuse’ 听起来更正式或更客气。",
+      "american": "同样使用，日常口语中也经常用 ‘decline’ 表达拒绝邀约或提议。"
+    }
+  },
+  {
+    "word": "Bar Association",
+    "pronunciation": {
+      "british": "/bɑːr əˌsəʊ.siˈeɪ.ʃən/ 🇬🇧",
+      "american": "/bɑːr əˌsoʊ.siˈeɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase 名词短语",
+    "usage": "常用 👍：指由律师组成的官方或专业性组织，负责管理行业标准、会员资格及律师行为规范。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "律师协会",
+          "english": "An organization of lawyers established to promote professional standards, oversee licensing, and support legal professionals."
+        },
+        "examples": [
+          {
+            "sentence": "He is a member of the American Bar Association.",
+            "translation": "他是美国律师协会的成员。"
+          },
+          {
+            "sentence": "The local Bar Association offers continuing education courses for lawyers.",
+            "translation": "当地律师协会为律师提供继续教育课程。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "American Bar Association",
+      "local Bar Association",
+      "Bar Association member",
+      "join the Bar Association",
+      "Bar Association rules"
+    ],
+    "related_words": [
+      {
+        "word": "bar exam",
+        "type": "noun",
+        "definition": {
+          "chinese": "律师资格考试",
+          "english": "An examination that law graduates must pass to practice law."
+        }
+      },
+      {
+        "word": "law society",
+        "type": "noun",
+        "definition": {
+          "chinese": "律师公会（部分英联邦国家用语）",
+          "english": "An organization similar to a bar association, often used in Commonwealth countries."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词源",
+        "explanation": "‘Bar’ 指原指法院内分隔公众与律师/法官的栏杆，后引申为法律界；‘Association’ 表组织。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Bar’ 原指法院中的栏杆，象征律师群体；‘Bar Association’ 后专指管理律师事务的协会。",
+      "explanation_english": "The ‘bar’ originally meant the physical railing separating lawyers and judges from the public in court; the term evolved to represent the legal profession, and ‘Bar Association’ became the organization overseeing it."
+    },
+    "variation_between_british_american": {
+      "british": "更常用 ‘Law Society’（如 England and Wales 的 The Law Society）；‘Bar Council’ 用于代表大律师。",
+      "american": "通常说 ‘Bar Association’，如 American Bar Association (ABA)；各州也有自己的 Bar Association。"
+    }
+  },
+  {
+    "word": "pro bono",
+    "pronunciation": {
+      "british": "/ˌprəʊ ˈbəʊ.nəʊ/ 🇬🇧",
+      "american": "/ˌproʊ ˈboʊ.noʊ/ 🇺🇸"
+    },
+    "phrase_type": "adverbial phrase 副词短语 / 形容词短语",
+    "usage": "常用 👍：主要用于法律、咨询等专业领域，表示免费提供专业服务以回馈社会或帮助需要的人。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "无偿的；公益性的",
+          "english": "Done for the public good without charging a fee, especially professional work like legal services."
+        },
+        "examples": [
+          {
+            "sentence": "She works pro bono for a local charity offering legal advice.",
+            "translation": "她为一家当地慈善机构无偿提供法律咨询服务。"
+          },
+          {
+            "sentence": "The firm took on the case pro bono.",
+            "translation": "这家公司无偿接手了这个案件。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "work pro bono",
+      "do something pro bono",
+      "pro bono legal work",
+      "pro bono services",
+      "offer pro bono help"
+    ],
+    "related_words": [
+      {
+        "word": "volunteer",
+        "type": "noun / verb",
+        "definition": {
+          "chinese": "志愿者；志愿做",
+          "english": "A person who freely offers to take part in an activity; to do something willingly without pay."
+        }
+      },
+      {
+        "word": "charitable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "慈善的",
+          "english": "Relating to the assistance of those in need; generous in giving."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "来源背景",
+        "explanation": "‘Pro bono’ 源于拉丁语 ‘pro bono publico’，意思是‘为了公共利益’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本是拉丁语完整表达的一部分，现代英语中简称为‘pro bono’，保持了“公益、无偿”之意。",
+      "explanation_english": "Originally part of the Latin phrase ‘pro bono publico’ meaning ‘for the public good’; now shortened to ‘pro bono’ retaining its meaning of free, socially beneficial work."
+    },
+    "variation_between_british_american": {
+      "british": "常见于律师行业，也用于工程、咨询等领域。",
+      "american": "广泛用于法律界，也常见于医疗、设计、技术领域。"
+    }
+  },
+  {
+    "word": "slip out",
+    "pronunciation": {
+      "british": "/slɪp aʊt/ 🇬🇧",
+      "american": "/slɪp aʊt/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：比喻‘话不小心说出口’，或表示人不声不响地溜走、离开。",
+    "meanings": [
+      {
+        "type": "verb (figurative)",
+        "definition": {
+          "chinese": "（话）不小心说出口",
+          "english": "To say something unintentionally or without thinking."
+        },
+        "examples": [
+          {
+            "sentence": "I didn’t mean to tell them – it just slipped out.",
+            "translation": "我本不想告诉他们的——话就这么不小心说出来了。"
+          }
+        ]
+      },
+      {
+        "type": "verb (literal)",
+        "definition": {
+          "chinese": "悄悄溜走；偷偷离开",
+          "english": "To leave quietly and quickly so as not to be noticed."
+        },
+        "examples": [
+          {
+            "sentence": "She tried to slip out of the party unnoticed.",
+            "translation": "她试图悄悄地离开聚会，不让人察觉。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "just slipped out",
+      "slip out of the room",
+      "slip out quietly",
+      "slip out the truth",
+      "let it slip out"
+    ],
+    "related_words": [
+      {
+        "word": "blurt out",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "脱口而出",
+          "english": "To say something suddenly and without careful consideration."
+        }
+      },
+      {
+        "word": "sneak out",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "偷偷溜走",
+          "english": "To leave a place quietly and secretly to avoid being noticed."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "双重含义",
+        "explanation": "既可指人身体上的‘溜出’，也可指语言上的‘说漏嘴’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自‘slip’意为滑动、轻轻移动，后引申到话语轻易“滑出口”。",
+      "explanation_english": "Derived from ‘slip’ meaning to move smoothly and quietly, then extended figuratively to words slipping out unintentionally."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，较常用 ‘slip out quietly’。",
+      "american": "同样常用，也可见 ‘it just slipped out’ 表示说漏嘴。"
+    }
+  },
+  {
+    "word": "burp",
+    "pronunciation": {
+      "british": "/bɜːp/ 🇬🇧",
+      "american": "/bɝːp/ 🇺🇸"
+    },
+    "phrase_type": "verb & noun 动词 & 名词",
+    "usage": "常用 👍：既可作动词表示打嗝，也可作名词指打嗝本身，多用于口语。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "打嗝",
+          "english": "To let out air from the stomach noisily through the mouth."
+        },
+        "examples": [
+          {
+            "sentence": "He burped loudly after drinking the soda.",
+            "translation": "他喝完汽水后大声打了个嗝。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "嗝",
+          "english": "The act or sound of air escaping noisily from the stomach through the mouth."
+        },
+        "examples": [
+          {
+            "sentence": "Excuse me, that was just a little burp.",
+            "translation": "抱歉，那只是打了个小嗝。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "let out a burp",
+      "big burp",
+      "baby burp",
+      "burp a baby",
+      "accidental burp"
+    ],
+    "related_words": [
+      {
+        "word": "belch",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "（尤指大声）打嗝",
+          "english": "To expel gas noisily from the stomach through the mouth; often louder or ruder than ‘burp’."
+        }
+      },
+      {
+        "word": "hiccup",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "打嗝（声门痉挛引起）",
+          "english": "A sudden involuntary spasm of the diaphragm causing a sharp sound."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "日常语境",
+        "explanation": "‘Burp’ 属于非正式用语，尤常用于描述小孩或婴儿喂奶后的轻打嗝动作。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Burp’ 是拟声词，模仿打嗝声音，自然可作动词也可作名词。",
+      "explanation_english": "An onomatopoeic word imitating the sound of a belch; used both as a verb and a noun."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，偶尔也说 ‘belch’（更粗俗）。",
+      "american": "同样常用 ‘burp’，尤其是描述孩子或家庭场景时。"
     }
   }
 ]
