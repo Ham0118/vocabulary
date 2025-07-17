@@ -18310,6 +18310,338 @@ const wordData = [
       "british": "用法一致，偶尔也说 ‘belch’（更粗俗）。",
       "american": "同样常用 ‘burp’，尤其是描述孩子或家庭场景时。"
     }
+  },
+  {
+    "phrase": "in person",
+    "pronunciation": {
+      "british": "/ɪn ˈpɜː.sən/ 🇬🇧",
+      "american": "/ɪn ˈpɝː.sən/ 🇺🇸"
+    },
+    "phrase_type": "介词短语（prepositional phrase）",
+    "usage": "常用 👍：表示“亲自，亲身到场”，用于强调人不是通过电话、网络等远程方式，而是身体到场。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "亲自，亲身到场",
+          "english": "Physically present rather than by phone, email, or other means."
+        },
+        "examples": [
+          {
+            "sentence": "You need to sign the documents in person.",
+            "translation": "你需要亲自签署这些文件。"
+          },
+          {
+            "sentence": "I’ve always wanted to see her perform in person.",
+            "translation": "我一直想亲自看她演出。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "meet in person",
+      "attend in person",
+      "appear in person",
+      "sign in person",
+      "see sb in person"
+    ],
+    "related_words": [
+      {
+        "word": "face-to-face",
+        "type": "adjective/adverb",
+        "definition": {
+          "chinese": "面对面",
+          "english": "Involving direct personal interaction."
+        }
+      },
+      {
+        "word": "personally",
+        "type": "adverb",
+        "definition": {
+          "chinese": "亲自",
+          "english": "Done by oneself without delegation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用于强调对比",
+        "explanation": "‘in person’ 常用于强调区别于线上或远程方式，例如 ‘online vs in person’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "该短语没有多义性，其意义从‘人身在场’直接引申为‘亲自’。",
+      "explanation_english": "No major polysemy; the phrase straightforwardly emphasizes physical presence."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中较常用于正式语境，如政府信件、法院通知等。",
+      "american": "美式英语中常用于口语和办公场景，如预约、会议等。"
+    }
+  },
+  {
+    "phrase": "caring",
+    "pronunciation": {
+      "british": "/ˈkeə.rɪŋ/ 🇬🇧",
+      "american": "/ˈker.ɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "形容词（adjective）",
+    "usage": "常用 👍：形容人富有同情心、关心他人，也可作为名词用于‘照护职业’（the caring professions）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "关心他人的，有爱心的",
+          "english": "Displaying kindness and concern for others."
+        },
+        "examples": [
+          {
+            "sentence": "She’s a very caring nurse.",
+            "translation": "她是个非常有爱心的护士。"
+          },
+          {
+            "sentence": "It’s important to be caring toward the elderly.",
+            "translation": "对老人要关心体贴是很重要的。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "照护（行业）相关的",
+          "english": "Relating to the professional care of people who are ill, elderly, or disabled."
+        },
+        "examples": [
+          {
+            "sentence": "He works in the caring profession.",
+            "translation": "他从事照护行业。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "a caring person",
+      "caring attitude",
+      "caring profession",
+      "deeply caring",
+      "kind and caring"
+    ],
+    "related_words": [
+      {
+        "word": "compassionate",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有同情心的",
+          "english": "Feeling or showing sympathy and concern for others."
+        }
+      },
+      {
+        "word": "kind-hearted",
+        "type": "adjective",
+        "definition": {
+          "chinese": "好心的",
+          "english": "Having a kind and generous nature."
+        }
+      },
+      {
+        "word": "nurturing",
+        "type": "adjective",
+        "definition": {
+          "chinese": "养育的，关爱的",
+          "english": "Providing care and encouragement for growth or development."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词性变形",
+        "explanation": "‘caring’ 是动词 care 的现在分词形式，但在这里作形容词使用。"
+      },
+      {
+        "point": "行业名词用法",
+        "explanation": "作为名词性形容词使用时（如 ‘the caring professions’），指的是医疗、护理、社会服务等职业。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘caring’ 从 care 派生，原意为‘关心’，后被扩展为描述职业类别、行为特征。",
+      "explanation_english": "Derived from ‘care’, originally about emotional concern, then broadened to include professions based on providing care."
+    },
+    "variation_between_british_american": {
+      "british": "‘the caring professions’ 在英式英语中非常常见。",
+      "american": "美式英语中更偏向描述性使用（如 ‘a caring teacher’），不太常用作职业统称。"
+    }
+  },
+  {
+    "phrase": "whiskers",
+    "pronunciation": {
+      "british": "/ˈwɪs.kəz/ 🇬🇧",
+      "american": "/ˈwɪs.kərz/ 🇺🇸"
+    },
+    "phrase_type": "名词复数（plural noun）",
+    "usage": "常用 👍：指动物脸部两侧的刚硬长毛，口语中也指人脸上的胡须。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "（动物脸上的）须，触须",
+          "english": "The long, stiff hairs growing near the mouth of some animals, used as sensory organs."
+        },
+        "examples": [
+          {
+            "sentence": "Cats use their whiskers to sense objects nearby.",
+            "translation": "猫用胡须感知附近的物体。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（人脸上的）胡须，络腮胡",
+          "english": "Facial hair, especially on the cheeks or around the mouth."
+        },
+        "examples": [
+          {
+            "sentence": "He’s growing long whiskers this winter.",
+            "translation": "今年冬天他留起了长胡须。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "long whiskers",
+      "cat’s whiskers",
+      "trim the whiskers",
+      "whiskers twitching",
+      "grow whiskers"
+    ],
+    "related_words": [
+      {
+        "word": "beard",
+        "type": "noun",
+        "definition": {
+          "chinese": "胡须（尤其指下巴及脸颊部分）",
+          "english": "Hair growing on the chin and cheeks of a man's face."
+        }
+      },
+      {
+        "word": "mustache",
+        "type": "noun",
+        "definition": {
+          "chinese": "胡子（指上唇部分）",
+          "english": "Hair grown on the upper lip."
+        }
+      },
+      {
+        "word": "antennae",
+        "type": "noun",
+        "definition": {
+          "chinese": "触角（昆虫等动物）",
+          "english": "Sensory appendages on the heads of insects or other arthropods."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "复数形式",
+        "explanation": "‘whiskers’ 通常以复数出现，即使指一侧的几根毛，也习惯用复数。"
+      },
+      {
+        "point": "拟人化用法",
+        "explanation": "文学或口语中，有时用‘whiskers’形容人的胡须，带有俏皮或亲昵感。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指动物的触须，后来引申至人的脸部胡须，两者都因其外形相似。",
+      "explanation_english": "Originally referred to animal sensory hairs; extended metaphorically to human facial hair because of similarity in appearance."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中‘whiskers’ 口语用法较多，尤其形容人的胡须时。",
+      "american": "美式英语更常用‘mustache’或‘beard’分别指上唇和脸颊的胡须，‘whiskers’用于动物触须或幽默口语。"
+    }
+  },
+  {
+    "phrase": "chimney",
+    "pronunciation": {
+      "british": "/ˈtʃɪm.ni/ 🇬🇧",
+      "american": "/ˈtʃɪm.ni/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指建筑物上用于排烟的烟囱，日常生活和建筑相关话题中非常常见。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "烟囱",
+          "english": "A vertical structure through which smoke or gases are expelled from a building or furnace."
+        },
+        "examples": [
+          {
+            "sentence": "The chimney was blocked with soot and needed cleaning.",
+            "translation": "烟囱被烟灰堵住了，需要清理。"
+          },
+          {
+            "sentence": "Santa Claus is said to come down the chimney on Christmas Eve.",
+            "translation": "据说圣诞老人会在平安夜从烟囱里下来。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（地质）火山烟囱",
+          "english": "A vertical volcanic vent through which magma and gases are emitted."
+        },
+        "examples": [
+          {
+            "sentence": "The old volcano's chimney is still visible in the landscape.",
+            "translation": "那座死火山的烟囱仍然能在地貌中看见。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "smokestack chimney",
+      "chimney sweep",
+      "chimney stack",
+      "block the chimney",
+      "chimney flue"
+    ],
+    "related_words": [
+      {
+        "word": "flue",
+        "type": "noun",
+        "definition": {
+          "chinese": "烟道",
+          "english": "A duct for smoke and waste gases produced by a fire."
+        }
+      },
+      {
+        "word": "smokestack",
+        "type": "noun",
+        "definition": {
+          "chinese": "大型烟囱，工厂用烟囱",
+          "english": "A tall chimney used in factories or ships."
+        }
+      },
+      {
+        "word": "vent",
+        "type": "noun",
+        "definition": {
+          "chinese": "通风口",
+          "english": "An opening that allows air, gas, or smoke to pass out."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见生活词汇",
+        "explanation": "‘chimney’ 是日常建筑相关词汇，孩子们熟悉的形象如圣诞老人下烟囱。"
+      },
+      {
+        "point": "不同语境的专业用法",
+        "explanation": "在地质学中指火山烟囱，和平常建筑中的烟囱不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指建筑上的烟囱，后地质学借用形象描述火山内部的垂直通道。",
+      "explanation_english": "Originally the architectural structure for smoke escape; later used metaphorically in geology for volcanic vents."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中‘chimney sweep’（扫烟囱工）是常用词汇。",
+      "american": "美式英语中‘smokestack’多用于工业大型烟囱，‘chimney’更多指家用烟囱。"
+    }
   }
 ]
 
