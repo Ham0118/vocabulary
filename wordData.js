@@ -18642,6 +18642,1431 @@ const wordData = [
       "british": "英式英语中‘chimney sweep’（扫烟囱工）是常用词汇。",
       "american": "美式英语中‘smokestack’多用于工业大型烟囱，‘chimney’更多指家用烟囱。"
     }
+  },
+  {
+    "phrase": "cut back",
+    "pronunciation": {
+      "british": "/kʌt bæk/ 🇬🇧",
+      "american": "/kʌt bæk/ 🇺🇸"
+    },
+    "phrase_type": "动词短语（phrasal verb）",
+    "usage": "常用 👍：用于表示‘削减、减少（开支、数量等）’，也可表示‘修剪植物’，是一个多义且常见的表达。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "削减，减少（支出、数量等）",
+          "english": "To reduce the amount, use, or cost of something."
+        },
+        "examples": [
+          {
+            "sentence": "We need to cut back on our spending this month.",
+            "translation": "我们这个月得削减开支。"
+          },
+          {
+            "sentence": "They've had to cut back staff due to budget issues.",
+            "translation": "他们因为预算问题不得不裁员。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "修剪（树木、植物）",
+          "english": "To prune plants by cutting away dead or unnecessary parts."
+        },
+        "examples": [
+          {
+            "sentence": "You should cut back the roses in early spring.",
+            "translation": "你应该在早春时修剪玫瑰。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "cut back on spending",
+      "cut back on sugar",
+      "cut back staff",
+      "cut back production",
+      "cut back the bushes"
+    ],
+    "related_words": [
+      {
+        "word": "reduce",
+        "type": "verb",
+        "definition": {
+          "chinese": "减少，降低",
+          "english": "To make something smaller or less in amount, size, or number."
+        }
+      },
+      {
+        "word": "trim",
+        "type": "verb",
+        "definition": {
+          "chinese": "修剪",
+          "english": "To make neat by cutting away unwanted parts, especially in plants or hair."
+        }
+      },
+      {
+        "word": "slash",
+        "type": "verb",
+        "definition": {
+          "chinese": "大幅削减",
+          "english": "To reduce something by a large amount, often suddenly."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "是否需要加 on",
+        "explanation": "用作‘减少’时常接介词 on，如 ‘cut back on sugar’；表示‘修剪’植物时则直接接宾语，不加 on。"
+      },
+      {
+        "point": "语气强弱",
+        "explanation": "‘cut back’ 比 ‘cut down’ 语气稍弱，常指渐进地削减，而‘cut down’更强调大幅减少。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘cut’ 原意为切割，‘back’ 表示朝向原处或减少，因此‘cut back’本义为向后剪去，延伸为‘减少、削减’，也自然用于植物修剪。",
+      "explanation_english": "Derived from the literal sense of ‘cutting toward the back or less’, it metaphorically extended to mean reducing quantity or trimming growth."
+    },
+    "variation_between_british_american": {
+      "british": "‘cut back on’ 在英式英语中常用于政府或企业预算削减的正式语境。",
+      "american": "美式英语中也非常常用，日常口语中如‘cut back on sugar’或‘cut back on coffee’非常普遍。"
+    }
+  },
+  {
+    "phrase": "dermatologist",
+    "pronunciation": {
+      "british": "/ˌdɜː.məˈtɒl.ə.dʒɪst/ 🇬🇧",
+      "american": "/ˌdɝː.məˈtɑː.lə.dʒɪst/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指专门治疗皮肤疾病的医生，常出现在医疗、健康、美容等语境中。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "皮肤科医生",
+          "english": "A doctor who specializes in treating skin, hair, and nail conditions."
+        },
+        "examples": [
+          {
+            "sentence": "You should see a dermatologist about that rash.",
+            "translation": "你应该去看皮肤科医生看看那个皮疹。"
+          },
+          {
+            "sentence": "The dermatologist recommended a special cream for my acne.",
+            "translation": "皮肤科医生建议我用一种专门的痤疮药膏。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "see a dermatologist",
+      "consult a dermatologist",
+      "dermatologist appointment",
+      "board-certified dermatologist",
+      "dermatologist-recommended products"
+    ],
+    "related_words": [
+      {
+        "word": "dermatology",
+        "type": "noun",
+        "definition": {
+          "chinese": "皮肤病学",
+          "english": "The branch of medicine dealing with the skin and its diseases."
+        }
+      },
+      {
+        "word": "skin specialist",
+        "type": "noun",
+        "definition": {
+          "chinese": "皮肤专家",
+          "english": "An informal term for a dermatologist."
+        }
+      },
+      {
+        "word": "cosmetologist",
+        "type": "noun",
+        "definition": {
+          "chinese": "美容师",
+          "english": "A person trained to give beauty treatments, not a medical doctor."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词根构成",
+        "explanation": "‘derma’ 来源于希腊语，意思是‘皮肤’，‘-logist’ 表示‘专家’；合起来表示‘研究皮肤的专家’。"
+      },
+      {
+        "point": "与美容行业区分",
+        "explanation": "‘dermatologist’ 是医学医生，具有执照，可以治疗疾病；‘cosmetologist’ 只负责皮肤护理与美容，不能诊断疾病。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "该词义非常单一，始终指医学专业的皮肤医生，没有多义性。",
+      "explanation_english": "The term has a single, specific meaning— a medical doctor specializing in dermatology—without polysemy."
+    },
+    "variation_between_british_american": {
+      "british": "在英式英语中，也可见简称‘skin doctor’或‘consultant dermatologist’。",
+      "american": "美式英语更常直接称为‘dermatologist’，并作为专科医生常被保险涵盖。"
+    }
+  },
+  {
+    "phrase": "purging",
+    "pronunciation": {
+      "british": "/ˈpɜː.dʒɪŋ/ 🇬🇧",
+      "american": "/ˈpɝː.dʒɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "动名词/现在分词（gerund / present participle of purge）",
+    "usage": "中等常用 ✳️：多用于正式语境中，表示清除、排出、净化，也可用于医疗或饮食障碍相关的语境。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "清除，肃清（不需要的或有害的东西）",
+          "english": "The act of removing unwanted people, elements, or substances."
+        },
+        "examples": [
+          {
+            "sentence": "The new leader began purging the corrupt officials.",
+            "translation": "新领导开始清除腐败官员。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "排泄，排出（尤指用作医疗或毒素清理）",
+          "english": "The act of expelling waste or toxins from the body, often medically induced."
+        },
+        "examples": [
+          {
+            "sentence": "The treatment involves purging the body of harmful substances.",
+            "translation": "这种治疗包括将体内有害物质排出。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "催吐（在进食障碍中）",
+          "english": "Self-induced vomiting or laxative use after eating, associated with eating disorders like bulimia."
+        },
+        "examples": [
+          {
+            "sentence": "She was secretly purging after meals as part of her eating disorder.",
+            "translation": "她在进食后偷偷催吐，这是她饮食障碍的一部分。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "purging the system",
+      "purging toxins",
+      "political purging",
+      "purging after binge eating",
+      "emotional purging"
+    ],
+    "related_words": [
+      {
+        "word": "detox",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "排毒；进行排毒治疗",
+          "english": "The process of removing toxic substances from the body."
+        }
+      },
+      {
+        "word": "cleanse",
+        "type": "verb",
+        "definition": {
+          "chinese": "净化，清洗",
+          "english": "To make clean or pure, often used figuratively."
+        }
+      },
+      {
+        "word": "vomit",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "呕吐",
+          "english": "To eject the contents of the stomach through the mouth."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "含有负面和医疗语境",
+        "explanation": "‘purging’ 在饮食障碍和政治语境中常带有负面含义，在医疗上则可能是中性或正面。"
+      },
+      {
+        "point": "动名词和动词用法",
+        "explanation": "‘purging’ 可作动词（现在分词）或动名词使用，视句中结构而定。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘purge’ 原意为‘使洁净’，用于宗教或医疗清洁，后引申到政治清洗和心理释放，再到现代的饮食障碍语境。",
+      "explanation_english": "Originally from Latin *purgare* (to cleanse), its meanings extended from physical and religious cleansing to political removal and eating disorder behaviors."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中‘purging’多用于政治或正式语境。",
+      "american": "美式英语中在心理健康和饮食障碍语境中更常见，如 bulimia-related purging。"
+    }
+  },
+  {
+    "phrase": "purging",
+    "pronunciation": {
+      "british": "/ˈpɜː.dʒɪŋ/ 🇬🇧",
+      "american": "/ˈpɝː.dʒɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "动名词/现在分词（gerund / present participle of purge）",
+    "usage": "中等常用 ✳️：多用于正式语境中，表示清除、排出、净化，也可用于医疗或饮食障碍相关的语境。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "清除，肃清（不需要的或有害的东西）",
+          "english": "The act of removing unwanted people, elements, or substances."
+        },
+        "examples": [
+          {
+            "sentence": "The new leader began purging the corrupt officials.",
+            "translation": "新领导开始清除腐败官员。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "排泄，排出（尤指用作医疗或毒素清理）",
+          "english": "The act of expelling waste or toxins from the body, often medically induced."
+        },
+        "examples": [
+          {
+            "sentence": "The treatment involves purging the body of harmful substances.",
+            "translation": "这种治疗包括将体内有害物质排出。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "催吐（在进食障碍中）",
+          "english": "Self-induced vomiting or laxative use after eating, associated with eating disorders like bulimia."
+        },
+        "examples": [
+          {
+            "sentence": "She was secretly purging after meals as part of her eating disorder.",
+            "translation": "她在进食后偷偷催吐，这是她饮食障碍的一部分。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "purging the system",
+      "purging toxins",
+      "political purging",
+      "purging after binge eating",
+      "emotional purging"
+    ],
+    "related_words": [
+      {
+        "word": "detox",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "排毒；进行排毒治疗",
+          "english": "The process of removing toxic substances from the body."
+        }
+      },
+      {
+        "word": "cleanse",
+        "type": "verb",
+        "definition": {
+          "chinese": "净化，清洗",
+          "english": "To make clean or pure, often used figuratively."
+        }
+      },
+      {
+        "word": "vomit",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "呕吐",
+          "english": "To eject the contents of the stomach through the mouth."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "含有负面和医疗语境",
+        "explanation": "‘purging’ 在饮食障碍和政治语境中常带有负面含义，在医疗上则可能是中性或正面。"
+      },
+      {
+        "point": "动名词和动词用法",
+        "explanation": "‘purging’ 可作动词（现在分词）或动名词使用，视句中结构而定。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘purge’ 原意为‘使洁净’，用于宗教或医疗清洁，后引申到政治清洗和心理释放，再到现代的饮食障碍语境。",
+      "explanation_english": "Originally from Latin *purgare* (to cleanse), its meanings extended from physical and religious cleansing to political removal and eating disorder behaviors."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中‘purging’多用于政治或正式语境。",
+      "american": "美式英语中在心理健康和饮食障碍语境中更常见，如 bulimia-related purging。"
+    }
+  },
+  {
+    "phrase": "clog",
+    "pronunciation": {
+      "british": "/klɒɡ/ 🇬🇧",
+      "american": "/klɑːɡ/ 🇺🇸"
+    },
+    "phrase_type": "动词 & 名词（verb & noun）",
+    "usage": "常用 👍：在日常生活和技术语境中都常见，尤指“堵塞、阻碍”。也可作名词表示一种传统木鞋。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "堵塞，阻塞",
+          "english": "To block something or to become blocked so that nothing can pass through."
+        },
+        "examples": [
+          {
+            "sentence": "Too much hair can clog the shower drain.",
+            "translation": "太多头发会堵住淋浴的排水口。"
+          },
+          {
+            "sentence": "Fatty foods may clog your arteries over time.",
+            "translation": "高脂食物可能会随着时间堵塞你的动脉。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "木底鞋（名词）",
+          "english": "A type of shoe with a thick, often wooden sole."
+        },
+        "examples": [
+          {
+            "sentence": "He bought a pair of Dutch clogs as a souvenir.",
+            "translation": "他买了一双荷兰木鞋作纪念品。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "clog the drain",
+      "clog the pores",
+      "clog up traffic",
+      "clogged artery",
+      "hair clog",
+      "clog dancing"
+    ],
+    "related_words": [
+      {
+        "word": "block",
+        "type": "verb",
+        "definition": {
+          "chinese": "阻塞，封锁",
+          "english": "To stop something from moving through or along something."
+        }
+      },
+      {
+        "word": "obstruct",
+        "type": "verb",
+        "definition": {
+          "chinese": "阻碍，妨碍",
+          "english": "To prevent movement, progress, or success."
+        }
+      },
+      {
+        "word": "jam",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "卡住，堵塞",
+          "english": "To become stuck and unable to move; a situation where movement is blocked."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词性多样",
+        "explanation": "‘clog’ 既是动词也是名词。动词强调“堵住某物”，名词有时指“堵塞物”或“木鞋”。"
+      },
+      {
+        "point": "搭配灵活",
+        "explanation": "‘clog’ 可与物理对象（如 drain, pipe）或抽象对象（如 traffic, progress）搭配。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘clog’ 最早用作名词指“重鞋”，后延伸出“使行动受阻”的意思，再进一步用于“堵塞”的语境中。",
+      "explanation_english": "The noun 'clog' originally referred to a heavy shoe. Over time, it developed a verb form meaning to hinder or block, leading to the current usage related to blockage."
+    },
+    "variation_between_british_american": {
+      "british": "在英式英语中 ‘clog’ 作为 ‘wooden shoe’ 比美式常见，尤其与荷兰文化相关。",
+      "american": "美式英语中更常将 ‘clog’ 用作动词，尤其在生活用语和医学语境中（如 clogged arteries, clogged pores）。"
+    }
+  },
+  {
+    "phrase": "non-comedogenic",
+    "pronunciation": {
+      "british": "/ˌnɒn.kəˌmiː.dəˈdʒen.ɪk/ 🇬🇧",
+      "american": "/ˌnɑːnˌkoʊ.mi.dəˈdʒen.ɪk/ 🇺🇸"
+    },
+    "phrase_type": "形容词（adjective）",
+    "usage": "专业用语 ✅：常用于护肤品描述，表示“不会堵塞毛孔”，尤其适合易长痘或油性皮肤人群。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "不致粉刺的；不会堵塞毛孔的",
+          "english": "Describes a product that is formulated not to clog pores or cause acne."
+        },
+        "examples": [
+          {
+            "sentence": "This moisturizer is non-comedogenic and perfect for acne-prone skin.",
+            "translation": "这款保湿霜不致粉刺，非常适合容易长痘的皮肤。"
+          },
+          {
+            "sentence": "Always check if your foundation is non-comedogenic before using it.",
+            "translation": "在使用粉底前，一定要检查是否为不堵塞毛孔的产品。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "non-comedogenic moisturizer",
+      "non-comedogenic makeup",
+      "non-comedogenic sunscreen",
+      "non-comedogenic ingredients",
+      "non-comedogenic formula"
+    ],
+    "related_words": [
+      {
+        "word": "comedogenic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "致粉刺的，会堵塞毛孔的",
+          "english": "Tending to clog pores and cause blackheads or acne."
+        }
+      },
+      {
+        "word": "acne-prone",
+        "type": "adjective",
+        "definition": {
+          "chinese": "易长痘的",
+          "english": "Describing skin that is likely to develop acne."
+        }
+      },
+      {
+        "word": "oil-free",
+        "type": "adjective",
+        "definition": {
+          "chinese": "无油的",
+          "english": "Containing no oil, often used for products targeting oily skin."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词根分析",
+        "explanation": "‘comedogenic’ 源于 ‘comedo’（粉刺）+ ‘genic’（产生），前缀 ‘non-’ 表示否定，因此‘non-comedogenic’ 就是‘不会产生粉刺的’。"
+      },
+      {
+        "point": "无强制标准",
+        "explanation": "虽然‘non-comedogenic’广泛使用，但并无国际统一检测标准，实际效果因人而异。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "该词是美容行业创造的复合词，本义明确，没有其他延伸义。属于医学和市场结合产生的术语。",
+      "explanation_english": "This is a coined term from dermatology and cosmetic marketing. It has a specific technical meaning without broader figurative uses."
+    },
+    "variation_between_british_american": {
+      "british": "英式护肤品牌也使用该术语，但略显技术化。",
+      "american": "美式化妆品广告中更频繁使用，常见于包装说明。"
+    }
+  },
+  {
+    "word": "literature",
+    "pronunciation": {
+      "british": "/ˈlɪt.rə.tʃə/ 🇬🇧",
+      "american": "/ˈlɪt̬.ɚ.rə.tʃɚ/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于学术、文化、艺术领域。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "文学，文学作品",
+          "english": "Written works, especially those considered of superior or lasting artistic merit."
+        },
+        "examples": [
+          {
+            "sentence": "Shakespeare is one of the giants of English literature.",
+            "translation": "莎士比亚是英国文学巨匠之一。"
+          },
+          {
+            "sentence": "She studied French literature at university.",
+            "translation": "她在大学主修法国文学。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "文献资料（尤指学术）",
+          "english": "Printed material on a particular subject, especially of scholarly value."
+        },
+        "examples": [
+          {
+            "sentence": "There’s a large body of scientific literature on climate change.",
+            "translation": "关于气候变化有大量科学文献。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fiction",
+        "type": "noun",
+        "definition": {
+          "chinese": "小说类文学",
+          "english": "Prose writing that describes imaginary events and people."
+        }
+      },
+      {
+        "word": "poetry",
+        "type": "noun",
+        "definition": {
+          "chinese": "诗歌",
+          "english": "Literary work in which the expression of feelings and ideas is given intensity through style and rhythm."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘literature’ 源自拉丁语，原意为“写作”，后泛指艺术性文字作品，也用于学术文献。",
+      "explanation_english": "From Latin *litteratura*, originally meaning 'writing'. Expanded over time to cover artistic writing and scholarly works."
+    },
+    "variation_between_british_american": {
+      "british": "更常用于文学性文艺作品。",
+      "american": "在学术语境下，‘literature’ 也广泛指代研究文献。"
+    }
+  },
+  {
+    "word": "literacy",
+    "pronunciation": {
+      "british": "/ˈlɪt.ər.ə.si/ 🇬🇧",
+      "american": "/ˈlɪt̬.ɚ.ə.si/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于教育、社会发展和能力描述。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "识字能力；读写能力",
+          "english": "The ability to read and write."
+        },
+        "examples": [
+          {
+            "sentence": "Literacy rates have improved dramatically in recent decades.",
+            "translation": "近几十年来，识字率大幅提高。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "具备某方面知识或能力",
+          "english": "Knowledge or competence in a specific area (e.g. digital literacy, financial literacy)."
+        },
+        "examples": [
+          {
+            "sentence": "Digital literacy is crucial in the modern workplace.",
+            "translation": "在现代职场中，数字素养至关重要。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "illiteracy",
+        "type": "noun",
+        "definition": {
+          "chinese": "文盲",
+          "english": "The inability to read or write."
+        }
+      },
+      {
+        "word": "numeracy",
+        "type": "noun",
+        "definition": {
+          "chinese": "计算能力",
+          "english": "The ability to understand and work with numbers."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指‘读写能力’，后来被比喻用于描述‘在某领域具备基础能力’。",
+      "explanation_english": "Originally referred to reading/writing skills, later extended to competence in various domains (e.g. tech, finance)."
+    },
+    "variation_between_british_american": {
+      "british": "‘literacy’ 通常用于教育政策话语中。",
+      "american": "扩展词组更多，如 ‘media literacy’, ‘health literacy’。"
+    }
+  },
+  {
+    "word": "cure",
+    "pronunciation": {
+      "british": "/kjʊə(r)/ 🇬🇧",
+      "american": "/kjʊr/ 🇺🇸"
+    },
+    "part_of_speech": "noun / verb",
+    "usage": "医学、健康和比喻用法中都很常见。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "（n.）治愈方法，疗法；（v.）治愈",
+          "english": "A treatment that ends a disease or condition; to restore health."
+        },
+        "examples": [
+          {
+            "sentence": "Scientists are still searching for a cure for cancer.",
+            "translation": "科学家仍在寻找治疗癌症的方法。"
+          },
+          {
+            "sentence": "This medicine cured his infection.",
+            "translation": "这种药治好了他的感染。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（v.）腌制、干燥（食物）",
+          "english": "To preserve food, especially meat or fish, by salting, drying, or smoking."
+        },
+        "examples": [
+          {
+            "sentence": "Cured meats like ham are popular in Europe.",
+            "translation": "像火腿这样的腌制肉在欧洲很受欢迎。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "treat",
+        "type": "verb",
+        "definition": {
+          "chinese": "治疗",
+          "english": "To give medical care or attention to someone."
+        }
+      },
+      {
+        "word": "remedy",
+        "type": "noun",
+        "definition": {
+          "chinese": "疗法（尤指传统、自然的）",
+          "english": "A medicine or treatment for a disease or injury, often natural."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘cure’ 原意为‘照顾’，后发展为‘治愈’，也用于描述保存食物的方法。",
+      "explanation_english": "From Latin *cura* meaning 'care'. Evolved into medical recovery and later food preservation by extension."
+    },
+    "variation_between_british_american": {
+      "british": "‘cure’ 也常用于比喻，表示解决某种社会问题。",
+      "american": "医学语境中更倾向使用 ‘cure’ 与 ‘treatment’ 并用。"
+    }
+  },
+  {
+    "word": "obstacle",
+    "pronunciation": {
+      "british": "/ˈɒb.stə.kəl/ 🇬🇧",
+      "american": "/ˈɑːb.stə.kəl/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "描述阻碍、障碍，无论是物理的还是抽象的。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "障碍，阻碍",
+          "english": "A thing that blocks one's way or prevents progress."
+        },
+        "examples": [
+          {
+            "sentence": "Fear of failure is a major obstacle to success.",
+            "translation": "害怕失败是通往成功的主要障碍。"
+          },
+          {
+            "sentence": "The fallen tree created an obstacle in the road.",
+            "translation": "倒下的树阻碍了道路通行。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hurdle",
+        "type": "noun",
+        "definition": {
+          "chinese": "（比喻）障碍、难关，也指跨栏",
+          "english": "A difficulty to be overcome; also a barrier in a race."
+        }
+      },
+      {
+        "word": "barrier",
+        "type": "noun",
+        "definition": {
+          "chinese": "阻碍，屏障",
+          "english": "A fence or other obstacle that prevents movement or access."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘obstacle’ 来自拉丁文，始终保留‘阻碍’的核心含义，用于多种语境。",
+      "explanation_english": "From Latin *obstaculum*, meaning ‘something that stands in the way’. Has always denoted hindrance in various contexts."
+    },
+    "variation_between_british_american": {
+      "british": "英式中更常用于比喻意义。",
+      "american": "美式中也用于体育场景（如障碍训练）。"
+    }
+  },
+  {
+    "phrase": "hurdle",
+    "pronunciation": {
+      "british": "/ˈhɜː.dl/ 🇬🇧",
+      "american": "/ˈhɝː.dl/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun），动词（verb）",
+    "usage": "常用 👍：原指赛跑中的跨栏，常用作比喻，表示“困难”、“障碍”；动词时表示“跨越障碍”。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "障碍，难关",
+          "english": "A difficulty or problem that must be overcome."
+        },
+        "examples": [
+          {
+            "sentence": "She overcame many hurdles to become a doctor.",
+            "translation": "她克服了许多困难才成为医生。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（赛跑用的）栏架",
+          "english": "A frame or fence used in hurdle races."
+        },
+        "examples": [
+          {
+            "sentence": "He knocked over a hurdle during the race.",
+            "translation": "他在比赛中撞倒了一道栏架。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "跨越障碍（动词）",
+          "english": "To jump over something or overcome a difficulty."
+        },
+        "examples": [
+          {
+            "sentence": "We need to hurdle these regulatory issues.",
+            "translation": "我们需要跨越这些监管难题。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "overcome a hurdle",
+      "face a hurdle",
+      "a major hurdle",
+      "regulatory hurdle"
+    ],
+    "related_words": [
+      {
+        "word": "obstacle",
+        "type": "noun",
+        "definition": {
+          "chinese": "障碍物，阻碍",
+          "english": "Something that blocks progress."
+        }
+      },
+      {
+        "word": "barrier",
+        "type": "noun",
+        "definition": {
+          "chinese": "屏障，障碍",
+          "english": "A fence or other obstacle that prevents movement or access."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻义使用频繁",
+        "explanation": "虽然‘hurdle’原为体育术语，但在日常和职场中比喻‘难关’的使用非常常见。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意是“赛跑中的栏架”，由于“跨越障碍”的动作比喻了克服困难，逐渐发展出“难关”的意思。",
+      "explanation_english": "Originally referred to a physical barrier in a race, the meaning expanded metaphorically to challenges or difficulties in life."
+    },
+    "variation_between_british_american": {
+      "british": "英式中‘hurdles’也常指体育项目‘跨栏跑’。",
+      "american": "美式英语中更倾向用于抽象含义，如‘legal hurdles’。"
+    }
+  },
+  {
+    "phrase": "wive",
+    "pronunciation": {
+      "british": "/waɪv/ 🇬🇧",
+      "american": "/waɪv/ 🇺🇸"
+    },
+    "phrase_type": "动词（verb，古语）",
+    "usage": "罕用 🚫：这是一个古老的动词，意思是“娶妻”，现代英语中基本不用，偶尔在文学或圣经中出现。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "娶妻",
+          "english": "To take a woman as a wife; to marry (used for men)."
+        },
+        "examples": [
+          {
+            "sentence": "He was determined to wive and settle down.",
+            "translation": "他下定决心要娶妻安家。（古式）"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "wive and thrive"(古语成对搭配，意为“娶妻并兴旺”)
+    ],
+    "related_words": [
+      {
+        "word": "marry",
+        "type": "verb",
+        "definition": {
+          "chinese": "结婚",
+          "english": "To become the husband or wife of someone."
+        }
+      },
+      {
+        "word": "wed",
+        "type": "verb",
+        "definition": {
+          "chinese": "结婚（正式或诗意）",
+          "english": "To marry (more formal or poetic)."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "现代已不常用",
+        "explanation": "现代英语中已基本不使用‘wive’，可在莎士比亚、圣经或历史文学中见到。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘wive’源于古英语，和‘wife’同源，曾是动词形式，现代英语中已演变为‘marry’、‘get married’等常用说法。",
+      "explanation_english": "Derived from Old English, related to 'wife'. The verb form has largely fallen out of use, replaced by modern verbs like 'marry'."
+    },
+    "variation_between_british_american": {
+      "british": "在古典英文学中如莎士比亚作品中可能会见到。",
+      "american": "几乎完全不用，仅在研究古典文学时会提及。"
+    }
+  },
+  {
+    "phrase": "a bit sticky",
+    "pronunciation": {
+      "british": "/ə bɪt ˈstɪki/ 🇬🇧",
+      "american": "/ə bɪt ˈstɪki/ 🇺🇸"
+    },
+    "phrase_type": "口语表达（informal idiom）",
+    "usage": "常用 👍：口语中表示‘有点麻烦’、‘不太好办’。也可以字面理解为‘有点黏’。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "有点困难 / 不太好应付",
+          "english": "Slightly difficult or tricky to handle."
+        },
+        "examples": [
+          {
+            "sentence": "The situation is a bit sticky, but I think we’ll manage.",
+            "translation": "情况有点棘手，但我觉得我们能应付。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "有点黏",
+          "english": "Slightly sticky or tacky to the touch."
+        },
+        "examples": [
+          {
+            "sentence": "The dough feels a bit sticky. Add more flour.",
+            "translation": "面团有点黏，加点面粉吧。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "a bit sticky situation",
+      "things are getting sticky",
+      "feel a bit sticky"
+    ],
+    "related_words": [
+      {
+        "word": "tricky",
+        "type": "adjective",
+        "definition": {
+          "chinese": "棘手的，难办的",
+          "english": "Difficult to deal with or do."
+        }
+      },
+      {
+        "word": "awkward",
+        "type": "adjective",
+        "definition": {
+          "chinese": "尴尬的，难堪的",
+          "english": "Causing difficulty or embarrassment."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "情境决定含义",
+        "explanation": "该短语可以是物理感受（手感黏）也可以是比喻义（局面不好）。要根据上下文判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘sticky’原为触觉形容词，形容‘黏的’，后因‘不顺手、不舒服’引申为‘尴尬、困难’等含义。",
+      "explanation_english": "Originally described physical stickiness, but later extended to metaphorical situations that are uncomfortable or tricky."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语更常用‘a bit sticky’表示尴尬或麻烦的处境。",
+      "american": "美式英语中更常用‘tricky’、‘messy’等词表达类似意思。"
+    }
+  },
+  {
+    "word": "bream",
+    "pronunciation": {
+      "british": "/briːm/ 🇬🇧",
+      "american": "/briːm/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "主要指一种淡水或海水鱼，常见于钓鱼和食用场景。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "鲷鱼（一种鱼类，淡水或海水鱼）",
+          "english": "A type of freshwater or marine fish commonly caught for food or sport."
+        },
+        "examples": [
+          {
+            "sentence": "We caught several bream during our fishing trip.",
+            "translation": "我们钓鱼时捕到了几条鲷鱼。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bass",
+        "type": "noun",
+        "definition": {
+          "chinese": "鲈鱼",
+          "english": "A type of freshwater or saltwater fish popular with anglers."
+        }
+      },
+      {
+        "word": "carp",
+        "type": "noun",
+        "definition": {
+          "chinese": "鲤鱼",
+          "english": "A freshwater fish often found in ponds and lakes."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "区域差异",
+        "explanation": "‘bream’ 在不同地区指不同的鱼类，英式英语多指欧洲鲷，澳大利亚等地也有不同种类。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘bream’ 来源于古英语，特指某类扁平体形的鱼，名称沿用至今。",
+      "explanation_english": "Derived from Old English, the term refers to a group of flat-bodied fish species."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语常指欧洲鲷鱼。",
+      "american": "美式英语较少用此词，钓鱼爱好者会用具体鱼名替代。"
+    }
+  },
+  {
+    "word": "Flathead",
+    "pronunciation": {
+      "british": "/ˈflæt.hed/ 🇬🇧",
+      "american": "/ˈflæt.hed/ 🇺🇸"
+    },
+    "part_of_speech": "noun / adjective (depending on context)",
+    "usage": "主要指一种鱼类，也可以是形容词描述‘平头的’。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "平头鱼（一种海水鱼）",
+          "english": "A type of marine fish known for its flat head."
+        },
+        "examples": [
+          {
+            "sentence": "Flathead is popular in Australian coastal fishing.",
+            "translation": "平头鱼在澳大利亚沿海钓鱼中很受欢迎。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "平头的，头部扁平的（形容词）",
+          "english": "Having a flat head."
+        },
+        "examples": [
+          {
+            "sentence": "He has a flathead screwdriver in his toolbox.",
+            "translation": "他的工具箱里有一把一字螺丝刀。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "flathead screwdriver",
+        "type": "noun",
+        "definition": {
+          "chinese": "一字螺丝刀",
+          "english": "A screwdriver with a flat blade used to turn screws with a straight, linear notch."
+        }
+      },
+      {
+        "word": "flatfish",
+        "type": "noun",
+        "definition": {
+          "chinese": "比目鱼",
+          "english": "A family of fish with flat bodies that lie on the ocean floor."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "注意大小写区别",
+        "explanation": "‘Flathead’ 作为鱼名时首字母大写，形容词或普通名词时小写。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Flathead’ 结合形容词‘flat’和名词‘head’，既描述鱼名也可字面描述物体形状。",
+      "explanation_english": "Combines 'flat' + 'head', used both as a fish name and a descriptive adjective."
+    },
+    "variation_between_british_american": {
+      "british": "该词用于鱼类和工具名称均普遍。",
+      "american": "同样适用，‘flathead screwdriver’ 是标准术语。"
+    }
+  },
+  {
+    "word": "acquaintance",
+    "pronunciation": {
+      "british": "/əˈkweɪn.təns/ 🇬🇧",
+      "american": "/əˈkweɪn.təns/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于描述人与人之间非亲密的社交关系。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "相识的人，泛泛之交",
+          "english": "A person one knows slightly, but who is not a close friend."
+        },
+        "examples": [
+          {
+            "sentence": "I ran into an old acquaintance from college yesterday.",
+            "translation": "我昨天遇到了一个大学时的老相识。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "friend",
+        "type": "noun",
+        "definition": {
+          "chinese": "朋友",
+          "english": "A person with whom one has a close and trusting relationship."
+        }
+      },
+      {
+        "word": "colleague",
+        "type": "noun",
+        "definition": {
+          "chinese": "同事",
+          "english": "A person one works with."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "社交层级",
+        "explanation": "‘acquaintance’ 指认识但不亲密的人，社交层级低于‘friend’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源来自拉丁语，表示‘认识’或‘熟悉’的关系。",
+      "explanation_english": "Derived from Latin roots meaning 'to make known' or 'to be familiar with'."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式一致，常见于正式和非正式场合。",
+      "american": "同样用法，日常交流中普遍使用。"
+    }
+  },
+  {
+    "phrase": "run in",
+    "pronunciation": {
+      "british": "/rʌn ɪn/ 🇬🇧",
+      "american": "/rʌn ɪn/ 🇺🇸"
+    },
+    "phrase_type": "短语动词（phrasal verb）",
+    "usage": "常用 👍：有多种常见含义，具体根据上下文变化。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "试车，磨合（新机器、车辆）",
+          "english": "To use a new machine or vehicle carefully so that it works properly."
+        },
+        "examples": [
+          {
+            "sentence": "You need to run in a new car for about 1,000 miles.",
+            "translation": "你需要磨合新车大约1000英里。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "与某人发生冲突或争执",
+          "english": "To have a disagreement or fight with someone."
+        },
+        "examples": [
+          {
+            "sentence": "He had a run-in with the manager over his late arrival.",
+            "translation": "他因为迟到和经理发生了冲突。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "将犯人送入监狱",
+          "english": "To put someone into jail."
+        },
+        "examples": [
+          {
+            "sentence": "The police ran him in for theft.",
+            "translation": "警察因为偷窃把他抓进了监狱。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "run in a car",
+      "have a run-in",
+      "run-in with the law"
+    ],
+    "related_words": [
+      {
+        "word": "break in",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "磨合；闯入",
+          "english": "To wear something new until comfortable; or to enter illegally."
+        }
+      },
+      {
+        "word": "clash",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "冲突",
+          "english": "A conflict or fight."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "含义丰富",
+        "explanation": "‘run in’ 是多义短语动词，具体含义需结合上下文判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘run in’ 基本义是‘进入、使用’，引申出磨合、冲突、逮捕等含义。",
+      "explanation_english": "Derived from literal sense of 'entering' or 'using', extended to meanings such as breaking in machinery, conflicts, and arrest."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式基本一致，但‘have a run-in’ 更常见。",
+      "american": "‘run in’ 可更广泛用于执法语境。"
+    }
+  },
+  {
+    "phrase": "make the most of it",
+    "pronunciation": {
+      "british": "/meɪk ðə məʊst əv ɪt/ 🇬🇧",
+      "american": "/meɪk ðə moʊst əv ɪt/ 🇺🇸"
+    },
+    "phrase_type": "口语表达（idiom）",
+    "usage": "常用 👍：用于鼓励某人充分利用有限的资源、机会或条件，即使情况不理想，也尽力让它变得有价值。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "充分利用某事（即使条件有限）",
+          "english": "To take full advantage of something, even if it's not ideal."
+        },
+        "examples": [
+          {
+            "sentence": "It might rain during our trip, but let’s make the most of it.",
+            "translation": "我们旅行时可能会下雨，但我们还是尽量好好享受吧。"
+          },
+          {
+            "sentence": "He didn’t win, but he made the most of the opportunity to meet professionals.",
+            "translation": "他虽然没获胜，但还是充分利用机会结识了业内人士。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "make the most of it",
+      "make the most of your time",
+      "make the most of the opportunity",
+      "make the most of a bad situation",
+      "try to make the most of it"
+    ],
+    "related_words": [
+      {
+        "word": "take advantage of",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "利用（可中性也可贬义）",
+          "english": "To use something for your own benefit; can be neutral or negative."
+        }
+      },
+      {
+        "word": "maximize",
+        "type": "verb",
+        "definition": {
+          "chinese": "最大化利用",
+          "english": "To make as large or great as possible."
+        }
+      },
+      {
+        "word": "capitalize on",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "从中获利；利用机会",
+          "english": "To take advantage of something for gain or benefit."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气积极",
+        "explanation": "这个短语带有乐观、积极的语气，鼓励在不完美的情况下寻找价值。"
+      },
+      {
+        "point": "it 可以替换",
+        "explanation": "‘it’ 可根据具体语境换成 ‘the situation’, ‘your chance’, ‘the day’ 等更具体的内容。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘make the most of’ 是一个习语表达，从字面‘做到最多’引申为‘最大限度利用’。‘it’ 可以泛指任何情境或机会，因此这个表达适用范围广。",
+      "explanation_english": "The phrase stems from the literal idea of making 'the most' out of something. The flexibility of 'it' allows the idiom to apply to a variety of situations, hence its broad usage."
+    },
+    "variation_between_british_american": {
+      "british": "英式中较常见于生活、旅游、个人计划中，如 ‘make the most of your holiday’。",
+      "american": "美式中除了生活场景，也常用于职场、教育机会等积极语境。"
+    }
+  },
+  {
+    "phrase": "well-built",
+    "pronunciation": {
+      "british": "/wel ˈbɪlt/ 🇬🇧",
+      "american": "/wel ˈbɪlt/ 🇺🇸"
+    },
+    "phrase_type": "形容词（adjective）",
+    "usage": "常用 👍：常用于形容人（尤其男性）身材健壮，也可用于形容建筑结构坚固结实。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "身材健壮、体格强健",
+          "english": "Having a strong, muscular, or sturdy body."
+        },
+        "examples": [
+          {
+            "sentence": "He's tall, handsome, and well-built.",
+            "translation": "他高大、英俊，体格健壮。"
+          },
+          {
+            "sentence": "The actor is very well-built for an action role.",
+            "translation": "这位演员的体格非常适合动作角色。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "结构坚固、结实（用于物）",
+          "english": "Solidly or strongly constructed; durable and well-made."
+        },
+        "examples": [
+          {
+            "sentence": "This house is well-built and should last for decades.",
+            "translation": "这所房子结构坚固，可以使用几十年。"
+          },
+          {
+            "sentence": "The chair is well-built and very comfortable.",
+            "translation": "这张椅子结构结实，也很舒服。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "a well-built man",
+      "a well-built house",
+      "well-built frame",
+      "well-built physique",
+      "well-built construction"
+    ],
+    "related_words": [
+      {
+        "word": "muscular",
+        "type": "adjective",
+        "definition": {
+          "chinese": "肌肉发达的",
+          "english": "Having well-developed muscles; strong and fit."
+        }
+      },
+      {
+        "word": "solid",
+        "type": "adjective",
+        "definition": {
+          "chinese": "坚固的，牢靠的",
+          "english": "Strong and firm in structure or build."
+        }
+      },
+      {
+        "word": "sturdy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "结实的，强健的",
+          "english": "Strongly and solidly built; robust."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "形容人和物皆可用",
+        "explanation": "虽然常用于描述男性体格，但也可以用来形容建筑物或家具的结构坚固。"
+      },
+      {
+        "point": "与性别偏好搭配",
+        "explanation": "‘well-built’ 多用于男性体型；女性常用 ‘fit’, ‘curvy’ 或具体描述部位。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘well-built’ 最初用于描述建筑质量优良（结构坚固），后来延伸至形容人的体格，强调‘构造良好’的抽象概念。",
+      "explanation_english": "Originally used to describe sturdy construction of buildings, the term 'well-built' was later extended metaphorically to describe strong or fit human physiques."
+    },
+    "variation_between_british_american": {
+      "british": "英式中‘well-built’也常用于房屋描述，带有中性或褒义。",
+      "american": "美式中该词更多用来描述健硕的体型，尤其在体育、娱乐语境中较常见。"
+    }
   }
 ]
 
