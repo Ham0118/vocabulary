@@ -19528,7 +19528,7 @@ const wordData = [
       }
     ],
     "common_collocations": [
-      "wive and thrive"(古语成对搭配，意为“娶妻并兴旺”)
+      "wive and thrive"
     ],
     "related_words": [
       {
@@ -20066,6 +20066,1310 @@ const wordData = [
     "variation_between_british_american": {
       "british": "英式中‘well-built’也常用于房屋描述，带有中性或褒义。",
       "american": "美式中该词更多用来描述健硕的体型，尤其在体育、娱乐语境中较常见。"
+    }
+  },
+  {
+    "word": "zillion",
+    "pronunciation": {
+      "british": "/ˈzɪljən/ 🇬🇧",
+      "american": "/ˈzɪljən/ 🇺🇸"
+    },
+    "part_of_speech": "noun（非正式）/ quantifier",
+    "usage": "非正式表达，用于形容极大的、不确定数量（幽默或夸张）。",
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition": {
+          "chinese": "无数，极大的数目",
+          "english": "An extremely large, but unspecified number."
+        },
+        "examples": [
+          {
+            "sentence": "He’s got a zillion excuses for being late.",
+            "translation": "他有一大堆迟到的理由。"
+          },
+          {
+            "sentence": "We’ve gone over this a zillion times.",
+            "translation": "我们已经说过无数次了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "a zillion times",
+      "zillions of dollars",
+      "like a zillion"
+    ],
+    "related_words": [
+      {
+        "word": "gazillion",
+        "definition": {
+          "chinese": "天文数字，非常大的数（比 zillion 更夸张）",
+          "english": "A very large and indefinite number, often used humorously."
+        }
+      },
+      {
+        "word": "bazillion",
+        "definition": {
+          "chinese": "非常大的数字，和 zillion 类似",
+          "english": "A large, exaggerated number."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式用法",
+        "explanation": "仅用于口语或幽默场合，不能用于正式或技术场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘zillion’ 不是数学词汇，而是20世纪初美国口语中创造出来的夸张用词，用来代替无法准确表达的大数。",
+      "explanation_english": "A humorous coinage from early 20th-century American English to express 'a huge number' without precision."
+    },
+    "variation_between_british_american": {
+      "british": "使用较少，但理解通用。",
+      "american": "更常见于美国口语中，尤其是在非正式交流和青少年语言中。"
+    }
+  },
+  {
+    "word": "promptly",
+    "pronunciation": {
+      "british": "/ˈprɒmptli/ 🇬🇧",
+      "american": "/ˈprɑːmptli/ 🇺🇸"
+    },
+    "part_of_speech": "adverb",
+    "usage": "常用于表示‘立即地’、‘准时地’，用于行动的迅速反应或时间的准确性。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "迅速地，立即地；准时地",
+          "english": "Quickly, without delay; at the scheduled or expected time."
+        },
+        "examples": [
+          {
+            "sentence": "She responded promptly to the message.",
+            "translation": "她迅速回复了信息。"
+          },
+          {
+            "sentence": "The train arrived promptly at 7 a.m.",
+            "translation": "火车准时在早上7点到达。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "respond promptly",
+      "promptly at (time)",
+      "promptly dealt with",
+      "promptly removed"
+    ],
+    "related_words": [
+      {
+        "word": "immediately",
+        "definition": {
+          "chinese": "立刻，马上",
+          "english": "Without any delay; at once."
+        }
+      },
+      {
+        "word": "swiftly",
+        "definition": {
+          "chinese": "迅速地",
+          "english": "Happening quickly or without delay."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "副词位置",
+        "explanation": "‘promptly’ 通常放在动词后或句首，也可以句尾表示时间或反应的及时性。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘prompt’ 原意是‘迅速反应’，加副词后表示‘迅速地、及时地’，无特别歧义。",
+      "explanation_english": "Derived from 'prompt' meaning 'quick to act', 'promptly' has kept its original intent."
+    },
+    "variation_between_british_american": {
+      "british": "多用于正式场合，如交通、会议等。",
+      "american": "广泛用于书面和口语中，商务邮件也常见。"
+    }
+  },
+  {
+    "word": "litter",
+    "pronunciation": {
+      "british": "/ˈlɪtə(r)/ 🇬🇧",
+      "american": "/ˈlɪtər/ 🇺🇸"
+    },
+    "part_of_speech": "noun / verb",
+    "usage": "既可指乱扔的垃圾，也可作动词表示‘乱丢’，还可用于动物产仔场景（尤指猫狗）。",
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition": {
+          "chinese": "垃圾；一窝（动物）幼崽",
+          "english": "Waste left in public places / a group of animals born at the same time."
+        },
+        "examples": [
+          {
+            "sentence": "The park was full of litter after the concert.",
+            "translation": "演唱会后公园里满是垃圾。"
+          },
+          {
+            "sentence": "Our cat just had a litter of five kittens.",
+            "translation": "我们的猫刚生了一窝五只小猫。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition": {
+          "chinese": "乱扔垃圾；使遍布",
+          "english": "To make a place untidy with rubbish / to scatter around."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t litter in public places!",
+            "translation": "不要在公共场所乱扔垃圾！"
+          },
+          {
+            "sentence": "Books littered the floor after the storm.",
+            "translation": "暴风雨过后，书散落在地板上。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "litter bin",
+      "pick up litter",
+      "litter the streets",
+      "a litter of puppies"
+    ],
+    "related_words": [
+      {
+        "word": "garbage",
+        "definition": {
+          "chinese": "垃圾（美式）",
+          "english": "Waste material (mainly in American English)."
+        }
+      },
+      {
+        "word": "trash",
+        "definition": {
+          "chinese": "垃圾，废物",
+          "english": "Things that are considered useless or unwanted."
+        }
+      },
+      {
+        "word": "offspring",
+        "definition": {
+          "chinese": "后代，幼崽",
+          "english": "Children or young of a person, animal, or plant."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "‘litter’ 的多义性",
+        "explanation": "既可作垃圾，又指一窝动物，属于“原意 + 引申”的词义演变，取决于具体语境。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘litter’ 原指铺床用的稻草，引申为‘散落物’，再引申为‘垃圾’；在动物用法中，指一次出生的‘一窝’。",
+      "explanation_english": "Originally meant bedding of straw (Middle English), later evolved to mean 'scattered things' → 'trash' and 'group of newborn animals'."
+    },
+    "variation_between_british_american": {
+      "british": "‘litter’ 常指地面上的小垃圾，如塑料袋、烟头。",
+      "american": "同样使用，但‘trash’更常见；‘a litter of puppies’ 在两种英语中都常见。"
+    }
+  },
+  {
+    "phrase": "pickle",
+    "pronunciation": {
+      "british": "/ˈpɪk.l̩/ 🇬🇧",
+      "american": "/ˈpɪk.əl/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）；动词（verb）",
+    "usage": "常见于美式口语和英式俚语，既指腌制食品，也指“困境”等比喻意义。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "腌菜，泡菜",
+          "english": "A food that has been preserved in vinegar or brine."
+        },
+        "examples": [
+          {
+            "sentence": "I love eating pickles with sandwiches.",
+            "translation": "我喜欢配三明治吃泡菜。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "困境，麻烦（口语）",
+          "english": "A difficult or troublesome situation. (informal)"
+        },
+        "examples": [
+          {
+            "sentence": "I'm in a bit of a pickle right now.",
+            "translation": "我现在有点陷入困境了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "a jar of pickles",
+      "get into a pickle",
+      "be in a pickle"
+    ],
+    "related_words": [
+      {
+        "word": "preserve",
+        "type": "verb",
+        "definition": {
+          "chinese": "保存，腌制",
+          "english": "To keep food from spoiling by treating it."
+        }
+      },
+      {
+        "word": "trouble",
+        "type": "noun",
+        "definition": {
+          "chinese": "麻烦，困难",
+          "english": "Difficulty or problems that cause distress."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "英美差异",
+        "explanation": "美式英语中 'pickle' 通常是腌黄瓜；英式英语中可泛指各种腌菜。"
+      },
+      {
+        "point": "比喻义用法",
+        "explanation": "比喻为‘困境’的用法来自18世纪，形象地表达处于“腌制”中的尴尬状态。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘pickle’ 最早指食物腌制，后比喻为“进退两难的局面”。",
+      "explanation_english": "Originally meant preserved food; metaphorically used for tricky situations due to being 'stuck'."
+    },
+    "variation_between_british_american": {
+      "british": "‘Pickle’ 泛指各种腌菜，包括洋葱、白菜等。",
+      "american": "通常指的是腌黄瓜（dill pickle）。"
+    }
+  },
+  {
+    "phrase": "pass water",
+    "pronunciation": {
+      "british": "/pɑːs ˈwɔː.tə/ 🇬🇧",
+      "american": "/pæs ˈwɑː.tɚ/ 🇺🇸"
+    },
+    "phrase_type": "正式医学术语/委婉语（euphemism）",
+    "usage": "较为正式或委婉的表达“排尿”，常见于医疗语境。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "排尿，撒尿（正式）",
+          "english": "To urinate; to discharge urine from the body."
+        },
+        "examples": [
+          {
+            "sentence": "The patient is unable to pass water.",
+            "translation": "这位病人无法排尿。"
+          },
+          {
+            "sentence": "Do you have trouble passing water?",
+            "translation": "你排尿有困难吗？"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "unable to pass water",
+      "difficulty passing water",
+      "pass water normally"
+    ],
+    "related_words": [
+      {
+        "word": "urinate",
+        "type": "verb",
+        "definition": {
+          "chinese": "小便，排尿（医学用语）",
+          "english": "To discharge urine from the body."
+        }
+      },
+      {
+        "word": "pee",
+        "type": "verb",
+        "definition": {
+          "chinese": "小便（非正式）",
+          "english": "To urinate. (informal)"
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "场合限制",
+        "explanation": "‘pass water’ 多用于医学或老年人语境，日常口语中更常说 ‘pee’ 或 ‘go to the bathroom’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘pass’ 在这里表示‘排出’，‘water’ 是对尿液的委婉说法。",
+      "explanation_english": "‘Pass’ means ‘to expel’, and ‘water’ is a polite substitute for ‘urine’."
+    },
+    "variation_between_british_american": {
+      "british": "较常见于医生或护士用语。",
+      "american": "通常不用此说法，改用 ‘urinate’（正式）或 ‘pee’（口语）。"
+    }
+  },
+  {
+    "phrase": "rug",
+    "pronunciation": {
+      "british": "/rʌɡ/ 🇬🇧",
+      "american": "/rʌɡ/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用于家居场景，表示地毯，也有俚语含义（假发）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "小地毯",
+          "english": "A small carpet, especially one that covers part of a floor."
+        },
+        "examples": [
+          {
+            "sentence": "I bought a new rug for the living room.",
+            "translation": "我为客厅买了块新地毯。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "假发（俚语）",
+          "english": "A wig. (slang)"
+        },
+        "examples": [
+          {
+            "sentence": "He wears a rug to cover his bald spot.",
+            "translation": "他戴着假发遮住秃顶。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "throw rug",
+      "area rug",
+      "beat the rug",
+      "pull the rug out from under someone"
+    ],
+    "related_words": [
+      {
+        "word": "carpet",
+        "type": "noun",
+        "definition": {
+          "chinese": "地毯（通常较大）",
+          "english": "A large floor covering."
+        }
+      },
+      {
+        "word": "wig",
+        "type": "noun",
+        "definition": {
+          "chinese": "假发",
+          "english": "An artificial covering for the head made of real or synthetic hair."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "大小区别",
+        "explanation": "‘Rug’ 通常指较小、可移动的地毯；‘carpet’ 是铺满整间房的大地毯。"
+      },
+      {
+        "point": "俚语用法",
+        "explanation": "‘Rug’ 用于‘假发’是美式幽默俚语，带调侃意味。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Rug’ 原意是纺织物延伸为小地毯，再由形状联想到‘假发’。",
+      "explanation_english": "Originally referred to a coarse woven cloth, then small floor covering; slang sense of ‘wig’ is humorous extension."
+    },
+    "variation_between_british_american": {
+      "british": "‘Rug’ 主要用于家居语境。",
+      "american": "俚语 ‘rug = wig’ 更常见。"
+    }
+  },
+  {
+    "phrase": "fumble",
+    "pronunciation": {
+      "british": "/ˈfʌm.bəl/ 🇬🇧",
+      "american": "/ˈfʌm.bəl/ 🇺🇸"
+    },
+    "phrase_type": "动词（verb）；名词（noun）",
+    "usage": "常用于描述手忙脚乱或搞砸，体育评论中也常见。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "笨拙地做，摸索着找；搞砸",
+          "english": "To do something clumsily or handle something awkwardly."
+        },
+        "examples": [
+          {
+            "sentence": "She fumbled with her keys at the door.",
+            "translation": "她在门口笨手笨脚地找钥匙。"
+          },
+          {
+            "sentence": "He fumbled his words during the interview.",
+            "translation": "他在面试时说话结结巴巴。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（美式橄榄球中）掉球",
+          "english": "To lose possession of the ball in sports, especially football."
+        },
+        "examples": [
+          {
+            "sentence": "The quarterback fumbled the ball in the final play.",
+            "translation": "四分卫在最后一击时掉了球。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "fumble around",
+      "fumble for",
+      "fumble the ball",
+      "make a fumble"
+    ],
+    "related_words": [
+      {
+        "word": "stumble",
+        "type": "verb",
+        "definition": {
+          "chinese": "绊倒，出错",
+          "english": "To trip or make a mistake while speaking or moving."
+        }
+      },
+      {
+        "word": "drop",
+        "type": "verb",
+        "definition": {
+          "chinese": "掉落",
+          "english": "To let something fall."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气色彩",
+        "explanation": "带有轻微贬义，表示‘不熟练’或‘慌张’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Fumble’ 原意即‘笨手笨脚地动作’，后在体育中指失误掉球。",
+      "explanation_english": "Originally meant awkward handling; extended into sports as ‘losing grip on the ball’."
+    },
+    "variation_between_british_american": {
+      "british": "偏向描述笨拙行为。",
+      "american": "体育术语 ‘fumble the ball’ 更常用。"
+    }
+  },
+  {
+    "phrase": "block it out",
+    "pronunciation": {
+      "british": "/blɒk ɪt aʊt/ 🇬🇧",
+      "american": "/blɑːk ɪt aʊt/ 🇺🇸"
+    },
+    "phrase_type": "动词短语（phrasal verb）",
+    "usage": "常用于指有意忘记或屏蔽令人不快的记忆或想法。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "刻意忘记，屏蔽（记忆、声音等）",
+          "english": "To deliberately try to forget something or stop it from affecting you."
+        },
+        "examples": [
+          {
+            "sentence": "He tried to block out the memory of the accident.",
+            "translation": "他试图把那次事故的记忆从脑中抹去。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["block out the noise", "block out bad memories"],
+    "related_words": [
+      {
+        "word": "suppress",
+        "type": "verb",
+        "definition": {
+          "chinese": "压制，抑制",
+          "english": "To stop yourself from showing or feeling a particular emotion."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘block’ 本意是阻挡，引申为心理上的屏蔽或忘却。",
+      "explanation_english": "Originally refers to a physical blockage; figuratively extended to emotional or mental blocking."
+    },
+    "variation_between_british_american": {
+      "british": "更常说 block out。",
+      "american": "常见说法也为 block it out。"
+    }
+  },
+  {
+    "phrase": "smack",
+    "pronunciation": {
+      "british": "/smæk/ 🇬🇧",
+      "american": "/smæk/ 🇺🇸"
+    },
+    "phrase_type": "动词/名词",
+    "usage": "常用于指打击，尤指用手掌轻拍，也可表示声音或嘴唇动作。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "掌击，拍打",
+          "english": "To hit something with a flat object or hand, producing a sharp sound."
+        },
+        "examples": [
+          {
+            "sentence": "She smacked the table in anger.",
+            "translation": "她愤怒地拍了一下桌子。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "用力碰撞；发出啪的一声",
+          "english": "To strike or come into contact with something forcefully, often making a noise."
+        },
+        "examples": [
+          {
+            "sentence": "The car smacked into the pole.",
+            "translation": "汽车猛地撞上了电线杆。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["smack in the face", "give a smack", "smack down"],
+    "related_words": [
+      {
+        "word": "slap",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "打耳光；拍打",
+          "english": "To strike with an open hand."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来源于拟声词，表示拍打声，后延伸为动作本身。",
+      "explanation_english": "Derived from an onomatopoeic root imitating the sound of a slap."
+    },
+    "variation_between_british_american": {
+      "british": "常用于‘a smack on the bottom’表示体罚。",
+      "american": "也用于“heroin”的俚语（如“he’s on smack”）。"
+    }
+  },
+  {
+    "phrase": "load up",
+    "pronunciation": {
+      "british": "/ləʊd ʌp/ 🇬🇧",
+      "american": "/loʊd ʌp/ 🇺🇸"
+    },
+    "phrase_type": "动词短语（phrasal verb）",
+    "usage": "常用于装载货物、装满某物，也用于吃很多或准备武器。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "装载；堆满；吃很多",
+          "english": "To fill something with items, to eat a lot, or to get ready with supplies."
+        },
+        "examples": [
+          {
+            "sentence": "We loaded up the van with boxes.",
+            "translation": "我们把货车装满了箱子。"
+          },
+          {
+            "sentence": "He loaded up his plate with food.",
+            "translation": "他把盘子堆满了食物。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["load up on", "load up the car", "load up with supplies"],
+    "related_words": [
+      {
+        "word": "pack",
+        "type": "verb",
+        "definition": {
+          "chinese": "打包，装箱",
+          "english": "To put things into a container or bag for transport or storage."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘load’ 原意是‘装载’，‘load up’ 是加强语气用法，也可用于比喻。",
+      "explanation_english": "‘Load’ means to place items; ‘up’ intensifies the action, sometimes metaphorically."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，常用于家庭或旅行相关语境。",
+      "american": "在口语中更常见“load up on snacks”。"
+    }
+  },
+  {
+    "phrase": "jock",
+    "pronunciation": {
+      "british": "/dʒɒk/ 🇬🇧",
+      "american": "/dʒɑːk/ 🇺🇸"
+    },
+    "phrase_type": "名词（俚语）",
+    "usage": "美式英语俚语，用于指喜欢体育或运动型的人，有时带轻微贬义。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "体育迷；运动型男生（俚语）",
+          "english": "A person, especially a male student, who is very interested in sports and often popular."
+        },
+        "examples": [
+          {
+            "sentence": "In high school, he was one of the popular jocks.",
+            "translation": "高中时他是受欢迎的体育型男生之一。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["high school jock", "dumb jock"],
+    "related_words": [
+      {
+        "word": "athlete",
+        "type": "noun",
+        "definition": {
+          "chinese": "运动员",
+          "english": "A person who competes in one or more sports."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原为苏格兰男性昵称，后在美语中俚语化为“运动型学生”。",
+      "explanation_english": "Originally a Scottish nickname; adopted in American slang to refer to athletes."
+    },
+    "variation_between_british_american": {
+      "british": "较少使用，多指广播主持人（如 disc jockey）。",
+      "american": "广泛用于学校环境，指运动型学生。"
+    }
+  },
+  {
+    "phrase": "stationary",
+    "pronunciation": {
+      "british": "/ˈsteɪ.ʃən.əri/ 🇬🇧",
+      "american": "/ˈsteɪ.ʃə.ner.i/ 🇺🇸"
+    },
+    "phrase_type": "形容词",
+    "usage": "指静止不动、不改变位置的状态。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "静止的；不动的",
+          "english": "Not moving or not intended to be moved."
+        },
+        "examples": [
+          {
+            "sentence": "The car remained stationary at the traffic lights.",
+            "translation": "汽车在红绿灯前静止不动。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["stationary vehicle", "remain stationary"],
+    "related_words": [
+      {
+        "word": "still",
+        "type": "adjective/adverb",
+        "definition": {
+          "chinese": "静止的；仍然",
+          "english": "Without movement; continuing to happen."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语‘stationarius’，意为‘停留’。",
+      "explanation_english": "From Latin 'stationarius', meaning 'standing still'."
+    },
+    "variation_between_british_american": {
+      "british": "拼写和美式一致，用法相同。",
+      "american": "同上，注意不要与 'stationery' 混淆。"
+    }
+  },
+  {
+    "phrase": "stationery",
+    "pronunciation": {
+      "british": "/ˈsteɪ.ʃən.əri/ 🇬🇧",
+      "american": "/ˈsteɪ.ʃə.ner.i/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "用于办公、写作等文具用品的统称。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "文具（如纸、笔、信封等）",
+          "english": "Materials for writing and office use, such as paper, pens, envelopes."
+        },
+        "examples": [
+          {
+            "sentence": "She bought some new stationery for school.",
+            "translation": "她买了一些新文具去上学。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["stationery store", "buy stationery"],
+    "related_words": [
+      {
+        "word": "supplies",
+        "type": "noun",
+        "definition": {
+          "chinese": "用品，补给品",
+          "english": "Items needed for a particular purpose."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘stationery’ 与 ‘stationary’ 同音但拼写不同，‘stationery’ 来自‘stationer’（旧时文具商）。",
+      "explanation_english": "Homophone of 'stationary'; derived from 'stationer' who sold writing materials."
+    },
+    "variation_between_british_american": {
+      "british": "拼写相同，广泛使用。",
+      "american": "注意与 'stationary' 区分，多用于学校或办公环境。"
+    }
+  },
+  {
+    "word": "homophones",
+    "pronunciation": {
+      "british": "/ˈhɒməfəʊnz/ 🇬🇧",
+      "american": "/ˈhoʊməfoʊnz/ 🇺🇸"
+    },
+    "part_of_speech": "noun (plural)",
+    "usage": "常用于语言学习中，描述发音相同但拼写和意义不同的词。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "同音异义词",
+          "english": "Words that are pronounced the same but differ in meaning and sometimes spelling."
+        },
+        "examples": [
+          {
+            "sentence": "‘flour’ and ‘flower’ are homophones.",
+            "translation": "flour 和 flower 是同音异义词。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["homophone pairs", "common homophones"],
+    "related_words": [
+      {
+        "word": "homonyms",
+        "definition": {
+          "chinese": "同音异义或同形异义词",
+          "english": "Words with the same spelling or pronunciation but different meanings."
+        }
+      },
+      {
+        "word": "heteronyms",
+        "definition": {
+          "chinese": "同形异音词",
+          "english": "Words spelled the same but pronounced differently and have different meanings."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语言学习重点",
+        "explanation": "英语学习中易混淆词，例如：their / there / they’re，常是 homophones。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘homo’ 表‘相同’，‘phone’ 表‘声音’，组合起来表示‘同音词’。",
+      "explanation_english": "From Greek ‘homo-’ (same) and ‘phōnē’ (sound)."
+    },
+    "variation_between_british_american": {
+      "british": "词汇相同",
+      "american": "词汇相同"
+    }
+  },
+  {
+    "word": "full stop",
+    "pronunciation": {
+      "british": "/ˌfʊl ˈstɒp/ 🇬🇧",
+      "american": "/ˌfʊl ˈstɑːp/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "主要用于书面语法中，指句号。在美式英语中叫 period。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "句号",
+          "english": "The punctuation mark (.) used at the end of a sentence."
+        },
+        "examples": [
+          {
+            "sentence": "Put a full stop at the end of the sentence.",
+            "translation": "在句子末尾加上句号。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["end with a full stop", "put a full stop"],
+    "related_words": [
+      {
+        "word": "period (美式)",
+        "definition": {
+          "chinese": "句号（美式）",
+          "english": "The American English term for ‘full stop’."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "英美用词差异",
+        "explanation": "英式用 full stop，美式常用 period。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本义即‘完整的停止’，用于语法标点。",
+      "explanation_english": "Refers to the idea of a complete pause or stop in writing."
+    },
+    "variation_between_british_american": {
+      "british": "使用 ‘full stop’。",
+      "american": "使用 ‘period’。"
+    }
+  },
+  {
+    "word": "practitioner",
+    "pronunciation": {
+      "british": "/prækˈtɪʃənə/ 🇬🇧",
+      "american": "/prækˈtɪʃənɚ/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "多用于正式语境，如医疗、法律、宗教等专业职业。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "从业者，执业者",
+          "english": "A person who works in a profession, especially medicine or law."
+        },
+        "examples": [
+          {
+            "sentence": "She is a medical practitioner.",
+            "translation": "她是一名医生。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["medical practitioner", "legal practitioner", "practitioner of yoga"],
+    "related_words": [
+      {
+        "word": "professional",
+        "definition": {
+          "chinese": "专业人士",
+          "english": "A person engaged in a specific occupation."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 ‘practice’（实践），指进行某种实践活动的人。",
+      "explanation_english": "From 'practice', referring to one who actively practices a profession."
+    },
+    "variation_between_british_american": {
+      "british": "使用广泛，尤其医疗和法律行业。",
+      "american": "同样常见，也用于替代医生或律师等术语。"
+    }
+  },
+  {
+    "word": "canyon",
+    "pronunciation": {
+      "british": "/ˈkæn.jən/ 🇬🇧",
+      "american": "/ˈkæn.jən/ 🇺🇸",
+    },
+    "part_of_speech": "noun",
+    "usage": "多用于地理地貌，描述深而狭长的山谷，常见于美国西部。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "峡谷",
+          "english": "A deep valley with steep sides, often with a river flowing through it."
+        },
+        "examples": [
+          {
+            "sentence": "The Grand Canyon is one of the most famous natural wonders in the US.",
+            "translation": "大峡谷是美国最著名的自然奇观之一。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["Grand Canyon", "steep canyon", "canyon walls"],
+    "related_words": [
+      {
+        "word": "valley",
+        "definition": {
+          "chinese": "山谷",
+          "english": "A low area between hills or mountains, often with a river."
+        }
+      },
+      {
+        "word": "gorge",
+        "definition": {
+          "chinese": "峡谷",
+          "english": "A narrow valley between hills or mountains, typically with steep rocky walls."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自西班牙语 ‘cañón’，原意是管状物，引申为狭长的山谷。",
+      "explanation_english": "From Spanish ‘cañón’, originally meaning tube or pipe, extended to deep valleys."
+    },
+    "variation_between_british_american": {
+      "british": "较少用，常说 gorge。",
+      "american": "canyon 是常用词，尤其地理描述中。"
+    }
+  },
+  {
+    "word": "parental leave",
+    "pronunciation": {
+      "british": "/pəˈren.təl liːv/ 🇬🇧",
+      "american": "/pəˈren.t̬əl liːv/ 🇺🇸"
+    },
+    "part_of_speech": "noun phrase",
+    "usage": "正式场合下用于描述父母照顾孩子时的请假政策。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "父母育儿假",
+          "english": "Leave from work granted to a parent to take care of a child."
+        },
+        "examples": [
+          {
+            "sentence": "Many companies now offer paid parental leave to both parents.",
+            "translation": "现在很多公司提供带薪的父母育儿假。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["maternity leave", "paternity leave", "paid parental leave"],
+    "related_words": [
+      {
+        "word": "maternity leave",
+        "definition": {
+          "chinese": "产假",
+          "english": "Leave taken by a mother before or after childbirth."
+        }
+      },
+      {
+        "word": "paternity leave",
+        "definition": {
+          "chinese": "陪产假",
+          "english": "Leave taken by a father around the time of childbirth."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘parental’ 指父母的；‘leave’ 是正式语境下的请假。",
+      "explanation_english": "Derived from ‘parent’ and ‘leave’ as time off from work."
+    },
+    "variation_between_british_american": {
+      "british": "强调法律规定的 parental leave rights。",
+      "american": "更多公司自主决定，法规不统一。"
+    }
+  },
+  {
+    "word": "maternity",
+    "pronunciation": {
+      "british": "/məˈtɜː.nə.ti/ 🇬🇧",
+      "american": "/məˈtɝː.nə.t̬i/ 🇺🇸"
+    },
+    "part_of_speech": "noun / adjective",
+    "usage": "通常与‘leave’或‘ward’搭配，用于描述与怀孕和分娩有关的事宜。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "母性；孕期的",
+          "english": "Relating to pregnancy, childbirth, and the period after childbirth."
+        },
+        "examples": [
+          {
+            "sentence": "She is on maternity leave for three months.",
+            "translation": "她正在休三个月的产假。"
+          },
+          {
+            "sentence": "She bought some maternity clothes.",
+            "translation": "她买了一些孕妇装。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["maternity leave", "maternity ward", "maternity clothes"],
+    "related_words": [
+      {
+        "word": "pregnancy",
+        "definition": {
+          "chinese": "怀孕",
+          "english": "The state of being pregnant."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘mater’意为母亲。",
+      "explanation_english": "From Latin ‘mater’ meaning mother."
+    },
+    "variation_between_british_american": {
+      "british": "通常由 NHS 提供产科服务。",
+      "american": "由医院和私人保险提供产假和产科服务。"
+    }
+  },
+  {
+    "word": "paternity",
+    "pronunciation": {
+      "british": "/pəˈtɜː.nə.ti/ 🇬🇧",
+      "american": "/pəˈtɝː.nə.t̬i/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "用于法律或社会语境，表示父亲身份或与之相关的权利。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "父性；父亲身份",
+          "english": "The state of being a father or relating to fatherhood."
+        },
+        "examples": [
+          {
+            "sentence": "He took two weeks of paternity leave.",
+            "translation": "他休了两周的陪产假。"
+          },
+          {
+            "sentence": "The paternity of the child was confirmed by a DNA test.",
+            "translation": "通过 DNA 检测确认了孩子的父亲身份。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["paternity leave", "paternity test", "acknowledge paternity"],
+    "related_words": [
+      {
+        "word": "fatherhood",
+        "definition": {
+          "chinese": "父亲身份",
+          "english": "The state of being a father."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘pater’（父亲）",
+      "explanation_english": "From Latin ‘pater’ meaning father."
+    },
+    "variation_between_british_american": {
+      "british": "普遍存在带薪或无薪陪产假。",
+      "american": "陪产假政策不一，通常较短。"
+    }
+  },
+  {
+    "word": "hairdresser",
+    "pronunciation": {
+      "british": "/ˈheəˌdres.ə/ 🇬🇧",
+      "american": "/ˈherˌdres.ɚ/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "日常生活中常用于描述美发师，男女皆可使用。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "理发师",
+          "english": "A person who cuts and styles people's hair."
+        },
+        "examples": [
+          {
+            "sentence": "I have an appointment with my hairdresser this afternoon.",
+            "translation": "我今天下午和理发师有个预约。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["go to the hairdresser", "hairdresser’s appointment"],
+    "related_words": [
+      {
+        "word": "barber",
+        "definition": {
+          "chinese": "（通常指男士的）理发师",
+          "english": "A person whose job is cutting men's hair."
+        }
+      },
+      {
+        "word": "stylist",
+        "definition": {
+          "chinese": "造型师",
+          "english": "Someone who designs or arranges hairstyles."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘hair’ + ‘dresser’，原意为给头发打理造型的人。",
+      "explanation_english": "From ‘hair’ and ‘dresser’ – one who arranges hair."
+    },
+    "variation_between_british_american": {
+      "british": "‘Hairdresser’广泛用于男女理发师。",
+      "american": "‘Hair stylist’更为常见。"
+    }
+  },
+  {
+    "word": "demonstration",
+    "pronunciation": {
+      "british": "/ˌdem.ənˈstreɪ.ʃən/ 🇬🇧",
+      "american": "/ˌdem.ənˈstreɪ.ʃən/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "可用于抗议、产品展示、行为表现等多种语境。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "示范；示威；表现",
+          "english": "An act of showing how something works; a protest; a display of feeling."
+        },
+        "examples": [
+          {
+            "sentence": "The teacher gave a demonstration of the experiment.",
+            "translation": "老师演示了实验过程。"
+          },
+          {
+            "sentence": "Thousands joined the peace demonstration.",
+            "translation": "成千上万人参加了和平示威游行。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["peaceful demonstration", "product demonstration", "demonstration of skill"],
+    "related_words": [
+      {
+        "word": "protest",
+        "definition": {
+          "chinese": "抗议",
+          "english": "An expression or declaration of objection."
+        }
+      },
+      {
+        "word": "display",
+        "definition": {
+          "chinese": "展示",
+          "english": "The act of showing something."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘demonstrate’ 的名词形式，有展示、抗议、情绪表达等扩展含义。",
+      "explanation_english": "From Latin ‘demonstrare’ – to show, extended to protest and emotional expression."
+    },
+    "variation_between_british_american": {
+      "british": "更常用于政治语境中的‘demonstration’",
+      "american": "商业语境中‘product demonstration’使用频繁"
+    }
+  },
+  {
+    "word": "polygamous",
+    "pronunciation": {
+      "british": "/pəˈlɪɡ.ə.məs/ 🇬🇧",
+      "american": "/pəˈlɪɡ.ə.məs/ 🇺🇸"
+    },
+    "part_of_speech": "adjective",
+    "usage": "用于宗教、文化、动物学等语境中，描述一夫多妻或一妻多夫现象。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "多配偶的",
+          "english": "Having more than one spouse at the same time."
+        },
+        "examples": [
+          {
+            "sentence": "Some cultures are traditionally polygamous.",
+            "translation": "一些文化中传统上是多配偶制。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["polygamous relationship", "polygamous society"],
+    "related_words": [
+      {
+        "word": "monogamous",
+        "definition": {
+          "chinese": "一夫一妻制的",
+          "english": "Having only one spouse at a time."
+        }
+      },
+      {
+        "word": "bigamy",
+        "definition": {
+          "chinese": "重婚罪",
+          "english": "The act of marrying someone while already being married to another person."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自‘poly’（多）和‘gamy’（婚姻）。",
+      "explanation_english": "From Greek ‘poly’ (many) and ‘gamos’ (marriage)."
+    },
+    "variation_between_british_american": {
+      "british": "作为法律术语存在，实际较少见。",
+      "american": "在讨论某些宗教群体时较为常见。"
+    }
+  },
+  {
+    "word": "philosophy",
+    "pronunciation": {
+      "british": "/fɪˈlɒs.ə.fi/ 🇬🇧",
+      "american": "/fəˈlɑː.sə.fi/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "用于学术、生活、商业等语境，既可指学科，也可指理念。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "哲学；人生观",
+          "english": "The study of fundamental questions about existence, knowledge, values, and reason; also a personal or organizational way of thinking."
+        },
+        "examples": [
+          {
+            "sentence": "He studied philosophy at university.",
+            "translation": "他在大学学的是哲学。"
+          },
+          {
+            "sentence": "Her philosophy of life is to stay positive.",
+            "translation": "她的人生哲学是保持积极。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["Western philosophy", "life philosophy", "company philosophy"],
+    "related_words": [
+      {
+        "word": "ideology",
+        "definition": {
+          "chinese": "意识形态",
+          "english": "A system of ideas and ideals."
+        }
+      },
+      {
+        "word": "logic",
+        "definition": {
+          "chinese": "逻辑",
+          "english": "Reasoning conducted according to strict principles of validity."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊语‘philo’（爱）+‘sophia’（智慧）",
+      "explanation_english": "From Greek ‘philo-’ (love) + ‘sophia’ (wisdom)"
+    },
+    "variation_between_british_american": {
+      "british": "哲学教育多为理论倾向。",
+      "american": "哲学教育可能更多跨学科探讨。"
     }
   }
 ]
