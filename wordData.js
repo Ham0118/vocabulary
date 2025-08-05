@@ -21371,6 +21371,998 @@ const wordData = [
       "british": "哲学教育多为理论倾向。",
       "american": "哲学教育可能更多跨学科探讨。"
     }
+  },
+  {
+    "phrase": "hold up",
+    "pronunciation": {
+      "british": "/həʊld ʌp/ 🇬🇧",
+      "american": "/hoʊld ʌp/ 🇺🇸"
+    },
+    "phrase_type": "动词短语（phrasal verb）",
+    "usage": "常用 👍：‘hold up’ 是多义短语，表示延迟、阻碍、抢劫、支撑等，具体意义取决于上下文。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "耽误、延迟",
+          "english": "To delay or slow down progress."
+        },
+        "examples": [
+          {
+            "sentence": "Sorry I'm late—traffic held me up.",
+            "translation": "对不起我迟到了——交通堵住了我。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "支撑、承受重量",
+          "english": "To support or bear weight."
+        },
+        "examples": [
+          {
+            "sentence": "The bridge is held up by strong cables.",
+            "translation": "这座桥是由结实的缆绳支撑的。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "抢劫",
+          "english": "To rob someone, often with a weapon."
+        },
+        "examples": [
+          {
+            "sentence": "The store was held up by two masked men.",
+            "translation": "这家商店被两个蒙面男子抢劫了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "traffic held up",
+      "held up by",
+      "hold up a bank",
+      "hold up under pressure"
+    ],
+    "related_words": [
+      {
+        "word": "delay",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "延迟",
+          "english": "To cause to be late or slow."
+        }
+      },
+      {
+        "word": "rob",
+        "type": "verb",
+        "definition": {
+          "chinese": "抢劫",
+          "english": "To take property unlawfully from a person or place."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "根据上下文选择正确含义",
+        "explanation": "这是一个多义动词短语，含义要结合具体情境判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘hold’ 本意是“握住”，‘up’ 表方向或完成动作，组合后语义发展出“阻碍、支撑、抢劫”等多种意思。",
+      "explanation_english": "The base verb 'hold' means to grasp or keep, and 'up' implies direction or obstruction, leading to various idiomatic meanings."
+    },
+    "variation_between_british_american": {
+      "british": "英式用法也包含“抢劫”义，但在新闻或警方语言中更常见。",
+      "american": "美式英语中广泛用于“交通耽误”和“抢劫”两义。"
+    }
+  },
+  {
+    "phrase": "homicide",
+    "pronunciation": {
+      "british": "/ˈhɒm.ɪ.saɪd/ 🇬🇧",
+      "american": "/ˈhɑː.mə.saɪd/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：用于法律或新闻语境中，表示杀人行为。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "杀人（行为）",
+          "english": "The deliberate and unlawful killing of one person by another."
+        },
+        "examples": [
+          {
+            "sentence": "The police are investigating a case of homicide.",
+            "translation": "警方正在调查一起杀人案件。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "commit homicide",
+      "investigate a homicide",
+      "homicide detective",
+      "homicide rate"
+    ],
+    "related_words": [
+      {
+        "word": "murder",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "谋杀",
+          "english": "The unlawful premeditated killing of one human being by another."
+        }
+      },
+      {
+        "word": "manslaughter",
+        "type": "noun",
+        "definition": {
+          "chinese": "过失杀人",
+          "english": "The crime of killing a person without intending to do so."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "法律术语区分",
+        "explanation": "‘homicide’ 是中性法律术语，包含谋杀（murder）和过失杀人（manslaughter）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "该词本身语义单一，源自拉丁文 ‘homo’（人）+ ‘-cide’（杀），表示“人杀人”。",
+      "explanation_english": "From Latin 'homo' (man) and '-cide' (killing), it has a singular legal meaning."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语更常用 ‘murder’ 和 ‘manslaughter’ 分类讨论。",
+      "american": "美式英语广泛使用 ‘homicide’ 作为法律统称。"
+    }
+  },
+  {
+    "phrase": "candor",
+    "pronunciation": {
+      "british": "/ˈkæn.də/ 🇬🇧",
+      "american": "/ˈkæn.dɚ/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：表示诚实、坦率，尤指讲话直白不掩饰。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "坦率，直言不讳",
+          "english": "The quality of being open, honest, and sincere in expression."
+        },
+        "examples": [
+          {
+            "sentence": "I appreciate your candor in telling me the truth.",
+            "translation": "我很感激你直言不讳地告诉我真相。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "with candor",
+      "speak with candor",
+      "appreciate candor",
+      "remarkable candor"
+    ],
+    "related_words": [
+      {
+        "word": "honesty",
+        "type": "noun",
+        "definition": {
+          "chinese": "诚实",
+          "english": "The quality of being truthful and fair."
+        }
+      },
+      {
+        "word": "frankness",
+        "type": "noun",
+        "definition": {
+          "chinese": "坦白",
+          "english": "The quality of being open and honest in expression."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写变体",
+        "explanation": "英式英语中有时拼写为 ‘candour’，意思相同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘candor’ 来自拉丁语 ‘candor’，本意为“白色、明亮”，比喻心地光明，因此引申为坦率。",
+      "explanation_english": "Derived from Latin ‘candor’ meaning whiteness or purity, metaphorically linked to honesty."
+    },
+    "variation_between_british_american": {
+      "british": "拼写为 ‘candour’，更少用于日常口语。",
+      "american": "拼写为 ‘candor’，在政治、商业语境中常见。"
+    }
+  },
+
+  {
+    "phrase": "karaoke",
+    "pronunciation": {
+      "british": "/ˌkær.iˈəʊ.ki/ 🇬🇧",
+      "american": "/ˌker.iˈoʊ.ki/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun, uncountable / sometimes countable）",
+    "usage": "常用 👍：指人们跟着背景音乐和字幕唱歌的娱乐活动，在派对、酒吧或家庭中都很流行。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "卡拉OK，跟着伴奏和字幕演唱歌曲的娱乐形式",
+          "english": "A form of entertainment in which people sing along to recorded music using a microphone and lyrics displayed on a screen."
+        },
+        "examples": [
+          {
+            "sentence": "We went to a karaoke bar after dinner.",
+            "translation": "晚饭后我们去了卡拉OK酒吧。"
+          },
+          {
+            "sentence": "I love singing karaoke with my friends on weekends.",
+            "translation": "我喜欢在周末和朋友们唱卡拉OK。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "karaoke bar",
+      "karaoke night",
+      "karaoke machine",
+      "sing karaoke",
+      "do karaoke"
+    ],
+    "related_words": [
+      {
+        "word": "microphone",
+        "type": "noun",
+        "definition": {
+          "chinese": "麦克风",
+          "english": "A device used to amplify or record voice during karaoke."
+        }
+      },
+      {
+        "word": "lyrics",
+        "type": "noun",
+        "definition": {
+          "chinese": "歌词",
+          "english": "The words of a song, shown on screen during karaoke."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "外来词发音注意",
+        "explanation": "‘karaoke’ 是日语借词，日语发音为 /kaɾaoke/（カラオケ），英语中发音常有差异。"
+      },
+      {
+        "point": "可数不可数双重用法",
+        "explanation": "泛指娱乐类型时不可数（do karaoke），指一次演唱或设备时可数（a karaoke, karaoke machine）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源自日语“カラオケ”，由“空（kara）”和“オーケストラ（oke）”组成，意为“无伴唱的管弦乐”。",
+      "explanation_english": "From Japanese 'kara' (empty) + 'oke' (orchestra), meaning 'empty orchestra'."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中使用略少，多用于亚洲文化或酒吧语境。",
+      "american": "美式英语中更常见于派对、家庭聚会和卡拉OK酒吧文化。"
+    }
+  },
+  {
+    "phrase": "ludicrous",
+    "pronunciation": {
+      "british": "/ˈluː.dɪ.krəs/ 🇬🇧",
+      "american": "/ˈluː.də.krəs/ 🇺🇸"
+    },
+    "phrase_type": "形容词（adjective）",
+    "usage": "中高频使用，用于强调某事物非常荒唐或令人发笑（通常带有讽刺意味）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "荒唐的；荒谬可笑的",
+          "english": "So unreasonable, ridiculous, or absurd that it’s laughable."
+        },
+        "examples": [
+          {
+            "sentence": "The idea of driving in this storm is ludicrous.",
+            "translation": "在这种暴风雨中开车的想法简直太荒唐了。"
+          },
+          {
+            "sentence": "It’s ludicrous to expect them to finish the job in one day.",
+            "translation": "指望他们一天之内完成这项工作太荒谬了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "ludicrous idea",
+      "ludicrous suggestion",
+      "absolutely ludicrous",
+      "ludicrously expensive",
+      "ludicrous situation"
+    ],
+    "related_words": [
+      {
+        "word": "ridiculous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "可笑的，荒唐的（比 ludicrous 更常见）",
+          "english": "Silly or unreasonable and deserving to be laughed at."
+        }
+      },
+      {
+        "word": "absurd",
+        "type": "adjective",
+        "definition": {
+          "chinese": "荒谬的，荒唐的（语气比 ludicrous 更正式）",
+          "english": "Extremely unreasonable or illogical."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气偏夸张",
+        "explanation": "‘ludicrous’ 强调的是‘令人发笑’的荒谬感，通常带有夸张、反讽或批评意味。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源自拉丁语 *ludicrus*，意为“戏剧性的、可笑的”，来自 *ludere*（to play）。",
+      "explanation_english": "From Latin *ludicrus*, meaning 'sportive, playful, or ridiculous', from *ludere* ('to play')."
+    },
+    "variation_between_british_american": {
+      "british": "英式和美式用法无太大区别，但‘ludicrous’在英式书面语中更常用于批评政治或制度。",
+      "american": "美式英语中，‘ludicrous’多用于口语表达对某种行为或计划的荒谬感。"
+    }
+  },
+  {
+    "phrase": "boredom",
+    "pronunciation": {
+      "british": "/ˈbɔː.dəm/ 🇬🇧",
+      "american": "/ˈbɔːr.dəm/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "表示无聊、厌倦的状态，常用于描述情绪。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "无聊，厌倦",
+          "english": "The state of feeling bored or uninterested."
+        },
+        "examples": [
+          {
+            "sentence": "He was overcome by boredom during the long lecture.",
+            "translation": "他在冗长的讲座中感到无聊透顶。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["suffer from boredom", "boredom sets in", "escape boredom"],
+    "related_words": [
+      {
+        "word": "bored",
+        "type": "adjective",
+        "definition": {
+          "chinese": "感到无聊的",
+          "english": "Feeling uninterested or tired of something."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由形容词 ‘bored’ + 名词后缀 ‘-dom’ 构成，表示状态。",
+      "explanation_english": "Formed from adjective 'bored' + noun suffix '-dom', indicating a state or condition."
+    },
+    "variation_between_british_american": {
+      "british": "发音略有差异，但意思完全相同。",
+      "american": "发音略不同，含义相同。"
+    }
+  },
+  {
+    "phrase": "interfere",
+    "pronunciation": {
+      "british": "/ˌɪn.təˈfɪər/ 🇬🇧",
+      "american": "/ˌɪn.tərˈfɪr/ 🇺🇸"
+    },
+    "phrase_type": "动词（verb）",
+    "usage": "表示干预、干涉，常含负面意义，指未经允许或不合适地介入他人事务。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "干涉，干预",
+          "english": "To become involved in a situation where you are not wanted or needed."
+        },
+        "examples": [
+          {
+            "sentence": "Try not to interfere in their personal matters.",
+            "translation": "尽量不要干涉他们的私事。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "干扰（信号、进程等）",
+          "english": "To cause disturbance or disruption to a process or signal."
+        },
+        "examples": [
+          {
+            "sentence": "The radio signal was interfered with by the nearby building.",
+            "translation": "无线电信号被附近的建筑物干扰了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "interfere with",
+      "interfere in",
+      "interfere in affairs",
+      "interfere with communication"
+    ],
+    "related_words": [
+      {
+        "word": "meddle",
+        "type": "verb",
+        "definition": {
+          "chinese": "干涉（多含贬义）",
+          "english": "To interfere in something that is not one's concern."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘interfere’ 来源于拉丁语，词义涵盖‘介入’和‘阻碍’，因此有积极和消极两种用法。",
+      "explanation_english": "Derived from Latin meaning ‘to come between’, covering both involvement and obstruction."
+    },
+    "variation_between_british_american": {
+      "british": "使用频率较高，常见于正式和非正式语境。",
+      "american": "含义相同，日常交流和书面语均适用。"
+    }
+  },
+  {
+    "phrase": "manipulate",
+    "pronunciation": {
+      "british": "/məˈnɪp.jʊ.leɪt/ 🇬🇧",
+      "american": "/məˈnɪp.jə.leɪt/ 🇺🇸"
+    },
+    "phrase_type": "动词（verb）",
+    "usage": "既有中性意义（熟练控制），也有负面意义（操纵、欺骗）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "熟练操作，巧妙控制",
+          "english": "To skillfully handle or control something."
+        },
+        "examples": [
+          {
+            "sentence": "She manipulated the controls expertly.",
+            "translation": "她熟练地操纵着控制器。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "操纵，欺骗",
+          "english": "To control or influence someone in a clever or unfair way."
+        },
+        "examples": [
+          {
+            "sentence": "He manipulated the situation to his advantage.",
+            "translation": "他操纵局势以获取优势。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "manipulate data",
+      "manipulate people",
+      "manipulate emotions"
+    ],
+    "related_words": [
+      {
+        "word": "control",
+        "type": "verb",
+        "definition": {
+          "chinese": "控制",
+          "english": "To exercise authority or influence over."
+        }
+      },
+      {
+        "word": "exploit",
+        "type": "verb",
+        "definition": {
+          "chinese": "利用（含负面）",
+          "english": "To use unfairly for one's own advantage."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指用手操作，后引申为巧妙控制和不正当操纵两种意义。",
+      "explanation_english": "Originally meant manual handling, later extended to skillful control and unfair manipulation."
+    },
+    "variation_between_british_american": {
+      "british": "在正式文献中多用，负面意义较强。",
+      "american": "口语中常见，负面含义同样明显。"
+    }
+  },
+  {
+    "phrase": "deceive",
+    "pronunciation": {
+      "british": "/dɪˈsiːv/ 🇬🇧",
+      "american": "/dɪˈsiːv/ 🇺🇸"
+    },
+    "phrase_type": "动词（verb）",
+    "usage": "用于描述欺骗行为，常含负面意味。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "欺骗，蒙蔽",
+          "english": "To cause someone to believe something that is not true, typically in order to gain some personal advantage."
+        },
+        "examples": [
+          {
+            "sentence": "He deceived her into giving him money.",
+            "translation": "他骗她给了他钱。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "deceive someone",
+      "be deceived by",
+      "intentionally deceive"
+    ],
+    "related_words": [
+      {
+        "word": "lie",
+        "type": "verb",
+        "definition": {
+          "chinese": "说谎",
+          "english": "To make a false statement with intent to deceive."
+        }
+      },
+      {
+        "word": "cheat",
+        "type": "verb",
+        "definition": {
+          "chinese": "欺骗，作弊",
+          "english": "To act dishonestly or unfairly."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词义较单一，均指欺骗行为。",
+      "explanation_english": "Meaning is singular, referring to the act of deception."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "phrase": "admiration",
+    "pronunciation": {
+      "british": "/ˌæd.mɪˈreɪ.ʃən/ 🇬🇧",
+      "american": "/ˌæd.mɪˈreɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "表示钦佩、赞赏，常用于表达对某人或某事的正面评价。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "钦佩，赞赏",
+          "english": "A feeling of great respect and approval."
+        },
+        "examples": [
+          {
+            "sentence": "She looked at him with admiration.",
+            "translation": "她满怀钦佩地看着他。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "express admiration",
+      "earn admiration",
+      "great admiration"
+    ],
+    "related_words": [
+      {
+        "word": "respect",
+        "type": "noun",
+        "definition": {
+          "chinese": "尊重",
+          "english": "A feeling of deep admiration."
+        }
+      },
+      {
+        "word": "appreciation",
+        "type": "noun",
+        "definition": {
+          "chinese": "感激，欣赏",
+          "english": "Recognition of the good qualities of someone or something."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词义单一，指钦佩。",
+      "explanation_english": "Meaning is singular, referring to the feeling of admiration."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "therapy",
+    "pronunciation": {
+      "british": "/ˈθerəpi/ 🇬🇧",
+      "american": "/ˈθerəpi/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于心理治疗、物理治疗等医疗场景中。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "治疗，疗法",
+          "english": "The treatment of a physical or mental illness without the use of drugs or operations."
+        },
+        "examples": [
+          {
+            "sentence": "He is undergoing therapy for depression.",
+            "translation": "他正在接受抑郁症治疗。"
+          },
+          {
+            "sentence": "Physical therapy helped her recover from the injury.",
+            "translation": "物理治疗帮助她从伤病中恢复。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["treatment", "counseling", "psychotherapy"]
+  },
+  {
+    "word": "monopoly",
+    "pronunciation": {
+      "british": "/məˈnɒpəli/ 🇬🇧",
+      "american": "/məˈnɑːpəli/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于商业、经济领域，也可以比喻某种唯一控制权。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "垄断，独占",
+          "english": "Complete control of something by one person or company."
+        },
+        "examples": [
+          {
+            "sentence": "The company has a monopoly on electricity supply in the region.",
+            "translation": "该公司垄断了该地区的电力供应。"
+          },
+          {
+            "sentence": "He doesn’t have a monopoly on good ideas.",
+            "translation": "他并不是唯一有好主意的人。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["oligopoly", "cartel", "dominance"]
+  },
+  {
+    "word": "token",
+    "pronunciation": {
+      "british": "/ˈtəʊkən/ 🇬🇧",
+      "american": "/ˈtoʊkən/ 🇺🇸"
+    },
+    "part_of_speech": "noun / adjective",
+    "usage": "有多重含义，根据上下文可能指代象征物、代币、或形式上的。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "象征，代币",
+          "english": "A symbol or small item representing something else; a piece used in games or for payment."
+        },
+        "examples": [
+          {
+            "sentence": "She gave me a small gift as a token of her appreciation.",
+            "translation": "她送我一个小礼物作为感激的象征。"
+          },
+          {
+            "sentence": "You need a token to ride the subway.",
+            "translation": "你需要代币才能乘地铁。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "象征性的（形容词）",
+          "english": "Done for the sake of appearance or as a symbolic gesture."
+        },
+        "examples": [
+          {
+            "sentence": "They made only a token effort to solve the problem.",
+            "translation": "他们只做了象征性的努力来解决问题。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["symbol", "sign", "gesture", "coin"]
+  },
+  {
+    "word": "thorough",
+    "pronunciation": {
+      "british": "/ˈθʌrə/ 🇬🇧",
+      "american": "/ˈθɜːroʊ/ 🇺🇸",
+      "note": "注意英美发音差异较大"
+    },
+    "part_of_speech": "adjective",
+    "usage": "强调彻底、细致、全面。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "彻底的，细致的",
+          "english": "Detailed and complete; careful about every detail."
+        },
+        "examples": [
+          {
+            "sentence": "She did a thorough job cleaning the kitchen.",
+            "translation": "她彻底地打扫了厨房。"
+          },
+          {
+            "sentence": "The investigation was very thorough.",
+            "translation": "这次调查非常彻底。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["complete", "meticulous", "exhaustive"]
+  },
+  {
+    "word": "shack",
+    "pronunciation": {
+      "british": "/ʃæk/ 🇬🇧",
+      "american": "/ʃæk/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "多用于描述简陋的建筑，常出现在乡村、郊区或流浪者居住地。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "简陋的小屋，棚屋",
+          "english": "A small, crudely built cabin or shelter."
+        },
+        "examples": [
+          {
+            "sentence": "He lived in a small wooden shack near the river.",
+            "translation": "他住在河边一间简陋的木屋里。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["hut", "cabin", "shed"],
+    "usage_notes": "常带有贫穷或临时性的意味。",
+    "origin": "19世纪美国俚语，可能源自墨西哥西班牙语 jacal，意为‘棚屋’。"
+  },
+  {
+    "word": "dough",
+    "pronunciation": {
+      "british": "/dəʊ/ 🇬🇧",
+      "american": "/doʊ/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "烘焙、做面包常用词；也用于口语表示‘钱’。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "生面团",
+          "english": "A thick mixture of flour and liquid used for baking."
+        },
+        "examples": [
+          {
+            "sentence": "Knead the dough until it becomes smooth.",
+            "translation": "把面团揉到光滑为止。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "钱（非正式）",
+          "english": "Money (informal)."
+        },
+        "examples": [
+          {
+            "sentence": "She made a lot of dough from her business.",
+            "translation": "她通过生意赚了很多钱。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["pastry", "cash", "bread (slang)"],
+    "usage_notes": "作“钱”讲时为非正式用法，常见于美式英语。",
+    "origin": "来自古英语 dag，原义为‘面糊’。"
+  },
+  {
+    "word": "beaver",
+    "pronunciation": {
+      "british": "/ˈbiː.vər/ 🇬🇧",
+      "american": "/ˈbiː.vɚ/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常见于自然、生态、动物类话题，也有非正式用法。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "海狸（一种水生啮齿动物）",
+          "english": "A large, semiaquatic rodent known for building dams."
+        },
+        "examples": [
+          {
+            "sentence": "Beavers use branches and mud to build dams.",
+            "translation": "海狸用树枝和泥巴建造水坝。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["rodent", "otter", "dam"],
+    "usage_notes": "作为动物词汇非常常见，也有某些俚语用法（不建议用于正式语境）。",
+    "origin": "源自古英语 beofor，与德语 Biber 同源。"
+  },
+  {
+    "word": "savory",
+    "pronunciation": {
+      "british": "/ˈseɪ.vər.i/ 🇬🇧",
+      "american": "/ˈseɪ.vɚ.i/ 🇺🇸"
+    },
+    "part_of_speech": "adjective / noun",
+    "usage": "形容咸味食品或味道浓郁的食物；也可作名词指某些香草。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "咸味的；香辣的；美味的",
+          "english": "Pleasantly salty or spicy, not sweet."
+        },
+        "examples": [
+          {
+            "sentence": "She prefers savory snacks over sweet ones.",
+            "translation": "她喜欢咸味小吃胜过甜的。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["salty", "umami", "spicy"],
+    "usage_notes": "美式和英式中拼写略有不同（英式也可拼作 savoury）。",
+    "origin": "来自拉丁语 sapor，意为‘味道’。"
+  },
+  {
+    "word": "maple",
+    "pronunciation": {
+      "british": "/ˈmeɪ.pəl/ 🇬🇧",
+      "american": "/ˈmeɪ.pəl/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于植物类话题，也与加拿大文化密切相关。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "枫树；枫木",
+          "english": "A type of tree known for its leaves and sweet sap."
+        },
+        "examples": [
+          {
+            "sentence": "The maple leaf is a symbol of Canada.",
+            "translation": "枫叶是加拿大的象征。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["tree", "leaf", "sap"],
+    "usage_notes": "和 maple syrup（枫糖浆）关系紧密。",
+    "origin": "源自古英语 mapul，指枫树。"
+  },
+  {
+    "word": "sap",
+    "pronunciation": {
+      "british": "/sæp/ 🇬🇧",
+      "american": "/sæp/ 🇺🇸"
+    },
+    "part_of_speech": "noun / verb",
+    "usage": "作名词指植物液；作动词表示‘削弱’。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "树液",
+          "english": "The fluid that circulates in the vascular system of a plant."
+        },
+        "examples": [
+          {
+            "sentence": "Maple sap is collected to make syrup.",
+            "translation": "枫树液被收集用来制作糖浆。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "削弱；耗尽",
+          "english": "To gradually weaken or destroy (someone or something)."
+        },
+        "examples": [
+          {
+            "sentence": "The stress slowly sapped her energy.",
+            "translation": "压力慢慢耗尽了她的精力。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["juice", "drain", "weaken"],
+    "usage_notes": "口语中也有“傻瓜”的用法（如 “Don’t be such a sap”）。",
+    "origin": "源自拉丁语 sapere，意为‘流动的液体’。"
+  },
+  {
+    "word": "curd",
+    "pronunciation": {
+      "british": "/kɜːd/ 🇬🇧",
+      "american": "/kɝːd/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于乳制品、食品或烹饪领域。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "凝乳；乳酪块",
+          "english": "The thick substance that forms when milk sours or is treated with enzymes."
+        },
+        "examples": [
+          {
+            "sentence": "Cottage cheese is made from curds.",
+            "translation": "农家奶酪是由凝乳制成的。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["cheese", "whey", "yogurt"],
+    "usage_notes": "和乳制品生产密切相关，尤其在印度和欧洲饮食中常见。",
+    "origin": "可能源自中世纪英语 crud，意为‘凝结物’。"
+  },
+  {
+    "word": "gravy",
+    "pronunciation": {
+      "british": "/ˈɡreɪ.vi/ 🇬🇧",
+      "american": "/ˈɡreɪ.vi/ 🇺🇸"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于日常饮食语境中，也用于比喻表达“额外收益”。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "肉汁；调味汁",
+          "english": "A sauce made from meat juices, often thickened with flour or cornstarch."
+        },
+        "examples": [
+          {
+            "sentence": "He poured gravy over his mashed potatoes.",
+            "translation": "他在土豆泥上浇了肉汁。"
+          },
+          {
+            "sentence": "The roast beef was served with a rich brown gravy.",
+            "translation": "烤牛肉配有浓郁的褐色肉汁。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "额外利润；外快（非正式用法）",
+          "english": "Something, especially money, that is obtained in addition to what is expected."
+        },
+        "examples": [
+          {
+            "sentence": "The bonus was pure gravy — I wasn’t expecting it at all.",
+            "translation": "这笔奖金完全是额外的惊喜 —— 我根本没想到会有。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["sauce", "jus", "bonus", "windfall"],
+    "usage_notes": "口语中，“it's all gravy”可以表示“一切顺利”“没问题”。",
+    "origin": "源自古法语 'grané'（调味汁），英语中自14世纪开始使用。"
   }
 ]
 
