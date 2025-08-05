@@ -22363,7 +22363,90 @@ const wordData = [
     "related_words": ["sauce", "jus", "bonus", "windfall"],
     "usage_notes": "口语中，“it's all gravy”可以表示“一切顺利”“没问题”。",
     "origin": "源自古法语 'grané'（调味汁），英语中自14世纪开始使用。"
+  },
+  {
+    "word": "stake",
+    "pronunciation": {
+      "british": "/steɪk/ 🇬🇧",
+      "american": "/steɪk/ 🇺🇸"
+    },
+    "part_of_speech": [
+      "noun",
+      "verb"
+    ],
+    "usage": "常用于商业、投资、赌博、生死攸关的情境，以及搭帐篷或围栏等具体动作。",
+    "meanings": [
+      {
+        "part_of_speech": "noun",
+        "definition": {
+          "chinese": "股份；投资",
+          "english": "A share or interest in a business, situation, or enterprise."
+        },
+        "examples": [
+          {
+            "sentence": "He bought a 25% stake in the company.",
+            "translation": "他购买了公司25%的股份。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition": {
+          "chinese": "赌注；赌金",
+          "english": "Money or something valuable that is risked on the outcome of a contest or uncertain event."
+        },
+        "examples": [
+          {
+            "sentence": "They raised the stakes by betting $500 on the game.",
+            "translation": "他们把赌注提高到500美元。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "noun",
+        "definition": {
+          "chinese": "桩；木桩",
+          "english": "A strong wooden or metal post that is driven into the ground."
+        },
+        "examples": [
+          {
+            "sentence": "The tent was secured with stakes.",
+            "translation": "帐篷用桩子固定住了。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb",
+        "definition": {
+          "chinese": "用桩支撑；立桩标记",
+          "english": "To support or mark something by driving stakes into the ground."
+        },
+        "examples": [
+          {
+            "sentence": "The young tree was staked to help it grow straight.",
+            "translation": "这棵幼树被立桩支撑，以帮助它直立生长。"
+          }
+        ]
+      },
+      {
+        "part_of_speech": "verb (短语：stake a claim)",
+        "definition": {
+          "chinese": "声明对某事物的所有权或权益",
+          "english": "To assert one's right to something."
+        },
+        "examples": [
+          {
+            "sentence": "She staked her claim to the leadership position.",
+            "translation": "她宣称自己有资格担任领导职位。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["investment", "share", "bet", "post", "claim"],
+    "usage_notes": "表达“high stakes”指风险或利益都很高；“stake one's life on”表示非常有信心。",
+    "origin": "来自古英语 *staca*（意为“棍、桩”），后发展出“赌注”“权益”的引申义。"
   }
+
 ]
 
 
