@@ -22445,6 +22445,289 @@ const wordData = [
     "related_words": ["investment", "share", "bet", "post", "claim"],
     "usage_notes": "表达“high stakes”指风险或利益都很高；“stake one's life on”表示非常有信心。",
     "origin": "来自古英语 *staca*（意为“棍、桩”），后发展出“赌注”“权益”的引申义。"
+  },
+  {
+    "phrase": "wild hunch",
+    "pronunciation": {
+      "british": "/waɪld hʌntʃ/ 🇬🇧",
+      "american": "/waɪld hʌntʃ/ 🇺🇸"
+    },
+    "phrase_type": "非正式短语（idiom）",
+    "usage": "用于表达一种没有确凿证据、但凭直觉或突然感觉而来的想法或猜测。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "直觉性的猜测；没有依据的预感",
+          "english": "A guess or feeling that something is true or will happen, without logical reasoning or evidence."
+        },
+        "examples": [
+          {
+            "sentence": "I had a wild hunch he was lying.",
+            "translation": "我凭直觉觉得他在撒谎。"
+          },
+          {
+            "sentence": "It was just a wild hunch, but I decided to check the back door.",
+            "translation": "那只是一个直觉，但我还是决定去查一下后门。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "gut feeling",
+        "definition": "An instinctive feeling not based on logical reasoning."
+      },
+      {
+        "word": "intuition",
+        "definition": "The ability to understand something immediately, without the need for conscious reasoning."
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "“wild” 表示缺乏依据或大胆不确定，因此通常不用于正式语境。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "hunch 原意为弯背，引申为突然涌上的想法或预感，wild 用来修饰其主观性和不确定性。",
+      "explanation_english": "‘Hunch’ originally referred to a bent posture, but figuratively came to mean a sudden idea or feeling; ‘wild’ intensifies its uncertainty."
+    },
+    "variation_between_british_american": {
+      "british": "常见表达",
+      "american": "常见表达，用法一致"
+    }
+  },
+  {
+    "phrase": "a plastic sleeve",
+    "pronunciation": {
+      "british": "/ə ˈplæstɪk sliːv/ 🇬🇧",
+      "american": "/ə ˈplæstɪk sliːv/ 🇺🇸"
+    },
+    "phrase_type": "名词短语",
+    "usage": "在办公、收藏、包装或文具语境中经常使用。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "塑料保护套；塑料文件袋",
+          "english": "A thin plastic cover used to protect documents, photos, cards, or items from damage or dirt."
+        },
+        "examples": [
+          {
+            "sentence": "Please put the contract in a plastic sleeve to keep it clean.",
+            "translation": "请把合同放进塑料保护套里以保持干净。"
+          },
+          {
+            "sentence": "He stored the collector cards in plastic sleeves.",
+            "translation": "他把收藏卡片存放在塑料套里。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      "sheet protector",
+      "document holder",
+      "clear pocket"
+    ],
+    "notes": [
+      {
+        "point": "具体形式",
+        "explanation": "常指透明的、开口的一侧或顶端，用于三孔夹或单独存放。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "sleeve 本意为“袖子”，在这里引申为“包覆、保护外壳”。",
+      "explanation_english": "‘Sleeve’ originally means the part of a garment that covers the arm; in this case, it refers to a cover or protector."
+    },
+    "variation_between_british_american": {
+      "british": "也称为 plastic wallet（更常见于英式）",
+      "american": "更常称为 plastic sleeve 或 sheet protector"
+    }
+  },
+  {
+    "word": "disrupt",
+    "pronunciation": {
+      "british": "/dɪsˈrʌpt/ 🇬🇧",
+      "american": "/dɪsˈrʌpt/ 🇺🇸"
+    },
+    "part_of_speech": "verb",
+    "usage": "常用于商业、技术、日常生活中，表示打断、干扰或颠覆某种正常状态。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "打断；扰乱；使中断；使瓦解",
+          "english": "To interrupt or cause disorder in something that was previously working or proceeding smoothly."
+        },
+        "examples": [
+          {
+            "sentence": "The storm disrupted the flight schedule.",
+            "translation": "暴风雨打乱了航班安排。"
+          },
+          {
+            "sentence": "Tech startups are disrupting traditional industries.",
+            "translation": "科技初创公司正在颠覆传统行业。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["interrupt", "disturb", "interfere with", "derail", "shake up"],
+    "usage_notes": "在商业语境中，'disrupt' 常用于描述“颠覆式创新”，如 'disruptive technology'。",
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *disrumpere*，意思是“打破、分裂”。",
+      "explanation_english": "From Latin *disrumpere* meaning 'to break apart'."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致",
+      "american": "用法一致"
+    }
+  },
+  {
+    "word": "sufficient",
+    "pronunciation": {
+      "british": "/səˈfɪʃənt/ 🇬🇧",
+      "american": "/səˈfɪʃənt/ 🇺🇸"
+    },
+    "part_of_speech": "adjective",
+    "usage": "用于表达数量、程度、资源等方面的“足够”。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "足够的；充足的",
+          "english": "Enough to meet the needs of a situation or a proposed end."
+        },
+        "examples": [
+          {
+            "sentence": "There was sufficient food for everyone.",
+            "translation": "每个人都有足够的食物。"
+          },
+          {
+            "sentence": "His explanation was not sufficient to satisfy the committee.",
+            "translation": "他的解释不足以令委员会满意。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["adequate", "ample", "plenty of"],
+    "usage_notes": "'Sufficient' 较为正式，口语中更常用 'enough'。",
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *sufficere*，意为“使满足”。",
+      "explanation_english": "From Latin *sufficere*, meaning 'to meet the need'."
+    },
+    "variation_between_british_american": {
+      "british": "通用",
+      "american": "通用"
+    }
+  },
+  {
+    "word": "starchy",
+    "pronunciation": {
+      "british": "/ˈstɑː.tʃi/ 🇬🇧",
+      "american": "/ˈstɑːr.tʃi/ 🇺🇸"
+    },
+    "part_of_speech": "adjective",
+    "usage": "用于描述食物中含淀粉的特性，也可引申形容人拘谨。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "含淀粉的；（人）拘谨的",
+          "english": "Containing starch (literal); or stiff and formal in behavior (figurative)."
+        },
+        "examples": [
+          {
+            "sentence": "Rice and potatoes are starchy foods.",
+            "translation": "米饭和土豆是含淀粉的食物。"
+          },
+          {
+            "sentence": "He was too starchy to relax at the party.",
+            "translation": "他在聚会上太拘谨了，没能放松下来。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["carbohydrate-rich", "rigid", "formal"],
+    "usage_notes": "'starchy' 用作比喻含义时，带有贬义。",
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 'starch'（淀粉）；比喻用法来自淀粉使衣物变硬 → 人很僵硬。",
+      "explanation_english": "Derived from 'starch'; stiff clothing → stiff personality."
+    },
+    "variation_between_british_american": {
+      "british": "通用",
+      "american": "通用"
+    }
+  },
+  {
+    "word": "staple",
+    "pronunciation": {
+      "british": "/ˈsteɪ.pəl/ 🇬🇧",
+      "american": "/ˈsteɪ.pəl/ 🇺🇸"
+    },
+    "part_of_speech": "noun / adjective / verb",
+    "usage": "作名词时指“主食”；作形容词时指“基本的”；作动词时是“钉住”。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "主食；主要产品；订书钉；基本的；钉住",
+          "english": "A basic food or product; a main part of something; a metal fastener; to fasten with a staple."
+        },
+        "examples": [
+          {
+            "sentence": "Rice is a staple food in many Asian countries.",
+            "translation": "大米是许多亚洲国家的主食。"
+          },
+          {
+            "sentence": "Please staple these papers together.",
+            "translation": "请把这些文件钉在一起。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["essential", "primary", "basic", "clip", "fasten"],
+    "usage_notes": "'staple' 的词性多样，根据上下文判断非常关键。",
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中世纪英语，意为“市场”或“主要商品”，后引申出主食、基本要素等含义。",
+      "explanation_english": "From Middle English 'staple' (market, principal product)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致",
+      "american": "用法一致"
+    }
+  },
+  {
+    "word": "legume",
+    "pronunciation": {
+      "british": "/ˈleɡ.juːm/ 🇬🇧",
+      "american": "/ˈleɡ.juːm/ 🇺🇸",
+      "alternative_us": "/ləˈɡjuːm/"
+    },
+    "part_of_speech": "noun",
+    "usage": "常用于食品营养、农业、生物学等领域。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "豆类植物（如豌豆、扁豆）",
+          "english": "A plant of the pea family, which bears pods containing seeds such as beans, lentils, and peas."
+        },
+        "examples": [
+          {
+            "sentence": "Legumes are an important source of plant-based protein.",
+            "translation": "豆类是植物性蛋白的重要来源。"
+          },
+          {
+            "sentence": "She cooked a stew made of various legumes.",
+            "translation": "她煮了一锅由各种豆类做成的炖菜。"
+          }
+        ]
+      }
+    ],
+    "related_words": ["bean", "lentil", "pulse", "chickpea"],
+    "usage_notes": "营养学中常提及，特别是在素食或高纤饮食中。",
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *legumen*，意为“豆荚”。",
+      "explanation_english": "From Latin *legumen*, meaning ‘bean or pulse’."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致",
+      "american": "用法一致，发音可略有不同"
+    }
   }
 
 ]
