@@ -23906,6 +23906,79 @@ const wordData = [
       "american": "在美式英语中既可指真实的熄灯时间，也常见作体育或通俗语境下的夸张说法。"
     }
   },
+  {
+    "phrase": "aquarium",
+    "pronunciation": {
+      "british": "/əˈkwɛə.ri.əm/ 🇬🇧",
+      "american": "/əˈkwer.i.əm/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "常用 👍：指用来养鱼或展示水生生物的玻璃容器，也指公众参观的水族馆。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "水族箱，鱼缸（家庭或商业用的玻璃容器）",
+          "english": "A transparent tank of water in which fish and other aquatic animals and plants are kept."
+        },
+        "examples": [
+          {
+            "sentence": "She bought a small aquarium for her living room.",
+            "translation": "她买了一个小鱼缸放在客厅里。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "水族馆，公众参观的海洋馆",
+          "english": "A building or facility where aquatic animals and plants are displayed to the public."
+        },
+        "examples": [
+          {
+            "sentence": "We visited the city aquarium and saw dolphins and sharks.",
+            "translation": "我们参观了市里的水族馆，看到了海豚和鲨鱼。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "public aquarium",
+      "home aquarium",
+      "aquarium fish",
+      "aquarium tank"
+    ],
+    "related_words": [
+      {
+        "word": "terrarium",
+        "type": "noun",
+        "definition": {
+          "chinese": "陆地生态箱，养植物或陆生动物的玻璃箱",
+          "english": "A transparent container for keeping plants or small land animals."
+        }
+      },
+      {
+        "word": "fish tank",
+        "type": "noun",
+        "definition": {
+          "chinese": "鱼缸（口语）",
+          "english": "A tank for keeping fish, synonymous with aquarium."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法区别",
+        "explanation": "‘aquarium’ 可指家庭用鱼缸，也常指公众开放的水族馆，需根据语境区分。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源自拉丁语 'aqua'（水）+ 后缀 '-arium'（场所），既指养鱼的容器，也引申为展示场所。",
+      "explanation_english": "From Latin 'aqua' (water) + '-arium' (place), originally meaning a place for water creatures; extended to mean both tanks and public displays."
+    },
+    "variation_between_british_american": {
+      "british": "发音 /əˈkwɛə.ri.əm/，使用和美式类似。",
+      "american": "发音 /əˈkwer.i.əm/，用法广泛，既指鱼缸也指水族馆。"
+    }
+  },
 ]
 
 
