@@ -22728,8 +22728,1184 @@ const wordData = [
       "british": "用法一致",
       "american": "用法一致，发音可略有不同"
     }
-  }
-
+  },
+  {
+    "phrase": "decay",
+    "pronunciation": {
+      "british": "/dɪˈkeɪ/ 🇬🇧",
+      "american": "/dɪˈkeɪ/ 🇺🇸"
+    },
+    "phrase_type": "动词 / 名词",
+    "usage": "常用 👍：表示“腐烂、衰退、衰败”，既可用于物质腐烂，也可用于比喻精神或制度衰落。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "腐烂，分解",
+          "english": "To rot or decompose through the action of bacteria and fungi."
+        },
+        "examples": [
+          {
+            "sentence": "The fruit began to decay after a few days in the heat.",
+            "translation": "水果在高温下放了几天就开始腐烂了。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "衰败，衰退",
+          "english": "To decline in quality, power, or vitality."
+        },
+        "examples": [
+          {
+            "sentence": "Moral values seem to be decaying in modern society.",
+            "translation": "现代社会的道德观似乎在衰退。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "tooth decay",
+      "moral decay",
+      "decay over time",
+      "urban decay"
+    ],
+    "related_words": [
+      {
+        "word": "rot",
+        "type": "verb",
+        "definition": {
+          "chinese": "腐烂",
+          "english": "To decompose or break down."
+        }
+      },
+      {
+        "word": "deteriorate",
+        "type": "verb",
+        "definition": {
+          "chinese": "恶化，退化",
+          "english": "To become progressively worse."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "物理 vs 比喻",
+        "explanation": "‘decay’ 既可表示物理腐烂，也可比喻抽象事物的衰退。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原义为“分解、腐烂”，后来延伸到比喻意义，用于道德、社会、建筑等衰败。",
+      "explanation_english": "Originally referred to physical decomposition; later extended to abstract decline."
+    },
+    "variation_between_british_american": {
+      "british": "常说 ‘tooth decay’ 描述蛀牙。",
+      "american": "用法一致，但在口语中更常用 ‘rot’ 描述腐烂。"
+    }
+  },
+  {
+    "phrase": "vocational",
+    "pronunciation": {
+      "british": "/vəʊˈkeɪʃənəl/ 🇬🇧",
+      "american": "/voʊˈkeɪʃənəl/ 🇺🇸"
+    },
+    "phrase_type": "形容词",
+    "usage": "常用 👍：表示“职业的，专业培训的”，特别用于培训、教育和技能类领域。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "职业的，与职业相关的",
+          "english": "Relating to an occupation or employment."
+        },
+        "examples": [
+          {
+            "sentence": "She enrolled in a vocational course in plumbing.",
+            "translation": "她报名参加了管道工职业课程。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "vocational training",
+      "vocational school",
+      "vocational skills"
+    ],
+    "related_words": [
+      {
+        "word": "occupational",
+        "type": "adjective",
+        "definition": {
+          "chinese": "职业的",
+          "english": "Relating to a job or profession."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "与 academic 对比",
+        "explanation": "‘vocational’ 更偏向实用技能培训，而不是学术研究。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于拉丁语 ‘vocatio’（召唤），后来引申为职业道路上的“使命感”和“职业培训”。",
+      "explanation_english": "From Latin ‘vocatio’ meaning ‘calling’, later applied to professional and skill-based training."
+    },
+    "variation_between_british_american": {
+      "british": "常见于教育领域，如 ‘vocational college’。",
+      "american": "更常用 ‘trade school’ 表达类似意思。"
+    }
+  },
+  {
+    "phrase": "solicitor",
+    "pronunciation": {
+      "british": "/səˈlɪsɪtə/ 🇬🇧",
+      "american": "/səˈlɪsɪtər/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "英式法律术语 👍：指‘事务律师’，主要负责法律咨询、文件和非诉讼业务。在美式英语中更多指推销员或上门推销的人。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "事务律师（英国）",
+          "english": "A lawyer who prepares legal documents and may represent clients in lower courts."
+        },
+        "examples": [
+          {
+            "sentence": "You should consult a solicitor before signing the contract.",
+            "translation": "在签合同前你应该咨询事务律师。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "推销员（美国）",
+          "english": "A person who tries to obtain business orders or donations."
+        },
+        "examples": [
+          {
+            "sentence": "No solicitors allowed beyond this point.",
+            "translation": "此处禁止推销员进入。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "criminal solicitor",
+      "family solicitor",
+      "solicitor firm"
+    ],
+    "related_words": [
+      {
+        "word": "barrister",
+        "type": "noun",
+        "definition": {
+          "chinese": "出庭律师（英国）",
+          "english": "A lawyer entitled to represent clients in higher courts."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "法律体系差异",
+        "explanation": "在英国法律体系中，‘solicitor’ 与 ‘barrister’ 职责不同；在美国语境中意义完全不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原义是‘恳求、请求的人’，在英国法律中演变为‘事务律师’，在美式用法中保持推销或请求的含义。",
+      "explanation_english": "Originally meant ‘one who petitions’, evolving into the UK sense of ‘lawyer’ and the US sense of ‘salesperson’."
+    },
+    "variation_between_british_american": {
+      "british": "法律职业称谓，常与‘barrister’区分。",
+      "american": "几乎不用作律师，而是指上门推销员。"
+    }
+  },
+  {
+    "phrase": "barrister",
+    "pronunciation": {
+      "british": "/ˈbærɪstə/ 🇬🇧",
+      "american": "/ˈbærɪstər/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "主要用于英国等英联邦国家 👍：出庭律师，专门在高级法院为客户辩护。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "出庭律师（英国）",
+          "english": "A lawyer who is qualified to represent clients in higher courts."
+        },
+        "examples": [
+          {
+            "sentence": "She decided to become a barrister after completing law school.",
+            "translation": "她在法学院毕业后决定成为一名出庭律师。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "criminal barrister",
+      "barrister chambers",
+      "senior barrister"
+    ],
+    "related_words": [
+      {
+        "word": "solicitor",
+        "type": "noun",
+        "definition": {
+          "chinese": "事务律师（英国）",
+          "english": "A lawyer who provides legal advice and prepares documents but usually does not represent clients in higher courts."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "法律体系限制",
+        "explanation": "在英国，barrister 和 solicitor 职责分工明显；barrister 专注于出庭辩护。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "无多义，源于中世纪拉丁语 ‘bar’（法庭围栏）+ 后缀 -ister，意为“站在法庭栏内的人”。",
+      "explanation_english": "From Medieval Latin ‘bar’ (court barrier) + ‘-ister’, meaning someone who stands before the bar in court."
+    },
+    "variation_between_british_american": {
+      "british": "常用此词区分不同类型律师。",
+      "american": "美国几乎不用该词，统一称为 ‘lawyer’ 或 ‘attorney’。"
+    }
+  },
+  {
+    "phrase": "facilitate",
+    "pronunciation": {
+      "british": "/fəˈsɪlɪteɪt/ 🇬🇧",
+      "american": "/fəˈsɪlɪteɪt/ 🇺🇸"
+    },
+    "phrase_type": "动词",
+    "usage": "常用 👍：表示“促进，使更容易”，多用于正式或商业语境。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "促进，使…更容易",
+          "english": "To make a process or action easier or more likely to happen."
+        },
+        "examples": [
+          {
+            "sentence": "The new software will facilitate data analysis.",
+            "translation": "新软件将使数据分析更容易。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "facilitate communication",
+      "facilitate learning",
+      "facilitate growth"
+    ],
+    "related_words": [
+      {
+        "word": "ease",
+        "type": "verb",
+        "definition": {
+          "chinese": "减轻，使容易",
+          "english": "To make something less difficult."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气正式",
+        "explanation": "‘facilitate’ 常用于正式场合，口语中多用 ‘help’ 或 ‘make it easier’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘facilis’（容易的），后演变为“使容易”。",
+      "explanation_english": "From Latin ‘facilis’ meaning ‘easy’, leading to the modern sense of making something easier."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致，但美式商务场合使用更频繁。"
+    }
+  },
+  {
+    "phrase": "burglar",
+    "pronunciation": {
+      "british": "/ˈbɜːɡlə/ 🇬🇧",
+      "american": "/ˈbɜːrɡlər/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "常用 👍：指非法闯入建筑物并盗窃的人。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "入室窃贼",
+          "english": "A person who illegally enters a building to steal."
+        },
+        "examples": [
+          {
+            "sentence": "The police caught the burglar in the act.",
+            "translation": "警方当场抓住了那名入室窃贼。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "burglar alarm",
+      "catch a burglar",
+      "burglar-proof"
+    ],
+    "related_words": [
+      {
+        "word": "thief",
+        "type": "noun",
+        "definition": {
+          "chinese": "小偷",
+          "english": "A person who steals."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "与 thief 区别",
+        "explanation": "‘burglar’ 特指闯入建筑物盗窃的人，而 thief 范围更广。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古法语 ‘bourgleor’（闯入者），专指入室行窃的人。",
+      "explanation_english": "From Old French ‘bourgleor’, meaning ‘one who breaks into a building’."
+    },
+    "variation_between_british_american": {
+      "british": "常用 burglar alarm 描述防盗警报。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "phrase": "shoplifter",
+    "pronunciation": {
+      "british": "/ˈʃɒpˌlɪftə/ 🇬🇧",
+      "american": "/ˈʃɑːpˌlɪftər/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "常用 👍：指在商店里偷窃商品的人。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "商店窃贼",
+          "english": "A person who steals goods from a shop while pretending to be a customer."
+        },
+        "examples": [
+          {
+            "sentence": "The store installed cameras to catch shoplifters.",
+            "translation": "商店安装了摄像头以抓捕窃贼。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "catch a shoplifter",
+      "shoplifting incident",
+      "shoplifting charges"
+    ],
+    "related_words": [
+      {
+        "word": "burglar",
+        "type": "noun",
+        "definition": {
+          "chinese": "入室窃贼",
+          "english": "Someone who breaks into buildings to steal."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "与 burglar 区别",
+        "explanation": "‘shoplifter’ 在商店作案，不涉及闯入建筑物。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 shop（商店）+ lift（拿走）组合，意为“从商店拿走东西的人”。",
+      "explanation_english": "From ‘shop’ + ‘lift’ (to take), meaning someone who takes goods from a store."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "phrase": "coward",
+    "pronunciation": {
+      "british": "/ˈkaʊəd/ 🇬🇧",
+      "american": "/ˈkaʊərd/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "常用 👍：指害怕危险或困难而缺乏勇气的人，带有贬义。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "懦夫，胆小鬼",
+          "english": "A person who lacks the courage to face danger or difficulty."
+        },
+        "examples": [
+          {
+            "sentence": "He was branded a coward for refusing to fight.",
+            "translation": "他因拒绝战斗而被称为懦夫。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "call someone a coward",
+      "act like a coward",
+      "cowardly behavior"
+    ],
+    "related_words": [
+      {
+        "word": "timid",
+        "type": "adjective",
+        "definition": {
+          "chinese": "胆小的",
+          "english": "Lacking in self-confidence or courage."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "贬义",
+        "explanation": "‘coward’ 是强烈的贬义词，口语中可能伤人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古法语 ‘coard’（胆小的），源于拉丁语 ‘cauda’（尾巴），形容受惊缩尾的动物。",
+      "explanation_english": "From Old French ‘coard’, from Latin ‘cauda’ (tail), likening fear to tucking one’s tail."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "phrase": "atheist",
+    "pronunciation": {
+      "british": "/ˈeɪ.θi.ɪst/ 🇬🇧",
+      "american": "/ˈeɪ.θi.ɪst/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "常用 👍：指不信神的人，既可用于正式讨论也可用于日常描述。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "不信有上帝或神的人",
+          "english": "A person who does not believe in the existence of God or gods."
+        },
+        "examples": [
+          {
+            "sentence": "As an atheist, she prefers scientific explanations for natural events.",
+            "translation": "作为无神论者，她更倾向用科学来解释自然现象。"
+          },
+          {
+            "sentence": "The debate included an atheist and a theist discussing ethics.",
+            "translation": "辩论中有一位无神论者和一位有神论者讨论伦理问题。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "avowed atheist",
+      "militant atheist",
+      "openly atheist",
+      "atheist beliefs"
+    ],
+    "related_words": [
+      {
+        "word": "agnostic",
+        "type": "noun/adjective",
+        "definition": {
+          "chinese": "不可知论者（对神是否存在持不可确定态度）",
+          "english": "Someone who believes that nothing is known or can be known of the existence or nature of God."
+        }
+      },
+      {
+        "word": "theist",
+        "type": "noun",
+        "definition": {
+          "chinese": "有神论者",
+          "english": "A person who believes in the existence of a god or gods."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "atheist vs agnostic",
+        "explanation": "两者常被混用，但不同：atheist 否认神的存在，agnostic 认为无法知道或未确定。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "无多义（主要一个核心含义：不信神）。",
+      "explanation_english": "No significant multiple meanings; it primarily denotes someone who does not believe in gods."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致，语义相同。",
+      "american": "用法与英式一致。"
+    }
+  },
+  {
+    "phrase": "pessimist",
+    "pronunciation": {
+      "british": "/ˈpes.ɪ.mɪst/ 🇬🇧",
+      "american": "/ˈpes.ə.mɪst/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "常用 👍：指倾向于看到或预期最坏结果的人，日常和社科讨论中常见。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "悲观主义者，悲观的人",
+          "english": "A person who tends to see the worst aspect of things or believes the worst will happen."
+        },
+        "examples": [
+          {
+            "sentence": "He's such a pessimist — he always expects plans to fail.",
+            "translation": "他真是个悲观主义者——总是期待计划会失败。"
+          },
+          {
+            "sentence": "A pessimist might prepare for problems more thoroughly.",
+            "translation": "悲观者可能会更充分地为问题做准备。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "chronic pessimist",
+      "open pessimist",
+      "pessimist at heart",
+      "born pessimist"
+    ],
+    "related_words": [
+      {
+        "word": "optimist",
+        "type": "noun",
+        "definition": {
+          "chinese": "乐观主义者",
+          "english": "A person who tends to be hopeful and confident about the future."
+        }
+      },
+      {
+        "word": "cynic",
+        "type": "noun",
+        "definition": {
+          "chinese": "愤世嫉俗者（常怀疑他人动机）",
+          "english": "Someone who believes that people are motivated purely by self-interest."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "形容词形式",
+        "explanation": "pessimist 的形容词是 'pessimistic'（悲观的）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "无多义，词义历史稳定，来自拉丁词根表示“最坏”（pessimus）。",
+      "explanation_english": "No multiple meanings; historically stable, from Latin root relating to 'worst' (pessimus)."
+    },
+    "variation_between_british_american": {
+      "british": "含义和用法与美式一致；语音细微差异如重音节可能略不同。",
+      "american": "含义与英式一致。"
+    }
+  },
+  {
+    "phrase": "hazard",
+    "pronunciation": {
+      "british": "/ˈhæz.əd/ 🇬🇧",
+      "american": "/ˈhæz.ɚd/ 🇺🇸"
+    },
+    "phrase_type": "名词 / 动词",
+    "usage": "常用 👍：名词表示危险、隐患；动词表示冒险猜测或冒险做某事（较书面或正式）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "危险，隐患（名词）",
+          "english": "A source of danger or risk."
+        },
+        "examples": [
+          {
+            "sentence": "Wet floors are a serious hazard in the workplace.",
+            "translation": "地面湿滑在工作场所是个严重的安全隐患。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "冒着风险去做（动词）",
+          "english": "To venture to say or do something that involves risk."
+        },
+        "examples": [
+          {
+            "sentence": "I wouldn't hazard a guess without the data.",
+            "translation": "没有数据我不敢贸然猜测。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "health hazard",
+      "fire hazard",
+      "hazardous materials",
+      "to hazard a guess"
+    ],
+    "related_words": [
+      {
+        "word": "risk",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "风险",
+          "english": "The possibility of loss or injury."
+        }
+      },
+      {
+        "word": "danger",
+        "type": "noun",
+        "definition": {
+          "chinese": "危险",
+          "english": "The possibility of suffering harm or injury."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "hazardous",
+        "explanation": "形容词 'hazardous' 常用于官方标识（例如：hazardous materials）。"
+      },
+      {
+        "point": "动词用法",
+        "explanation": "作为动词时通常用于短语 'hazard a guess'，带有‘冒险猜测’的意味，语气偏正式。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源自法语 'hasard'（掷骰子的机会），原来与机会或赌博有关，后来引申为 '风险/危险'。",
+      "explanation_english": "From Old French 'hasard' (a dice game), originally linked to chance/gambling and later extended to mean risk or danger."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式大体相同；在职业安全文本中经常出现。",
+      "american": "用法一致，美国更常在安全标签与法规中见到（hazardous materials 等）。"
+    }
+  },
+  {
+    "phrase": "weld",
+    "pronunciation": {
+      "british": "/weld/ 🇬🇧",
+      "american": "/weld/ 🇺🇸"
+    },
+    "phrase_type": "动词 / 名词",
+    "usage": "常用 👍：指用加热（有时加压）将金属或热塑性材料连接在一起；名词指焊缝或焊接处。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "焊接（动词）：用热（或热+压）将材料连接在一起",
+          "english": "To join pieces of metal (or thermoplastics) by heating them to the point of fusion."
+        },
+        "examples": [
+          {
+            "sentence": "They welded the steel frame to make it stronger.",
+            "translation": "他们把钢架焊在一起以增强强度。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "焊缝；焊接处（名词）",
+          "english": "The joint or seam produced by welding."
+        },
+        "examples": [
+          {
+            "sentence": "The weld looked clean and secure.",
+            "translation": "焊缝看起来干净且牢固。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "arc welding",
+      "weld seam",
+      "welding torch",
+      "weld metal"
+    ],
+    "related_words": [
+      {
+        "word": "solder",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "焊锡（焊接的一种，通常温度较低并使用填充材料）",
+          "english": "To join metal parts using a filler metal with a lower melting point than the workpieces."
+        }
+      },
+      {
+        "word": "brazing",
+        "type": "noun",
+        "definition": {
+          "chinese": "钎焊（高于钎焊温度、低于熔点的连接方式）",
+          "english": "A metal-joining process that uses a filler metal above 450°C but below the melting point of the base metals."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "与 solder/brazing 的区别",
+        "explanation": "焊接 (welding) 通常使母材部分熔化并结合；solder 和 brazing 多依靠填充材料，工作温度和原理有所不同。"
+      },
+      {
+        "point": "安全",
+        "explanation": "焊接工作需注意防护（防火、通风和眼面防护）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "动词与名词含义来自同一过程（动作 vs 产物），并非独立衍生的多义。",
+      "explanation_english": "The verb (to join by heat) and the noun (the joint produced) stem from the same activity — action versus result rather than distinct meanings."
+    },
+    "variation_between_british_american": {
+      "british": "术语与美式一致，技术语境中两者通用。",
+      "american": "用法一致；常见于工程与制造领域。"
+    }
+  },
+  {
+    "phrase": "sole",
+    "pronunciation": {
+      "british": "/səʊl/ 🇬🇧",
+      "american": "/soʊl/ 🇺🇸"
+    },
+    "phrase_type": "形容词 / 名词",
+    "usage": "常用 👍：有多义，需根据语境判断（'唯一的'、'鞋/脚底'、'一种鱼' 等）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "唯一的，单独的（形容词）",
+          "english": "Being the only one; single; exclusive."
+        },
+        "examples": [
+          {
+            "sentence": "She was the sole survivor of the crash.",
+            "translation": "她是那次坠机的唯一幸存者。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "鞋底或脚底（名词）",
+          "english": "The underside of a shoe or the bottom of a foot."
+        },
+        "examples": [
+          {
+            "sentence": "The soles of my shoes are worn thin.",
+            "translation": "我的鞋底磨薄了。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "一种比目鱼类（名词）",
+          "english": "A type of flatfish commonly eaten as food (called 'sole')."
+        },
+        "examples": [
+          {
+            "sentence": "We ordered grilled sole at the restaurant.",
+            "translation": "我们在餐馆点了烤鲽鱼。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "sole responsibility",
+      "sole survivor",
+      "shoe sole",
+      "grilled sole"
+    ],
+    "related_words": [
+      {
+        "word": "only",
+        "type": "adjective",
+        "definition": {
+          "chinese": "仅有的，唯一的",
+          "english": "Being the single one or exclusive."
+        }
+      },
+      {
+        "word": "flatfish",
+        "type": "noun",
+        "definition": {
+          "chinese": "比目鱼类",
+          "english": "A group of fishes including sole, flounder, etc."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "同音词注意",
+        "explanation": "'sole'（唯一/鞋底/鱼）与 'soul'（灵魂）同音，写法与含义不同。"
+      },
+      {
+        "point": "语境判断",
+        "explanation": "遇到 'sole' 时要根据上下文判断是形容词还是名词，以及是哪种名词意义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "不同含义有不同来源：'sole'（唯一）来自拉丁语 'solus'；'sole'（鞋底/脚底）与海鱼的名称源自古法语词汇，因此同形异源，后在英语中并存。",
+      "explanation_english": "The senses come from different roots: 'sole' (only) from Latin 'solus', while 'sole' (foot/shoe and fish) trace to Old French origins — resulting in same spelling but distinct historical sources."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致；餐饮菜单中常见 'sole' 表示鲽鱼菜品。",
+      "american": "意义相同，但美式菜单上有时会用更具体的鱼名替代 'sole'。"
+    }
+  },
+  {
+    "phrase": "gadget",
+    "pronunciation": {
+      "british": "/ˈɡædʒ.ɪt/ 🇬🇧",
+      "american": "/ˈɡædʒ.ɪt/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "常用 👍（非正式/商业用语）：指小巧、实用或新奇的小装置或小工具，常用于科技或家居场景。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "小装置，小玩意（通常电子或机械）",
+          "english": "A small mechanical or electronic device with a practical use, often novel or clever."
+        },
+        "examples": [
+          {
+            "sentence": "The kitchen is full of gadgets I bought but rarely use.",
+            "translation": "厨房里堆满了我买但很少用的小玩意。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "kitchen gadget",
+      "tech gadget",
+      "gadget lover",
+      "new gadget"
+    ],
+    "related_words": [
+      {
+        "word": "device",
+        "type": "noun",
+        "definition": {
+          "chinese": "装置，设备（更正式）",
+          "english": "A thing made or adapted for a particular purpose, especially a mechanical or electronic contrivance."
+        }
+      },
+      {
+        "word": "gizmo",
+        "type": "noun",
+        "definition": {
+          "chinese": "小装置，小玩意（口语）",
+          "english": "An informal term for a gadget or small piece of equipment."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气与场景",
+        "explanation": "'gadget' 比 'device' 更口语/商业化，常在广告与日常谈话中使用。"
+      },
+      {
+        "point": "褒贬",
+        "explanation": "可带正面（方便、聪明）或负面（多余、花哨）含义，视语境而定。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源不完全确定，19 世纪出现，含义基本稳定为“小装置/小玩意”，未产生大量不同义项。",
+      "explanation_english": "Origin is unclear (19th century coinage), but meaning has remained fairly stable as 'a small clever device' without major separate senses."
+    },
+    "variation_between_british_american": {
+      "british": "英美用法一致，均广泛用于科技与生活场景。",
+      "american": "用法一致；在美式市场营销中非常常见。"
+    }
+  },
+  {
+    "phrase": "manual work",
+    "pronunciation": {
+      "british": "/ˈmæn.ju.əl wɜːk/ 🇬🇧",
+      "american": "/ˈmæn.ju.əl wɝːk/ 🇺🇸"
+    },
+    "phrase_type": "名词短语",
+    "usage": "常用 👍：指以体力或手工操作为主的工作（对比于脑力/办公室工作）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "体力劳动，手工劳动",
+          "english": "Work involving physical effort or the use of the hands rather than intellectual effort."
+        },
+        "examples": [
+          {
+            "sentence": "He prefers manual work to office jobs because he likes being active.",
+            "translation": "他更喜欢体力活而不是办公室工作，因为他喜欢活跃的工作方式。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "perform manual work",
+      "manual labour / manual labor",
+      "manual dexterity"
+    ],
+    "related_words": [
+      {
+        "word": "labour / labor",
+        "type": "noun",
+        "definition": {
+          "chinese": "劳动；体力劳动（英式：labour, 美式：labor）",
+          "english": "Work, especially physical work."
+        }
+      },
+      {
+        "word": "handiwork",
+        "type": "noun",
+        "definition": {
+          "chinese": "手工制作的工作或成果",
+          "english": "Work done by hand; craftsmanship."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写差异",
+        "explanation": "英国英语通常写 'labour'，美式写 'labor'；'manual work' 本身英美通用。"
+      },
+      {
+        "point": "manual 的其他含义",
+        "explanation": "'manual' 还可作名词表示 '手册'（instruction manual），这与 '手'（manus）相关联。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "'manual' 来自拉丁语 manus（手），一方面指“用手做”的工作，另一方面指“手册（手写/手用）”，因此衍生出两类相关含义。",
+      "explanation_english": "From Latin 'manus' (hand). The sense 'done by hand' leads to 'manual work', while the sense 'handbook' (a manual) also derives from the same root — related but distinct uses."
+    },
+    "variation_between_british_american": {
+      "british": "英式/美式均使用该短语；在英国语境中 'manual work' 常与 'skilled trades'（技术工种）联系更紧密。",
+      "american": "用法一致；美式英语中也常用 'manual labor'（体力劳动）。"
+    }
+  },
+  {
+    "phrase": "bald",
+    "pronunciation": {
+      "british": "/bɔːld/ 🇬🇧",
+      "american": "/bɑːld/ 🇺🇸"
+    },
+    "phrase_type": "形容词",
+    "usage": "常用 👍：主要指‘秃头’；也可作比喻表示‘直白、无遮掩’（bald statement）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "秃头的（没有头发的）",
+          "english": "Having little or no hair on the scalp."
+        },
+        "examples": [
+          {
+            "sentence": "He's been going bald since his twenties.",
+            "translation": "他从二十多岁起就开始秃头了。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "无遮掩的，直白的（比喻）",
+          "english": "Plain, blunt, or obvious with no attempt to soften the statement."
+        },
+        "examples": [
+          {
+            "sentence": "She made a bald statement about the company's failure.",
+            "translation": "她对公司的失败发表了直率的声明。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "go bald",
+      "bald spot",
+      "bald statement",
+      "bald-faced (lie)"
+    ],
+    "related_words": [
+      {
+        "word": "hairless",
+        "type": "adjective",
+        "definition": {
+          "chinese": "无毛的",
+          "english": "Without hair."
+        }
+      },
+      {
+        "word": "bare",
+        "type": "adjective",
+        "definition": {
+          "chinese": "裸露的，无遮掩的",
+          "english": "Exposed; not covered."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语义延伸",
+        "explanation": "从字面 '无毛' 引申为 '无遮掩/直白'（bald statement）。"
+      },
+      {
+        "point": "语气",
+        "explanation": "称人 'bald' 有时较粗鲁（直接评论外貌时需注意礼貌）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原始含义为‘无毛/秃’；后在语言使用中引申为‘无遮掩/直白’等比喻用法。",
+      "explanation_english": "Originally meant 'hairless' or 'bare'; metaphorically extended to mean 'plain' or 'blunt' (as in 'bald statement')."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致；发音有细微差异。",
+      "american": "用法一致；美国人也使用 'bald-faced' 等复合词。"
+    }
+  },
+  {
+    "phrase": "canteen",
+    "pronunciation": {
+      "british": "/kænˈtiːn/ 🇬🇧",
+      "american": "/kænˈtiːn/ 🇺🇸"
+    },
+    "phrase_type": "名词",
+    "usage": "常用 👍：有两类常见含义——（1）学校/工厂/军营等的食堂；（2）携带用水壶（尤指军用或露营用）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "（学校、工厂、军队的）食堂",
+          "english": "A place in an institution (school, factory, army) where food is served."
+        },
+        "examples": [
+          {
+            "sentence": "We had lunch in the company canteen.",
+            "translation": "我们在公司的食堂吃了午饭。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（士兵或露营者用的）水壶，水罐",
+          "english": "A small container used for carrying drinking water, typically by soldiers or campers."
+        },
+        "examples": [
+          {
+            "sentence": "He refilled his canteen at the spring.",
+            "translation": "他在泉水处给水壶灌满了水。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "school canteen",
+      "company canteen",
+      "canteen facilities",
+      "refill a canteen"
+    ],
+    "related_words": [
+      {
+        "word": "cafeteria",
+        "type": "noun",
+        "definition": {
+          "chinese": "自助餐厅（美式常用）",
+          "english": "A dining facility where customers serve themselves from a counter."
+        }
+      },
+      {
+        "word": "mess hall",
+        "type": "noun",
+        "definition": {
+          "chinese": "军队食堂",
+          "english": "A dining room for military personnel."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "地区用法差异",
+        "explanation": "英国英语常用 canteen 指工作/学校的食堂；美式英语中 'cafeteria' 更常用来指大型食堂，'canteen' 在美语里常更倾向指水壶这一含义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "'canteen' 源自法语 'cantine'（小食物店/餐室），后在英语中既用于食堂也用于可携带的饮水容器，两义在使用场景上区分开来。",
+      "explanation_english": "From French 'cantine' meaning a small shop or refreshment room; in English it came to denote both a dining place and a portable water container depending on context."
+    },
+    "variation_between_british_american": {
+      "british": "通常用来指学校/工厂/军队食堂。",
+      "american": "更常用 'canteen' 指水壶，食堂多用 'cafeteria'。"
+    }
+  },
+  {
+    "phrase": "lights out",
+    "pronunciation": {
+      "british": "/ˌlaɪts ˈaʊt/ 🇬🇧",
+      "american": "/ˌlaɪts ˈaʊt/ 🇺🇸"
+    },
+    "phrase_type": "短语 / 片语",
+    "usage": "常用 👍：有两类常见含义——（1）作为命令/时间点：熄灯（尤指军营、宿舍）；（2）口语比喻：表示极为出色或让对手无法反击（尤见于体育评论）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "（命令或约定的）熄灯时间，熄灯命令",
+          "english": "A time when lights are to be turned off, especially in military or institutional settings."
+        },
+        "examples": [
+          {
+            "sentence": "Lights out is at 22:00 in the barracks.",
+            "translation": "军营里的熄灯时间是晚上十点。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（体育等）表现极佳，使对手无力还手（口语）",
+          "english": "Informal: an outstanding performance, or to render an opponent helpless."
+        },
+        "examples": [
+          {
+            "sentence": "The striker was lights out last night, scoring three goals.",
+            "translation": "那名前锋昨晚状态神勇，打进了三球。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "lights-out performance",
+      "it's lights out at ...",
+      "enforce lights out"
+    ],
+    "related_words": [
+      {
+        "word": "curfew",
+        "type": "noun",
+        "definition": {
+          "chinese": "宵禁，限时令",
+          "english": "An order specifying a time when people must remain indoors."
+        }
+      },
+      {
+        "word": "bedtime",
+        "type": "noun",
+        "definition": {
+          "chinese": "就寝时间",
+          "english": "The usual time when someone goes to bed."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语域",
+        "explanation": "军事或宿舍语境中较正式；体育评论里为俗语用法，表示极好或压倒性表现。"
+      },
+      {
+        "point": "搭配",
+        "explanation": "作比喻时常见 'lights-out performance' 表示无懈可击的表现。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面来自军营/机构的 '熄灯' 命令；后被借用于体育等口语，表示 '把对手熄灭/压制' 的隐喻意义。",
+      "explanation_english": "Originally a literal command/time for turning lights off in barracks or institutions. The phrase was later used metaphorically (especially in sports) to describe a dominating or outstanding performance."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语多用于实际的 '熄灯' 场景；体育口语也能理解但更常见于美式体育报道。",
+      "american": "在美式英语中既可指真实的熄灯时间，也常见作体育或通俗语境下的夸张说法。"
+    }
+  },
 ]
 
 
