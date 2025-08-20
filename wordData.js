@@ -25764,6 +25764,1451 @@ const wordData = [
       "american": "常用于日常口语和医学描述，含义与英式一致。"
     }
   },
+  {
+    "phrase": "lot",
+    "pronunciation": {
+      "british": "/lɒt/ 🇬🇧",
+      "american": "/lɑːt/ 🇺🇸"
+    },
+    "phrase_type": "名词 / 副词（noun / adverb）",
+    "usage": "常用 👍：作名词时可指‘一块土地’、‘命运’或‘一批事物’；作副词时表示‘非常、很多’（口语）。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "一块土地，场地",
+          "english": "A piece of land or a defined area, often for building, parking, or other purposes."
+        },
+        "examples": [
+          {
+            "sentence": "They bought a lot to build their new house.",
+            "translation": "他们买了一块地来建新房。"
+          },
+          {
+            "sentence": "There is a parking lot behind the office.",
+            "translation": "办公室后面有一个停车场。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "命运，运气",
+          "english": "One's situation or fate, often used in the phrase 'draw the short/long lot'."
+        },
+        "examples": [
+          {
+            "sentence": "He accepted his lot in life with grace.",
+            "translation": "他优雅地接受了自己的命运。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "一批事物，一组东西",
+          "english": "A group or set of items considered together."
+        },
+        "examples": [
+          {
+            "sentence": "The auction sold a lot of antique furniture.",
+            "translation": "拍卖会上卖出了一批古董家具。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "大量，非常（副词，口语）",
+          "english": "Used informally to mean 'very much' or 'a great deal'."
+        },
+        "examples": [
+          {
+            "sentence": "I like this movie a lot.",
+            "translation": "我非常喜欢这部电影。"
+          },
+          {
+            "sentence": "She talks a lot during meetings.",
+            "translation": "她在会议中说了很多。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "parking lot",
+      "building lot",
+      "a lot of",
+      "draw a lot",
+      "lot number"
+    ],
+    "related_words": [
+      {
+        "word": "parcel",
+        "type": "noun",
+        "definition": {
+          "chinese": "地块，包裹",
+          "english": "A defined piece of land; also a wrapped package."
+        }
+      },
+      {
+        "word": "fate",
+        "type": "noun",
+        "definition": {
+          "chinese": "命运",
+          "english": "The development of events beyond a person's control."
+        }
+      },
+      {
+        "word": "group",
+        "type": "noun",
+        "definition": {
+          "chinese": "一组，一批",
+          "english": "A number of people or things considered together."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语副词用法",
+        "explanation": "‘a lot’ 常用于口语表达，意为‘很多’，但不用于正式书面英语。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘hlot’，意为‘命运的份额’，后来引申出土地、物品的分配和大量的含义。",
+      "explanation_english": "From Old English 'hlot', meaning 'share or portion of fate', later extended to land, groups of items, and informal expressions of quantity."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中作口语副词使用 ‘a lot’ 较常见，但正式场合可用 ‘much’。",
+      "american": "美式英语中 ‘a lot’ 用法非常普遍，可用于口语和半正式语境。"
+    }
+  },
+  {
+    "phrase": "stranded",
+    "pronunciation": {
+      "british": "/ˈstræn.dɪd/ 🇬🇧",
+      "american": "/ˈstræn.dɪd/ 🇺🇸"
+    },
+    "phrase_type": "形容词（adjective）",
+    "usage": "常用 👍：表示某人或某物被困在某地，无法离开，常用于交通、旅行或紧急情况。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "被困的，滞留的",
+          "english": "Left in a place without the means to move or escape."
+        },
+        "examples": [
+          {
+            "sentence": "After the storm, many travelers were stranded at the airport.",
+            "translation": "暴风雨过后，许多旅客滞留在机场。"
+          },
+          {
+            "sentence": "We were stranded on the island for three days.",
+            "translation": "我们在岛上被困了三天。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "孤立无援的（引申义）",
+          "english": "Feeling helpless or left without support."
+        },
+        "examples": [
+          {
+            "sentence": "He felt stranded in his new job without any guidance.",
+            "translation": "他在新工作中没有指导，感到孤立无援。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "stranded traveler",
+      "stranded motorist",
+      "stranded at the airport",
+      "left stranded"
+    ],
+    "related_words": [
+      {
+        "word": "marooned",
+        "type": "adjective",
+        "definition": {
+          "chinese": "被困荒岛的",
+          "english": "Left isolated and helpless, especially on an island."
+        }
+      },
+      {
+        "word": "stuck",
+        "type": "adjective",
+        "definition": {
+          "chinese": "卡住的，陷入困境的",
+          "english": "Unable to move or progress."
+        }
+      },
+      {
+        "word": "isolated",
+        "type": "adjective",
+        "definition": {
+          "chinese": "孤立的，隔绝的",
+          "english": "Separated from others; alone."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见误用",
+        "explanation": "不要仅理解为‘困住’，还可以引申为心理或社交上的孤立状态。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意指‘使滞留或搁浅’，由此引申出‘孤立无援’的心理或社交含义。",
+      "explanation_english": "Originally meant 'left in a difficult position or stranded physically', later extended metaphorically to mean 'helpless or unsupported'."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，均可指交通或社交滞留。",
+      "american": "同样用法，常用于旅行或应急语境。"
+    }
+  },
+  {
+    "phrase": "back to work order",
+    "pronunciation": {
+      "british": "/bæk tuː wɜːk ˈɔː.dər/ 🇬🇧",
+      "american": "/bæk tu wɝːk ˈɔːr.dɚ/ 🇺🇸"
+    },
+    "phrase_type": "名词短语（noun phrase，正式/职场用语）",
+    "usage": "常用 👍：指正式的指令或文书，允许某人恢复工作，通常用于医疗、劳工或行政管理场景。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "允许复工的指令或证明",
+          "english": "An official document or instruction permitting someone to return to work after an absence, often due to illness, injury, or administrative reasons."
+        },
+        "examples": [
+          {
+            "sentence": "The doctor issued a back to work order after her recovery.",
+            "translation": "她康复后，医生开具了复工证明。"
+          },
+          {
+            "sentence": "Employees must submit a back to work order before resuming duties.",
+            "translation": "员工在恢复工作前必须提交复工指令。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "submit a back to work order",
+      "receive a back to work order",
+      "require a back to work order",
+      "issue a back to work order"
+    ],
+    "related_words": [
+      {
+        "word": "medical clearance",
+        "type": "noun",
+        "definition": {
+          "chinese": "医疗许可",
+          "english": "An official statement from a doctor allowing someone to engage in normal activities or work."
+        }
+      },
+      {
+        "word": "return-to-work form",
+        "type": "noun",
+        "definition": {
+          "chinese": "复工表格",
+          "english": "A form that authorizes an employee to resume work after a leave."
+        }
+      },
+      {
+        "word": "fit note",
+        "type": "noun",
+        "definition": {
+          "chinese": "适合工作证明（英式用法）",
+          "english": "A note from a doctor confirming that an employee is fit to return to work."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式职场用语",
+        "explanation": "多见于医疗、公司行政或人事管理中，通常需要医生或主管签署。"
+      },
+      {
+        "point": "区别于普通复工",
+        "explanation": "‘back to work order’强调官方批准或书面文件，而不仅是口头允许。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "短语直译为‘复工指令’，原意单一，未衍生出其他意思。",
+      "explanation_english": "The phrase literally means 'instruction to return to work'; it does not have multiple meanings."
+    },
+    "variation_between_british_american": {
+      "british": "英国常用 ‘fit note’ 或 ‘return-to-work form’ 表示类似意思。",
+      "american": "美国通常使用 ‘back to work order’ 或 ‘medical clearance’。"
+    }
+  },
+  {
+    "phrase": "attendant",
+    "pronunciation": {
+      "british": "/əˈten.dənt/ 🇬🇧",
+      "american": "/əˈten.dənt/ 🇺🇸"
+    },
+    "phrase_type": "名词 / 形容词（noun / adjective）",
+    "usage": "常用 👍：作名词时，指‘服务员、随从、侍从’；作形容词时，表示‘伴随的、随之而来的’。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "服务员，侍者，随从",
+          "english": "A person whose job is to provide service or assistance to others in a particular place or situation."
+        },
+        "examples": [
+          {
+            "sentence": "A flight attendant asked passengers to fasten their seatbelts.",
+            "translation": "一位空乘人员请乘客系好安全带。"
+          },
+          {
+            "sentence": "The parking attendant helped us find a spot.",
+            "translation": "停车场管理员帮我们找到一个车位。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "伴随的，随之而来的（形容词）",
+          "english": "Accompanying or associated with something."
+        },
+        "examples": [
+          {
+            "sentence": "The risks attendant on such investments are considerable.",
+            "translation": "此类投资伴随的风险相当大。"
+          },
+          {
+            "sentence": "She was well aware of the duties attendant upon her new role.",
+            "translation": "她很清楚新职位所带来的职责。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "flight attendant",
+      "parking attendant",
+      "attendant staff",
+      "risks attendant on",
+      "duties attendant upon"
+    ],
+    "related_words": [
+      {
+        "word": "assistant",
+        "type": "noun",
+        "definition": {
+          "chinese": "助手，助理",
+          "english": "A person who helps in particular work or duties."
+        }
+      },
+      {
+        "word": "servant",
+        "type": "noun",
+        "definition": {
+          "chinese": "仆人，佣人",
+          "english": "A person employed to perform domestic duties."
+        }
+      },
+      {
+        "word": "associated",
+        "type": "adjective",
+        "definition": {
+          "chinese": "相关的，伴随的",
+          "english": "Connected with or related to something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词性差异",
+        "explanation": "作为名词多指‘提供服务的人’，作为形容词多用于正式或书面语，表示‘伴随的’。"
+      },
+      {
+        "point": "与 flight attendant 的关系",
+        "explanation": "最常见的现代用法是 ‘flight attendant’（空乘人员），性别中立，替代了过去的‘stewardess’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 attendere（照料、注意），最初表示‘随侍的人’，后来引申出‘提供服务的人’以及‘伴随的情况’两种含义。",
+      "explanation_english": "From Latin 'attendere' (to give attention), originally meaning 'one who attends or serves', later extended to describe accompanying circumstances."
+    },
+    "variation_between_british_american": {
+      "british": "英美用法相同，但在英国，‘attendant’更常用于正式场合（如‘attendant risks’）。",
+      "american": "美式更常用在服务岗位的语境中，如 flight attendant, parking attendant。"
+    }
+  },
+  {
+    "phrase": "hermit",
+    "pronunciation": {
+      "british": "/ˈhɜː.mɪt/ 🇬🇧",
+      "american": "/ˈhɝː.mɪt/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指过着独居生活的人，尤其是为了宗教、精神或个人原因而与世隔绝的人，也可泛指不爱社交的‘宅人’。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "隐士，遁世者",
+          "english": "A person who lives in solitude, often for religious or spiritual reasons."
+        },
+        "examples": [
+          {
+            "sentence": "The old hermit lived alone in the mountains for decades.",
+            "translation": "那位老隐士独自生活在山里几十年。"
+          },
+          {
+            "sentence": "In medieval times, hermits were often seen as holy men.",
+            "translation": "在中世纪，隐士常被视为圣人。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "宅人，不爱社交的人（非正式）",
+          "english": "Informally, someone who avoids social contact and prefers to stay alone."
+        },
+        "examples": [
+          {
+            "sentence": "Since he started working from home, he’s become a bit of a hermit.",
+            "translation": "自从开始在家办公，他就有点像个宅人了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "religious hermit",
+      "a hermit lifestyle",
+      "hermit crab",
+      "live like a hermit"
+    ],
+    "related_words": [
+      {
+        "word": "recluse",
+        "type": "noun",
+        "definition": {
+          "chinese": "隐居者",
+          "english": "A person who lives a solitary life and avoids other people."
+        }
+      },
+      {
+        "word": "loner",
+        "type": "noun",
+        "definition": {
+          "chinese": "独来独往的人",
+          "english": "Someone who prefers to be alone."
+        }
+      },
+      {
+        "word": "anchorite",
+        "type": "noun",
+        "definition": {
+          "chinese": "（宗教上的）隐修士",
+          "english": "A religious recluse who withdraws from society for spiritual reasons."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "现代语境中‘hermit’常被幽默或夸张地用来形容宅、不爱出门的人。"
+      },
+      {
+        "point": "动物用法",
+        "explanation": "‘hermit crab’（寄居蟹）因喜欢躲在贝壳里而得名，延伸了‘hermit’的独居含义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘erēmitēs’，意为‘沙漠中的人’，最初指宗教隐士；后来引申为任何喜欢独居或不爱社交的人。",
+      "explanation_english": "From Greek 'erēmitēs' meaning 'of the desert', originally referring to religious hermits, later generalized to anyone living in solitude."
+    },
+    "variation_between_british_american": {
+      "british": "英式多保留宗教或传统语境中的‘隐士’含义。",
+      "american": "美式更常用于非正式语境，指宅、不爱社交的人。"
+    }
+  },
+  {
+    "phrase": "do over",
+    "pronunciation": {
+      "british": "/duː ˈəʊ.vər/ 🇬🇧",
+      "american": "/duː ˈoʊ.vɚ/ 🇺🇸"
+    },
+    "phrase_type": "短语动词（phrasal verb）",
+    "usage": "常用 👍：表示‘重做、重新做’，通常因为第一次做得不好或出错，需要重新开始。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "重做，再做一次",
+          "english": "To do something again, often because it was done incorrectly or unsatisfactorily the first time."
+        },
+        "examples": [
+          {
+            "sentence": "I made a mistake on the form, so I had to do it over.",
+            "translation": "我在表格上犯了错误，所以不得不重填。"
+          },
+          {
+            "sentence": "The teacher asked the students to do the project over.",
+            "translation": "老师要求学生重新做这个项目。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "do it over",
+      "have a do-over",
+      "do the homework over",
+      "do the test over"
+    ],
+    "related_words": [
+      {
+        "word": "redo",
+        "type": "verb",
+        "definition": {
+          "chinese": "重新做",
+          "english": "To do something again."
+        }
+      },
+      {
+        "word": "repeat",
+        "type": "verb",
+        "definition": {
+          "chinese": "重复，重做",
+          "english": "To do something again, especially for practice or correction."
+        }
+      },
+      {
+        "word": "retry",
+        "type": "verb",
+        "definition": {
+          "chinese": "再尝试",
+          "english": "To attempt something again after a failure or error."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语常用",
+        "explanation": "‘do over’ 在美式口语中非常常见，相当于 ‘redo’，但在正式书面语中更倾向用 ‘redo’。"
+      },
+      {
+        "point": "名词形式",
+        "explanation": "非正式中有时用 ‘do-over’ 表示‘重来一次的机会’，尤其在比赛或游戏场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意为 ‘再次做’，没有复杂衍生，多用于口语和非正式语境。",
+      "explanation_english": "Originally means 'to do again'; no major extensions, mainly used in informal contexts."
+    },
+    "variation_between_british_american": {
+      "british": "较少用，英国人更倾向用 ‘redo’。",
+      "american": "美式英语口语中非常常用 ‘do over’ 和 ‘have a do-over’。"
+    }
+  },
+  {
+    "phrase": "assessor",
+    "pronunciation": {
+      "british": "/əˈses.ər/ 🇬🇧",
+      "american": "/əˈses.ɚ/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指评估人员或估价员，通常在税务、财产或专业评估中使用。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "评估员，估价员",
+          "english": "A person who evaluates or estimates the value, quality, or importance of something, especially property or taxes."
+        },
+        "examples": [
+          {
+            "sentence": "The tax assessor visited our house to evaluate its value.",
+            "translation": "税务评估员来我们家评估房屋价值。"
+          },
+          {
+            "sentence": "The insurance assessor inspected the damage after the flood.",
+            "translation": "保险评估员在洪水后检查了损失情况。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "tax assessor",
+      "property assessor",
+      "insurance assessor",
+      "court-appointed assessor"
+    ],
+    "related_words": [
+      {
+        "word": "appraiser",
+        "type": "noun",
+        "definition": {
+          "chinese": "估价师",
+          "english": "A professional who estimates the monetary value of property or assets."
+        }
+      },
+      {
+        "word": "evaluator",
+        "type": "noun",
+        "definition": {
+          "chinese": "评估者",
+          "english": "A person who assesses quality, performance, or significance."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "官方或专业用语",
+        "explanation": "assessor 常用于官方机构或专业领域，强调正式评估。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意是‘评价、评定的人’，多用于财产、税务或专业评估，没有其他衍生含义。",
+      "explanation_english": "Originally means 'a person who assesses or evaluates', mainly used in property, tax, or professional contexts."
+    },
+    "variation_between_british_american": {
+      "british": "英式多用于法律和税务场景。",
+      "american": "美式同样用于税务、保险及评估专业领域。"
+    }
+  },
+  {
+    "phrase": "tremor",
+    "pronunciation": {
+      "british": "/ˈtrem.ər/ 🇬🇧",
+      "american": "/ˈtrem.ɚ/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指轻微震动或地震，也可引申为身体轻微颤抖。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "轻微地震，震动",
+          "english": "A slight shaking or trembling of the ground, smaller than a full-scale earthquake."
+        },
+        "examples": [
+          {
+            "sentence": "Residents felt a minor tremor last night.",
+            "translation": "居民昨晚感觉到轻微地震。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "身体的轻微颤抖",
+          "english": "A slight involuntary shaking of the body or a body part."
+        },
+        "examples": [
+          {
+            "sentence": "A tremor ran through his hands as he held the letter.",
+            "translation": "他拿信时手微微颤抖。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "minor tremor",
+      "earthquake tremor",
+      "tremor in the hand",
+      "felt a tremor"
+    ],
+    "related_words": [
+      {
+        "word": "quake",
+        "type": "noun",
+        "definition": {
+          "chinese": "地震",
+          "english": "A sudden shaking of the earth."
+        }
+      },
+      {
+        "word": "shiver",
+        "type": "noun / verb",
+        "definition": {
+          "chinese": "发抖",
+          "english": "An involuntary trembling of the body."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "轻微 vs 强烈",
+        "explanation": "tremor 强调轻微的震动或颤抖，而非大规模地震。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指‘轻微摇动’，后来引申到身体颤抖的情境。",
+      "explanation_english": "Originally refers to 'slight shaking', later extended metaphorically to bodily tremors."
+    },
+    "variation_between_british_american": {
+      "british": "常用于地震和医学语境。",
+      "american": "同样用于地震、医学及日常轻微震动描述。"
+    }
+  },
+  {
+    "phrase": "epicenter",
+    "pronunciation": {
+      "british": "/ˈep.ɪˌsen.tər/ 🇬🇧",
+      "american": "/ˈep.ɪˌsen.tɚ/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：地震学术语，表示地震的震中，也可比喻某事件的核心或中心。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "（地震的）震中",
+          "english": "The point on the Earth's surface directly above the focus of an earthquake."
+        },
+        "examples": [
+          {
+            "sentence": "The city was near the epicenter of the earthquake.",
+            "translation": "这座城市位于地震震中附近。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "事件或活动的中心（比喻）",
+          "english": "The central point of an event or activity."
+        },
+        "examples": [
+          {
+            "sentence": "The stadium was the epicenter of celebrations.",
+            "translation": "体育场是庆祝活动的中心。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "epicenter of the earthquake",
+      "epicenter of activity",
+      "epicenter of the storm",
+      "epicenter of protests"
+    ],
+    "related_words": [
+      {
+        "word": "focus",
+        "type": "noun",
+        "definition": {
+          "chinese": "焦点，中心",
+          "english": "The central point of activity or attention."
+        }
+      },
+      {
+        "word": "center",
+        "type": "noun",
+        "definition": {
+          "chinese": "中心",
+          "english": "The middle point or core of something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "除地震外，epicenter 可用作比喻，指某事件或活动的核心地带。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指地震震中，后来引申为任何事件的中心。",
+      "explanation_english": "Originally refers to the earthquake's surface point above the focus, later extended metaphorically to mean the center of any event or activity."
+    },
+    "variation_between_british_american": {
+      "british": "地震和比喻用法相同。",
+      "american": "用法与英式一致。"
+    }
+  },
+  {
+    "phrase": "magnitude",
+    "pronunciation": {
+      "british": "/ˈmæɡ.nɪ.tjuːd/ 🇬🇧",
+      "american": "/ˈmæɡ.nɪ.tuːd/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：表示地震的级别，也可指事物、事件或影响的大小、重要性。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "规模，大小（尤指地震）",
+          "english": "The size or extent of something, especially used to measure earthquakes."
+        },
+        "examples": [
+          {
+            "sentence": "The earthquake had a magnitude of 6.5.",
+            "translation": "地震的震级为6.5。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "重要性，影响力",
+          "english": "The significance or impact of an event or phenomenon."
+        },
+        "examples": [
+          {
+            "sentence": "The decision was of great magnitude for the company.",
+            "translation": "这个决定对公司有重大影响。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "magnitude of the earthquake",
+      "of considerable magnitude",
+      "economic magnitude",
+      "measure the magnitude"
+    ],
+    "related_words": [
+      {
+        "word": "scale",
+        "type": "noun",
+        "definition": {
+          "chinese": "规模，等级",
+          "english": "The relative size or extent of something."
+        }
+      },
+      {
+        "word": "intensity",
+        "type": "noun",
+        "definition": {
+          "chinese": "强度",
+          "english": "The strength or force of something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "科学 vs 日常用法",
+        "explanation": "在地震学中有具体数值含义；在日常用法中则表示事件或事物的重要性或程度。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 magnitudo，原意为‘伟大、大小’，既可用于地震，也可泛指事物的重要性。",
+      "explanation_english": "From Latin 'magnitudo', meaning 'greatness or size', used for both earthquakes and general significance."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，地震科学语境中常用里氏震级。",
+      "american": "同样用于地震及比喻事件影响大小。"
+    }
+  },
+  {
+    "phrase": "tsunami",
+    "pronunciation": {
+      "british": "/tsuːˈnɑː.mi/ 🇬🇧",
+      "american": "/tsuːˈnɑː.mi/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指由地震、火山或海底滑坡引发的巨型海啸。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "海啸",
+          "english": "A large sea wave caused by an underwater earthquake, volcanic eruption, or landslide."
+        },
+        "examples": [
+          {
+            "sentence": "The 2004 Indian Ocean tsunami caused massive destruction.",
+            "translation": "2004年的印度洋海啸造成了巨大破坏。"
+          },
+          {
+            "sentence": "Coastal areas were evacuated in anticipation of the tsunami.",
+            "translation": "沿海地区为应对海啸进行了撤离。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "tsunami warning",
+      "massive tsunami",
+      "tsunami waves",
+      "trigger a tsunami"
+    ],
+    "related_words": [
+      {
+        "word": "tidal wave",
+        "type": "noun",
+        "definition": {
+          "chinese": "巨浪",
+          "english": "A large ocean wave, sometimes incorrectly used to refer to a tsunami."
+        }
+      },
+      {
+        "word": "seismic wave",
+        "type": "noun",
+        "definition": {
+          "chinese": "地震波",
+          "english": "A wave of energy caused by an earthquake."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "注意区分",
+        "explanation": "tsunami 与 tidal wave 不完全相同，tsunami 由地质活动引发，而 tidal wave 是潮汐相关的巨浪（旧称）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "日语词汇 tsunami（津波）直接引入英语，原意为‘港口波’，主要指海啸，没有其他衍生意义。",
+      "explanation_english": "Borrowed from Japanese 'tsunami' (harbor wave), referring specifically to large sea waves caused by seismic activity; no major extensions in meaning."
+    },
+    "variation_between_british_american": {
+      "british": "发音略偏 /tsuːˈnɑː.mi/，使用相同。",
+      "american": "发音 /tsuːˈnɑː.mi/，用法一致。"
+    }
+  },
+  {
+    "phrase": "bladder",
+    "pronunciation": {
+      "british": "/ˈblæd.ər/ 🇬🇧",
+      "american": "/ˈblæd.ɚ/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指人体或动物体内储存液体的器官，如膀胱，也可指容器袋。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "膀胱",
+          "english": "A hollow organ in the body that stores urine before it is excreted."
+        },
+        "examples": [
+          {
+            "sentence": "I need to go to the bathroom; my bladder is full.",
+            "translation": "我得去洗手间，我的膀胱满了。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "袋状容器（如气囊、储液袋）",
+          "english": "A flexible bag or container used to hold liquid or gas."
+        },
+        "examples": [
+          {
+            "sentence": "The air bladder in the life jacket keeps it afloat.",
+            "translation": "救生衣里的气囊让它漂浮。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "urinary bladder",
+      "bladder control",
+      "bladder infection",
+      "air bladder"
+    ],
+    "related_words": [
+      {
+        "word": "vesica",
+        "type": "noun",
+        "definition": {
+          "chinese": "膀胱（医学术语）",
+          "english": "Medical term for the bladder."
+        }
+      },
+      {
+        "word": "sac",
+        "type": "noun",
+        "definition": {
+          "chinese": "囊，袋",
+          "english": "A pouch or bag-like structure."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学 vs 非医学用法",
+        "explanation": "在医学语境中通常指膀胱；在物理或工程语境中可指储液袋或气囊。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘blatta’，原指‘小袋’，后来引申为人体膀胱及其他袋状容器。",
+      "explanation_english": "From Latin 'blatta', originally meaning 'little bag', later extended to the urinary bladder and other bag-like containers."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，发音略带 /ˈblæd.ər/。",
+      "american": "发音 /ˈblæd.ɚ/，用法一致。"
+    }
+  },
+  {
+    "phrase": "navel",
+    "pronunciation": {
+      "british": "/ˈneɪ.vəl/ 🇬🇧",
+      "american": "/ˈneɪ.vəl/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指人体肚脐，也可引申为中心或核心部分。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "肚脐",
+          "english": "The small, central scar on the abdomen marking where the umbilical cord was attached."
+        },
+        "examples": [
+          {
+            "sentence": "He touched his navel absentmindedly.",
+            "translation": "他心不在焉地摸了摸肚脐。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "中心，核心（比喻）",
+          "english": "The central or focal point of something."
+        },
+        "examples": [
+          {
+            "sentence": "The city is the navel of the country’s economy.",
+            "translation": "这座城市是国家经济的中心。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "belly button (informal)",
+      "navel piercing",
+      "navel of the world",
+      "touch one's navel"
+    ],
+    "related_words": [
+      {
+        "word": "umbilicus",
+        "type": "noun",
+        "definition": {
+          "chinese": "肚脐（医学用语）",
+          "english": "Medical term for the navel."
+        }
+      },
+      {
+        "word": "center",
+        "type": "noun",
+        "definition": {
+          "chinese": "中心",
+          "english": "Middle or focal point of something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式说法",
+        "explanation": "口语中常用 belly button 来替代 navel。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意为人体肚脐，后来比喻为中心或核心。",
+      "explanation_english": "Originally the human navel, later extended metaphorically to mean the center or focal point of something."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，口语多用 belly button。",
+      "american": "同样用法，发音一致。"
+    }
+  },
+  {
+    "phrase": "migraine",
+    "pronunciation": {
+      "british": "/ˈmiː.ɡreɪn/ 🇬🇧",
+      "american": "/ˈmaɪ.ɡreɪn/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指偏头痛，一种反复发作的剧烈头痛，通常伴随恶心、视觉干扰等症状。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "偏头痛",
+          "english": "A recurrent, severe headache often accompanied by nausea, vomiting, and sensitivity to light or sound."
+        },
+        "examples": [
+          {
+            "sentence": "She had to leave work early because of a migraine.",
+            "translation": "她因偏头痛不得不提前离开工作。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "suffer from migraine",
+      "migraine attack",
+      "chronic migraine",
+      "migraine medication"
+    ],
+    "related_words": [
+      {
+        "word": "headache",
+        "type": "noun",
+        "definition": {
+          "chinese": "头痛",
+          "english": "Pain in the head."
+        }
+      },
+      {
+        "word": "cluster headache",
+        "type": "noun",
+        "definition": {
+          "chinese": "丛集性头痛",
+          "english": "Severe headache occurring in cyclical patterns or clusters."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "医疗用语",
+        "explanation": "migraine 属于医学专有名词，常用于描述症状、诊断或治疗。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源为希腊语 hemikrania，意为‘半边头痛’，仅用于医学含义。",
+      "explanation_english": "From Greek 'hemikrania' meaning 'half of the head'; strictly medical term without other extensions."
+    },
+    "variation_between_british_american": {
+      "british": "发音 /ˈmiː.ɡreɪn/，用法一致。",
+      "american": "发音 /ˈmaɪ.ɡreɪn/，用法一致。"
+    }
+  },
+  {
+    "phrase": "dehydration",
+    "pronunciation": {
+      "british": "/ˌdiː.haɪˈdreɪ.ʃən/ 🇬🇧",
+      "american": "/ˌdiː.haɪˈdreɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指身体失水或去除水分的过程，可用于医学或一般物理现象。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "脱水（身体失水）",
+          "english": "A condition resulting from excessive loss of body water."
+        },
+        "examples": [
+          {
+            "sentence": "After running in the heat, he suffered from dehydration.",
+            "translation": "在高温下跑步后，他出现了脱水症状。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "去除水分（物理过程）",
+          "english": "The process of removing water from a substance."
+        },
+        "examples": [
+          {
+            "sentence": "Dehydration of fruits preserves them for longer periods.",
+            "translation": "水果脱水可延长保存时间。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "severe dehydration",
+      "risk of dehydration",
+      "prevent dehydration",
+      "dehydration process"
+    ],
+    "related_words": [
+      {
+        "word": "desiccation",
+        "type": "noun",
+        "definition": {
+          "chinese": "干燥，脱水",
+          "english": "The process of removing moisture completely."
+        }
+      },
+      {
+        "word": "thirst",
+        "type": "noun",
+        "definition": {
+          "chinese": "口渴",
+          "english": "The sensation of needing or wanting to drink."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学 vs 食物加工",
+        "explanation": "dehydration 可用于人体失水，也可指食品或物质脱水。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘de-’ + ‘hydratus’，意为去除水分，由此既可用于医学，也可用于物理脱水。",
+      "explanation_english": "From Latin 'de-' + 'hydratus' meaning 'to remove water', hence used for both medical dehydration and physical removal of water."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，医学和食品脱水均适用。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "phrase": "dehydrate",
+    "pronunciation": {
+      "british": "/ˌdiːˈhaɪ.dreɪt/ 🇬🇧",
+      "american": "/ˌdiːˈhaɪ.dreɪt/ 🇺🇸"
+    },
+    "phrase_type": "动词（verb）",
+    "usage": "常用 👍：指去除水分或使身体失水，可用于医学或食品加工等场景。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "使脱水（身体失水）",
+          "english": "To cause a person or animal to lose too much water from the body."
+        },
+        "examples": [
+          {
+            "sentence": "Running in the heat without water can dehydrate you quickly.",
+            "translation": "在高温下跑步不喝水会很快导致脱水。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "脱水，去除水分（物理或食品）",
+          "english": "To remove water from a substance, such as food or chemicals."
+        },
+        "examples": [
+          {
+            "sentence": "They dehydrate fruits to preserve them for longer periods.",
+            "translation": "他们将水果脱水以便长期保存。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "dehydrate the body",
+      "dehydrate food",
+      "dehydrated fruits",
+      "risk of dehydration"
+    ],
+    "related_words": [
+      {
+        "word": "desiccate",
+        "type": "verb",
+        "definition": {
+          "chinese": "使干燥",
+          "english": "To remove moisture completely from something."
+        }
+      },
+      {
+        "word": "dry out",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "弄干，干燥",
+          "english": "To remove water or moisture from something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学 vs 工业用法",
+        "explanation": "医学上指人体或动物脱水；食品加工或化学中指去除水分。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘de-’ + ‘hydratus’，意为去水，因此可用于人体脱水和物体脱水。",
+      "explanation_english": "From Latin 'de-' + 'hydratus', meaning 'to remove water', applied both to bodily dehydration and physical dehydration of substances."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，可用于医学或食品脱水。",
+      "american": "同样用法。"
+    }
+  },
+  {
+    "phrase": "bandage",
+    "pronunciation": {
+      "british": "/ˈbæn.dɪdʒ/ 🇬🇧",
+      "american": "/ˈbæn.dɪdʒ/ 🇺🇸"
+    },
+    "phrase_type": "名词 / 动词（noun / verb）",
+    "usage": "常用 👍：指用于覆盖或保护伤口的绷带，也可作为动词表示包扎。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "绷带",
+          "english": "A strip of material used to cover and protect a wound or injury."
+        },
+        "examples": [
+          {
+            "sentence": "The nurse applied a bandage to the cut.",
+            "translation": "护士给伤口上了绷带。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "包扎",
+          "english": "To wrap a wound or injury with a bandage."
+        },
+        "examples": [
+          {
+            "sentence": "He bandaged his injured hand carefully.",
+            "translation": "他小心地给受伤的手包扎。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "apply a bandage",
+      "remove a bandage",
+      "bandage a wound",
+      "sterile bandage"
+    ],
+    "related_words": [
+      {
+        "word": "dressing",
+        "type": "noun",
+        "definition": {
+          "chinese": "敷料",
+          "english": "Material used to cover and protect a wound."
+        }
+      },
+      {
+        "word": "wrap",
+        "type": "verb",
+        "definition": {
+          "chinese": "包裹",
+          "english": "To cover or enclose something with material."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "可作动词和名词",
+        "explanation": "bandage 作名词指绷带，作动词指包扎动作。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意为包裹伤口的布条，动词用法由名词直接引申。",
+      "explanation_english": "Originally a strip of cloth to wrap a wound; verb usage derived directly from the noun."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "phrase": "hepatitis",
+    "pronunciation": {
+      "british": "/ˌhep.əˈtaɪ.tɪs/ 🇬🇧",
+      "american": "/ˌhep.əˈtaɪ.tɪs/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun）",
+    "usage": "常用 👍：指肝脏发炎，可分为不同类型（如 A、B、C 型），属于医学专业用语。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "肝炎",
+          "english": "Inflammation of the liver, often caused by viral infection, toxins, or autoimmune diseases."
+        },
+        "examples": [
+          {
+            "sentence": "He was diagnosed with hepatitis B.",
+            "translation": "他被诊断患有乙型肝炎。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "hepatitis A/B/C",
+      "viral hepatitis",
+      "chronic hepatitis",
+      "hepatitis infection"
+    ],
+    "related_words": [
+      {
+        "word": "liver disease",
+        "type": "noun",
+        "definition": {
+          "chinese": "肝病",
+          "english": "Any disease affecting the liver."
+        }
+      },
+      {
+        "word": "cirrhosis",
+        "type": "noun",
+        "definition": {
+          "chinese": "肝硬化",
+          "english": "Chronic liver damage leading to scarring and liver failure."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学专业术语",
+        "explanation": "hepatitis 多用于医学、健康或疾病诊断场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源自希腊语 hepar（肝）+ -itis（炎症），主要用于医学，不存在其他含义。",
+      "explanation_english": "From Greek 'hepar' (liver) + '-itis' (inflammation); strictly medical term without other meanings."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "phrase": "pain in the neck",
+    "pronunciation": {
+      "british": "/ˌpeɪn ɪn ðə nek/ 🇬🇧",
+      "american": "/ˌpeɪn ɪn ðə nek/ 🇺🇸"
+    },
+    "phrase_type": "口语表达（idiom）",
+    "usage": "常用 👍：比喻讨厌的人或麻烦事，也可字面理解为颈部疼痛。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "讨厌的人或麻烦事",
+          "english": "A person or situation that is annoying or troublesome."
+        },
+        "examples": [
+          {
+            "sentence": "My little brother is such a pain in the neck.",
+            "translation": "我的小弟真讨厌。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "颈部疼痛（字面意思）",
+          "english": "Pain located in the neck region."
+        },
+        "examples": [
+          {
+            "sentence": "I have a pain in the neck after sleeping awkwardly.",
+            "translation": "我因为睡姿不对导致脖子疼。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "a real pain in the neck",
+      "someone is a pain in the neck",
+      "literal pain in the neck",
+      "annoying pain in the neck"
+    ],
+    "related_words": [
+      {
+        "word": "nuisance",
+        "type": "noun",
+        "definition": {
+          "chinese": "麻烦事，讨厌的人",
+          "english": "Something or someone causing inconvenience or annoyance."
+        }
+      },
+      {
+        "word": "annoying",
+        "type": "adjective",
+        "definition": {
+          "chinese": "令人恼火的",
+          "english": "Causing irritation or discomfort."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "字面 vs 比喻",
+        "explanation": "口语中常用比喻含义，字面含义主要用于医学或描述身体疼痛。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原本是字面意思颈部疼痛，后来引申为比喻讨厌或麻烦的人/事。",
+      "explanation_english": "Originally literal pain in the neck, later extended metaphorically to describe an annoying person or situation."
+    },
+    "variation_between_british_american": {
+      "british": "口语中常用比喻，字面含义也通用。",
+      "american": "用法一致，日常口语多指讨厌的人或麻烦事。"
+    }
+  }
 ]
 
 
