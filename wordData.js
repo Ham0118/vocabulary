@@ -27370,8 +27370,101 @@ const wordData = [
       "british": "英式发音 /ˈkwɪtə/，用法与美式一致。常见于非正式口语。",
       "american": "美式发音 /ˈkwɪtər/，在美国口语里更常用，尤其在体育、学校或团队语境中。"
     }
-  }
-
+  },
+  {
+    "phrase": "exterior",
+    "pronunciation": {
+      "british": "/ɪkˈstɪər.i.ər/ 🇬🇧",
+      "american": "/ɪkˈstɪr.i.ɚ/ 🇺🇸"
+    },
+    "phrase_type": "形容词 / 名词（adjective / noun）",
+    "usage": "用于描述某物的外部、外表或外观，也可指建筑或车辆的外部。既可正式又可日常使用。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "外部的，外面的",
+          "english": "Located on or relating to the outside of something."
+        },
+        "examples": [
+          {
+            "sentence": "The exterior walls of the house are painted white.",
+            "translation": "房子的外墙刷成了白色。"
+          },
+          {
+            "sentence": "The car's exterior looks brand new.",
+            "translation": "这辆车的外观看起来全新。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "外部，外观（名词用法）",
+          "english": "The outer surface or appearance of something."
+        },
+        "examples": [
+          {
+            "sentence": "The exterior of the building is very modern.",
+            "translation": "这栋建筑的外观非常现代。"
+          },
+          {
+            "sentence": "The house has a beautiful exterior but a small interior.",
+            "translation": "这房子外观漂亮，但内部空间很小。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "exterior wall",
+      "exterior paint",
+      "exterior design",
+      "exterior appearance",
+      "exterior view"
+    ],
+    "related_words": [
+      {
+        "word": "outside",
+        "type": "adjective / noun",
+        "definition": {
+          "chinese": "外部的；外面",
+          "english": "On or to the outer side of something."
+        }
+      },
+      {
+        "word": "facade",
+        "type": "noun",
+        "definition": {
+          "chinese": "建筑物的正面；表面（引申为表象）",
+          "english": "The front of a building or a superficial appearance."
+        }
+      },
+      {
+        "word": "external",
+        "type": "adjective",
+        "definition": {
+          "chinese": "外部的，外面的",
+          "english": "Relating to the outside or outer surface."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "形容词 vs 名词用法",
+        "explanation": "形容词常用来描述外部特征；名词则强调‘外部’或‘外观’本身。"
+      },
+      {
+        "point": "正式与日常",
+        "explanation": "‘exterior’ 在书面语和正式场合使用频率高，日常口语中可用 simpler words like 'outside' 替代。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘exterior’ 源自拉丁语 ‘exterior’，意思是‘更外的’。形容词和名词用法都是由同一原义演变而来，没有额外引申义。",
+      "explanation_english": "Derived from Latin 'exterior', meaning 'outer'. Both adjective and noun senses come from the same original meaning, with no separate extensions."
+    },
+    "variation_between_british_american": {
+      "british": "发音 /ɪkˈstɪər.i.ər/，书面语和口语使用相同。",
+      "american": "发音 /ɪkˈstɪr.i.ɚ/，用法与英式一致，口语中可用 'outside' 替代。"
+    }
+  },
 ]
 
 
