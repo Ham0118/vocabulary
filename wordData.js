@@ -27208,7 +27208,170 @@ const wordData = [
       "british": "口语中常用比喻，字面含义也通用。",
       "american": "用法一致，日常口语多指讨厌的人或麻烦事。"
     }
+  },
+  {
+    "phrase": "snap out of",
+    "pronunciation": {
+      "british": "/snæp ˈaʊt ɒv/ 🇬🇧",
+      "american": "/snæp ˈaʊt əv/ 🇺🇸"
+    },
+    "phrase_type": "短语动词 / 习语（phrasal verb, idiom）",
+    "usage": "常用于非正式口语，表示让某人迅速从一种消极情绪或不良状态中清醒、振作、恢复正常。语气比较直接，有时像命令或提醒。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "迅速摆脱（消极或异常的情绪、状态）",
+          "english": "To quickly recover from or free oneself from a negative mood, feeling, or state."
+        },
+        "examples": [
+          {
+            "sentence": "You’ve been daydreaming all morning. Snap out of it!",
+            "translation": "你一上午都在发呆，清醒点！"
+          },
+          {
+            "sentence": "She finally snapped out of her sadness and started smiling again.",
+            "translation": "她终于从悲伤中走了出来，又开始微笑了。"
+          },
+          {
+            "sentence": "A loud noise snapped him out of his thoughts.",
+            "translation": "一声巨响让他从沉思中回过神来。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "snap out of it",
+      "snap out of depression",
+      "snap out of a bad mood",
+      "snap someone out of something"
+    ],
+    "related_words": [
+      {
+        "word": "pull oneself together",
+        "type": "idiom",
+        "definition": {
+          "chinese": "振作起来，冷静下来",
+          "english": "To regain control of one’s emotions and composure."
+        }
+      },
+      {
+        "word": "shake off",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "摆脱（负面情绪或影响）",
+          "english": "To get rid of an unwanted feeling or state."
+        }
+      },
+      {
+        "word": "snap back",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "迅速恢复过来",
+          "english": "To quickly return to a normal condition."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "‘snap out of it’ 听起来很直接，甚至有点不耐烦，适合亲密关系或紧急情况，但不太礼貌用于正式场合。"
+      },
+      {
+        "point": "用法限制",
+        "explanation": "搭配通常是 snap out of + 名词/代词（it, a mood, depression 等），不能说 *snap out from*。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘snap’ 本义是“啪地一声断裂/突然动作”，在这里比喻“突然地脱离”；‘out of’ 表示“从……出来”。组合起来就是“突然从某种状态中脱离”。",
+      "explanation_english": "‘Snap’ means a sudden sharp action, and ‘out of’ indicates leaving a state. Together, it metaphorically means to break out of a mental or emotional state suddenly."
+    },
+    "variation_between_british_american": {
+      "british": "英式和美式的用法几乎相同，发音差别在介词 of 的弱读。",
+      "american": "美式口语里尤其常用 ‘snap out of it’ 来提醒别人振作或清醒。"
+    }
+  },
+  {
+    "phrase": "quitter",
+    "pronunciation": {
+      "british": "/ˈkwɪtə/ 🇬🇧",
+      "american": "/ˈkwɪtər/ 🇺🇸"
+    },
+    "phrase_type": "名词（noun，非正式，贬义）",
+    "usage": "常见于口语，用来批评某人容易放弃、缺乏毅力。带有轻蔑或激励意味。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "遇到困难就放弃的人；半途而废者",
+          "english": "Someone who gives up easily or does not finish what they start."
+        },
+        "examples": [
+          {
+            "sentence": "Don't be such a quitter — you can do this.",
+            "translation": "别这么轻言放弃——你能做到的。"
+          },
+          {
+            "sentence": "He left the team after just two weeks, and everyone called him a quitter.",
+            "translation": "他才加入两周就退出了，大家都说他是个半途而废的人。"
+          },
+          {
+            "sentence": "I'm no quitter. I'll see this project through to the end.",
+            "translation": "我不是轻易放弃的人，这个项目我一定会坚持到底。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "be a quitter",
+      "don’t be a quitter",
+      "I’m no quitter",
+      "quitters never win"
+    ],
+    "related_words": [
+      {
+        "word": "defeatist",
+        "type": "noun",
+        "definition": {
+          "chinese": "失败主义者（过早认输的人）",
+          "english": "Someone who expects or accepts failure too easily."
+        }
+      },
+      {
+        "word": "loser",
+        "type": "noun",
+        "definition": {
+          "chinese": "失败者，无能的人",
+          "english": "An unsuccessful person, often used insultingly."
+        }
+      },
+      {
+        "word": "slacker",
+        "type": "noun",
+        "definition": {
+          "chinese": "偷懒的人，懒散的人",
+          "english": "A lazy person who avoids work or effort."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气色彩",
+        "explanation": "‘quitter’ 是强烈的贬义词，常用于口语激励或批评，有时带有情绪色彩。"
+      },
+      {
+        "point": "常见格言",
+        "explanation": "英语里有激励性的说法：‘Quitters never win, and winners never quit.’（放弃者永不胜利，胜利者从不放弃。）"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘quitter’ 来自动词 quit（放弃）+ -er（表示人），原本意思就是“放弃的人”，没有其他本义，只是随着语境带上了贬义。",
+      "explanation_english": "Formed from 'quit' + '-er'. The meaning has always been ‘a person who quits’. The negative connotation is inherent, not a later extension."
+    },
+    "variation_between_british_american": {
+      "british": "英式发音 /ˈkwɪtə/，用法与美式一致。常见于非正式口语。",
+      "american": "美式发音 /ˈkwɪtər/，在美国口语里更常用，尤其在体育、学校或团队语境中。"
+    }
   }
+
 ]
 
 
