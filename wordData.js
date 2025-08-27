@@ -693,7 +693,7 @@ const wordData = [
     "related_words": [
       {
         "word": "and so on",
-        "type": "phrase",
+        "type": "word",
         "definition": { "chinese": "等等", "english": "And other things of the same kind." },
         "examples": [
           { "sentence": "They sell books, magazines, and so on.", "translation": "他们销售书籍、杂志等等。" }
@@ -711,7 +711,7 @@ const wordData = [
     "usage": "常用 👍：表示一组或一套相关物品。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": { "chinese": "一套", "english": "A group of related things that belong together." },
         "examples": [
           { "sentence": "I bought a set of tools.", "translation": "我买了一套工具。" }
@@ -810,7 +810,7 @@ const wordData = [
     "usage": "常用 👍：指事物的整体情况或长期视角。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": { "chinese": "全貌；全局", "english": "The overall perspective or objective of a situation." },
         "examples": [
           { "sentence": "We need to focus on the big picture.", "translation": "我们需要关注整体情况。" }
@@ -1718,7 +1718,7 @@ const wordData = [
     "usage": "常用 👍：用于表达某人做某事很友善、体贴。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "（某人做某事）真好",
           "english": "Used to acknowledge that someone's action is kind or considerate."
@@ -1734,7 +1734,7 @@ const wordData = [
     "related_words": [
       {
         "word": "kind of",
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "有点",
           "english": "Somewhat; rather."
@@ -1766,7 +1766,7 @@ const wordData = [
     "usage": "常用 👍：表示充满……的状态。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "充满……",
           "english": "Filled or overflowing with something."
@@ -1777,7 +1777,7 @@ const wordData = [
       }
     ],
     "related_words": [
-      { "word": "filled with", "type": "phrase", "definition": { "chinese": "充满", "english": "Containing as much as possible." }, "examples": [{ "sentence": "The room was filled with smoke.", "translation": "房间里充满了烟。" }] }
+      { "word": "filled with", "type": "word", "definition": { "chinese": "充满", "english": "Containing as much as possible." }, "examples": [{ "sentence": "The room was filled with smoke.", "translation": "房间里充满了烟。" }] }
     ],
     "notes": [
       { "point": "搭配", "explanation": "常与可数或不可数名词连用。" }
@@ -1797,10 +1797,10 @@ const wordData = [
     "phrase_type": "phrase 短语 (adjective + preposition)",
     "usage": "常用 👍：用来比较两者之间的差异。",
     "meanings": [
-      { "type": "phrase", "definition": { "chinese": "不同于……", "english": "Not the same as someone or something else." }, "examples": [{ "sentence": "Your idea is different from mine.", "translation": "你的想法和我的不同。" }] }
+      { "type": "word", "definition": { "chinese": "不同于……", "english": "Not the same as someone or something else." }, "examples": [{ "sentence": "Your idea is different from mine.", "translation": "你的想法和我的不同。" }] }
     ],
     "related_words": [
-      { "word": "different to", "type": "phrase", "definition": { "chinese": "不同于（英式变体）", "english": "UK variant of 'different from'." }, "examples": [{ "sentence": "This is different to what I expected.", "translation": "这和我预期的不一样。" }] }
+      { "word": "different to", "type": "word", "definition": { "chinese": "不同于（英式变体）", "english": "UK variant of 'different from'." }, "examples": [{ "sentence": "This is different to what I expected.", "translation": "这和我预期的不一样。" }] }
     ],
     "notes": [{ "point": "区域差异", "explanation": "英式有时说 'different to' 或 'different from'；美式主要 'different from'。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "形容词 ‘different’ 与介词 ‘from’ 组合，未延伸新义。", "explanation_english": "Combines adjective 'different' with 'from'; no semantic extension. " },
@@ -1811,8 +1811,8 @@ const wordData = [
     "pronunciation": { "british": "/ˈæŋɡri əˈbaʊt/ 🇬🇧", "american": "/ˈæŋɡri əˈbaʊt/ 🇺🇸" },
     "phrase_type": "phrase 短语 (adjective + preposition)",
     "usage": "常用 👍：表达对某事生气。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "因……而生气", "english": "Feeling anger about something." }, "examples": [{ "sentence": "She was angry about the delay.", "translation": "她因延误而生气。" }] }],
-    "related_words": [{ "word": "angry with", "type": "phrase", "definition": { "chinese": "对……生气 (针对人)", "english": "Feeling anger toward someone." }, "examples": [{ "sentence": "He’s angry with his friend.", "translation": "他在责怪他的朋友。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "因……而生气", "english": "Feeling anger about something." }, "examples": [{ "sentence": "She was angry about the delay.", "translation": "她因延误而生气。" }] }],
+    "related_words": [{ "word": "angry with", "type": "word", "definition": { "chinese": "对……生气 (针对人)", "english": "Feeling anger toward someone." }, "examples": [{ "sentence": "He’s angry with his friend.", "translation": "他在责怪他的朋友。" }] }],
     "notes": [{ "point": "搭配", "explanation": "angry about 后接事物；angry with 后接人。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "基于形容词 angry 与不同介词搭配生成不同用法。", "explanation_english": "Different prepositions with 'angry' produce distinct meanings. " },
     "variation_between_british_american": { "british": "一致。", "american": "一致。" }
@@ -1822,9 +1822,9 @@ const wordData = [
     "pronunciation": { "british": "/ˈæŋɡri wɪð/ 🇬🇧", "american": "/ˈæŋɡri wɪð/ 🇺🇸" },
     "phrase_type": "phrase 短语 (adjective + preposition)",
     "usage": "常用 👍：表达对某人生气。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "对……生气", "english": "Feeling anger toward someone." }, "examples": [{ "sentence": "I'm angry with you.", "translation": "我对你很生气。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "对……生气", "english": "Feeling anger toward someone." }, "examples": [{ "sentence": "I'm angry with you.", "translation": "我对你很生气。" }] }],
     "related_words": [
-      { "word": "angry about", "type": "phrase", "definition": { "chinese": "因……而生气", "english": "Feeling anger about something." }, "examples": [{ "sentence": "They were angry about the decision.", "translation": "他们对这个决定感到愤怒。" }] }
+      { "word": "angry about", "type": "word", "definition": { "chinese": "因……而生气", "english": "Feeling anger about something." }, "examples": [{ "sentence": "They were angry about the decision.", "translation": "他们对这个决定感到愤怒。" }] }
     ],
     "notes": [{ "point": "搭配", "explanation": "angry with 后接人，强调关系；angry about 后接事。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "见 'angry about' 条目。", "explanation_english": "See 'angry about'." },
@@ -1835,8 +1835,8 @@ const wordData = [
     "pronunciation": { "british": "/əˈfreɪd əv/ 🇬🇧", "american": "/əˈfreɪd əv/ 🇺🇸" },
     "phrase_type": "phrase 短语 (adjective + preposition)",
     "usage": "常用 👍：表示害怕某物或做某事。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "害怕……", "english": "Feeling fear of something or doing something." }, "examples": [{ "sentence": "She’s afraid of spiders.", "translation": "她害怕蜘蛛。" }] }],
-    "related_words": [{ "word": "scared of", "type": "phrase", "definition": { "chinese": "害怕", "english": "Informal variant of 'afraid of'." }, "examples": [{ "sentence": "He's scared of heights.", "translation": "他怕高。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "害怕……", "english": "Feeling fear of something or doing something." }, "examples": [{ "sentence": "She’s afraid of spiders.", "translation": "她害怕蜘蛛。" }] }],
+    "related_words": [{ "word": "scared of", "type": "word", "definition": { "chinese": "害怕", "english": "Informal variant of 'afraid of'." }, "examples": [{ "sentence": "He's scared of heights.", "translation": "他怕高。" }] }],
     "notes": [{ "point": "语气差异", "explanation": "scared of 更口语化，afraid of 正式稍强。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "原为形容词 afraid 与介词 of 搭配，无延伸义。", "explanation_english": "Adjective 'afraid' plus 'of'; no semantic extension. " },
     "variation_between_british_american": { "british": "一致。", "american": "一致。" }
@@ -1874,8 +1874,8 @@ const wordData = [
     "pronunciation": { "british": "/fed ʌp/ 🇬🇧", "american": "/fed ʌp/ 🇺🇸" },
     "phrase_type": "phrase 短语 (adjective)",
     "usage": "常用 👍：表示对某事或某人厌烦、厌倦。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "厌烦的，受够了", "english": "Annoyed or upset at a situation to the point of no longer tolerating it." }, "examples": [{ "sentence": "I’m fed up with the noise.", "translation": "我受够了这些噪音。" }] }],
-    "related_words": [{ "word": "tired of", "type": "phrase", "definition": { "chinese": "对……厌倦", "english": "Weary of something." }, "examples": [{ "sentence": "She’s tired of waiting.", "translation": "她厌倦了等待。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "厌烦的，受够了", "english": "Annoyed or upset at a situation to the point of no longer tolerating it." }, "examples": [{ "sentence": "I’m fed up with the noise.", "translation": "我受够了这些噪音。" }] }],
+    "related_words": [{ "word": "tired of", "type": "word", "definition": { "chinese": "对……厌倦", "english": "Weary of something." }, "examples": [{ "sentence": "She’s tired of waiting.", "translation": "她厌倦了等待。" }] }],
     "notes": [{ "point": "语气", "explanation": "口语强烈，表达不耐烦。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "短语由动词 feed 和副词 up 组成，表示 '喂饱'，引申为 '对……不再有耐心'。", "explanation_english": "Originally 'feed up' meaning to fill, later used figuratively to express having no more patience." },
     "variation_between_british_american": { "british": "非常常用。", "american": "同样常用，但有时更口语化。" }
@@ -1965,8 +1965,8 @@ const wordData = [
     "pronunciation": { "british": "/ɪn stɒk/ 🇬🇧", "american": "/ɪn stɑːk/ 🇺🇸" },
     "phrase_type": "phrase 短语 (adjective phrase)",
     "usage": "常用 👍：表示商品有库存，可立即购买。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "有库存；现货", "english": "Available for sale from current inventory." }, "examples": [{ "sentence": "The item is in stock and ships today.", "translation": "该商品有库存，今日发货。" }] }],
-    "related_words": [{ "word": "out of stock", "type": "phrase", "definition": { "chinese": "无库存；缺货", "english": "Unavailable because all inventory is sold." }, "examples": [{ "sentence": "Sorry, this is currently out of stock.", "translation": "抱歉，该商品目前缺货。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "有库存；现货", "english": "Available for sale from current inventory." }, "examples": [{ "sentence": "The item is in stock and ships today.", "translation": "该商品有库存，今日发货。" }] }],
+    "related_words": [{ "word": "out of stock", "type": "word", "definition": { "chinese": "无库存；缺货", "english": "Unavailable because all inventory is sold." }, "examples": [{ "sentence": "Sorry, this is currently out of stock.", "translation": "抱歉，该商品目前缺货。" }] }],
     "notes": [{ "point": "零售用语", "explanation": "常见于电商和实体店公告。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "固定搭配，无其他延伸义。", "explanation_english": "Fixed phrase limited to inventory context." },
     "variation_between_british_american": { "british": "用 ‘stock’ 发音更靠后。", "american": "发音更靠前，但含义一致。" }
@@ -1998,7 +1998,7 @@ const wordData = [
     "pronunciation": { "british": "/ˈkɒf swiːts/ 🇬🇧", "american": "/ˈkɔːf swiːts/ 🇺🇸" },
     "phrase_type": "noun phrase 名词短语",
     "usage": "常用 👍（英式）：指缓解咳嗽的含片；美式更常说 'cough drops'.",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "止咳含片", "english": "Lozenges used to soothe coughing and throat irritation." }, "examples": [{ "sentence": "I bought some cough sweets at the pharmacy.", "translation": "我在药店买了一些止咳含片。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "止咳含片", "english": "Lozenges used to soothe coughing and throat irritation." }, "examples": [{ "sentence": "I bought some cough sweets at the pharmacy.", "translation": "我在药店买了一些止咳含片。" }] }],
     "related_words": [{ "word": "cough drop", "type": "noun phrase", "definition": { "chinese": "止咳糖", "english": "American term for cough sweets." }, "examples": [{ "sentence": "I always keep cough drops in my bag.", "translation": "我总是在包里放止咳糖。" }] }],
     "notes": [{ "point": "区域用法", "explanation": "英国常用 'cough sweets'；美国多用 'cough drops'." }],
     "origin_of_multiple_meanings": { "explanation_chinese": "固定搭配，直接描述用途，无延伸义。", "explanation_english": "Compound phrase describing product use; no semantic extension." },
@@ -2064,7 +2064,7 @@ const wordData = [
     "pronunciation": { "british": "/ˈkriːm fɪld/ 🇬🇧", "american": "/ˈkriːm fɪld/ 🇺🇸" },
     "phrase_type": "adjective phrase 形容词短语",
     "usage": "常用 👍：描述糕点或糖果中填充奶油的特征。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "填充奶油的", "english": "Filled or stuffed with cream." }, "examples": [{ "sentence": "She bought some cream-filled donuts.", "translation": "她买了一些奶油甜甜圈。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "填充奶油的", "english": "Filled or stuffed with cream." }, "examples": [{ "sentence": "She bought some cream-filled donuts.", "translation": "她买了一些奶油甜甜圈。" }] }],
     "related_words": [{ "word": "jam-filled", "type": "adjective phrase", "definition": { "chinese": "填充果酱的", "english": "Filled with jam." }, "examples": [{ "sentence": "These are jam-filled pastries.", "translation": "这些是果酱馅的糕点。" }] }],
     "notes": [{ "point": "构词", "explanation": "由名词 cream 和过去分词 filled 构成。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "固定描述短语，无额外义项。", "explanation_english": "Fixed descriptive phrase; no semantic extension." },
@@ -2087,7 +2087,7 @@ const wordData = [
     "usage": "常用 👍：描述食物高热量、不健康。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": { "chinese": "高热量的；富含卡路里", "english": "Containing a large number of calories, often implying unhealthy richness." },
         "examples": [
           { "sentence": "That milkshake is really calorie-laden.", "translation": "那个奶昔真的热量很高。" }
@@ -2594,7 +2594,7 @@ const wordData = [
     "pronunciation": { "british": "/ˌfɪleɪ miˈnjɒ̃/ 🇬🇧", "american": "/ˌfɪleɪ miˈnjɔːn/ 🇺🇸" },
     "phrase_type": "noun phrase 名词短语",
     "usage": "常用 👍：菲力牛排；上等牛柳。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "菲力牛排；嫩牛柳", "english": "A tender cut of beef taken from the smaller end of the tenderloin." }, "examples": [{ "sentence": "She ordered the filet mignon with sauce.", "translation": "她点了配酱的菲力牛排。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "菲力牛排；嫩牛柳", "english": "A tender cut of beef taken from the smaller end of the tenderloin." }, "examples": [{ "sentence": "She ordered the filet mignon with sauce.", "translation": "她点了配酱的菲力牛排。" }] }],
     "related_words": [{ "word": "ribeye", "type": "noun", "definition": { "chinese": "肋眼牛排", "english": "A cut of beef from the rib section." }, "examples": [{ "sentence": "Ribeye has more marbling than filet mignon.", "translation": "肋眼牛排比菲力牛排大理石纹更多。" }] }],
     "notes": [{ "point": "美食术语", "explanation": "源自法语，常见于西餐菜单。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "法语短语，原义同现。", "explanation_english": "French phrase; fixed culinary term." },
@@ -2605,8 +2605,8 @@ const wordData = [
     "pronunciation": { "british": "/aɪv hæd ɪn ə lɒŋ taɪm/ 🇬🇧", "american": "/aɪv hæd ɪn ə lɔːŋ taɪm/ 🇺🇸" },
     "phrase_type": "phrase 短语",
     "usage": "常用 👍：用于强调久违的经历或享受。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "好久没……了", "english": "Expresses that one experienced or enjoyed something not done for a long time." }, "examples": [{ "sentence": "This is the best coffee I've had in a long time.", "translation": "这是我很久以来喝到的最好咖啡。" }] }],
-    "related_words": [{ "word": "in ages", "type": "phrase", "definition": { "chinese": "很久", "english": "For a very long time." }, "examples": [{ "sentence": "I haven't seen her in ages.", "translation": "我好久没见到她了。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "好久没……了", "english": "Expresses that one experienced or enjoyed something not done for a long time." }, "examples": [{ "sentence": "This is the best coffee I've had in a long time.", "translation": "这是我很久以来喝到的最好咖啡。" }] }],
+    "related_words": [{ "word": "in ages", "type": "word", "definition": { "chinese": "很久", "english": "For a very long time." }, "examples": [{ "sentence": "I haven't seen her in ages.", "translation": "我好久没见到她了。" }] }],
     "notes": [{ "point": "惯用表达", "explanation": "强调时通常放句末。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "固定口语表达，无多义。", "explanation_english": "Fixed colloquial phrase; no semantic extension." },
     "variation_between_british_american": { "british": "用法一致。", "american": "同上。" }
@@ -2638,8 +2638,8 @@ const wordData = [
     "pronunciation": { "british": "/ˈsɒri fɔː/ 🇬🇧", "american": "/ˈsɔːri fɔːr/ 🇺🇸" },
     "phrase_type": "phrase 短语 (adjective + preposition)",
     "usage": "常用 👍：对……感到抱歉，常因同情或歉意。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "为……感到抱歉", "english": "Feeling regret or sympathy for something." }, "examples": [{ "sentence": "I’m sorry for your loss.", "translation": "对你的损失我深表遗憾。" }] }],
-    "related_words": [{ "word": "sorry about", "type": "phrase", "definition": { "chinese": "对……感到抱歉", "english": "Feeling regret about an event or situation." }, "examples": [{ "sentence": "I’m sorry about the delay.", "translation": "对延误我感到抱歉。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "为……感到抱歉", "english": "Feeling regret or sympathy for something." }, "examples": [{ "sentence": "I’m sorry for your loss.", "translation": "对你的损失我深表遗憾。" }] }],
+    "related_words": [{ "word": "sorry about", "type": "word", "definition": { "chinese": "对……感到抱歉", "english": "Feeling regret about an event or situation." }, "examples": [{ "sentence": "I’m sorry about the delay.", "translation": "对延误我感到抱歉。" }] }],
     "notes": [{ "point": "搭配区别", "explanation": "sorry for 多指对人或同情，sorry about 多指对事。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "由形容词 sorry 与不同介词搭配，无多义延伸。", "explanation_english": "Adjective 'sorry' plus 'for'; fixed sense change by preposition." },
     "variation_between_british_american": { "british": "两地用法一致。", "american": "同上。" }
@@ -2649,8 +2649,8 @@ const wordData = [
     "pronunciation": { "british": "/ˈsɒri əˈbaʊt/ 🇬🇧", "american": "/ˈsɔːri əˈbaʊt/ 🇺🇸" },
     "phrase_type": "phrase 短语 (adjective + preposition)",
     "usage": "常用 👍：对……表示遗憾，通常指对事件或情况。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "对……感到抱歉或遗憾", "english": "Feeling regret regarding an event or situation." }, "examples": [{ "sentence": "I’m sorry about missing your call.", "translation": "很抱歉错过了你的来电。" }] }],
-    "related_words": [{ "word": "sorry for", "type": "phrase", "definition": { "chinese": "为……感到抱歉", "english": "Feeling sympathy or regret for someone." }, "examples": [{ "sentence": "I'm sorry for him.", "translation": "我为他感到难过。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "对……感到抱歉或遗憾", "english": "Feeling regret regarding an event or situation." }, "examples": [{ "sentence": "I’m sorry about missing your call.", "translation": "很抱歉错过了你的来电。" }] }],
+    "related_words": [{ "word": "sorry for", "type": "word", "definition": { "chinese": "为……感到抱歉", "english": "Feeling sympathy or regret for someone." }, "examples": [{ "sentence": "I'm sorry for him.", "translation": "我为他感到难过。" }] }],
     "notes": [{ "point": "搭配区别", "explanation": "见 ‘sorry for’ 条目。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "见 ‘sorry for’。", "explanation_english": "See entry 'sorry for'." },
     "variation_between_british_american": { "british": "用法一致。", "american": "同上。" }
@@ -2660,8 +2660,8 @@ const wordData = [
     "pronunciation": { "british": "/bi: kaɪnd tu:/ 🇬🇧", "american": "/bi kaɪnd tu:/ 🇺🇸" },
     "phrase_type": "phrase 短语 (verb + preposition)",
     "usage": "常用 👍：对……友好、仁慈。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "对……友好", "english": "To treat someone with kindness." }, "examples": [{ "sentence": "Please be kind to the new students.", "translation": "请对新生友善些。" }] }],
-    "related_words": [{ "word": "be nice to", "type": "phrase", "definition": { "chinese": "对……好", "english": "To behave pleasantly or well towards someone." }, "examples": [{ "sentence": "Be nice to your siblings.", "translation": "对你的兄弟姐妹好点。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "对……友好", "english": "To treat someone with kindness." }, "examples": [{ "sentence": "Please be kind to the new students.", "translation": "请对新生友善些。" }] }],
+    "related_words": [{ "word": "be nice to", "type": "word", "definition": { "chinese": "对……好", "english": "To behave pleasantly or well towards someone." }, "examples": [{ "sentence": "Be nice to your siblings.", "translation": "对你的兄弟姐妹好点。" }] }],
     "notes": [{ "point": "语气区别", "explanation": "kind 强调善良；nice 强调礼貌和愉快。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "kind 和 preposition to 结合，无多义。", "explanation_english": "Adjective 'kind' plus 'to'; fixed sense." },
     "variation_between_british_american": { "british": "两地用法一致。", "american": "同上。" }
@@ -2671,8 +2671,8 @@ const wordData = [
     "pronunciation": { "british": "/bi: naɪs tu:/ 🇬🇧", "american": "/bi naɪs tu:/ 🇺🇸" },
     "phrase_type": "phrase 短语 (verb + preposition)",
     "usage": "常用 👍：对……友好、礼貌。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "对……好；礼貌对待", "english": "To treat someone pleasantly or well." }, "examples": [{ "sentence": "Be nice to your neighbors.", "translation": "对你的邻居友好些。" }] }],
-    "related_words": [{ "word": "be kind to", "type": "phrase", "definition": { "chinese": "对……仁慈", "english": "To treat someone with generosity and care." }, "examples": [{ "sentence": "Be kind to animals.", "translation": "对动物要有爱心。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "对……好；礼貌对待", "english": "To treat someone pleasantly or well." }, "examples": [{ "sentence": "Be nice to your neighbors.", "translation": "对你的邻居友好些。" }] }],
+    "related_words": [{ "word": "be kind to", "type": "word", "definition": { "chinese": "对……仁慈", "english": "To treat someone with generosity and care." }, "examples": [{ "sentence": "Be kind to animals.", "translation": "对动物要有爱心。" }] }],
     "notes": [{ "point": "语气区别", "explanation": "nice 偏礼貌；kind 偏慈悲。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "见 ‘be kind to’。", "explanation_english": "See entry 'be kind to'." },
     "variation_between_british_american": { "british": "两地用法一致。", "american": "同上。" }
@@ -2695,7 +2695,7 @@ const wordData = [
     "pronunciation": { "british": "/ˌniː ˈdʒɜːk/ 🇬🇧", "american": "/ˌniː ˈdʒɜːrk/ 🇺🇸" },
     "phrase_type": "adjective phrase 形容词短语",
     "usage": "常用 👍：条件反射的；本能的。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "条件反射的；本能的", "english": "Done automatically without careful thought." }, "examples": [{ "sentence": "He had a knee-jerk reaction to the suggestion.", "translation": "他对这个建议做出了条件反射式的反应。" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "条件反射的；本能的", "english": "Done automatically without careful thought." }, "examples": [{ "sentence": "He had a knee-jerk reaction to the suggestion.", "translation": "他对这个建议做出了条件反射式的反应。" }] }],
     "related_words": [{ "word": "automatic", "type": "adjective", "definition": { "chinese": "自动的；不假思索的", "english": "Done by itself without deliberate control." }, "examples": [{ "sentence": "His response was almost automatic.", "translation": "他的反应几乎是自动的。" }] }],
     "notes": [{ "point": "比喻用法", "explanation": "常用于形容人对事物的迅速、本能反应。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "源自医学术语膝跳反射，延伸为本能动作。", "explanation_english": "From medical term for patellar reflex; extended to instinctive reactions." },
@@ -2936,8 +2936,8 @@ const wordData = [
     "pronunciation": { "british": "/ɪn tɜːmz əv/ 🇬🇧", "american": "/ɪn tɜːrmz əv/ 🇺🇸" },
     "phrase_type": "phrase 短语",
     "usage": "常用 👍：就……而言；在……方面。",
-    "meanings": [{ "type": "phrase", "definition": { "chinese": "在……方面；从……角度来说", "english": "With regard to the particular aspect or subject mentioned." }, "examples": [{ "sentence": "In terms of cost, this is cheaper.", "translation": "就成本而言，这个更便宜。" }] }],
-    "related_words": [{ "word": "with regard to", "type": "phrase", "definition": { "chinese": "关于；就……而言", "english": "Concerning or relating to." }, "examples": [{ "sentence": "With regard to your question...", "translation": "关于你的问题……" }] }],
+    "meanings": [{ "type": "word", "definition": { "chinese": "在……方面；从……角度来说", "english": "With regard to the particular aspect or subject mentioned." }, "examples": [{ "sentence": "In terms of cost, this is cheaper.", "translation": "就成本而言，这个更便宜。" }] }],
+    "related_words": [{ "word": "with regard to", "type": "word", "definition": { "chinese": "关于；就……而言", "english": "Concerning or relating to." }, "examples": [{ "sentence": "With regard to your question...", "translation": "关于你的问题……" }] }],
     "notes": [{ "point": "用法", "explanation": "常用于正式或书面表达。" }],
     "origin_of_multiple_meanings": { "explanation_chinese": "固定介词短语，无多义。", "explanation_english": "Fixed prepositional phrase; no extended senses." },
     "variation_between_british_american": { "british": "两地用法一致。", "american": "同上。" }
@@ -3136,7 +3136,7 @@ const wordData = [
     "phrase_type": "noun phrase 名词短语",
     "usage": "常用 👍（英式）：马克笔；毛毡笔。",
     "meanings": [
-      { "type": "phrase", "definition": { "chinese": "记号笔；毛毡笔", "english": "A pen with a felt tip for writing or drawing." }, "examples": [{ "sentence": "She drew a picture with a felt pen.", "translation": "她用记号笔画了一幅画。" }] }
+      { "type": "word", "definition": { "chinese": "记号笔；毛毡笔", "english": "A pen with a felt tip for writing or drawing." }, "examples": [{ "sentence": "She drew a picture with a felt pen.", "translation": "她用记号笔画了一幅画。" }] }
     ],
     "related_words": [{ "word": "marker", "type": "noun", "definition": { "chinese": "标记笔；记号笔", "english": "A pen with a broad tip for marking surfaces." }, "examples": [{ "sentence": "Use a marker to write on the board.", "translation": "用记号笔在板上写字。" }] }],
     "notes": [{ "point": "区域差异", "explanation": "美国一般说 'marker' 或 'felt-tip pen'." }],
@@ -3297,10 +3297,10 @@ const wordData = [
     phrase_type: "phrase 短语",
     usage: "常用 👍：现成的；非定制的。",
     meanings: [
-      { type: "phrase", definition: { chinese: "现成的；非定制的", english: "Ready-made and available for immediate purchase; not tailored." }, examples: [{ sentence: "She bought an off-the-rack dress.", translation: "她买了一件现成的连衣裙。" }] }
+      { type: "word", definition: { chinese: "现成的；非定制的", english: "Ready-made and available for immediate purchase; not tailored." }, examples: [{ sentence: "She bought an off-the-rack dress.", translation: "她买了一件现成的连衣裙。" }] }
     ],
     related_words: [
-      { word: "custom-made", type: "phrase", definition: { chinese: "定制的", english: "Made to order according to specific measurements or requirements." }, examples: [{ sentence: "He wore a custom-made suit.", translation: "他穿着定制西装。" }] }
+      { word: "custom-made", type: "word", definition: { chinese: "定制的", english: "Made to order according to specific measurements or requirements." }, examples: [{ sentence: "He wore a custom-made suit.", translation: "他穿着定制西装。" }] }
     ],
     notes: [{ point: "零售", explanation: "常见于服装和家具领域。" }],
     origin_of_multiple_meanings: { explanation_chinese: "来源于商品陈列架；固定表达。", explanation_english: "From items displayed on racks; figurative sense for ready-made." },
@@ -3446,7 +3446,7 @@ const wordData = [
     usage: "常用 👍：表示商品正在打折促销中。",
     meanings: [
       {
-        type: "phrase",
+        type: "word",
         definition: { chinese: "在打折中", english: "Being offered at a reduced price as part of a sale." },
         examples: [
           { sentence: "I bought this jacket in the sale.", translation: "我这件夹克是打折时买的。" }
@@ -3454,7 +3454,7 @@ const wordData = [
       }
     ],
     related_words: [
-      { word: "on sale", type: "phrase", definition: { chinese: "在特价", english: "Being sold at a discounted price." }, examples: [] }
+      { word: "on sale", type: "word", definition: { chinese: "在特价", english: "Being sold at a discounted price." }, examples: [] }
     ],
     notes: [{ point: "表达差异", explanation: "‘in the sale’ 英式更常见，‘on sale’ 为美式表达。" }],
     origin_of_multiple_meanings: { explanation_chinese: "固定表达，源自商业活动语境。", explanation_english: "A fixed expression from commercial and retail context." },
@@ -3467,7 +3467,7 @@ const wordData = [
     usage: "常用 👍：表达感谢和喜悦，用于某人让你心情大好。",
     meanings: [
       {
-        type: "phrase",
+        type: "word",
         definition: { chinese: "你让我今天过得很开心", english: "Used to express that someone has made you very happy." },
         examples: [
           { sentence: "Thanks for the surprise — you've made my day!", translation: "谢谢你的惊喜 —— 你让我今天很开心！" }
@@ -3551,7 +3551,7 @@ const wordData = [
     usage: "常用 👍：表示某人对某事负有责任或应承担后果。",
     meanings: [
       {
-        type: "phrase",
+        type: "word",
         definition: { chinese: "对…负责", english: "To have control over or care for something and be able to answer for it." },
         examples: [
           { sentence: "Parents are responsible for their children's safety.", translation: "父母对孩子的安全负有责任。" }
@@ -3559,7 +3559,7 @@ const wordData = [
       }
     ],
     related_words: [
-      { word: "in charge of", type: "phrase", definition: { chinese: "主管", english: "Having control or command over something." }, examples: [] }
+      { word: "in charge of", type: "word", definition: { chinese: "主管", english: "Having control or command over something." }, examples: [] }
     ],
     notes: [{ point: "工作与法律", explanation: "用于职责、义务、道德责任等语境。" }],
     origin_of_multiple_meanings: { explanation_chinese: "短语由‘responsible’派生，表示义务承担。", explanation_english: "Derived from ‘responsible’, expressing duty or obligation." },
@@ -3572,7 +3572,7 @@ const wordData = [
     usage: "常用 👍：表示商品正在打折促销中。",
     meanings: [
       {
-        type: "phrase",
+        type: "word",
         definition: { chinese: "在打折中", english: "Being offered at a reduced price as part of a sale." },
         examples: [
           { sentence: "I bought this jacket in the sale.", translation: "我这件夹克是打折时买的。" }
@@ -3580,7 +3580,7 @@ const wordData = [
       }
     ],
     related_words: [
-      { word: "on sale", type: "phrase", definition: { chinese: "在特价", english: "Being sold at a discounted price." }, examples: [] }
+      { word: "on sale", type: "word", definition: { chinese: "在特价", english: "Being sold at a discounted price." }, examples: [] }
     ],
     notes: [{ point: "表达差异", explanation: "‘in the sale’ 英式更常见，‘on sale’ 为美式表达。" }],
     origin_of_multiple_meanings: { explanation_chinese: "固定表达，源自商业活动语境。", explanation_english: "A fixed expression from commercial and retail context." },
@@ -3593,7 +3593,7 @@ const wordData = [
     usage: "常用 👍：表达感谢和喜悦，用于某人让你心情大好。",
     meanings: [
       {
-        type: "phrase",
+        type: "word",
         definition: { chinese: "你让我今天过得很开心", english: "Used to express that someone has made you very happy." },
         examples: [
           { sentence: "Thanks for the surprise — you've made my day!", translation: "谢谢你的惊喜 —— 你让我今天很开心！" }
@@ -3677,7 +3677,7 @@ const wordData = [
     usage: "常用 👍：表示某人对某事负有责任或应承担后果。",
     meanings: [
       {
-        type: "phrase",
+        type: "word",
         definition: { chinese: "对…负责", english: "To have control over or care for something and be able to answer for it." },
         examples: [
           { sentence: "Parents are responsible for their children's safety.", translation: "父母对孩子的安全负有责任。" }
@@ -3685,7 +3685,7 @@ const wordData = [
       }
     ],
     related_words: [
-      { word: "in charge of", type: "phrase", definition: { chinese: "主管", english: "Having control or command over something." }, examples: [] }
+      { word: "in charge of", type: "word", definition: { chinese: "主管", english: "Having control or command over something." }, examples: [] }
     ],
     notes: [{ point: "工作与法律", explanation: "用于职责、义务、道德责任等语境。" }],
     origin_of_multiple_meanings: { explanation_chinese: "短语由‘responsible’派生，表示义务承担。", explanation_english: "Derived from ‘responsible’, expressing duty or obligation." },
@@ -4455,7 +4455,7 @@ const wordData = [
     "usage": "常用 👍：用于说明返回途中会顺便做某事。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "在我返回的路上",
           "english": "While returning from somewhere."
@@ -4471,7 +4471,7 @@ const wordData = [
     "related_words": [
       {
         "word": "on the way",
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "在路上",
           "english": "While going somewhere."
@@ -4656,7 +4656,7 @@ const wordData = [
     "usage": "常用 👍：用于指示只带自己，不带他人。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "独自来",
           "english": "To arrive by oneself, without company."
@@ -5411,7 +5411,7 @@ const wordData = [
     "usage": "常用 👍：用于表示某个整体中的一员或其中之一。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "……之一",
           "english": "Used to indicate a single member or item within a larger group."
@@ -6091,7 +6091,7 @@ const wordData = [
     "usage": "常用 👍：指困境中的一线希望。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "（坏事的）好的一面",
           "english": "A hopeful or positive aspect in an otherwise negative situation."
@@ -7589,7 +7589,7 @@ const wordData = [
     "usage": "常用 👍：指快速反应和机智应对。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "临场反应",
           "english": "To respond quickly and effectively without preplanning."
@@ -7637,7 +7637,7 @@ const wordData = [
     "usage": "常用 👍：指可选的一种做法。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "一种行动方案",
           "english": "A possible plan or method to achieve something."
@@ -7685,7 +7685,7 @@ const wordData = [
     "usage": "常用 👍：指表明立场或态度。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "表明立场",
           "english": "To state your opinion or position firmly."
@@ -8365,7 +8365,7 @@ const wordData = [
     "usage": "常用 👍：表示各式各样的……",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "各种各样的",
           "english": "Various kinds or types of something."
@@ -8731,7 +8731,7 @@ const wordData = [
     "usage": "常用 👍：指零星的少量……",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "零星的；偶尔的",
           "english": "Small or occasional amounts of something."
@@ -9782,7 +9782,7 @@ const wordData = [
     "usage": "常用 👍：指记忆犹新。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "仿佛就在昨天",
           "english": "As if something happened very recently."
@@ -10134,7 +10134,7 @@ const wordData = [
     "usage": "非常常用 👍：表示独自完成或独自存在。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "独自；靠自己",
           "english": "By oneself; without help from others."
@@ -10182,7 +10182,7 @@ const wordData = [
     "usage": "正式/学术 👍：描述持续大量信息或消息的涌入。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "持续不断的沟通涌入",
           "english": "A continual and heavy flow of messages or information."
@@ -11350,7 +11350,7 @@ const wordData = [
     "related_words": [
       {
         "word": "come at a cost",
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "需要付出代价",
           "english": "To involve some kind of loss or sacrifice."
@@ -11358,7 +11358,7 @@ const wordData = [
       },
       {
         "word": "pay the price",
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "为某事付出代价",
           "english": "To suffer as a result of an action or decision."
@@ -13544,7 +13544,7 @@ const wordData = [
     "usage": "常用 👍：用于比较，表示‘在…方面不同于…’，结构中 ‘...’ 代表具体比较的方面或属性。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "在某方面不同于…",
           "english": "Different in a particular way or aspect compared to something or someone else."
@@ -13571,7 +13571,7 @@ const wordData = [
     "related_words": [
       {
         "word": "different from",
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "不同于",
           "english": "Used to compare two things or people showing they are not the same."
@@ -13579,7 +13579,7 @@ const wordData = [
       },
       {
         "word": "different than",
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "不同于（美式口语）",
           "english": "Alternative to ‘different from’, more common in American English."
@@ -14186,7 +14186,7 @@ const wordData = [
     "usage": "常用 👍：表示连续发生的事情，通常指不间断的次数或天数等。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "连续地；一个接一个地",
           "english": "Happening one after another without interruption."
@@ -15275,7 +15275,7 @@ const wordData = [
     "usage": "常用 👍：日常口语表达‘随便吃点东西’，通常指快速简单地吃饭或小吃。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "随便吃点东西；快速吃一口",
           "english": "To have a quick, informal meal or snack."
@@ -15301,7 +15301,7 @@ const wordData = [
     "related_words": [
       {
         "word": "have a snack",
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "吃点零食",
           "english": "To eat a small amount of food between meals."
@@ -15309,7 +15309,7 @@ const wordData = [
       },
       {
         "word": "bite to eat",
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "随便吃点东西",
           "english": "A small meal or snack."
@@ -17283,7 +17283,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "take guts",
+    "word": "take guts",
     "pronunciation": {
       "british": "/teɪk ɡʌts/ 🇬🇧",
       "american": "/teɪk ɡʌts/ 🇺🇸"
@@ -18102,7 +18102,7 @@ const wordData = [
     "usage": "常用 👍：主要用于法律、咨询等专业领域，表示免费提供专业服务以回馈社会或帮助需要的人。",
     "meanings": [
       {
-        "type": "phrase",
+        "type": "word",
         "definition": {
           "chinese": "无偿的；公益性的",
           "english": "Done for the public good without charging a fee, especially professional work like legal services."
@@ -18312,7 +18312,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "in person",
+    "word": "in person",
     "pronunciation": {
       "british": "/ɪn ˈpɜː.sən/ 🇬🇧",
       "american": "/ɪn ˈpɝː.sən/ 🇺🇸"
@@ -18378,7 +18378,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "caring",
+    "word": "caring",
     "pronunciation": {
       "british": "/ˈkeə.rɪŋ/ 🇬🇧",
       "american": "/ˈker.ɪŋ/ 🇺🇸"
@@ -18468,7 +18468,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "whiskers",
+    "word": "whiskers",
     "pronunciation": {
       "british": "/ˈwɪs.kəz/ 🇬🇧",
       "american": "/ˈwɪs.kərz/ 🇺🇸"
@@ -18554,7 +18554,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "chimney",
+    "word": "chimney",
     "pronunciation": {
       "british": "/ˈtʃɪm.ni/ 🇬🇧",
       "american": "/ˈtʃɪm.ni/ 🇺🇸"
@@ -18644,7 +18644,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "cut back",
+    "word": "cut back",
     "pronunciation": {
       "british": "/kʌt bæk/ 🇬🇧",
       "american": "/kʌt bæk/ 🇺🇸"
@@ -18734,7 +18734,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "dermatologist",
+    "word": "dermatologist",
     "pronunciation": {
       "british": "/ˌdɜː.məˈtɒl.ə.dʒɪst/ 🇬🇧",
       "american": "/ˌdɝː.məˈtɑː.lə.dʒɪst/ 🇺🇸"
@@ -18812,7 +18812,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "purging",
+    "word": "purging",
     "pronunciation": {
       "british": "/ˈpɜː.dʒɪŋ/ 🇬🇧",
       "american": "/ˈpɝː.dʒɪŋ/ 🇺🇸"
@@ -18910,7 +18910,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "purging",
+    "word": "purging",
     "pronunciation": {
       "british": "/ˈpɜː.dʒɪŋ/ 🇬🇧",
       "american": "/ˈpɝː.dʒɪŋ/ 🇺🇸"
@@ -19008,7 +19008,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "clog",
+    "word": "clog",
     "pronunciation": {
       "british": "/klɒɡ/ 🇬🇧",
       "american": "/klɑːɡ/ 🇺🇸"
@@ -19099,7 +19099,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "non-comedogenic",
+    "word": "non-comedogenic",
     "pronunciation": {
       "british": "/ˌnɒn.kəˌmiː.dəˈdʒen.ɪk/ 🇬🇧",
       "american": "/ˌnɑːnˌkoʊ.mi.dəˈdʒen.ɪk/ 🇺🇸"
@@ -19421,7 +19421,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "hurdle",
+    "word": "hurdle",
     "pronunciation": {
       "british": "/ˈhɜː.dl/ 🇬🇧",
       "american": "/ˈhɝː.dl/ 🇺🇸"
@@ -19506,7 +19506,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "wive",
+    "word": "wive",
     "pronunciation": {
       "british": "/waɪv/ 🇬🇧",
       "american": "/waɪv/ 🇺🇸"
@@ -19564,7 +19564,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "a bit sticky",
+    "word": "a bit sticky",
     "pronunciation": {
       "british": "/ə bɪt ˈstɪki/ 🇬🇧",
       "american": "/ə bɪt ˈstɪki/ 🇺🇸"
@@ -19813,7 +19813,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "run in",
+    "word": "run in",
     "pronunciation": {
       "british": "/rʌn ɪn/ 🇬🇧",
       "american": "/rʌn ɪn/ 🇺🇸"
@@ -19897,7 +19897,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "make the most of it",
+    "word": "make the most of it",
     "pronunciation": {
       "british": "/meɪk ðə məʊst əv ɪt/ 🇬🇧",
       "american": "/meɪk ðə moʊst əv ɪt/ 🇺🇸"
@@ -19975,7 +19975,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "well-built",
+    "word": "well-built",
     "pronunciation": {
       "british": "/wel ˈbɪlt/ 🇬🇧",
       "american": "/wel ˈbɪlt/ 🇺🇸"
@@ -20283,7 +20283,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "pickle",
+    "word": "pickle",
     "pronunciation": {
       "british": "/ˈpɪk.l̩/ 🇬🇧",
       "american": "/ˈpɪk.əl/ 🇺🇸"
@@ -20359,7 +20359,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "pass water",
+    "word": "pass water",
     "pronunciation": {
       "british": "/pɑːs ˈwɔː.tə/ 🇬🇧",
       "american": "/pæs ˈwɑː.tɚ/ 🇺🇸"
@@ -20423,7 +20423,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "rug",
+    "word": "rug",
     "pronunciation": {
       "british": "/rʌɡ/ 🇬🇧",
       "american": "/rʌɡ/ 🇺🇸"
@@ -20500,7 +20500,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "fumble",
+    "word": "fumble",
     "pronunciation": {
       "british": "/ˈfʌm.bəl/ 🇬🇧",
       "american": "/ˈfʌm.bəl/ 🇺🇸"
@@ -20577,7 +20577,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "block it out",
+    "word": "block it out",
     "pronunciation": {
       "british": "/blɒk ɪt aʊt/ 🇬🇧",
       "american": "/blɑːk ɪt aʊt/ 🇺🇸"
@@ -20619,7 +20619,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "smack",
+    "word": "smack",
     "pronunciation": {
       "british": "/smæk/ 🇬🇧",
       "american": "/smæk/ 🇺🇸"
@@ -20673,7 +20673,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "load up",
+    "word": "load up",
     "pronunciation": {
       "british": "/ləʊd ʌp/ 🇬🇧",
       "american": "/loʊd ʌp/ 🇺🇸"
@@ -20719,7 +20719,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "jock",
+    "word": "jock",
     "pronunciation": {
       "british": "/dʒɒk/ 🇬🇧",
       "american": "/dʒɑːk/ 🇺🇸"
@@ -20761,7 +20761,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "stationary",
+    "word": "stationary",
     "pronunciation": {
       "british": "/ˈsteɪ.ʃən.əri/ 🇬🇧",
       "american": "/ˈsteɪ.ʃə.ner.i/ 🇺🇸"
@@ -20803,7 +20803,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "stationery",
+    "word": "stationery",
     "pronunciation": {
       "british": "/ˈsteɪ.ʃən.əri/ 🇬🇧",
       "american": "/ˈsteɪ.ʃə.ner.i/ 🇺🇸"
@@ -21373,7 +21373,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "hold up",
+    "word": "hold up",
     "pronunciation": {
       "british": "/həʊld ʌp/ 🇬🇧",
       "american": "/hoʊld ʌp/ 🇺🇸"
@@ -21458,7 +21458,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "homicide",
+    "word": "homicide",
     "pronunciation": {
       "british": "/ˈhɒm.ɪ.saɪd/ 🇬🇧",
       "american": "/ˈhɑː.mə.saɪd/ 🇺🇸"
@@ -21519,7 +21519,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "candor",
+    "word": "candor",
     "pronunciation": {
       "british": "/ˈkæn.də/ 🇬🇧",
       "american": "/ˈkæn.dɚ/ 🇺🇸"
@@ -21581,7 +21581,7 @@ const wordData = [
   },
 
   {
-    "phrase": "karaoke",
+    "word": "karaoke",
     "pronunciation": {
       "british": "/ˌkær.iˈəʊ.ki/ 🇬🇧",
       "american": "/ˌker.iˈoʊ.ki/ 🇺🇸"
@@ -21651,7 +21651,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "ludicrous",
+    "word": "ludicrous",
     "pronunciation": {
       "british": "/ˈluː.dɪ.krəs/ 🇬🇧",
       "american": "/ˈluː.də.krəs/ 🇺🇸"
@@ -21717,7 +21717,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "boredom",
+    "word": "boredom",
     "pronunciation": {
       "british": "/ˈbɔː.dəm/ 🇬🇧",
       "american": "/ˈbɔːr.dəm/ 🇺🇸"
@@ -21759,7 +21759,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "interfere",
+    "word": "interfere",
     "pronunciation": {
       "british": "/ˌɪn.təˈfɪər/ 🇬🇧",
       "american": "/ˌɪn.tərˈfɪr/ 🇺🇸"
@@ -21818,7 +21818,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "manipulate",
+    "word": "manipulate",
     "pronunciation": {
       "british": "/məˈnɪp.jʊ.leɪt/ 🇬🇧",
       "american": "/məˈnɪp.jə.leɪt/ 🇺🇸"
@@ -21884,7 +21884,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "deceive",
+    "word": "deceive",
     "pronunciation": {
       "british": "/dɪˈsiːv/ 🇬🇧",
       "american": "/dɪˈsiːv/ 🇺🇸"
@@ -21938,7 +21938,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "admiration",
+    "word": "admiration",
     "pronunciation": {
       "british": "/ˌæd.mɪˈreɪ.ʃən/ 🇬🇧",
       "american": "/ˌæd.mɪˈreɪ.ʃən/ 🇺🇸"
@@ -22447,7 +22447,7 @@ const wordData = [
     "origin": "来自古英语 *staca*（意为“棍、桩”），后发展出“赌注”“权益”的引申义。"
   },
   {
-    "phrase": "wild hunch",
+    "word": "wild hunch",
     "pronunciation": {
       "british": "/waɪld hʌntʃ/ 🇬🇧",
       "american": "/waɪld hʌntʃ/ 🇺🇸"
@@ -22498,7 +22498,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "a plastic sleeve",
+    "word": "a plastic sleeve",
     "pronunciation": {
       "british": "/ə ˈplæstɪk sliːv/ 🇬🇧",
       "american": "/ə ˈplæstɪk sliːv/ 🇺🇸"
@@ -22730,7 +22730,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "decay",
+    "word": "decay",
     "pronunciation": {
       "british": "/dɪˈkeɪ/ 🇬🇧",
       "american": "/dɪˈkeɪ/ 🇺🇸"
@@ -22803,7 +22803,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "vocational",
+    "word": "vocational",
     "pronunciation": {
       "british": "/vəʊˈkeɪʃənəl/ 🇬🇧",
       "american": "/voʊˈkeɪʃənəl/ 🇺🇸"
@@ -22855,7 +22855,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "solicitor",
+    "word": "solicitor",
     "pronunciation": {
       "british": "/səˈlɪsɪtə/ 🇬🇧",
       "american": "/səˈlɪsɪtər/ 🇺🇸"
@@ -22919,7 +22919,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "barrister",
+    "word": "barrister",
     "pronunciation": {
       "british": "/ˈbærɪstə/ 🇬🇧",
       "american": "/ˈbærɪstər/ 🇺🇸"
@@ -22971,7 +22971,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "facilitate",
+    "word": "facilitate",
     "pronunciation": {
       "british": "/fəˈsɪlɪteɪt/ 🇬🇧",
       "american": "/fəˈsɪlɪteɪt/ 🇺🇸"
@@ -23023,7 +23023,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "burglar",
+    "word": "burglar",
     "pronunciation": {
       "british": "/ˈbɜːɡlə/ 🇬🇧",
       "american": "/ˈbɜːrɡlər/ 🇺🇸"
@@ -23075,7 +23075,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "shoplifter",
+    "word": "shoplifter",
     "pronunciation": {
       "british": "/ˈʃɒpˌlɪftə/ 🇬🇧",
       "american": "/ˈʃɑːpˌlɪftər/ 🇺🇸"
@@ -23127,7 +23127,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "coward",
+    "word": "coward",
     "pronunciation": {
       "british": "/ˈkaʊəd/ 🇬🇧",
       "american": "/ˈkaʊərd/ 🇺🇸"
@@ -23179,7 +23179,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "atheist",
+    "word": "atheist",
     "pronunciation": {
       "british": "/ˈeɪ.θi.ɪst/ 🇬🇧",
       "american": "/ˈeɪ.θi.ɪst/ 🇺🇸"
@@ -23244,7 +23244,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "pessimist",
+    "word": "pessimist",
     "pronunciation": {
       "british": "/ˈpes.ɪ.mɪst/ 🇬🇧",
       "american": "/ˈpes.ə.mɪst/ 🇺🇸"
@@ -23309,7 +23309,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "hazard",
+    "word": "hazard",
     "pronunciation": {
       "british": "/ˈhæz.əd/ 🇬🇧",
       "american": "/ˈhæz.ɚd/ 🇺🇸"
@@ -23386,7 +23386,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "weld",
+    "word": "weld",
     "pronunciation": {
       "british": "/weld/ 🇬🇧",
       "american": "/weld/ 🇺🇸"
@@ -23463,7 +23463,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "sole",
+    "word": "sole",
     "pronunciation": {
       "british": "/səʊl/ 🇬🇧",
       "american": "/soʊl/ 🇺🇸"
@@ -23552,7 +23552,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "gadget",
+    "word": "gadget",
     "pronunciation": {
       "british": "/ˈɡædʒ.ɪt/ 🇬🇧",
       "american": "/ˈɡædʒ.ɪt/ 🇺🇸"
@@ -23617,7 +23617,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "manual work",
+    "word": "manual work",
     "pronunciation": {
       "british": "/ˈmæn.ju.əl wɜːk/ 🇬🇧",
       "american": "/ˈmæn.ju.əl wɝːk/ 🇺🇸"
@@ -23681,7 +23681,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "bald",
+    "word": "bald",
     "pronunciation": {
       "british": "/bɔːld/ 🇬🇧",
       "american": "/bɑːld/ 🇺🇸"
@@ -23758,7 +23758,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "canteen",
+    "word": "canteen",
     "pronunciation": {
       "british": "/kænˈtiːn/ 🇬🇧",
       "american": "/kænˈtiːn/ 🇺🇸"
@@ -23831,7 +23831,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "lights out",
+    "word": "lights out",
     "pronunciation": {
       "british": "/ˌlaɪts ˈaʊt/ 🇬🇧",
       "american": "/ˌlaɪts ˈaʊt/ 🇺🇸"
@@ -23907,7 +23907,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "aquarium",
+    "word": "aquarium",
     "pronunciation": {
       "british": "/əˈkwɛə.ri.əm/ 🇬🇧",
       "american": "/əˈkwer.i.əm/ 🇺🇸"
@@ -23980,7 +23980,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "budge",
+    "word": "budge",
     "pronunciation": {
       "british": "/bʌdʒ/ 🇬🇧",
       "american": "/bʌdʒ/ 🇺🇸"
@@ -24061,7 +24061,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "chuckle",
+    "word": "chuckle",
     "pronunciation": {
       "british": "/ˈtʃʌk.əl/ 🇬🇧",
       "american": "/ˈtʃʌk.əl/ 🇺🇸"
@@ -24150,7 +24150,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "come down",
+    "word": "come down",
     "pronunciation": {
       "british": "/kʌm daʊn/ 🇬🇧",
       "american": "/kʌm daʊn/ 🇺🇸"
@@ -24255,7 +24255,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "on the level",
+    "word": "on the level",
     "pronunciation": {
       "british": "/ɒn ðə ˈlɛv.əl/ 🇬🇧",
       "american": "/ɑn ðə ˈlɛv.əl/ 🇺🇸"
@@ -24331,7 +24331,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "pottery",
+    "word": "pottery",
     "pronunciation": {
       "british": "/ˈpɒt.ər.i/ 🇬🇧",
       "american": "/ˈpɑː.t̬ɚ.i/ 🇺🇸"
@@ -24412,7 +24412,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "till",
+    "word": "till",
     "pronunciation": {
       "british": "/tɪl/ 🇬🇧",
       "american": "/tɪl/ 🇺🇸"
@@ -24497,7 +24497,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "folk",
+    "word": "folk",
     "pronunciation": {
       "british": "/fəʊk/ 🇬🇧",
       "american": "/foʊk/ 🇺🇸"
@@ -24579,7 +24579,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "at my disposal",
+    "word": "at my disposal",
     "pronunciation": {
       "british": "/æt maɪ dɪˈspəʊ.zəl/ 🇬🇧",
       "american": "/æt maɪ dɪˈspoʊ.zəl/ 🇺🇸"
@@ -24647,7 +24647,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "vein",
+    "word": "vein",
     "pronunciation": {
       "british": "/veɪn/ 🇬🇧",
       "american": "/veɪn/ 🇺🇸"
@@ -24756,7 +24756,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "puny",
+    "word": "puny",
     "pronunciation": {
       "british": "/ˈpjuː.ni/ 🇬🇧",
       "american": "/ˈpjuː.ni/ 🇺🇸"
@@ -24829,7 +24829,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "invincible",
+    "word": "invincible",
     "pronunciation": {
       "british": "/ɪnˈvɪn.sɪ.bəl/ 🇬🇧",
       "american": "/ɪnˈvɪn.sə.bəl/ 🇺🇸"
@@ -24902,7 +24902,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "mortal",
+    "word": "mortal",
     "pronunciation": {
       "british": "/ˈmɔː.təl/ 🇬🇧",
       "american": "/ˈmɔːr.təl/ 🇺🇸"
@@ -24999,7 +24999,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "wrath",
+    "word": "wrath",
     "pronunciation": {
       "british": "/rɒθ/ 🇬🇧",
       "american": "/ræθ/ 🇺🇸"
@@ -25076,7 +25076,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "saliva",
+    "word": "saliva",
     "pronunciation": {
       "british": "/səˈlaɪ.və/ 🇬🇧",
       "american": "/səˈlaɪ.və/ 🇺🇸"
@@ -25141,7 +25141,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "valet",
+    "word": "valet",
     "pronunciation": {
       "british": "/ˈvæl.eɪ/ 🇬🇧",
       "american": "/ˈvæl.eɪ/ 🇺🇸"
@@ -25218,7 +25218,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "phenom",
+    "word": "phenom",
     "pronunciation": {
       "british": "/ˈfiː.nɒm/ 🇬🇧",
       "american": "/ˈfiː.nɑːm/ 🇺🇸"
@@ -25283,7 +25283,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "precedent",
+    "word": "precedent",
     "pronunciation": {
       "british": "/ˈpres.ɪ.dənt/ 🇬🇧",
       "american": "/ˈpres.ɪ.dənt/ 🇺🇸"
@@ -25348,7 +25348,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "elite",
+    "word": "elite",
     "pronunciation": {
       "british": "/eɪˈliːt/ 或 /ɪˈliːt/ 🇬🇧",
       "american": "/ɪˈliːt/ 🇺🇸"
@@ -25425,7 +25425,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "line up",
+    "word": "line up",
     "pronunciation": {
       "british": "/laɪn ʌp/ 🇬🇧",
       "american": "/laɪn ʌp/ 🇺🇸"
@@ -25506,7 +25506,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "deadbeat",
+    "word": "deadbeat",
     "pronunciation": {
       "british": "/ˈded.biːt/ 🇬🇧",
       "american": "/ˈded.biːt/ 🇺🇸"
@@ -25583,7 +25583,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "cringe",
+    "word": "cringe",
     "pronunciation": {
       "british": "/krɪndʒ/ 🇬🇧",
       "american": "/krɪndʒ/ 🇺🇸"
@@ -25676,7 +25676,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "irritate",
+    "word": "irritate",
     "pronunciation": {
       "british": "/ˈɪr.ɪ.teɪt/ 🇬🇧",
       "american": "/ˈɪr.ɪ.teɪt/ 🇺🇸"
@@ -25765,7 +25765,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "lot",
+    "word": "lot",
     "pronunciation": {
       "british": "/lɒt/ 🇬🇧",
       "american": "/lɑːt/ 🇺🇸"
@@ -25879,7 +25879,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "stranded",
+    "word": "stranded",
     "pronunciation": {
       "british": "/ˈstræn.dɪd/ 🇬🇧",
       "american": "/ˈstræn.dɪd/ 🇺🇸"
@@ -25964,7 +25964,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "back to work order",
+    "word": "back to work order",
     "pronunciation": {
       "british": "/bæk tuː wɜːk ˈɔː.dər/ 🇬🇧",
       "american": "/bæk tu wɝːk ˈɔːr.dɚ/ 🇺🇸"
@@ -26041,7 +26041,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "attendant",
+    "word": "attendant",
     "pronunciation": {
       "british": "/əˈten.dənt/ 🇬🇧",
       "american": "/əˈten.dənt/ 🇺🇸"
@@ -26135,7 +26135,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "hermit",
+    "word": "hermit",
     "pronunciation": {
       "british": "/ˈhɜː.mɪt/ 🇬🇧",
       "american": "/ˈhɝː.mɪt/ 🇺🇸"
@@ -26224,7 +26224,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "do over",
+    "word": "do over",
     "pronunciation": {
       "british": "/duː ˈəʊ.vər/ 🇬🇧",
       "american": "/duː ˈoʊ.vɚ/ 🇺🇸"
@@ -26301,7 +26301,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "assessor",
+    "word": "assessor",
     "pronunciation": {
       "british": "/əˈses.ər/ 🇬🇧",
       "american": "/əˈses.ɚ/ 🇺🇸"
@@ -26366,7 +26366,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "tremor",
+    "word": "tremor",
     "pronunciation": {
       "british": "/ˈtrem.ər/ 🇬🇧",
       "american": "/ˈtrem.ɚ/ 🇺🇸"
@@ -26439,7 +26439,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "epicenter",
+    "word": "epicenter",
     "pronunciation": {
       "british": "/ˈep.ɪˌsen.tər/ 🇬🇧",
       "american": "/ˈep.ɪˌsen.tɚ/ 🇺🇸"
@@ -26512,7 +26512,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "magnitude",
+    "word": "magnitude",
     "pronunciation": {
       "british": "/ˈmæɡ.nɪ.tjuːd/ 🇬🇧",
       "american": "/ˈmæɡ.nɪ.tuːd/ 🇺🇸"
@@ -26585,7 +26585,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "tsunami",
+    "word": "tsunami",
     "pronunciation": {
       "british": "/tsuːˈnɑː.mi/ 🇬🇧",
       "american": "/tsuːˈnɑː.mi/ 🇺🇸"
@@ -26650,7 +26650,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "bladder",
+    "word": "bladder",
     "pronunciation": {
       "british": "/ˈblæd.ər/ 🇬🇧",
       "american": "/ˈblæd.ɚ/ 🇺🇸"
@@ -26723,7 +26723,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "navel",
+    "word": "navel",
     "pronunciation": {
       "british": "/ˈneɪ.vəl/ 🇬🇧",
       "american": "/ˈneɪ.vəl/ 🇺🇸"
@@ -26796,7 +26796,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "migraine",
+    "word": "migraine",
     "pronunciation": {
       "british": "/ˈmiː.ɡreɪn/ 🇬🇧",
       "american": "/ˈmaɪ.ɡreɪn/ 🇺🇸"
@@ -26857,7 +26857,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "dehydration",
+    "word": "dehydration",
     "pronunciation": {
       "british": "/ˌdiː.haɪˈdreɪ.ʃən/ 🇬🇧",
       "american": "/ˌdiː.haɪˈdreɪ.ʃən/ 🇺🇸"
@@ -26930,7 +26930,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "dehydrate",
+    "word": "dehydrate",
     "pronunciation": {
       "british": "/ˌdiːˈhaɪ.dreɪt/ 🇬🇧",
       "american": "/ˌdiːˈhaɪ.dreɪt/ 🇺🇸"
@@ -27003,7 +27003,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "bandage",
+    "word": "bandage",
     "pronunciation": {
       "british": "/ˈbæn.dɪdʒ/ 🇬🇧",
       "american": "/ˈbæn.dɪdʒ/ 🇺🇸"
@@ -27076,7 +27076,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "hepatitis",
+    "word": "hepatitis",
     "pronunciation": {
       "british": "/ˌhep.əˈtaɪ.tɪs/ 🇬🇧",
       "american": "/ˌhep.əˈtaɪ.tɪs/ 🇺🇸"
@@ -27137,7 +27137,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "pain in the neck",
+    "word": "pain in the neck",
     "pronunciation": {
       "british": "/ˌpeɪn ɪn ðə nek/ 🇬🇧",
       "american": "/ˌpeɪn ɪn ðə nek/ 🇺🇸"
@@ -27210,7 +27210,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "snap out of",
+    "word": "snap out of",
     "pronunciation": {
       "british": "/snæp ˈaʊt ɒv/ 🇬🇧",
       "american": "/snæp ˈaʊt əv/ 🇺🇸"
@@ -27291,7 +27291,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "quitter",
+    "word": "quitter",
     "pronunciation": {
       "british": "/ˈkwɪtə/ 🇬🇧",
       "american": "/ˈkwɪtər/ 🇺🇸"
@@ -27372,7 +27372,7 @@ const wordData = [
     }
   },
   {
-    "phrase": "exterior",
+    "word": "exterior",
     "pronunciation": {
       "british": "/ɪkˈstɪər.i.ər/ 🇬🇧",
       "american": "/ɪkˈstɪr.i.ɚ/ 🇺🇸"
@@ -27463,6 +27463,1134 @@ const wordData = [
     "variation_between_british_american": {
       "british": "发音 /ɪkˈstɪər.i.ər/，书面语和口语使用相同。",
       "american": "发音 /ɪkˈstɪr.i.ɚ/，用法与英式一致，口语中可用 'outside' 替代。"
+    }
+  },
+  {
+    "word": "grasshopper",
+    "pronunciation": {
+      "british": "/ˈɡrɑːsˌhɒp.ə/ 🇬🇧",
+      "american": "/ˈɡræsˌhɑː.pɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常见 🟢：主要指昆虫“蚱蜢”，也可以在文化语境里用作比喻（比如武侠片里师傅叫徒弟“grasshopper”）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "蚱蜢",
+          "english": "An insect with long legs used for jumping."
+        },
+        "examples": [
+          {
+            "sentence": "A grasshopper jumped across the field.",
+            "translation": "一只蚱蜢跳过了田野。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "locust",
+        "type": "noun",
+        "definition": {
+          "chinese": "蝗虫",
+          "english": "A type of grasshopper that swarms and causes crop damage."
+        },
+        "examples": [
+          {
+            "sentence": "A swarm of locusts destroyed the crops.",
+            "translation": "一群蝗虫毁掉了庄稼。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化比喻",
+        "explanation": "在美国文化里，'grasshopper' 有时用来指‘年轻、缺经验的学徒’，源自武侠片翻译。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原始就是指昆虫，后续因文化传播才引申为“缺乏经验的人”。",
+      "explanation_english": "Originally meant the insect. Later extended metaphorically in pop culture (e.g., martial arts films) to mean a novice."
+    },
+    "variation_between_british_american": {
+      "british": "常用于字面意义“蚱蜢”。",
+      "american": "字面意义相同，但文化语境中‘grasshopper’常被戏称学徒。"
+    }
+  },
+  {
+    "word": "tonsil",
+    "pronunciation": {
+      "british": "/ˈtɒn.sɪl/ 🇬🇧",
+      "american": "/ˈtɑːn.səl/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "医学常见 ⚕️：主要用于身体部位‘扁桃体’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "扁桃体",
+          "english": "Either of two small masses of lymphoid tissue at the back of the throat."
+        },
+        "examples": [
+          {
+            "sentence": "The child had his tonsils removed.",
+            "translation": "孩子做了扁桃体切除手术。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "adenoids",
+        "type": "noun",
+        "definition": {
+          "chinese": "腺样体",
+          "english": "Lymphatic tissue located higher up in the throat behind the nose."
+        },
+        "examples": [
+          {
+            "sentence": "Enlarged adenoids can cause breathing problems.",
+            "translation": "腺样体肥大会引起呼吸问题。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学语境",
+        "explanation": "在日常生活中多用于‘tonsillitis’（扁桃体炎）或‘tonsillectomy’（扁桃体切除）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源自拉丁语 *tonsillae*（小乳头/小突起），一直指身体部位，没有大的引申。",
+      "explanation_english": "From Latin *tonsillae*, meaning small rounded masses. Always anatomical, not broadly extended."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "margarine",
+    "pronunciation": {
+      "british": "/ˌmɑː.dʒəˈriːn/ 🇬🇧",
+      "american": "/ˈmɑːr.dʒəˌriːn/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常见 🟡：主要用于饮食，指一种人造黄油替代品。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "人造黄油",
+          "english": "A butter substitute made from vegetable oils or animal fats."
+        },
+        "examples": [
+          {
+            "sentence": "She spread margarine on her toast.",
+            "translation": "她在吐司上抹了人造黄油。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "butter",
+        "type": "noun",
+        "definition": {
+          "chinese": "黄油",
+          "english": "A dairy product made from churning cream or milk."
+        },
+        "examples": [
+          {
+            "sentence": "Butter is richer in flavor than margarine.",
+            "translation": "黄油的味道比人造黄油更浓。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音差异",
+        "explanation": "🇬🇧 常读 /ˌmɑː.dʒəˈriːn/，🇺🇸 更常简化成 /ˈmɑːr.dʒəˌrɪn/。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初由法国人 19 世纪发明，词源来自希腊语 *margaritēs*（珍珠），因其表面有珍珠光泽。含义一直指‘人造黄油’。",
+      "explanation_english": "Coined in the 19th century (France), from Greek *margaritēs* = pearl, because of its pearly appearance. Always meant butter substitute."
+    },
+    "variation_between_british_american": {
+      "british": "常直接说 'margarine'。",
+      "american": "也用 'margarine'，但发音略有不同，有时缩短成 'marge'（不常用）。"
+    }
+  },
+  {
+    "word": "cardiogram",
+    "pronunciation": {
+      "british": "/ˈkɑː.di.ə.ɡræm/ 🇬🇧",
+      "american": "/ˈkɑːr.di.oʊˌɡræm/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "医学常见 ⚕️：主要用于表示心脏活动的图表。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "心电图",
+          "english": "A graphical record of heart activity, typically produced by an electrocardiograph."
+        },
+        "examples": [
+          {
+            "sentence": "The doctor reviewed the patient's cardiogram.",
+            "translation": "医生查看了病人的心电图。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "electrocardiogram",
+        "type": "noun",
+        "definition": {
+          "chinese": "心电图（全称）",
+          "english": "Full term for cardiogram, recording the electrical activity of the heart."
+        },
+        "examples": [
+          {
+            "sentence": "An electrocardiogram (ECG) shows the heart’s rhythm.",
+            "translation": "心电图显示心脏节律。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "专业术语",
+        "explanation": "常缩写为 ECG，尤其在医院环境中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词源来自希腊语 *kardia*（心）+ *gramma*（写、图），本意即心脏图示，无衍生义。",
+      "explanation_english": "From Greek *kardia* (heart) + *gramma* (something written), literally 'heart record'; no extended meanings."
+    },
+    "variation_between_british_american": {
+      "british": "cardiogram 或 ECG 均常用。",
+      "american": "cardiogram 和 ECG 同样通用。"
+    }
+  },
+  {
+    "word": "stethoscope",
+    "pronunciation": {
+      "british": "/ˈsteθ.ə.skəʊp/ 🇬🇧",
+      "american": "/ˈsteθ.ə.skoʊp/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "医学常见 ⚕️：医生用于听心跳、呼吸等。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "听诊器",
+          "english": "A medical instrument used for listening to the sounds made by the heart, lungs, etc."
+        },
+        "examples": [
+          {
+            "sentence": "The nurse placed the stethoscope on his chest.",
+            "translation": "护士把听诊器放在他的胸口。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sphygmomanometer",
+        "type": "noun",
+        "definition": {
+          "chinese": "血压计",
+          "english": "Instrument used to measure blood pressure."
+        },
+        "examples": [
+          {
+            "sentence": "The doctor used a sphygmomanometer after listening with the stethoscope.",
+            "translation": "医生在使用听诊器后测了血压。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学必备",
+        "explanation": "初学者容易和 thermometer 混淆，需注意功能不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊语 *stethos*（胸）+ *skopein*（看、观察），本意即观察胸部，无衍生义。",
+      "explanation_english": "From Greek *stethos* (chest) + *skopein* (to examine); literally 'chest examiner'; no extended meanings."
+    },
+    "variation_between_british_american": {
+      "british": "拼写 stethoscope，发音略带 /skəʊp/。",
+      "american": "拼写相同，发音略带 /skoʊp/。"
+    }
+  },
+  {
+    "word": "nausea",
+    "pronunciation": {
+      "british": "/ˈnɔː.si.ə/ 🇬🇧",
+      "american": "/ˈnɔː.zi.ə/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "医学常用 ⚠️：表示恶心感。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "恶心",
+          "english": "A feeling of sickness with an urge to vomit."
+        },
+        "examples": [
+          {
+            "sentence": "She felt nausea after the boat ride.",
+            "translation": "她在坐船后感到恶心。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "vomiting",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "呕吐",
+          "english": "Ejecting stomach contents through the mouth."
+        },
+        "examples": [
+          {
+            "sentence": "Nausea can lead to vomiting.",
+            "translation": "恶心可能导致呕吐。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "症状词",
+        "explanation": "通常与 motion sickness, pregnancy, illness 相关联。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 *nausia*（船晕），引申为一般恶心感。",
+      "explanation_english": "From Greek *nausia* (sea sickness), later generalized to any feeling of nausea."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "diarrhea",
+    "pronunciation": {
+      "british": "/ˌdaɪəˈrɪə/ 🇬🇧",
+      "american": "/ˌdaɪəˈriːə/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "医学常见 ⚠️：表示消化系统疾病的症状。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "腹泻",
+          "english": "A condition in which feces are discharged from the bowels frequently and in a liquid form."
+        },
+        "examples": [
+          {
+            "sentence": "The child has diarrhea after eating spoiled food.",
+            "translation": "孩子吃了变质的食物后拉肚子。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "loose stools",
+        "type": "noun",
+        "definition": {
+          "chinese": "稀便",
+          "english": "A less medical way to describe diarrhea."
+        },
+        "examples": [
+          {
+            "sentence": "He had loose stools all night.",
+            "translation": "他一晚上都在拉稀。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写差异",
+        "explanation": "🇬🇧 英式拼作 *diarrhoea*，🇺🇸 美式拼作 *diarrhea*。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊语 *diarrhoia*（dia- ‘通过’ + rhein ‘流’），意为‘流过去’，专指腹泻。",
+      "explanation_english": "From Greek *diarrhoia* (dia = through + rhein = flow), meaning ‘to flow through’; always medical."
+    },
+    "variation_between_british_american": {
+      "british": "拼写 diarrhoea。",
+      "american": "拼写 diarrhea。"
+    }
+  },
+  {
+    "word": "constipation",
+    "pronunciation": {
+      "british": "/ˌkɒn.stɪˈpeɪ.ʃən/ 🇬🇧",
+      "american": "/ˌkɑːn.stəˈpeɪ.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "医学常见 ⚠️：指排便困难。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "便秘",
+          "english": "A condition in which there is difficulty in emptying the bowels."
+        },
+        "examples": [
+          {
+            "sentence": "Drinking more water helps relieve constipation.",
+            "translation": "多喝水有助于缓解便秘。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "irregularity",
+        "type": "noun",
+        "definition": {
+          "chinese": "排便不规律",
+          "english": "A polite or less direct way of referring to constipation."
+        },
+        "examples": [
+          {
+            "sentence": "The medicine may cause bowel irregularity.",
+            "translation": "这种药可能引起排便不规律。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "委婉说法",
+        "explanation": "在生活中有时用 ‘irregularity’ 来避免尴尬。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *constipare*（压紧、挤满），原义为‘塞满’，后专用于医学‘便秘’。",
+      "explanation_english": "From Latin *constipare* (to press together), originally meant 'crowded, pressed', later specialized to mean bowel obstruction."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "symptom",
+    "pronunciation": {
+      "british": "/ˈsɪmp.təm/ 🇬🇧",
+      "american": "/ˈsɪmp.təm/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：医学和日常语境都能用。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "症状",
+          "english": "A physical or mental feature indicating a condition of disease."
+        },
+        "examples": [
+          {
+            "sentence": "Coughing is a common symptom of a cold.",
+            "translation": "咳嗽是感冒的常见症状。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "征兆，迹象",
+          "english": "A sign of the existence of something, especially an undesirable situation."
+        },
+        "examples": [
+          {
+            "sentence": "Rising crime is a symptom of social unrest.",
+            "translation": "犯罪率上升是社会动荡的征兆。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sign",
+        "type": "noun",
+        "definition": {
+          "chinese": "体征",
+          "english": "An objective indication of a condition (observed by a doctor, not just felt by patient)."
+        },
+        "examples": [
+          {
+            "sentence": "Fever is a sign that the body is fighting infection.",
+            "translation": "发烧是身体对抗感染的体征。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学 vs 比喻",
+        "explanation": "在医学中指病人自觉的症状；在日常中可比喻为‘问题的迹象’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 *sýmptōma*（意外发生的事），最初指‘现象’，后来医学化为‘症状’。",
+      "explanation_english": "From Greek *sýmptōma* (happening, occurrence), originally 'event', later specialized in medicine as 'symptom'."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "practitioner",
+    "pronunciation": {
+      "british": "/prækˈtɪʃ.ən.ər/ 🇬🇧",
+      "american": "/prækˈtɪʃ.ən.ɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常见 🟡：常指专业从业者，尤其是医生或律师。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "从业者",
+          "english": "A person actively engaged in a profession, especially medicine or law."
+        },
+        "examples": [
+          {
+            "sentence": "She is a general practitioner working in London.",
+            "translation": "她是一名在伦敦工作的全科医生。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "doctor / physician",
+        "type": "noun",
+        "definition": {
+          "chinese": "医生",
+          "english": "A medical practitioner."
+        },
+        "examples": [
+          {
+            "sentence": "He is a licensed physician.",
+            "translation": "他是一名有执照的医生。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "缩略常用",
+        "explanation": "‘GP’ = General Practitioner，常用于指全科医生。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 practice（实践、从业）+ -er，指从事实践的人。最初泛指职业从业者，后在医学领域使用更广。",
+      "explanation_english": "From 'practice' + '-er', meaning one who practices. Originally broad, now strongly associated with medicine/law."
+    },
+    "variation_between_british_american": {
+      "british": "GP（general practitioner）特指全科医生。",
+      "american": "General practitioner 也用，但更多直接说 'primary care doctor'。"
+    }
+  },
+  {
+    "word": "seeing spots",
+    "pronunciation": {
+      "british": "/ˈsiː.ɪŋ spɒts/ 🇬🇧",
+      "american": "/ˈsiː.ɪŋ spɑːts/ 🇺🇸"
+    },
+    "phrase_type": "idiomatic phrase",
+    "usage": "口语常见 🟡：表示‘眼前出现斑点或星星’，常因头晕、受击、低血压或健康问题引起。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "眼前发黑/出现斑点",
+          "english": "To perceive flashing or floating spots in one’s vision, often due to dizziness, head injury, or sudden pressure change."
+        },
+        "examples": [
+          {
+            "sentence": "After standing up too quickly, she started seeing spots.",
+            "translation": "她突然站起来后，眼前一阵发黑，看到斑点。"
+          },
+          {
+            "sentence": "He was hit in the head and reported seeing spots.",
+            "translation": "他头部受到撞击，说眼前直冒星星。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "dizzy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "头晕的",
+          "english": "Feeling lightheaded or unsteady."
+        },
+        "examples": [
+          {
+            "sentence": "I feel dizzy after spinning around.",
+            "translation": "转了一圈后我觉得头晕。"
+          }
+        ]
+      },
+      {
+        "word": "blacking out",
+        "type": "phrase",
+        "definition": {
+          "chinese": "晕过去/短暂失去知觉",
+          "english": "A temporary loss of consciousness or vision."
+        },
+        "examples": [
+          {
+            "sentence": "He almost blacked out during the workout.",
+            "translation": "他在锻炼时差点晕过去。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见语境",
+        "explanation": "‘seeing stars’ 与 ‘seeing spots’ 在口语里意思接近，常用来描述头部撞击或极度晕眩。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面上是‘看到斑点’，医学上对应视觉现象，后来口语化比喻头晕或受击后冒星星。",
+      "explanation_english": "Literally means perceiving visual spots; medically linked to vision disturbances. Later extended figuratively to mean dizziness or being stunned after impact."
+    },
+    "variation_between_british_american": {
+      "british": "‘seeing stars’ 比 ‘seeing spots’ 更常用。",
+      "american": "‘seeing spots’ 与 ‘seeing stars’ 都用，但‘seeing spots’更口语化。"
+    }
+  },
+  {
+    "word": "lift up",
+    "pronunciation": {
+      "british": "/lɪft ʌp/ 🇬🇧",
+      "american": "/lɪft ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义词",
+    "usage": "非常常用 👍：可表示物理动作‘举起’，也可表示情感或精神上的‘振奋、鼓舞’。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "举起，抬起",
+          "english": "To raise something or someone to a higher position."
+        },
+        "examples": [
+          {
+            "sentence": "He lifted up the box and placed it on the shelf.",
+            "translation": "他把箱子抬起来放到架子上。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "鼓舞，使振奋",
+          "english": "To make someone feel happier or more confident."
+        },
+        "examples": [
+          {
+            "sentence": "Her kind words lifted up my spirits.",
+            "translation": "她的善意话语让我心情振奋。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "宣布，公开（新闻或消息）",
+          "english": "To make information known or public."
+        },
+        "examples": [
+          {
+            "sentence": "The government lifted up the restrictions yesterday.",
+            "translation": "政府昨天宣布解除限制。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "raise",
+        "type": "verb",
+        "definition": {
+          "chinese": "抬起、增加",
+          "english": "To lift or move something to a higher position; also to increase."
+        },
+        "examples": [
+          {
+            "sentence": "She raised her hand to ask a question.",
+            "translation": "她举手提问。"
+          }
+        ]
+      },
+      {
+        "word": "cheer up",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "使高兴，振作",
+          "english": "To make someone happier or improve their mood."
+        },
+        "examples": [
+          {
+            "sentence": "A funny movie can cheer you up.",
+            "translation": "看一部搞笑电影可以让你振作。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义用法",
+        "explanation": "需根据上下文判断是物理动作还是情绪/信息方面的‘lift up’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原始含义是物理上的‘抬起’，后来引申为情感或精神上的振奋，再延伸到宣布/公开信息。",
+      "explanation_english": "Originally meant physically lifting. Later metaphorically extended to uplifting emotions or spirits, and further to making information public."
+    },
+    "variation_between_british_american": {
+      "british": "物理动作和情感比喻用法常用；宣布信息时可说 lift up restrictions。",
+      "american": "用法相同，但口语中情感比喻更常用 lift someone's spirits。"
+    }
+  },
+  {
+    "word": "bunk beds",
+    "pronunciation": {
+      "british": "/bʌŋk bedz/ 🇬🇧",
+      "american": "/bʌŋk bedz/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "非常常用 👍：主要指两层床或多层床，常见于宿舍、儿童房或旅馆。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "双层床",
+          "english": "A set of two beds, one stacked on top of the other, allowing two people to sleep in the same floor space."
+        },
+        "examples": [
+          {
+            "sentence": "The kids love sleeping in their new bunk beds.",
+            "translation": "孩子们喜欢睡在他们的新双层床上。"
+          },
+          {
+            "sentence": "The hostel provides rooms with bunk beds for travelers.",
+            "translation": "旅馆提供带双层床的房间给旅客。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "loft bed",
+        "type": "noun",
+        "definition": {
+          "chinese": "高架床",
+          "english": "A single elevated bed with space underneath for furniture or play area."
+        },
+        "examples": [
+          {
+            "sentence": "He sleeps on a loft bed with a desk underneath.",
+            "translation": "他睡在一张高架床上，床下有一张书桌。"
+          }
+        ]
+      },
+      {
+        "word": "trundle bed",
+        "type": "noun",
+        "definition": {
+          "chinese": "可抽拉床",
+          "english": "A low bed on wheels that can be stored under another bed."
+        },
+        "examples": [
+          {
+            "sentence": "The guest room has a trundle bed for extra visitors.",
+            "translation": "客房有一张可抽拉床供额外客人使用。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "结构特点",
+        "explanation": "通常上下两层床，中间有支撑框架；安全注意事项包括护栏和梯子。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘bunk’ 原意指‘床铺或卧具’，后形成固定词组 ‘bunk bed’ 表示双层床。",
+      "explanation_english": "‘Bunk’ originally meant a sleeping berth or bed, later formed the compound 'bunk bed' for stacked beds."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，宿舍和儿童房常用。",
+      "american": "用法相同，家庭和宿舍中都常见。"
+    }
+  },
+  {
+    "word": "poverty",
+    "pronunciation": {
+      "british": "/ˈpɒv.ə.ti/ 🇬🇧",
+      "american": "/ˈpɑː.vɚ.ti/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：表示经济贫困，也可比喻缺乏（资源、精神等）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "贫穷，经济困境",
+          "english": "The state of being extremely poor, lacking sufficient money or material possessions."
+        },
+        "examples": [
+          {
+            "sentence": "Many families live in poverty in that region.",
+            "translation": "该地区许多家庭生活在贫困中。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "缺乏，不足（比喻）",
+          "english": "A lack or scarcity of something, e.g., resources, ideas, or qualities."
+        },
+        "examples": [
+          {
+            "sentence": "The article shows a poverty of imagination.",
+            "translation": "这篇文章表现出想象力的贫乏。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "destitution",
+        "type": "noun",
+        "definition": {
+          "chinese": "赤贫",
+          "english": "Extreme poverty with no means of subsistence."
+        },
+        "examples": [
+          {
+            "sentence": "Many homeless people live in destitution.",
+            "translation": "许多无家可归的人生活在极度贫困中。"
+          }
+        ]
+      },
+      {
+        "word": "scarcity",
+        "type": "noun",
+        "definition": {
+          "chinese": "稀缺",
+          "english": "A lack of sufficient supply of something."
+        },
+        "examples": [
+          {
+            "sentence": "There is a scarcity of clean water in the area.",
+            "translation": "该地区清洁水资源稀缺。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "社会和比喻用法",
+        "explanation": "在社会学、经济学文章中常指经济贫困；在文学或评论中可用作比喻。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *paupertās*（少量、贫乏），原指经济贫穷，后引申为任何缺乏。",
+      "explanation_english": "From Latin *paupertās* (smallness, lack), originally meaning financial poverty; later extended metaphorically to any scarcity or deficiency."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，但社会学文章中偏好 poverty 表示经济困境。",
+      "american": "用法相同；口语中也常直接说 poverty 来指贫困。"
+    }
+  },
+  {
+    "word": "constipated",
+    "pronunciation": {
+      "british": "/ˈkɒn.stɪ.peɪ.tɪd/ 🇬🇧",
+      "american": "/ˈkɑːn.stəˌpeɪ.tɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "医学常用 ⚠️：表示排便困难，也可比喻为动作缓慢或进展受阻。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "便秘的",
+          "english": "Unable to empty the bowels easily or regularly."
+        },
+        "examples": [
+          {
+            "sentence": "After eating little fiber, he felt constipated.",
+            "translation": "他因为摄入纤维少而感到便秘。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "进展缓慢的，比喻",
+          "english": "Metaphorically, describing something slow-moving or obstructed."
+        },
+        "examples": [
+          {
+            "sentence": "The project is constipated by too many approvals.",
+            "translation": "项目因审批过多而进展缓慢。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "blocked",
+        "type": "adjective",
+        "definition": {
+          "chinese": "堵塞的",
+          "english": "Obstructed or clogged."
+        },
+        "examples": [
+          {
+            "sentence": "The drain is blocked.",
+            "translation": "排水管堵住了。"
+          }
+        ]
+      },
+      {
+        "word": "irregular",
+        "type": "adjective",
+        "definition": {
+          "chinese": "不规律的",
+          "english": "Not happening at regular intervals."
+        },
+        "examples": [
+          {
+            "sentence": "He has irregular bowel movements.",
+            "translation": "他排便不规律。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学与比喻用法",
+        "explanation": "主要用于医学场景，也可引申为比喻意义表示停滞或阻碍。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *constipare*（压紧、挤满），原指‘塞满’，医学化为便秘，后引申为阻塞、停滞。",
+      "explanation_english": "From Latin *constipare* (to press together), originally 'crowded, pressed', later specialized to bowel obstruction; extended metaphorically to blockage or stagnation."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，常见于医学或日常描述便秘。",
+      "american": "用法相同，口语中也常用。"
+    }
+  },
+  {
+    "word": "pitch black",
+    "pronunciation": {
+      "british": "/pɪtʃ blæk/ 🇬🇧",
+      "american": "/pɪtʃ blæk/ 🇺🇸"
+    },
+    "phrase_type": "adjective phrase",
+    "usage": "非常常用 👍：形容极暗或完全黑暗的环境，也可比喻绝望或极端情况。",
+    "meanings": [
+      {
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "漆黑的，完全黑暗的",
+          "english": "Completely dark, with no light visible."
+        },
+        "examples": [
+          {
+            "sentence": "The room was pitch black, and I couldn’t see anything.",
+            "translation": "房间漆黑一片，我什么都看不见。"
+          }
+        ]
+      },
+      {
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "比喻极端或绝望的",
+          "english": "Used metaphorically to describe a situation that is extremely bad or hopeless."
+        },
+        "examples": [
+          {
+            "sentence": "He felt pitch black after hearing the bad news.",
+            "translation": "听到坏消息后，他感到万念俱灰。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "dark as night",
+        "type": "idiom",
+        "definition": {
+          "chinese": "像夜一样黑",
+          "english": "A simile for total darkness."
+        },
+        "examples": [
+          {
+            "sentence": "It was dark as night in the cave.",
+            "translation": "洞里黑得像夜晚一样。"
+          }
+        ]
+      },
+      {
+        "word": "pitch-dark",
+        "type": "adjective",
+        "definition": {
+          "chinese": "漆黑的",
+          "english": "Alternative form of ‘pitch black’, same meaning."
+        },
+        "examples": [
+          {
+            "sentence": "We walked through a pitch-dark tunnel.",
+            "translation": "我们走过一个漆黑的隧道。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "强调完全黑暗",
+        "explanation": "‘pitch’ 原指沥青，因其颜色极黑而引申为‘完全黑’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘pitch’ 指沥青，颜色非常黑，组合成 ‘pitch black’ 后可指完全黑暗，也比喻极端或绝望。",
+      "explanation_english": "‘Pitch’ originally meant tar, which is very black. Combined as ‘pitch black’ it means total darkness and can metaphorically mean extreme or hopeless."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，常用于文学或口语中。",
+      "american": "用法相同，也可用 pitch-dark 替代。"
+    }
+  },
+  {
+    "word": "fought",
+    "pronunciation": {
+      "british": "/fɔːt/ 🇬🇧",
+      "american": "/fɔːt/ 🇺🇸"
+    },
+    "phrase_type": "verb (past tense of fight)",
+    "usage": "非常常用 👍：是动词 fight 的过去式和过去分词，表示打斗、争斗或努力争取。",
+    "meanings": [
+      {
+        "type": "verb (past tense/past participle)",
+        "definition": {
+          "chinese": "打架，搏斗",
+          "english": "Engaged in physical combat or battle."
+        },
+        "examples": [
+          {
+            "sentence": "They fought bravely during the war.",
+            "translation": "他们在战争中英勇作战。"
+          }
+        ]
+      },
+      {
+        "type": "verb (past tense/past participle)",
+        "definition": {
+          "chinese": "争论，争斗",
+          "english": "Engaged in a conflict or argument, not necessarily physical."
+        },
+        "examples": [
+          {
+            "sentence": "The siblings fought over the last piece of cake.",
+            "translation": "兄妹俩为最后一块蛋糕争吵。"
+          }
+        ]
+      },
+      {
+        "type": "verb (past tense/past participle)",
+        "definition": {
+          "chinese": "努力争取，对抗",
+          "english": "Struggled to achieve something or resist against difficulties."
+        },
+        "examples": [
+          {
+            "sentence": "She fought for her rights in the workplace.",
+            "translation": "她为自己的职场权益而奋斗。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "battle",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "战斗/搏斗",
+          "english": "A fight, either physical or metaphorical."
+        },
+        "examples": [
+          {
+            "sentence": "He battled his way to the top.",
+            "translation": "他奋力拼搏，取得了成功。"
+          }
+        ]
+      },
+      {
+        "word": "struggle",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "挣扎，努力",
+          "english": "Make forceful or violent efforts to achieve something."
+        },
+        "examples": [
+          {
+            "sentence": "She struggled to finish the project on time.",
+            "translation": "她努力按时完成项目。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动词时态",
+        "explanation": "‘fought’ 只作为过去式和过去分词使用，fight 的现在时为 fight/ fights。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 *feohtan*（搏斗），原义是身体搏斗，后引申为争论、努力或奋斗。",
+      "explanation_english": "From Old English *feohtan* (to fight), originally physical combat, later extended metaphorically to argument or struggle."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，拼写相同。",
+      "american": "用法相同，拼写相同。"
     }
   },
 ]
