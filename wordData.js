@@ -24828,79 +24828,7 @@ const wordData = [
       "american": "发音 /ˈpjuː.ni/，广泛使用。"
     }
   },
-  {
-    "word": "invincible",
-    "pronunciation": {
-      "british": "/ɪnˈvɪn.sɪ.bəl/ 🇬🇧",
-      "american": "/ɪnˈvɪn.sə.bəl/ 🇺🇸"
-    },
-    "phrase_type": "形容词",
-    "usage": "常用 👍：形容某人或某物无法被击败或克服，极其强大或坚不可摧。",
-    "meanings": [
-      {
-        "definition": {
-          "chinese": "无敌的，不可战胜的",
-          "english": "Too powerful to be defeated or overcome."
-        },
-        "examples": [
-          {
-            "sentence": "The champion boxer seemed invincible in the ring.",
-            "translation": "那位拳击冠军在擂台上看起来无敌。"
-          },
-          {
-            "sentence": "The fortress was considered invincible during the war.",
-            "translation": "战争期间那座堡垒被认为是坚不可摧的。"
-          }
-        ]
-      }
-    ],
-    "common_collocations": [
-      "invincible force",
-      "invincible spirit",
-      "invincible army",
-      "seem invincible"
-    ],
-    "related_words": [
-      {
-        "word": "unbeatable",
-        "type": "adjective",
-        "definition": {
-          "chinese": "无法被击败的",
-          "english": "Impossible to defeat."
-        }
-      },
-      {
-        "word": "indestructible",
-        "type": "adjective",
-        "definition": {
-          "chinese": "坚不可摧的",
-          "english": "Impossible to destroy."
-        }
-      },
-      {
-        "word": "invulnerable",
-        "type": "adjective",
-        "definition": {
-          "chinese": "刀枪不入的，坚不可摧的",
-          "english": "Impossible to harm or damage."
-        }
-      }
-    ],
-    "notes": [
-      {
-        "point": "词根解析",
-        "explanation": "‘invincible’ 由否定前缀 ‘in-’ 和词根 ‘vincible’（来自拉丁语 ‘vincere’，意为‘征服’）组成，表示‘不可征服的’。"
-      }
-    ],
-    "origin_of_multiple_meanings": {
-      "explanation_chinese": "‘invincible’ 意义单一，均指无法被击败或克服的状态，没有多义现象。",
-      "explanation_english": "The word has a single core meaning related to being undefeatable; no multiple meanings."
-    },
-    "variation_between_british_american": {
-      "british": "发音 /ɪnˈvɪn.sɪ.bəl/，与美式相似。",
-      "american": "发音 /ɪnˈvɪn.sə.bəl/，用法一致。"
-    }
-  },
+  
   {
     "word": "mortal",
     "pronunciation": {
@@ -28591,6 +28519,1518 @@ const wordData = [
     "variation_between_british_american": {
       "british": "用法相同，拼写相同。",
       "american": "用法相同，拼写相同。"
+    }
+  },
+  {
+    "word": "manicure",
+    "pronunciation": {
+      "british": "/ˈmæ.nɪ.kjʊər/ 🇬🇧",
+      "american": "/ˈmæn.ɪ.kjʊr/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：可指美甲服务，也可作动词表示进行美甲或修剪手指甲。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "美甲（护理手指甲）",
+          "english": "A cosmetic treatment for the hands and fingernails."
+        },
+        "examples": [
+          {
+            "sentence": "She booked a manicure for Saturday afternoon.",
+            "translation": "她预约了周六下午做美甲。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "修剪或护理指甲",
+          "english": "To perform a manicure on someone’s nails."
+        },
+        "examples": [
+          {
+            "sentence": "I like to manicure my nails every weekend.",
+            "translation": "我喜欢每个周末修剪和护理指甲。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "pedicure",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "美足（护理脚趾甲）",
+          "english": "A cosmetic treatment for the feet and toenails."
+        },
+        "examples": [
+          {
+            "sentence": "She had a pedicure along with her manicure.",
+            "translation": "她做了美甲，也做了美足。"
+          }
+        ]
+      },
+      {
+        "word": "nail salon",
+        "type": "noun",
+        "definition": {
+          "chinese": "美甲店",
+          "english": "A salon where manicures and pedicures are performed."
+        },
+        "examples": [
+          {
+            "sentence": "I’m going to the nail salon for a manicure.",
+            "translation": "我要去美甲店做美甲。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "名词/动词用法",
+        "explanation": "manicure 作名词时指服务或过程，作动词时指执行该服务。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *manus*（手）和 *cura*（护理），本意为‘手的护理’，后来动词化形成‘进行美甲’。",
+      "explanation_english": "From Latin *manus* (hand) + *cura* (care), originally meaning care of the hands, later verb form emerged meaning to perform a manicure."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，常见于美容和时尚场景。",
+      "american": "用法相同，日常口语和美容行业都常用。"
+    }
+  },
+  {
+    "word": "seminar",
+    "pronunciation": {
+      "british": "/ˈsem.ɪ.nɑːr/ 🇬🇧",
+      "american": "/ˈsem.ə.nɑːr/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：主要用于学术或职业场合，表示研讨会、讨论会或培训课程。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "研讨会，讨论课",
+          "english": "A meeting for discussion or training on a specific subject, often in academic or professional contexts."
+        },
+        "examples": [
+          {
+            "sentence": "We attended a seminar on digital marketing.",
+            "translation": "我们参加了一场关于数字营销的研讨会。"
+          },
+          {
+            "sentence": "The professor holds weekly seminars for graduate students.",
+            "translation": "教授每周为研究生举办讨论课。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "workshop",
+        "type": "noun",
+        "definition": {
+          "chinese": "工作坊，培训班",
+          "english": "A session where participants engage in intensive discussion or practical work on a subject."
+        },
+        "examples": [
+          {
+            "sentence": "I signed up for a photography workshop.",
+            "translation": "我报名参加了一个摄影培训班。"
+          }
+        ]
+      },
+      {
+        "word": "lecture",
+        "type": "noun",
+        "definition": {
+          "chinese": "讲座",
+          "english": "An educational talk to an audience, usually by an expert or professor."
+        },
+        "examples": [
+          {
+            "sentence": "The lecture covered the history of art.",
+            "translation": "讲座内容涵盖了艺术史。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "互动性 vs 单向授课",
+        "explanation": "seminar 通常强调互动讨论，而 lecture 更偏向单向讲授。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *seminarium*（苗圃、培养地），引申为学术培养的场所，即研讨会。",
+      "explanation_english": "From Latin *seminarium* (seed plot, nursery), metaphorically extended to a place for academic cultivation, i.e., a seminar."
+    },
+    "variation_between_british_american": {
+      "british": "在大学常用，尤其指小组讨论课。",
+      "american": "同样常用，也可指公司或机构举办的培训或讲座。"
+    }
+  },
+  {
+    "word": "get the best of",
+    "pronunciation": {
+      "british": "/ɡet ðə best əv/ 🇬🇧",
+      "american": "/ɡet ðə best əv/ 🇺🇸"
+    },
+    "phrase_type": "idiomatic phrase",
+    "usage": "口语常用 🟡：表示某种情绪、弱点或优势控制了某人或某情况。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "被（情绪/弱点）控制，战胜",
+          "english": "To allow a feeling, weakness, or advantage to dominate or overcome you."
+        },
+        "examples": [
+          {
+            "sentence": "Anger got the best of him and he said things he regretted.",
+            "translation": "愤怒控制了他，他说了让自己后悔的话。"
+          },
+          {
+            "sentence": "Pride got the best of her, and she refused to apologize.",
+            "translation": "自尊战胜了她，她拒绝道歉。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "overcome",
+        "type": "verb",
+        "definition": {
+          "chinese": "克服，战胜",
+          "english": "To prevail over a difficulty, feeling, or opponent."
+        },
+        "examples": [
+          {
+            "sentence": "He was overcome by emotion.",
+            "translation": "他被情感压倒。"
+          }
+        ]
+      },
+      {
+        "word": "get the better of",
+        "type": "idiomatic phrase",
+        "definition": {
+          "chinese": "战胜，胜过",
+          "english": "Synonym of ‘get the best of’, used to indicate one party has an advantage or wins over another."
+        },
+        "examples": [
+          {
+            "sentence": "She got the better of her opponent in the debate.",
+            "translation": "她在辩论中胜过了对手。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "情绪 vs 竞争",
+        "explanation": "可用于描述情绪控制，也可用于竞争或冲突场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思是‘获得最好的部分’，引申为情绪或弱点控制了人，后来也可指在竞争中占上风。",
+      "explanation_english": "Literally 'to get the best part', extended metaphorically to mean a feeling or weakness dominates someone, later also used for gaining an advantage over another."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，口语和书面语中均可用。",
+      "american": "用法相同，口语中稍常用于描述情绪被控制。"
+    }
+  },
+  {
+    "word": "tease",
+    "pronunciation": {
+      "british": "/tiːz/ 🇬🇧",
+      "american": "/tiːz/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：主要作动词，表示‘取笑、戏弄’，也可作名词，指‘爱开玩笑的人’或‘挑逗’。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "取笑，戏弄",
+          "english": "To make fun of someone in a playful or sometimes unkind way."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t tease your little brother.",
+            "translation": "不要取笑你弟弟。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "挑逗，引诱",
+          "english": "To excite or tempt someone without intending to satisfy them."
+        },
+        "examples": [
+          {
+            "sentence": "The ad teases the launch of a new phone.",
+            "translation": "这则广告吊足了人们对新手机发布的胃口。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "轻轻梳理，打蓬（头发）",
+          "english": "To gently comb or backcomb hair to make it look fuller."
+        },
+        "examples": [
+          {
+            "sentence": "She teased her hair before the party.",
+            "translation": "她在派对前把头发打蓬了。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "爱戏弄别人的人；调情的人",
+          "english": "A person who playfully annoys others or flirts without serious intent."
+        },
+        "examples": [
+          {
+            "sentence": "He’s such a tease when it comes to surprises.",
+            "translation": "他在制造惊喜方面总是喜欢吊人胃口。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "mock",
+        "type": "verb",
+        "definition": {
+          "chinese": "嘲笑",
+          "english": "To ridicule or make fun of in a scornful way."
+        },
+        "examples": [
+          {
+            "sentence": "They mocked his accent.",
+            "translation": "他们嘲笑他的口音。"
+          }
+        ]
+      },
+      {
+        "word": "taunt",
+        "type": "verb",
+        "definition": {
+          "chinese": "讥讽",
+          "english": "To provoke or insult someone with cruel remarks."
+        },
+        "examples": [
+          {
+            "sentence": "The crowd taunted the losing team.",
+            "translation": "观众讥讽输掉的球队。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气强弱差异",
+        "explanation": "“tease” 可以是友好开玩笑，也可以带点伤人；需看语境。相比之下“mock/taunt”更带负面。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语‘tǣsan’，意为‘拔毛’或‘拉扯’，后引申为‘拉扯别人情绪 → 戏弄’，再发展为‘挑逗、吊胃口’等多义。",
+      "explanation_english": "From Old English ‘tǣsan’ meaning ‘to pull apart (wool, hair)’, later extended to ‘pull someone’s feelings → make fun of’, then broadened into ‘provoke, tempt, flirt’."
+    },
+    "variation_between_british_american": {
+      "british": "与美式用法基本一致，但在发音上更清晰的 /iː/。",
+      "american": "常见于广告语、营销中表示‘吊胃口’，例如 ‘movie teaser’。"
+    }
+  },
+  {
+    "word": "cramp",
+    "pronunciation": {
+      "british": "/kræmp/ 🇬🇧",
+      "american": "/kræmp/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：主要指‘痉挛、抽筋’，也可作动词，表示‘使痉挛’或‘限制’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "痉挛，抽筋",
+          "english": "A sudden, involuntary muscle contraction causing pain."
+        },
+        "examples": [
+          {
+            "sentence": "She got a cramp in her leg while swimming.",
+            "translation": "她游泳时小腿抽筋了。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "月经痛（常用复数形式 cramps）",
+          "english": "Painful muscle contractions during menstruation."
+        },
+        "examples": [
+          {
+            "sentence": "She stayed home because of bad cramps.",
+            "translation": "她因为严重的经痛待在家里。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使痉挛",
+          "english": "To cause a muscle to contract painfully and involuntarily."
+        },
+        "examples": [
+          {
+            "sentence": "The long run cramped his calves.",
+            "translation": "长跑让他的腿部抽筋了。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "限制，束缚",
+          "english": "To restrict freedom of movement or development."
+        },
+        "examples": [
+          {
+            "sentence": "Rules that cramp creativity can be harmful.",
+            "translation": "限制创造力的规则可能是有害的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "spasm",
+        "type": "noun",
+        "definition": {
+          "chinese": "痉挛，抽搐",
+          "english": "A sudden and brief tightening of a muscle."
+        },
+        "examples": [
+          {
+            "sentence": "He felt a spasm in his back.",
+            "translation": "他感觉背部有一阵痉挛。"
+          }
+        ]
+      },
+      {
+        "word": "constrain",
+        "type": "verb",
+        "definition": {
+          "chinese": "限制，约束",
+          "english": "To limit someone’s actions or freedom."
+        },
+        "examples": [
+          {
+            "sentence": "The company is constrained by regulations.",
+            "translation": "公司受到法规限制。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "名词与动词双重含义",
+        "explanation": "作为名词时多与身体不适相关；作为动词时既可指身体抽筋，也可引申为‘限制’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中古英语‘crampe’，意为‘勾子、夹子’，原指‘夹住、束缚’，后来引申为肌肉被紧紧束缚的感觉 → 痉挛。",
+      "explanation_english": "From Middle English ‘crampe’ meaning ‘hook, clamp’, originally referring to something that holds tightly, later extended to describe the painful tightening of muscles."
+    },
+    "variation_between_british_american": {
+      "british": "常说‘muscle cramp’或‘stomach cramp’；月经痛也用‘period cramps’。",
+      "american": "同样使用‘cramp(s)’，日常口语中更常直接说‘I’ve got cramps’指经痛。"
+    }
+  },
+  {
+    "word": "solstices",
+    "pronunciation": {
+      "british": "/ˈsɒlstɪsɪz/ 🇬🇧",
+      "american": "/ˈsɑːlstɪsɪz/ 或 /ˈsoʊlstɪsɪz/ 🇺🇸"
+    },
+    "phrase_type": "noun (plural of solstice)",
+    "usage": "较常见 👍：常用于天文学、地理学和文化节气中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "至日（夏至或冬至）",
+          "english": "Either of the two times of the year when the sun reaches its highest or lowest point in the sky at noon, resulting in the longest and shortest days."
+        },
+        "examples": [
+          {
+            "sentence": "The summer and winter solstices mark the extremes of daylight in the year.",
+            "translation": "夏至和冬至标志着一年中日照时间的极值。"
+          },
+          {
+            "sentence": "Many cultures built monuments aligned with the solstices, such as Stonehenge.",
+            "translation": "许多文化修建了与至日对齐的纪念建筑，比如巨石阵。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "equinoxes",
+        "type": "noun",
+        "definition": {
+          "chinese": "分点（春分或秋分）",
+          "english": "The two times of the year when day and night are approximately equal in length."
+        },
+        "examples": [
+          {
+            "sentence": "Equinoxes occur in March and September, dividing the year into equal halves.",
+            "translation": "春分和秋分分别在三月和九月，将一年划分为两个相等的部分。"
+          }
+        ]
+      },
+      {
+        "word": "solstice",
+        "type": "noun",
+        "definition": {
+          "chinese": "夏至或冬至",
+          "english": "Singular form of 'solstices'."
+        },
+        "examples": [
+          {
+            "sentence": "The winter solstice usually falls around December 21.",
+            "translation": "冬至通常在 12 月 21 日左右。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化背景",
+        "explanation": "至日与古代农业、宗教和节庆紧密相关，例如中国的冬至节、北欧的仲夏节。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *solstitium*，由 *sol*（太阳）+ *stitium*（停止）组成，意思是“太阳停止”，指太阳在天空中仿佛停止升高或降低的时刻。",
+      "explanation_english": "From Latin *solstitium*, from *sol* ('sun') + *stitium* ('stoppage'). Refers to the apparent pause of the sun’s movement northward or southward in the sky."
+    },
+    "variation_between_british_american": {
+      "british": "通常读作 /ˈsɒlstɪs/，更短促。",
+      "american": "既有 /ˈsɑːlstɪs/ 也有 /ˈsoʊlstɪs/ 两种发音，更灵活。"
+    }
+  },
+  {
+    "word": "equinoxes",
+    "pronunciation": {
+      "british": "/ˈiː.kwɪ.nɒksɪz/ 🇬🇧",
+      "american": "/ˈiː.kwə.nɑːksɪz/ 或 /ˈekwə.nɑːksɪz/ 🇺🇸"
+    },
+    "phrase_type": "noun (plural of equinox)",
+    "usage": "较常见 👍：常用于天文学、地理学和文化节气中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "昼夜平分点（春分或秋分）",
+          "english": "The two times each year (around March 21 and September 23) when day and night are approximately equal in length."
+        },
+        "examples": [
+          {
+            "sentence": "The vernal and autumnal equinoxes mark the change of seasons.",
+            "translation": "春分和秋分标志着季节的更替。"
+          },
+          {
+            "sentence": "Many ancient cultures celebrated the equinoxes with rituals and festivals.",
+            "translation": "许多古代文化都会通过仪式和节庆来庆祝春分和秋分。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "solstice",
+        "type": "noun",
+        "definition": {
+          "chinese": "至日（夏至或冬至）",
+          "english": "Either of the two times of the year when the sun is at its greatest distance from the celestial equator."
+        },
+        "examples": [
+          {
+            "sentence": "The summer solstice is the longest day of the year.",
+            "translation": "夏至是一年中白昼最长的一天。"
+          }
+        ]
+      },
+      {
+        "word": "equinox",
+        "type": "noun",
+        "definition": {
+          "chinese": "春分或秋分",
+          "english": "Singular form of 'equinoxes'."
+        },
+        "examples": [
+          {
+            "sentence": "The vernal equinox usually falls on March 21.",
+            "translation": "春分通常在 3 月 21 日。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化背景",
+        "explanation": "在许多文化中，春分和秋分与农业、节日和宗教仪式密切相关。比如西方的复活节常与春分相关。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *aequinoctium*，由 *aequus*（相等的）+ *nox, noctis*（夜晚）组成，意思是“昼夜相等”。后来专门用来指春分和秋分。",
+      "explanation_english": "From Latin *aequinoctium*, from *aequus* ('equal') + *nox* ('night'). Originally meant 'equal night', later specialized to mean the two points in the year when day and night are equal."
+    },
+    "variation_between_british_american": {
+      "british": "常读作 /ˈiː.kwɪ.nɒks/，更强调 *kwɪ*。",
+      "american": "既有 /ˈekwə.nɑːks/（更常见）也有 /ˈiː.kwə.nɑːks/ 两种读法。"
+    }
+  },
+  {
+    "word": "hibernate",
+    "pronunciation": {
+      "british": "/ˈhaɪ.bə.neɪt/ 🇬🇧",
+      "american": "/ˈhaɪ.bɚ.neɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用 👍：常用于动物学、自然科学中，也可用于比喻人的生活状态（冬眠般的休息或不活跃）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "冬眠；蛰伏",
+          "english": "To spend the winter in a state like deep sleep, used especially for some animals."
+        },
+        "examples": [
+          {
+            "sentence": "Bears hibernate during the cold winter months.",
+            "translation": "熊在寒冷的冬季冬眠。"
+          },
+          {
+            "sentence": "The turtle hibernates in the mud at the bottom of ponds.",
+            "translation": "乌龟在池塘底部的泥里冬眠。"
+          }
+        ]
+      },
+      {
+        "type": "verb (figurative)",
+        "definition": {
+          "chinese": "长期休息或不活跃",
+          "english": "To remain inactive or avoid activity for a long period."
+        },
+        "examples": [
+          {
+            "sentence": "I plan to hibernate at home during the holidays.",
+            "translation": "我打算假期在家里宅着休息。"
+          },
+          {
+            "sentence": "He hibernated in his room for weeks after the breakup.",
+            "translation": "分手后他在房间里蛰伏了好几个星期。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "dormant",
+        "type": "adjective",
+        "definition": {
+          "chinese": "休眠的；静止的",
+          "english": "Inactive, sleeping, or temporarily not active."
+        },
+        "examples": [
+          {
+            "sentence": "The volcano has been dormant for over a century.",
+            "translation": "这座火山已经休眠了一百多年。"
+          }
+        ]
+      },
+      {
+        "word": "slumber",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "睡眠；小睡",
+          "english": "To sleep lightly or peacefully."
+        },
+        "examples": [
+          {
+            "sentence": "The cat slumbered on the sofa all afternoon.",
+            "translation": "猫咪整个下午都在沙发上打盹。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "除了动物冬眠外，hibernate 也常用来形容人‘宅着不动’或‘不活跃’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *hibernare*（过冬），源于 *hibernus*（冬天的）。最初仅指‘过冬’，后来引申为‘冬眠’、‘长时间不活跃’。",
+      "explanation_english": "From Latin *hibernare* ('to winter'), from *hibernus* ('of winter'). Originally meant 'to spend the winter', later extended to mean 'to be inactive for a long time'."
+    },
+    "variation_between_british_american": {
+      "british": "读音偏 /ˈhaɪ.bə.neɪt/，/bə/ 较清晰。",
+      "american": "读音偏 /ˈhaɪ.bɚ.neɪt/，带卷舌 /ɚ/。"
+    }
+  },
+  {
+    "word": "equator",
+    "pronunciation": {
+      "british": "/ɪˈkweɪ.tər/ 🇬🇧",
+      "american": "/ɪˈkweɪ.t̬ɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：主要用于地理、科学、教育中，表示地球或行星的赤道。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "赤道",
+          "english": "An imaginary line around the middle of the Earth that is equal in distance from the North Pole and the South Pole."
+        },
+        "examples": [
+          {
+            "sentence": "The equator divides the Earth into the Northern and Southern Hemispheres.",
+            "translation": "赤道将地球分为北半球和南半球。"
+          },
+          {
+            "sentence": "Countries near the equator usually have a hot climate.",
+            "translation": "靠近赤道的国家通常气候炎热。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "tropic",
+        "type": "noun",
+        "definition": {
+          "chinese": "回归线",
+          "english": "Either of two corresponding circles of latitude about 23.5° north and south of the equator."
+        },
+        "examples": [
+          {
+            "sentence": "The Tropic of Cancer is north of the equator.",
+            "translation": "北回归线在赤道的北面。"
+          }
+        ]
+      },
+      {
+        "word": "latitude",
+        "type": "noun",
+        "definition": {
+          "chinese": "纬度",
+          "english": "The distance north or south of the equator, measured in degrees."
+        },
+        "examples": [
+          {
+            "sentence": "Singapore lies almost at zero degrees latitude, near the equator.",
+            "translation": "新加坡几乎位于零度纬度，靠近赤道。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见用法",
+        "explanation": "equator 常与 *cross*, *near*, *at* 搭配，如 'cross the equator'（穿越赤道）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *aequator*，意为‘使平等的人’，来自 *aequare*（使相等），因赤道使南北两半球对称而得名。",
+      "explanation_english": "From Latin *aequator*, meaning 'equalizer', from *aequare* ('to make equal'), since the equator divides Earth into two equal halves."
+    },
+    "variation_between_british_american": {
+      "british": "发音末尾更清晰 /-tər/。",
+      "american": "发音 /-t̬ɚ/ 更带卷舌音。"
+    }
+  },
+  {
+    "word": "Antarctica",
+    "pronunciation": {
+      "british": "/ænˈtɑːk.tɪ.kə/ 🇬🇧",
+      "american": "/ænˈtɑːrk.tɪ.kə/ 🇺🇸"
+    },
+    "phrase_type": "proper noun",
+    "usage": "常用 👍：表示地理上南极洲，主要用于科学、探险和地理描述。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "南极洲",
+          "english": "The southernmost continent on Earth, surrounding the South Pole, mostly covered by ice."
+        },
+        "examples": [
+          {
+            "sentence": "Penguins are native to Antarctica.",
+            "translation": "企鹅原产于南极洲。"
+          },
+          {
+            "sentence": "Scientists conduct climate research in Antarctica.",
+            "translation": "科学家在南极洲进行气候研究。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "Arctic",
+        "type": "proper noun",
+        "definition": {
+          "chinese": "北极",
+          "english": "The polar region at the northernmost part of Earth."
+        },
+        "examples": [
+          {
+            "sentence": "The Arctic is home to polar bears.",
+            "translation": "北极是北极熊的栖息地。"
+          }
+        ]
+      },
+      {
+        "word": "South Pole",
+        "type": "noun",
+        "definition": {
+          "chinese": "南极点",
+          "english": "The southernmost point on Earth, located in Antarctica."
+        },
+        "examples": [
+          {
+            "sentence": "Explorers reached the South Pole in the early 20th century.",
+            "translation": "探险者在20世纪初到达了南极点。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "地理专用名词",
+        "explanation": "Antarctica 是专用名词，通常用于地理、科学、气候研究和探险相关话题。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 *antarktikos*，意为‘北极的对面’，即地球最南端。",
+      "explanation_english": "From Greek *antarktikos*, meaning 'opposite to the Arctic', referring to the southernmost continent."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，科学和地理场景常用。",
+      "american": "用法相同，科学、探险和教育场景均适用。"
+    }
+  },
+  {
+    "word": "hemisphere",
+    "pronunciation": {
+      "british": "/ˈhem.ɪ.sfɪər/ 🇬🇧",
+      "american": "/ˈhem.ɪ.sfɪr/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：可指地球或天体的半球，也可用于脑科学比喻表示大脑半球。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "半球（地理或天体）",
+          "english": "Half of a spherical object, such as the Earth or another celestial body."
+        },
+        "examples": [
+          {
+            "sentence": "Australia is located in the Southern Hemisphere.",
+            "translation": "澳大利亚位于南半球。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大脑半球（比喻）",
+          "english": "Either of the two halves of the brain, often used metaphorically for different functions."
+        },
+        "examples": [
+          {
+            "sentence": "The left hemisphere of the brain controls language.",
+            "translation": "大脑左半球控制语言。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "equator",
+        "type": "noun",
+        "definition": {
+          "chinese": "赤道",
+          "english": "An imaginary line around the middle of the Earth dividing it into Northern and Southern Hemispheres."
+        },
+        "examples": [
+          {
+            "sentence": "Countries near the equator have a tropical climate.",
+            "translation": "赤道附近的国家属于热带气候。"
+          }
+        ]
+      },
+      {
+        "word": "lobe",
+        "type": "noun",
+        "definition": {
+          "chinese": "脑叶",
+          "english": "A division or section of an organ, especially the brain."
+        },
+        "examples": [
+          {
+            "sentence": "The frontal lobe is located in the front of the brain hemisphere.",
+            "translation": "额叶位于大脑半球的前部。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "科学与比喻用法",
+        "explanation": "hemisphere 可用于地理、天文学，也可指大脑半球或抽象的半球概念。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 *hemi-*（半）和 *sphaira*（球），原指半球，后延伸至大脑半球等比喻意义。",
+      "explanation_english": "From Greek *hemi-* (half) + *sphaira* (sphere), originally meaning half of a sphere, later extended metaphorically to brain hemispheres and abstract uses."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，地理和脑科学领域均适用。",
+      "american": "用法相同，科学、教育和日常语境均可使用。"
+    }
+  },
+  {
+    "word": "tilt",
+    "pronunciation": {
+      "british": "/tɪlt/ 🇬🇧",
+      "american": "/tɪlt/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：表示倾斜动作或状态，也可比喻偏向某种立场、观点或受到影响。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "倾斜，倾倒",
+          "english": "To cause to lean, slant, or tip."
+        },
+        "examples": [
+          {
+            "sentence": "She tilted the bottle to pour the juice.",
+            "translation": "她把瓶子倾斜倒果汁。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "偏向，倾向",
+          "english": "To lean toward a particular opinion, attitude, or side."
+        },
+        "examples": [
+          {
+            "sentence": "The vote tilted in favor of the new proposal.",
+            "translation": "投票结果倾向于支持新提案。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "倾斜，倾斜角度",
+          "english": "The act or state of being tilted; a sloping position or angle."
+        },
+        "examples": [
+          {
+            "sentence": "The picture on the wall has a slight tilt.",
+            "translation": "墙上的画稍微倾斜。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "冲锋，挑战（古义/比喻）",
+          "english": "Originally referred to a joust or charge in medieval tournaments; also used metaphorically for a challenge."
+        },
+        "examples": [
+          {
+            "sentence": "He took up the tilt against the prevailing opinion.",
+            "translation": "他挑战了普遍观点。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "lean",
+        "type": "verb",
+        "definition": {
+          "chinese": "倾斜，倚靠",
+          "english": "To incline or bend from a vertical position."
+        },
+        "examples": [
+          {
+            "sentence": "The tree leans to the left.",
+            "translation": "这棵树向左倾斜。"
+          }
+        ]
+      },
+      {
+        "word": "incline",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "倾斜；倾向",
+          "english": "To slope or bend; a tendency or preference."
+        },
+        "examples": [
+          {
+            "sentence": "She inclined her head in agreement.",
+            "translation": "她点头表示同意。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "物理动作与比喻用法",
+        "explanation": "tilt 可指物体倾斜，也可比喻态度、意见或局势偏向某方。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 *tilter*（冲锋、倾斜），原指中世纪骑士比武的冲锋，后引申为倾斜动作，再引申为态度或意见偏向。",
+      "explanation_english": "From Old French *tilter* (to joust, to tip), originally referring to a knight’s charge in medieval tournaments, later extended to tilting objects and metaphorically to leaning opinions or attitudes."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，文学和口语均可使用。",
+      "american": "用法相同，科技、体育和口语场景广泛使用。"
+    }
+  },
+  {
+    "word": "orbit",
+    "pronunciation": {
+      "british": "/ˈɔː.bɪt/ 🇬🇧",
+      "american": "/ˈɔːr.bɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍：可指天体运行轨道，也可作动词表示绕轨道运行或比喻受控制、影响。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "轨道（天体运动）",
+          "english": "The curved path of a celestial object or spacecraft around a star, planet, or moon."
+        },
+        "examples": [
+          {
+            "sentence": "The satellite is in a stable orbit around Earth.",
+            "translation": "卫星绕地球处于稳定轨道。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "影响范围，势力范围",
+          "english": "A sphere of influence, control, or activity."
+        },
+        "examples": [
+          {
+            "sentence": "The company operates within the orbit of the tech giant.",
+            "translation": "这家公司在科技巨头的影响范围内运作。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "绕轨道运行",
+          "english": "To move in a curved path around a celestial body or object."
+        },
+        "examples": [
+          {
+            "sentence": "The moon orbits the Earth once every 27 days.",
+            "translation": "月球每27天绕地球运行一次。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "处于影响范围内，比喻",
+          "english": "To exist or operate within the sphere of influence of someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "Several startups orbit around major tech hubs.",
+            "translation": "几家初创公司在主要科技中心的影响范围内运作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "revolve",
+        "type": "verb",
+        "definition": {
+          "chinese": "旋转，绕…运行",
+          "english": "To move in a circle on a central axis or around an object."
+        },
+        "examples": [
+          {
+            "sentence": "The Earth revolves around the Sun.",
+            "translation": "地球绕太阳旋转。"
+          }
+        ]
+      },
+      {
+        "word": "trajectory",
+        "type": "noun",
+        "definition": {
+          "chinese": "轨迹",
+          "english": "The path followed by a moving object through space."
+        },
+        "examples": [
+          {
+            "sentence": "The missile followed a high trajectory.",
+            "translation": "导弹沿高轨迹飞行。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "天文与比喻用法",
+        "explanation": "orbit 可用于描述天体运行轨道，也常用于比喻人或事物处于某种影响或控制范围内。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *orbita*（车轮轨迹、通道），原指天体轨道，后引申为影响范围和比喻意义。",
+      "explanation_english": "From Latin *orbita* (wheel track, path), originally referring to a celestial orbit, later extended metaphorically to sphere of influence or control."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，天文和比喻均可。",
+      "american": "用法相同，科学、科技及比喻场景广泛使用。"
+    }
+  },
+  {
+    "word": "axis",
+    "pronunciation": {
+      "british": "/ˈæk.sɪs/ 🇬🇧",
+      "american": "/ˈæk.sɪs/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：可指几何或物理中的轴线，也可比喻为中心线、核心或联盟关系。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "轴，轴线",
+          "english": "An imaginary line about which a body rotates or that divides something symmetrically."
+        },
+        "examples": [
+          {
+            "sentence": "The Earth rotates around its axis.",
+            "translation": "地球绕其轴旋转。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "核心，中心线",
+          "english": "A central or principal line, feature, or point around which something revolves or is organized."
+        },
+        "examples": [
+          {
+            "sentence": "Trust is the axis of a strong friendship.",
+            "translation": "信任是牢固友谊的核心。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "联盟，轴心（历史）",
+          "english": "A coalition or alliance, historically used for the Axis powers in WWII."
+        },
+        "examples": [
+          {
+            "sentence": "During WWII, Germany, Italy, and Japan were part of the Axis.",
+            "translation": "二战期间，德国、意大利和日本是轴心国。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "pivot",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "枢轴，中心点/旋转",
+          "english": "A central point around which something turns or depends; to turn on a central point."
+        },
+        "examples": [
+          {
+            "sentence": "The conversation pivoted around the main issue.",
+            "translation": "谈话围绕主要问题展开。"
+          }
+        ]
+      },
+      {
+        "word": "center",
+        "type": "noun",
+        "definition": {
+          "chinese": "中心",
+          "english": "The middle point or part of something."
+        },
+        "examples": [
+          {
+            "sentence": "The statue stands at the center of the square.",
+            "translation": "雕像位于广场的中心。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "物理、比喻和历史用法",
+        "explanation": "axis 在几何、物理学中常指旋转轴，在比喻中指中心或核心，在历史中指 WWII 的轴心国。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *axis*（轴、车轴），原指旋转轴，后引申为中心、核心和联盟等意义。",
+      "explanation_english": "From Latin *axis* (axle, pivot), originally meaning a rotational axis, later extended metaphorically to mean center, core, or coalition."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，几何、物理、比喻及历史均适用。",
+      "american": "用法相同，常见于科技、历史和日常表达。"
+    }
+  },
+  {
+    "word": "deciduous",
+    "pronunciation": {
+      "british": "/dɪˈsɪd.ju.əs/ 🇬🇧",
+      "american": "/dɪˈsɪdʒ.u.əs/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：主要用于植物学，指落叶的树木或植物，也可用于比喻短暂或暂时的事物。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "落叶的，每年落叶的",
+          "english": "Shedding leaves annually, typically referring to trees and shrubs."
+        },
+        "examples": [
+          {
+            "sentence": "Maple and oak are deciduous trees.",
+            "translation": "枫树和橡树是落叶树。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "短暂的，暂时的（比喻）",
+          "english": "Used metaphorically to describe something temporary or fleeting."
+        },
+        "examples": [
+          {
+            "sentence": "The excitement of winning was deciduous and soon faded.",
+            "translation": "获胜的兴奋是短暂的，很快就消失了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "evergreen",
+        "type": "adjective",
+        "definition": {
+          "chinese": "常绿的",
+          "english": "Plants that retain green leaves throughout the year."
+        },
+        "examples": [
+          {
+            "sentence": "Pine trees are evergreen.",
+            "translation": "松树是常绿树。"
+          }
+        ]
+      },
+      {
+        "word": "temporary",
+        "type": "adjective",
+        "definition": {
+          "chinese": "暂时的",
+          "english": "Lasting for only a limited period of time."
+        },
+        "examples": [
+          {
+            "sentence": "Their happiness was temporary.",
+            "translation": "他们的幸福是短暂的。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "植物学专用词",
+        "explanation": "deciduous 常用于树木和植物，描述每年落叶的特性，也可引申为短暂事物。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *deciduus*（落下的），原指落叶，后比喻短暂事物。",
+      "explanation_english": "From Latin *deciduus* (falling off), originally referring to shedding leaves, later extended metaphorically to temporary or fleeting things."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，植物学、园艺和生态学中常用。",
+      "american": "用法相同，也常用于园艺、生态和比喻表达。"
+    }
+  },
+  {
+    "word": "overcast",
+    "pronunciation": {
+      "british": "/ˌəʊ.vəˈkɑːst/ 🇬🇧",
+      "american": "/ˌoʊ.vɚˈkæst/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：主要用于天气描述，表示天空多云或阴沉，也可引申为情绪阴郁。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "阴天的，多云的",
+          "english": "Describing the sky when it is covered with clouds; dull and cloudy."
+        },
+        "examples": [
+          {
+            "sentence": "It was an overcast day with no sunshine.",
+            "translation": "这是一个阴天，没有阳光。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "阴郁的，沉闷的（比喻）",
+          "english": "Used metaphorically to describe a mood or atmosphere that is gloomy or dull."
+        },
+        "examples": [
+          {
+            "sentence": "He felt overcast after hearing the bad news.",
+            "translation": "听到坏消息后，他心情沉闷。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cloudy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "多云的",
+          "english": "Covered with clouds; not clear or sunny."
+        },
+        "examples": [
+          {
+            "sentence": "The sky is cloudy today.",
+            "translation": "今天天空多云。"
+          }
+        ]
+      },
+      {
+        "word": "gloomy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "阴暗的，沮丧的",
+          "english": "Dark or poorly lit; depressing or pessimistic."
+        },
+        "examples": [
+          {
+            "sentence": "The room looked gloomy in the dim light.",
+            "translation": "在昏暗的灯光下，房间显得阴沉。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "主要用于天气描述",
+        "explanation": "overcast 常用来描述天空被云完全覆盖，也可用于比喻情绪或氛围。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 old English 词组 *overcaste*（覆盖）演变而来，本义为被覆盖，引申为天空多云，再引申为阴郁气氛。",
+      "explanation_english": "From Old English *overcaste* (covered), originally meaning 'covered over', extended to cloudy sky, and metaphorically to gloomy mood or atmosphere."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，常用于天气预报和日常描述。",
+      "american": "用法相同，天气预报中也常用。"
+    }
+  },
+  {
+    "word": "mutual",
+    "pronunciation": {
+      "british": "/ˈmjuː.tʃu.əl/ 🇬🇧",
+      "american": "/ˈmjuː.tʃu.əl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "非常常用 👍：表示双方或多方共有、相互的关系、感受或利益。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "相互的，共同的",
+          "english": "Experienced or done by each of two or more parties toward the other(s)."
+        },
+        "examples": [
+          {
+            "sentence": "They have a mutual respect for each other.",
+            "translation": "他们彼此间有相互尊重。"
+          },
+          {
+            "sentence": "We reached a mutual agreement.",
+            "translation": "我们达成了共同的协议。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "reciprocal",
+        "type": "adjective",
+        "definition": {
+          "chinese": "互惠的，互相的",
+          "english": "Given, felt, or done in return; mutual."
+        },
+        "examples": [
+          {
+            "sentence": "They have a reciprocal understanding.",
+            "translation": "他们有互相理解的关系。"
+          }
+        ]
+      },
+      {
+        "word": "shared",
+        "type": "adjective",
+        "definition": {
+          "chinese": "共享的，共有的",
+          "english": "Used, held, or experienced in common by two or more."
+        },
+        "examples": [
+          {
+            "sentence": "The team has a shared goal of success.",
+            "translation": "团队有一个共同的成功目标。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "强调双方或多方",
+        "explanation": "mutual 常强调双方或多方同时拥有或感受到某种关系、感情或利益。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *mutuus*（互相的、共同的），原意即相互，词义稳定，没有大幅衍生。",
+      "explanation_english": "From Latin *mutuus* (reciprocal, shared), originally meaning mutual or shared; the meaning has remained stable."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，常见于日常、商务和学术语境。",
+      "american": "用法相同，口语和书面语均广泛使用。"
+    }
+  },
+  {
+    "word": "invincible",
+    "pronunciation": {
+      "british": "/ɪnˈvɪn.sɪ.bəl/ 🇬🇧",
+      "american": "/ɪnˈvɪn.sə.bəl/ 🇺🇸"
+    },
+    "phrase_type": "形容词",
+    "usage": "常用 👍：形容某人或某物无法被击败或克服，极其强大或坚不可摧。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "无敌的，不可战胜的",
+          "english": "Too powerful to be defeated or overcome."
+        },
+        "examples": [
+          {
+            "sentence": "The champion boxer seemed invincible in the ring.",
+            "translation": "那位拳击冠军在擂台上看起来无敌。"
+          },
+          {
+            "sentence": "The fortress was considered invincible during the war.",
+            "translation": "战争期间那座堡垒被认为是坚不可摧的。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": [
+      "invincible force",
+      "invincible spirit",
+      "invincible army",
+      "seem invincible"
+    ],
+    "related_words": [
+      {
+        "word": "unbeatable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "无法被击败的",
+          "english": "Impossible to defeat."
+        }
+      },
+      {
+        "word": "indestructible",
+        "type": "adjective",
+        "definition": {
+          "chinese": "坚不可摧的",
+          "english": "Impossible to destroy."
+        }
+      },
+      {
+        "word": "invulnerable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "刀枪不入的，坚不可摧的",
+          "english": "Impossible to harm or damage."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词根解析",
+        "explanation": "‘invincible’ 由否定前缀 ‘in-’ 和词根 ‘vincible’（来自拉丁语 ‘vincere’，意为‘征服’）组成，表示‘不可征服的’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘invincible’ 意义单一，均指无法被击败或克服的状态，没有多义现象。",
+      "explanation_english": "The word has a single core meaning related to being undefeatable; no multiple meanings."
+    },
+    "variation_between_british_american": {
+      "british": "发音 /ɪnˈvɪn.sɪ.bəl/，与美式相似。",
+      "american": "发音 /ɪnˈvɪn.sə.bəl/，用法一致。"
     }
   },
 ]
