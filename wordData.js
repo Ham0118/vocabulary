@@ -24828,7 +24828,7 @@ const wordData = [
       "american": "发音 /ˈpjuː.ni/，广泛使用。"
     }
   },
-  
+
   {
     "word": "mortal",
     "pronunciation": {
@@ -30033,6 +30033,113 @@ const wordData = [
       "american": "发音 /ɪnˈvɪn.sə.bəl/，用法一致。"
     }
   },
+  {
+    "word": "redeem",
+    "pronunciation": {
+      "british": "/rɪˈdiːm/ 🇬🇧",
+      "american": "/rɪˈdiːm/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用 👍：常用于金融、宗教和日常语境中，含义包括‘赎回、兑现、补救、救赎’等。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "赎回（典当物品或债券）",
+          "english": "To buy back or recover something that was pledged or mortgaged."
+        },
+        "examples": [
+          {
+            "sentence": "He redeemed his watch from the pawn shop.",
+            "translation": "他从当铺赎回了手表。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "兑换（积分、优惠券等）",
+          "english": "To exchange a voucher, coupon, or points for goods or services."
+        },
+        "examples": [
+          {
+            "sentence": "You can redeem the coupon at any store branch.",
+            "translation": "你可以在任何门店使用这张优惠券。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "挽回，补救（声誉、错误等）",
+          "english": "To make something or someone seem less bad by compensating for faults."
+        },
+        "examples": [
+          {
+            "sentence": "Her kindness redeems her earlier mistake.",
+            "translation": "她的善良挽回了她之前的错误。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "救赎（宗教意义）",
+          "english": "In a religious context, to save someone from sin or evil."
+        },
+        "examples": [
+          {
+            "sentence": "Christians believe that Jesus redeemed humanity from sin.",
+            "translation": "基督徒相信耶稣救赎了人类的罪。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "reclaim",
+        "type": "verb",
+        "definition": {
+          "chinese": "取回，回收",
+          "english": "To get something back that was lost or taken away."
+        },
+        "examples": [
+          {
+            "sentence": "She reclaimed her luggage at the airport.",
+            "translation": "她在机场取回了行李。"
+          }
+        ]
+      },
+      {
+        "word": "compensate",
+        "type": "verb",
+        "definition": {
+          "chinese": "补偿，弥补",
+          "english": "To make up for loss, damage, or mistake."
+        },
+        "examples": [
+          {
+            "sentence": "The company compensated him for the delay.",
+            "translation": "公司为延误补偿了他。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "金融 vs 宗教 vs 日常",
+        "explanation": "在金融场景中指‘赎回、兑现’，在宗教语境中是‘救赎’，在日常语境中则多指‘补救、挽回’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘redimere’（re- 回 + emere 买），原意为‘买回’，后逐渐引申出‘赎回债券、挽回名誉、救赎罪孽’等多义。",
+      "explanation_english": "From Latin ‘redimere’ (re- ‘back’ + emere ‘to buy’), originally ‘to buy back’, later extended to financial redemption, moral compensation, and religious salvation."
+    },
+    "variation_between_british_american": {
+      "british": "常用于金融（redeem shares）和礼券（redeem a voucher）。",
+      "american": "在营销和日常生活中更常见于‘redeem points/coupon’；宗教语境下用法相同。"
+    }
+  }
 ]
 
 
