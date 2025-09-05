@@ -32120,6 +32120,198 @@ const wordData = [
       "british": "商务和医学中常用‘follow up’；发音 /ˈfɒləʊ ʌp/。",
       "american": "发音 /ˈfɑːloʊ ʌp/，商务、医疗和日常口语均广泛使用。"
     }
+  },
+  {
+    "word": "massacre",
+    "pronunciation": {
+      "british": "/ˈmæsəkə/ 🇬🇧",
+      "american": "/ˈmæsəkər/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb",
+    "usage": "常用于正式和历史语境 ⚠️：指大规模屠杀，也可比喻彻底击败或惨败。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大屠杀，残杀",
+          "english": "The violent killing of many people, especially those unable to defend themselves."
+        },
+        "examples": [
+          {
+            "sentence": "The soldiers were accused of participating in a massacre.",
+            "translation": "士兵们被指控参与了一场大屠杀。"
+          }
+        ]
+      },
+      {
+        "type": "noun（比喻）",
+        "definition": {
+          "chinese": "惨败，彻底失败",
+          "english": "An overwhelming defeat in a competition or contest."
+        },
+        "examples": [
+          {
+            "sentence": "The game was a complete massacre — the score was 10 to 0.",
+            "translation": "比赛完全是一场惨败——比分是 10 比 0。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "屠杀，大规模杀戮",
+          "english": "To kill a large number of people in a cruel or violent way."
+        },
+        "examples": [
+          {
+            "sentence": "The army massacred innocent villagers.",
+            "translation": "军队屠杀了无辜的村民。"
+          }
+        ]
+      },
+      {
+        "type": "verb（比喻）",
+        "definition": {
+          "chinese": "惨败，痛击",
+          "english": "To defeat thoroughly in a game or contest."
+        },
+        "examples": [
+          {
+            "sentence": "Our team massacred the opponents in the finals.",
+            "translation": "我们的队伍在决赛中痛击了对手。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "slaughter",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "屠杀，宰杀",
+          "english": "The killing of many people or animals in a cruel way."
+        },
+        "examples": [
+          {
+            "sentence": "The troops carried out a brutal slaughter.",
+            "translation": "部队进行了一场残忍的屠杀。"
+          }
+        ]
+      },
+      {
+        "word": "butchery",
+        "type": "noun",
+        "definition": {
+          "chinese": "大屠杀，残暴行为",
+          "english": "Cruel and unnecessary killing; savage violence."
+        },
+        "examples": [
+          {
+            "sentence": "The dictator’s regime was responsible for mass butchery.",
+            "translation": "独裁者的政权制造了大规模的屠杀。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "严重语义色彩",
+        "explanation": "作名词时多用于战争、历史或新闻报道，语气非常沉重；作动词时语气同样强烈。"
+      },
+      {
+        "point": "比喻用法",
+        "explanation": "在体育、辩论等语境中可夸张地用来形容一方被彻底击败。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自16世纪中古法语 *massacrer*，源于 *massacre*（大屠杀）。原义是残酷杀戮，后被比喻用于体育和竞争的惨败。",
+      "explanation_english": "From Middle French *massacrer*, based on *massacre* meaning slaughter. Originally literal killing, later extended figuratively to crushing defeats."
+    },
+    "variation_between_british_american": {
+      "british": "比喻用法稍微少见，多强调真实的历史或新闻事件。",
+      "american": "比喻用法更常见，尤其在体育、娱乐语境中。"
+    }
+  },
+  {
+    "word": "benevolent",
+    "pronunciation": {
+      "british": "/bəˈnevələnt/ 🇬🇧",
+      "american": "/bəˈnevələnt/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用于正式或文学语境 👍：形容人心地善良、仁慈，或机构/行为带有慈善性质。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "仁慈的，善意的",
+          "english": "Well-meaning and kindly."
+        },
+        "examples": [
+          {
+            "sentence": "She gave him a benevolent smile.",
+            "translation": "她给了他一个善意的微笑。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "慈善的，行善的",
+          "english": "Serving charitable rather than profit-making purposes."
+        },
+        "examples": [
+          {
+            "sentence": "He donated a large sum to a benevolent fund.",
+            "translation": "他捐了一大笔钱给慈善基金。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "kindly",
+        "type": "adjective/adverb",
+        "definition": {
+          "chinese": "和善的，亲切的",
+          "english": "Kind, gentle, and friendly."
+        },
+        "examples": [
+          {
+            "sentence": "He spoke in a kindly voice.",
+            "translation": "他用亲切的声音说话。"
+          }
+        ]
+      },
+      {
+        "word": "charitable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "慈善的，仁厚的",
+          "english": "Generous in giving help to the needy."
+        },
+        "examples": [
+          {
+            "sentence": "She works for a charitable organization.",
+            "translation": "她在一家慈善机构工作。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语体偏正式",
+        "explanation": "benevolent 常见于文学、演讲或正式语境，在日常口语中，人们更常说 kind 或 nice。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *bene*（好）+ *velle*（愿望），字面意思是“希望他人好”，因此既可形容人心地善良，也可指带有慈善目的的机构或行为。",
+      "explanation_english": "From Latin *bene* ('well') + *velle* ('to wish'), literally 'to wish well'. Extended from describing a person's goodwill to describing charitable acts or organizations."
+    },
+    "variation_between_british_american": {
+      "british": "常见于文学和慈善机构名称，如 'Benevolent Fund'。",
+      "american": "同样使用，但在日常语境中更多人会选择 simpler words（如 kind, good-hearted）。"
+    }
   }
 ]
 
