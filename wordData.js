@@ -30139,6 +30139,1987 @@ const wordData = [
       "british": "常用于金融（redeem shares）和礼券（redeem a voucher）。",
       "american": "在营销和日常生活中更常见于‘redeem points/coupon’；宗教语境下用法相同。"
     }
+  },
+  {
+    "word": "internal medicine",
+    "pronunciation": {
+      "british": "/ɪnˈtɜːnl ˈmedɪsɪn/ 🇬🇧",
+      "american": "/ɪnˈtɜːrnəl ˈmedɪsən/ 🇺🇸"
+    },
+    "phrase_type": "noun 术语",
+    "usage": "专业用语 👍：指医学领域中专注于成人疾病的预防、诊断和非手术治疗。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "内科（医学专业）",
+          "english": "A branch of medicine dealing with the prevention, diagnosis, and treatment of adult diseases without surgery."
+        },
+        "examples": [
+          {
+            "sentence": "She decided to specialize in internal medicine after medical school.",
+            "translation": "她医学院毕业后决定专攻内科。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "general practitioner",
+        "type": "noun",
+        "definition": {
+          "chinese": "全科医生",
+          "english": "A doctor who treats common medical conditions and refers patients to specialists."
+        },
+        "examples": [
+          {
+            "sentence": "If symptoms persist, your GP may refer you to internal medicine.",
+            "translation": "如果症状持续，你的全科医生可能会把你转诊到内科。"
+          }
+        ]
+      },
+      {
+        "word": "specialist",
+        "type": "noun",
+        "definition": {
+          "chinese": "专科医生",
+          "english": "A doctor who focuses on a specific branch of medicine."
+        },
+        "examples": [
+          {
+            "sentence": "Cardiologists are specialists within internal medicine.",
+            "translation": "心脏病专家是内科的专科医生。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "术语专用",
+        "explanation": "通常用于医院或医学教育中，不随便缩写为 ‘IM’ 除非在专业场合。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘internus’（内部的）+ medicine（医学），专指人体内部系统的医疗，不涉及外科手术。",
+      "explanation_english": "From Latin ‘internus’ (‘internal’) + medicine, referring specifically to the medical care of the body’s internal systems without surgery."
+    },
+    "variation_between_british_american": {
+      "british": "常称‘internal medicine’，也可指‘physician’部门（hospital department）。",
+      "american": "同样称‘internal medicine’，常用在医院科室或专科培训名称（Internal Medicine residency）。"
+    }
+  },
+  {
+    "word": "out of",
+    "pronunciation": {
+      "british": "/aʊt əv/ 🇬🇧",
+      "american": "/aʊt əv/ 🇺🇸"
+    },
+    "phrase_type": "preposition/phrase 多义词",
+    "usage": "非常常用 👍：表示来源、数量、状态或原因，也可用于表达缺乏或用尽。",
+    "meanings": [
+      {
+        "type": "preposition",
+        "definition": {
+          "chinese": "来自，出自",
+          "english": "Indicating the source or origin of something."
+        },
+        "examples": [
+          {
+            "sentence": "This wine is made out of grapes from France.",
+            "translation": "这款酒是用法国的葡萄酿造的。"
+          }
+        ]
+      },
+      {
+        "type": "preposition",
+        "definition": {
+          "chinese": "用尽，缺少",
+          "english": "Indicating that something has been used up or no longer exists."
+        },
+        "examples": [
+          {
+            "sentence": "We are out of milk.",
+            "translation": "我们的牛奶用完了。"
+          }
+        ]
+      },
+      {
+        "type": "preposition",
+        "definition": {
+          "chinese": "因…而出于（动机、原因）",
+          "english": "Indicating a reason or motivation for an action."
+        },
+        "examples": [
+          {
+            "sentence": "She did it out of kindness.",
+            "translation": "她出于善意做了这件事。"
+          }
+        ]
+      },
+      {
+        "type": "preposition",
+        "definition": {
+          "chinese": "在…之中（数量比例）",
+          "english": "Indicating a number within a total."
+        },
+        "examples": [
+          {
+            "sentence": "Three out of five students passed the exam.",
+            "translation": "五个学生中有三个通过了考试。"
+          }
+        ]
+      },
+      {
+        "type": "preposition",
+        "definition": {
+          "chinese": "离开，出去",
+          "english": "Indicating movement from inside to outside."
+        },
+        "examples": [
+          {
+            "sentence": "He ran out of the room in a hurry.",
+            "translation": "他匆忙跑出了房间。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "from",
+        "type": "preposition",
+        "definition": {
+          "chinese": "从…来",
+          "english": "Indicating the origin or starting point."
+        },
+        "examples": [
+          {
+            "sentence": "She comes from Italy.",
+            "translation": "她来自意大利。"
+          }
+        ]
+      },
+      {
+        "word": "because of",
+        "type": "preposition",
+        "definition": {
+          "chinese": "因为，由于",
+          "english": "Indicating a reason or cause."
+        },
+        "examples": [
+          {
+            "sentence": "He was late because of traffic.",
+            "translation": "他因为交通堵塞而迟到。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义依赖上下文",
+        "explanation": "‘out of’ 的含义完全依赖句子语境，既可表示物理位置，也可表示抽象原因或比例。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由字面意义‘从…之外’引申出各种抽象用法，如原因、比例、缺乏、动机。",
+      "explanation_english": "Derived from the literal meaning 'from outside', extended metaphorically to reasons, proportions, depletion, and motivation."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，日常口语和书面语都常用。",
+      "american": "常用于日常口语，尤其表示缺少或出于某种动机。"
+    }
+  },
+  {
+    "word": "assistive",
+    "pronunciation": {
+      "british": "/əˈsɪstɪv/ 🇬🇧",
+      "american": "/əˈsɪstɪv/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "较常用（尤其在医疗、康复、科技领域）👍：多用于描述帮助残障人士或有需要人群的技术或设备。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "辅助的，帮助的",
+          "english": "Providing aid or support, especially for people with disabilities."
+        },
+        "examples": [
+          {
+            "sentence": "He uses assistive technology to communicate.",
+            "translation": "他使用辅助技术进行交流。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "supportive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "支持的，帮助的",
+          "english": "Giving encouragement or help."
+        },
+        "examples": [
+          {
+            "sentence": "She was very supportive during his illness.",
+            "translation": "她在他生病期间给予了很多支持。"
+          }
+        ]
+      },
+      {
+        "word": "adaptive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "适应性的，改装的",
+          "english": "Designed to adapt for special needs, often in technology or equipment."
+        },
+        "examples": [
+          {
+            "sentence": "He drives an adaptive car designed for people with mobility issues.",
+            "translation": "他开一辆为行动不便者设计的改装车。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见搭配",
+        "explanation": "常见于 'assistive technology'（辅助技术）、'assistive device'（辅助设备）、'assistive software'（辅助软件）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 *assist*（帮助）。'assistive' 作为形容词主要在现代医学与科技领域发展出来，用来描述设备或技术的辅助功能。",
+      "explanation_english": "Derived from the verb *assist* ('to help'). 'Assistive' as an adjective developed in modern medical and technological contexts to describe devices or tools that aid people."
+    },
+    "variation_between_british_american": {
+      "british": "使用场景与美式相同，但在官方文件中可能更偏好 'supportive technology'。",
+      "american": "更常用 'assistive technology'（尤其在医疗、康复和教育领域）。"
+    }
+  },
+  {
+    "word": "dedicated",
+    "pronunciation": {
+      "british": "/ˈdedɪkeɪtɪd/ 🇬🇧",
+      "american": "/ˈdedɪˌkeɪtɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "非常常用 👍：可形容一个人全身心投入、敬业，也可指专用的设备或空间。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "专注的，尽心尽力的",
+          "english": "Devoted to a task or purpose; showing strong commitment."
+        },
+        "examples": [
+          {
+            "sentence": "She is a dedicated teacher who spends extra time helping students.",
+            "translation": "她是一位尽心尽力的老师，经常花额外时间帮助学生。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "专用的",
+          "english": "Designed for a particular purpose."
+        },
+        "examples": [
+          {
+            "sentence": "This lab has a dedicated server for research data.",
+            "translation": "这个实验室有一台专用的研究数据服务器。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "committed",
+        "type": "adjective",
+        "definition": {
+          "chinese": "投入的，忠诚的",
+          "english": "Willing to give time, energy, and loyalty to something."
+        },
+        "examples": [
+          {
+            "sentence": "He is deeply committed to his work.",
+            "translation": "他全身心投入工作。"
+          }
+        ]
+      },
+      {
+        "word": "devoted",
+        "type": "adjective",
+        "definition": {
+          "chinese": "忠诚的，投入的",
+          "english": "Very loving or loyal; strongly focused on someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "She is a devoted mother.",
+            "translation": "她是一位全心投入的母亲。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "两大核心含义",
+        "explanation": "dedicated 既可形容人的态度，也常用于技术或空间，表示“专用”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *dedicare*（奉献）。原始意义是“献给某人或某目的”，因此既可指人对工作的奉献，也延伸为设备或空间“专门用于某事”。",
+      "explanation_english": "From Latin *dedicare* ('to devote, consecrate'). Originally meant 'to dedicate to a person or purpose', extended to people’s devotion and later to specialized equipment or spaces."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，但在技术领域中，英式有时说 'purpose-built' 代替 'dedicated'。",
+      "american": "常用 'dedicated' 来形容设备、团队、空间，如 'dedicated staff', 'dedicated line'。"
+    }
+  },
+  {
+    "word": "assumption",
+    "pronunciation": {
+      "british": "/əˈsʌmp.ʃən/ 🇬🇧",
+      "american": "/əˈsʌmp.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：表示‘假设’或‘理所当然的想法’，常见于学术和日常语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "假设，设想",
+          "english": "Something that you accept as true without proof."
+        },
+        "examples": [
+          {
+            "sentence": "The plan is based on the assumption that costs will not rise.",
+            "translation": "这个计划基于成本不会上升的假设。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "理所当然的想法",
+          "english": "A belief taken for granted."
+        },
+        "examples": [
+          {
+            "sentence": "His assumption that she agreed was wrong.",
+            "translation": "他以为她同意是错的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "presumption",
+        "type": "noun",
+        "definition": {
+          "chinese": "推定，假设",
+          "english": "An idea that is taken to be true on the basis of probability."
+        },
+        "examples": [
+          {
+            "sentence": "There is a presumption of innocence in law.",
+            "translation": "法律上有无罪推定。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见错误",
+        "explanation": "assumption 不等于 guarantee；它只是未经验证的前提。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 assumere（拿起、承担），后引申为‘承担观点’即‘假设’。",
+      "explanation_english": "From Latin *assumere* ('to take up'), extended to mean 'taking up an idea' hence 'assumption'."
+    },
+    "variation_between_british_american": {
+      "british": "常用于逻辑推理、辩论。",
+      "american": "学术和日常语境都非常常见。"
+    }
+  },
+  {
+    "word": "common practice",
+    "pronunciation": {
+      "british": "/ˌkɒm.ən ˈpræk.tɪs/ 🇬🇧",
+      "american": "/ˌkɑː.mən ˈpræk.tɪs/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用 👍：指‘普遍的做法’，多用于社会、职业或习惯场景。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "普遍做法，常见习惯",
+          "english": "A usual or standard way of doing something."
+        },
+        "examples": [
+          {
+            "sentence": "It’s common practice to shake hands when meeting someone.",
+            "translation": "见面时握手是一种普遍的做法。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "custom",
+        "type": "noun",
+        "definition": {
+          "chinese": "习俗，习惯",
+          "english": "A traditional and widely accepted way of behaving."
+        },
+        "examples": [
+          {
+            "sentence": "It is the custom to bow in Japan.",
+            "translation": "在日本鞠躬是一种习俗。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法场景",
+        "explanation": "常见于礼仪、工作流程、行业规范中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 common（普遍的）+ practice（做法）组合，语义直接。",
+      "explanation_english": "Formed from 'common' + 'practice', meaning 'a practice commonly followed'."
+    },
+    "variation_between_british_american": {
+      "british": "常用于社会规范表达。",
+      "american": "同样常见，但也常用于公司或团队流程。"
+    }
+  },
+  {
+    "word": "stubborn",
+    "pronunciation": {
+      "british": "/ˈstʌb.ən/ 🇬🇧",
+      "american": "/ˈstʌb.ɚn/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：表示‘固执’或‘难以改变’，可指人或事物。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "固执的，顽固的",
+          "english": "Unwilling to change one’s mind or attitude."
+        },
+        "examples": [
+          {
+            "sentence": "She’s too stubborn to admit she was wrong.",
+            "translation": "她太固执，不肯承认自己错了。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "难以处理的",
+          "english": "Difficult to deal with or remove."
+        },
+        "examples": [
+          {
+            "sentence": "This stain is really stubborn.",
+            "translation": "这个污渍真的很难去掉。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "obstinate",
+        "type": "adjective",
+        "definition": {
+          "chinese": "顽固的，固执的",
+          "english": "Stubbornly refusing to change one’s opinion or course of action."
+        },
+        "examples": [
+          {
+            "sentence": "He remained obstinate despite the evidence.",
+            "translation": "尽管有证据，他依然固执己见。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气色彩",
+        "explanation": "通常带有贬义，但在某些语境下可表示‘坚韧不拔’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自中古英语 stuborn，原义与‘树桩 stub’相关，暗示难以移动、顽固。",
+      "explanation_english": "From Middle English *stuborn*, linked to 'stub' (tree stump), suggesting unmovable or unyielding."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同。",
+      "american": "常用于日常口语，尤其是形容小孩或宠物。"
+    }
+  },
+  {
+    "word": "stereotype",
+    "pronunciation": {
+      "british": "/ˈster.i.ə.taɪp/ 🇬🇧",
+      "american": "/ˈster.i.ə.taɪp/ 或 /ˈstɪr.i.ə.taɪp/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb",
+    "usage": "常用 👍：指对某一群体或事物的固定印象，也可作动词‘对…形成刻板印象’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "刻板印象",
+          "english": "A widely held but oversimplified idea about a group of people or things."
+        },
+        "examples": [
+          {
+            "sentence": "The stereotype of men being bad at cooking is unfair.",
+            "translation": "认为男性不会做饭的刻板印象是不公平的。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "对…形成刻板印象",
+          "english": "To view or represent someone or something in a stereotypical way."
+        },
+        "examples": [
+          {
+            "sentence": "She felt stereotyped as a housewife.",
+            "translation": "她觉得自己被固化为家庭主妇的形象。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "prejudice",
+        "type": "noun",
+        "definition": {
+          "chinese": "偏见",
+          "english": "An unreasonable dislike or opinion formed without knowledge."
+        },
+        "examples": [
+          {
+            "sentence": "He has a prejudice against immigrants.",
+            "translation": "他对移民有偏见。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气色彩",
+        "explanation": "多为负面含义，指过于简单和不公正的看法。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指印刷术中的‘铅版’，后比喻为‘固定不变的模式’，引申为社会意义上的‘刻板印象’。",
+      "explanation_english": "Originally a printing term meaning 'solid plate of type', extended metaphorically to 'fixed pattern' and later 'fixed idea about people'."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同。",
+      "american": "同样常见，但在社会议题讨论中更高频。"
+    }
+  },
+  {
+    "word": "discriminates against",
+    "pronunciation": {
+      "british": "/dɪˈskrɪm.ɪ.neɪts əˈɡenst/ 🇬🇧",
+      "american": "/dɪˈskrɪm.əˌneɪts əˈɡeɪnst/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "常用 👍：用于描述不公平对待某个群体或个人的行为，涉及性别、种族、年龄等。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "歧视，对…不公平对待",
+          "english": "To treat someone or a group of people less fairly than others."
+        },
+        "examples": [
+          {
+            "sentence": "The company discriminates against older workers.",
+            "translation": "这家公司歧视年长的员工。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bias",
+        "type": "noun",
+        "definition": {
+          "chinese": "偏见，偏向",
+          "english": "An inclination or prejudice for or against someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "She has a bias against city life.",
+            "translation": "她对城市生活有偏见。"
+          }
+        ]
+      },
+      {
+        "word": "oppress",
+        "type": "verb",
+        "definition": {
+          "chinese": "压迫，剥削",
+          "english": "To keep someone in hardship, especially unjustly."
+        },
+        "examples": [
+          {
+            "sentence": "The regime oppressed its people.",
+            "translation": "这个政权压迫其人民。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见语境",
+        "explanation": "常与法律、社会议题相关，如 employment law、human rights。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 discriminare（区分），原义是‘区分开’，后来带入负面意义，指不公平的区别对待。",
+      "explanation_english": "From Latin *discriminare* ('to distinguish'), originally neutral but later acquired negative sense of unfairly treating differently."
+    },
+    "variation_between_british_american": {
+      "british": "与美式相同，多用于就业和社会平等相关语境。",
+      "american": "同样常见，尤其在 civil rights、gender equality 等语境中。"
+    }
+  },
+  {
+    "word": "recede",
+    "pronunciation": {
+      "british": "/rɪˈsiːd/ 🇬🇧",
+      "american": "/rɪˈsiːd/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用 👍：既可用于描述水、物体或声音逐渐远离，也常用于形容发际线后移。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "后退，退去",
+          "english": "To move back or away from a previous position."
+        },
+        "examples": [
+          {
+            "sentence": "The floodwaters slowly receded.",
+            "translation": "洪水慢慢退去。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "逐渐远去，消退",
+          "english": "To become more distant, less strong, or less intense."
+        },
+        "examples": [
+          {
+            "sentence": "His pain gradually receded.",
+            "translation": "他的疼痛逐渐减轻。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（发际线）后移",
+          "english": "When the hair at the front of someone’s head begins to move back and expose more forehead."
+        },
+        "examples": [
+          {
+            "sentence": "His hairline is starting to recede.",
+            "translation": "他的发际线开始后移了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "retreat",
+        "type": "verb",
+        "definition": {
+          "chinese": "撤退，退却",
+          "english": "To move back, especially in fear or after defeat."
+        },
+        "examples": [
+          {
+            "sentence": "The soldiers had to retreat.",
+            "translation": "士兵们不得不撤退。"
+          }
+        ]
+      },
+      {
+        "word": "wane",
+        "type": "verb",
+        "definition": {
+          "chinese": "衰退，减弱",
+          "english": "To decrease in power, strength, or intensity."
+        },
+        "examples": [
+          {
+            "sentence": "Her enthusiasm began to wane.",
+            "translation": "她的热情开始减退。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "发际线常见搭配",
+        "explanation": "在口语中，recede 最常见的搭配是 hairline receding。"
+      },
+      {
+        "point": "比喻用法",
+        "explanation": "除物理意义外，还常用于描述抽象事物如希望、记忆、声音等逐渐消退。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *recedere*，意为“走回、退却”。原始意义是物理上的退去，后来被比喻性地用来表示抽象的消退或发际线后移。",
+      "explanation_english": "From Latin *recedere* meaning 'to go back, withdraw'. Originally physical retreat, later extended metaphorically to fading, diminishing, or hairline moving back."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，常见于自然现象（洪水、潮水 recede）。",
+      "american": "同样常见，但在日常对话里更常用于谈论发际线后移。"
+    }
+  },
+  {
+    "word": "hairline",
+    "pronunciation": {
+      "british": "/ˈheə.laɪn/ 🇬🇧",
+      "american": "/ˈher.laɪn/ 🇺🇸"
+    },
+    "phrase_type": "noun/adjective",
+    "usage": "常用 👍：主要用于描述前额的发际线，也可指极细的裂缝或线条。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "发际线（额头与头发的交界线）",
+          "english": "The edge of a person’s hair, especially where it meets the forehead."
+        },
+        "examples": [
+          {
+            "sentence": "He has a receding hairline.",
+            "translation": "他的发际线在后移。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "极细的（裂缝、线条）",
+          "english": "Extremely thin or narrow, like a fine line."
+        },
+        "examples": [
+          {
+            "sentence": "The cup had a hairline crack.",
+            "translation": "这个杯子有一道细小的裂缝。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "recede",
+        "type": "verb",
+        "definition": {
+          "chinese": "后退，逐渐远离",
+          "english": "To move back or further away; often used about hairlines."
+        },
+        "examples": [
+          {
+            "sentence": "His hair has started to recede at the temples.",
+            "translation": "他的鬓角开始脱发了。"
+          }
+        ]
+      },
+      {
+        "word": "fracture",
+        "type": "noun",
+        "definition": {
+          "chinese": "裂缝，断裂",
+          "english": "A break or crack, especially in bone or hard material."
+        },
+        "examples": [
+          {
+            "sentence": "The X-ray showed a hairline fracture in her wrist.",
+            "translation": "X 光显示她的手腕有一条细小裂缝。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学用法",
+        "explanation": "hairline fracture 指‘发丝状骨折’，裂缝非常细，不易察觉。"
+      },
+      {
+        "point": "口语场景",
+        "explanation": "在日常生活中，说 someone's hairline 通常是谈论脱发或发型。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指头发边缘（发际线），后因‘极细如发丝’的比喻，扩展为形容裂缝或线条。 ",
+      "explanation_english": "Originally referred to the edge of hair on the forehead, later extended metaphorically to describe something extremely thin like a strand of hair."
+    },
+    "variation_between_british_american": {
+      "british": "常用于描述发际线，也用于医学上的‘hairline fracture’。",
+      "american": "用法相同，但在日常口语里更常提及发际线后移（receding hairline）。"
+    }
+  },
+  {
+    "word": "take off",
+    "pronunciation": {
+      "british": "/ˈteɪk ɒf/ 🇬🇧",
+      "american": "/ˈteɪk ɔːf/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义词",
+    "usage": "非常常用 👍：可表示飞机起飞、事业迅速成功、脱掉衣物、模仿某人、突然离开等。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "（飞机）起飞",
+          "english": "When an aircraft leaves the ground and begins to fly."
+        },
+        "examples": [
+          {
+            "sentence": "The plane took off on time.",
+            "translation": "飞机准时起飞了。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "（事业/产品）迅速成功",
+          "english": "To suddenly become successful or popular."
+        },
+        "examples": [
+          {
+            "sentence": "Her career really took off after the movie.",
+            "translation": "她的事业在那部电影之后真正起飞了。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "脱掉（衣物）",
+          "english": "To remove clothing from your body."
+        },
+        "examples": [
+          {
+            "sentence": "He took off his jacket because it was hot.",
+            "translation": "因为天气热，他脱掉了夹克。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "突然离开",
+          "english": "To leave a place suddenly and quickly."
+        },
+        "examples": [
+          {
+            "sentence": "He took off without saying goodbye.",
+            "translation": "他没说再见就突然离开了。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "模仿（尤指搞笑模仿）",
+          "english": "To imitate someone, often in a humorous way."
+        },
+        "examples": [
+          {
+            "sentence": "She’s good at taking off famous actors.",
+            "translation": "她很擅长模仿著名演员。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "take out",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "拿出，取出",
+          "english": "To remove something from somewhere."
+        },
+        "examples": [
+          {
+            "sentence": "He took out his wallet.",
+            "translation": "他拿出了钱包。"
+          }
+        ]
+      },
+      {
+        "word": "lift off",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "（火箭等）发射升空",
+          "english": "When a rocket or spacecraft leaves the ground and rises into the air."
+        },
+        "examples": [
+          {
+            "sentence": "The rocket lifted off successfully.",
+            "translation": "火箭成功升空。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语境决定含义",
+        "explanation": "take off 的含义非常依赖语境，可能是字面意义（飞机起飞/脱衣），也可能是比喻意义（事业成功）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原始含义是‘移开/拿走’，从物理动作（脱掉衣物、飞机离地）引申到抽象概念（事业腾飞、模仿他人）。",
+      "explanation_english": "Originally meant 'to remove or lift away'; extended from physical action (removing clothes, plane leaving ground) to figurative senses (career success, imitation)."
+    },
+    "variation_between_british_american": {
+      "british": "常用于‘模仿某人’的语境里（humorous take-off）。",
+      "american": "更常用于‘事业/产品成功’的语境里。"
+    }
+  },
+  {
+    "word": "underdog",
+    "pronunciation": {
+      "british": "/ˈʌn.də.dɒɡ/ 🇬🇧",
+      "american": "/ˈʌn.dɚ.dɑːɡ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：用于比赛、竞争、社会环境中，指‘不被看好的一方’或‘弱势者’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "处于劣势的一方；不被看好的人/队伍",
+          "english": "A competitor thought to have little chance of winning a contest."
+        },
+        "examples": [
+          {
+            "sentence": "The underdog team surprised everyone by winning the championship.",
+            "translation": "这支不被看好的队伍令人意外地赢得了冠军。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "社会中的弱者",
+          "english": "A person or group in society that is disadvantaged or oppressed."
+        },
+        "examples": [
+          {
+            "sentence": "She always speaks up for the underdogs in society.",
+            "translation": "她总是为社会中的弱者发声。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "long shot",
+        "type": "noun",
+        "definition": {
+          "chinese": "成功可能性极低的尝试",
+          "english": "An attempt or possibility that has little chance of success."
+        },
+        "examples": [
+          {
+            "sentence": "It was a long shot, but the underdog pulled it off.",
+            "translation": "这几乎是不可能的事，但那个弱者竟然做到了。"
+          }
+        ]
+      },
+      {
+        "word": "dark horse",
+        "type": "noun",
+        "definition": {
+          "chinese": "黑马；意外获胜者",
+          "english": "A candidate or competitor about whom little is known but who unexpectedly wins."
+        },
+        "examples": [
+          {
+            "sentence": "He was the dark horse of the election, much like an underdog.",
+            "translation": "他是这次选举的黑马，很像一个不被看好的候选人。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气色彩",
+        "explanation": "常带有同情或鼓舞色彩，说某人是 underdog 并不总是贬义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初（19 世纪）指斗狗时处于下方、被压制的狗，引申为任何处于劣势或弱势的一方。",
+      "explanation_english": "Originally (19th century) referred to the dog on the bottom in a dogfight, later extended to mean anyone at a disadvantage or expected to lose."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，但在体育评论中更常见。",
+      "american": "在日常对话和体育语境里极常用，尤其是在描述小概率胜利时。"
+    }
+  },
+  {
+    "word": "chamomile",
+    "pronunciation": {
+      "british": "/ˈkæm.ə.maɪl/ 或 /ˈkæm.ə.miːl/ 🇬🇧",
+      "american": "/ˈkæm.ə.maɪl/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：常用于草药、茶饮、芳香疗法等场景，表示‘洋甘菊’。",
+    "meanings": [
+      {
+        "type": "noun (plant)",
+        "definition": {
+          "chinese": "洋甘菊（一种开白色小花的草本植物，常用于药用或泡茶）",
+          "english": "A small plant with white daisy-like flowers, often used in herbal medicine and teas."
+        },
+        "examples": [
+          {
+            "sentence": "Chamomile is known for its calming effects.",
+            "translation": "洋甘菊因其镇静效果而闻名。"
+          }
+        ]
+      },
+      {
+        "type": "noun (tea)",
+        "definition": {
+          "chinese": "洋甘菊茶",
+          "english": "A tea made from the dried flowers of the chamomile plant."
+        },
+        "examples": [
+          {
+            "sentence": "She drank a cup of chamomile before going to bed.",
+            "translation": "她睡前喝了一杯洋甘菊茶。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "herbal tea",
+        "type": "noun",
+        "definition": {
+          "chinese": "花草茶",
+          "english": "A beverage made from the infusion of herbs, spices, or other plant material."
+        },
+        "examples": [
+          {
+            "sentence": "Chamomile is one of the most popular herbal teas.",
+            "translation": "洋甘菊是最受欢迎的花草茶之一。"
+          }
+        ]
+      },
+      {
+        "word": "lavender",
+        "type": "noun",
+        "definition": {
+          "chinese": "薰衣草",
+          "english": "A fragrant plant often used in aromatherapy and teas."
+        },
+        "examples": [
+          {
+            "sentence": "Lavender and chamomile are both relaxing herbs.",
+            "translation": "薰衣草和洋甘菊都是放松身心的草药。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音差异",
+        "explanation": "英式英语既可以读作 /ˈkæm.ə.maɪl/ 也可以读作 /ˈkæm.ə.miːl/，而美式几乎总是 /ˈkæm.ə.maɪl/。"
+      },
+      {
+        "point": "用法常见性",
+        "explanation": "chamomile 在日常英语里多用于食品、饮料和健康养生场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 *khamaimēlon*（意为‘地上的苹果’），因为花有苹果般的香味。最初指植物本身，后来引申为由其制成的茶。",
+      "explanation_english": "From Greek *khamaimēlon* ('earth-apple'), referring to its apple-like scent. Originally the plant, later extended to the tea made from it."
+    },
+    "variation_between_british_american": {
+      "british": "发音有两种：/ˈkæm.ə.maɪl/ 和 /ˈkæm.ə.miːl/；两者都被接受。",
+      "american": "几乎总是读作 /ˈkæm.ə.maɪl/；常见于养生、草药和饮品语境。"
+    }
+  },
+  {
+    "word": "sector",
+    "pronunciation": {
+      "british": "/ˈsek.tər/ 🇬🇧",
+      "american": "/ˈsek.tɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：用于经济、工业、军事、数学等多种语境，表示‘部门、领域或区域’。",
+    "meanings": [
+      {
+        "type": "noun (industry/economy)",
+        "definition": {
+          "chinese": "部门，行业，领域",
+          "english": "A distinct part or branch of a nation's economy, industry, or activity."
+        },
+        "examples": [
+          {
+            "sentence": "The technology sector is growing rapidly.",
+            "translation": "科技行业正在快速发展。"
+          }
+        ]
+      },
+      {
+        "type": "noun (military/geography)",
+        "definition": {
+          "chinese": "区域，地段",
+          "english": "A specific area, zone, or portion of a territory, often used in military or geographic contexts."
+        },
+        "examples": [
+          {
+            "sentence": "The army controlled a sector of the city.",
+            "translation": "军队控制了城市的一个区域。"
+          }
+        ]
+      },
+      {
+        "type": "noun (geometry)",
+        "definition": {
+          "chinese": "扇形",
+          "english": "The area enclosed by two radii of a circle and the connecting arc."
+        },
+        "examples": [
+          {
+            "sentence": "The pie chart shows the largest sector represents 40%.",
+            "translation": "饼图显示，最大扇形占 40%。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "industry",
+        "type": "noun",
+        "definition": {
+          "chinese": "产业，行业",
+          "english": "A specific branch of economic or commercial activity."
+        },
+        "examples": [
+          {
+            "sentence": "The automotive industry employs thousands of people.",
+            "translation": "汽车产业雇佣了成千上万的人。"
+          }
+        ]
+      },
+      {
+        "word": "zone",
+        "type": "noun",
+        "definition": {
+          "chinese": "区域，地带",
+          "english": "A distinct area distinguished for a particular purpose or characteristic."
+        },
+        "examples": [
+          {
+            "sentence": "The city is divided into different residential zones.",
+            "translation": "城市被划分为不同的住宅区。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多领域使用",
+        "explanation": "sector 可用于经济、地理、军事和数学等不同语境，但都表示某种划分或部分。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *sector*，意为‘切割物’或‘划分的部分’，因此引申出各类‘区域、部门、扇形’的含义。",
+      "explanation_english": "From Latin *sector*, meaning 'a cutter or division', hence extended to various senses of 'part, division, or area'."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，口音 /ˈsek.tər/。",
+      "american": "用法相同，口音 /ˈsek.tɚ/。在经济报道和军事新闻中都非常常见。"
+    }
+  },
+  {
+    "word": "zone out",
+    "pronunciation": {
+      "british": "/zoʊn aʊt/ 🇬🇧",
+      "american": "/zoʊn aʊt/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb（口语，非正式）",
+    "usage": "常用口语表达 👍：描述注意力完全离开当前情境，进入发呆或走神状态。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "走神，发呆",
+          "english": "To lose focus on the present moment or surroundings; to mentally drift away."
+        },
+        "examples": [
+          {
+            "sentence": "I tend to zone out during long meetings.",
+            "translation": "我在长时间的会议中容易走神。"
+          },
+          {
+            "sentence": "She zoned out while watching TV.",
+            "translation": "她看电视时走神了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "daydream",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "做白日梦；幻想",
+          "english": "To indulge in a series of pleasant thoughts that distract from the present; a fanciful mental escape."
+        },
+        "examples": [
+          {
+            "sentence": "He was daydreaming instead of paying attention in class.",
+            "translation": "他在课堂上发白日梦而没有注意听讲。"
+          }
+        ]
+      },
+      {
+        "word": "drift off",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "精神恍惚；慢慢入睡",
+          "english": "To gradually lose focus or consciousness."
+        },
+        "examples": [
+          {
+            "sentence": "I started to drift off during the lecture.",
+            "translation": "我在讲座中开始恍惚起来。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语色彩强",
+        "explanation": "zone out 多用于非正式口语或描述心理状态，不适合正式书面语。"
+      },
+      {
+        "point": "通常不及物",
+        "explanation": "后面一般不直接跟宾语，如‘I zoned out’，而不是‘I zoned out the meeting’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意指‘进入某个区域（zone）之外’，引申为‘注意力离开’或‘精神漂移’，属于比喻用法扩展。",
+      "explanation_english": "Originally meant 'to go outside a zone', metaphorically extended to 'mentally drift away or lose focus'."
+    },
+    "variation_between_british_american": {
+      "british": "口语中可用，但不如美式英语常见。",
+      "american": "非常常用，尤其在学生、职场和日常口语中。"
+    }
+  },
+  {
+    "word": "bracelet",
+    "pronunciation": {
+      "british": "/ˈbreɪslət/ 🇬🇧",
+      "american": "/ˈbreɪslət/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "日常常用，通常指佩戴在手腕上的装饰品；在某些语境下也可指特殊功能的腕带，如身份识别或监控用的电子手环。",
+    "meanings": [
+      {
+        "type": "noun (jewelry)",
+        "definition": {
+          "chinese": "手镯；手链",
+          "english": "An ornamental band, hoop, or chain worn around the wrist."
+        },
+        "examples": [
+          {
+            "sentence": "She wore a gold bracelet on her wrist.",
+            "translation": "她手腕上戴着一只金手镯。"
+          }
+        ]
+      },
+      {
+        "type": "noun (functional band)",
+        "definition": {
+          "chinese": "功能性手环（如识别手环、电子手环）",
+          "english": "A band or strap worn around the wrist for a practical purpose, such as identification or monitoring."
+        },
+        "examples": [
+          {
+            "sentence": "The patient was given a hospital bracelet for identification.",
+            "translation": "病人被戴上了医院的身份识别手环。"
+          },
+          {
+            "sentence": "The convict was required to wear an electronic monitoring bracelet.",
+            "translation": "罪犯被要求佩戴电子监控手环。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bangle",
+        "type": "noun",
+        "definition": {
+          "chinese": "镯子（通常是硬的，不带扣）",
+          "english": "A rigid bracelet, usually made of metal, wood, or plastic, without a clasp."
+        },
+        "examples": [
+          {
+            "sentence": "She wore several colorful bangles on her arm.",
+            "translation": "她手臂上戴了几只彩色的镯子。"
+          }
+        ]
+      },
+      {
+        "word": "wristband",
+        "type": "noun",
+        "definition": {
+          "chinese": "腕带；腕箍",
+          "english": "A strip worn around the wrist, often for support, decoration, or identification."
+        },
+        "examples": [
+          {
+            "sentence": "He wore a sweat wristband while playing tennis.",
+            "translation": "他打网球时戴了一条吸汗腕带。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "珠宝与功能区分",
+        "explanation": "bracelet 通常指装饰性的手镯，但在医院、刑法或运动场景中也可能是功能性的。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古法语 *bracelet*，意为“小臂甲”，最初与手臂保护物相关，后来演变为装饰性的手环，并进一步扩展到功能性手环。",
+      "explanation_english": "From Old French *bracelet* (‘small arm-guard’), originally related to arm protection; later developed into ornamental wristwear, then extended to functional wristbands."
+    },
+    "variation_between_british_american": {
+      "british": "常用于指装饰性的手镯；医院里也常说 hospital bracelet。",
+      "american": "含义相同，但在美国‘bracelet’在科技、医疗领域更容易指电子手环。"
+    }
+  },
+  {
+    "word": "slaughterhouse",
+    "pronunciation": {
+      "british": "/ˈslɔːtəhaʊs/ 🇬🇧",
+      "american": "/ˈslɔːtərhaʊs/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用于农业、食品产业，也可用于比喻极端暴力或血腥的场所。",
+    "meanings": [
+      {
+        "type": "noun (literal)",
+        "definition": {
+          "chinese": "屠宰场",
+          "english": "A building where animals are killed for meat."
+        },
+        "examples": [
+          {
+            "sentence": "The cattle were taken to the slaughterhouse.",
+            "translation": "牛被送到了屠宰场。"
+          }
+        ]
+      },
+      {
+        "type": "noun (figurative)",
+        "definition": {
+          "chinese": "血腥的场所；屠杀现场",
+          "english": "A place of mass killing or extreme violence."
+        },
+        "examples": [
+          {
+            "sentence": "The battlefield became a slaughterhouse.",
+            "translation": "战场变成了屠杀场。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "butchery",
+        "type": "noun",
+        "definition": {
+          "chinese": "屠宰；屠杀",
+          "english": "The business of slaughtering animals; also used figuratively for mass killing."
+        },
+        "examples": [
+          {
+            "sentence": "The butchery of innocent people shocked the world.",
+            "translation": "无辜者的屠杀震惊了世界。"
+          }
+        ]
+      },
+      {
+        "word": "abattoir",
+        "type": "noun (英式)",
+        "definition": {
+          "chinese": "屠宰场（正式用词，英式常用）",
+          "english": "A place where animals are slaughtered, especially in British English."
+        },
+        "examples": [
+          {
+            "sentence": "The regulations for abattoirs were tightened.",
+            "translation": "屠宰场的规定收紧了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "slaughterhouse 在文学和新闻报道中常被借用来形容惨烈的战场或暴力事件。"
+      },
+      {
+        "point": "文化差异",
+        "explanation": "英式英语更常用 abattoir，而美式英语更习惯用 slaughterhouse。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 slaughter（屠杀）+ house（房屋）组成，原意指屠宰动物的地方，后来比喻性用法引申为‘血腥场所’。",
+      "explanation_english": "Formed from ‘slaughter’ (killing) + ‘house’, originally meaning a place to kill animals, later extended figuratively to violent human contexts."
+    },
+    "variation_between_british_american": {
+      "british": "更常用 abattoir（正式），slaughterhouse 也能用但语气更直白。",
+      "american": "slaughterhouse 是最常见的说法，既可指屠宰场，也用于比喻。"
+    }
+  },
+  {
+    "word": "pertain",
+    "pronunciation": {
+      "british": "/pəˈteɪn/ 🇬🇧",
+      "american": "/pərˈteɪn/ 🇺🇸"
+    },
+    "phrase_type": "verb（不及物动词，正式用语）",
+    "usage": "正式或学术语境常见，用于表示‘与……相关’或‘适用于……’。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "与……相关；涉及",
+          "english": "To relate to or have connection with something."
+        },
+        "examples": [
+          {
+            "sentence": "The rules pertain only to employees of the company.",
+            "translation": "这些规定只适用于公司的员工。"
+          },
+          {
+            "sentence": "His remarks pertain to the current discussion.",
+            "translation": "他的发言与当前讨论相关。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "relate",
+        "type": "verb",
+        "definition": {
+          "chinese": "涉及，关系到",
+          "english": "To have a connection with something."
+        },
+        "examples": [
+          {
+            "sentence": "The report relates to last year’s activities.",
+            "translation": "这份报告涉及去年的活动。"
+          }
+        ]
+      },
+      {
+        "word": "apply",
+        "type": "verb",
+        "definition": {
+          "chinese": "适用于",
+          "english": "To be relevant or suitable in a particular situation."
+        },
+        "examples": [
+          {
+            "sentence": "This law does not apply to minors.",
+            "translation": "这项法律不适用于未成年人。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语体色彩",
+        "explanation": "pertain 听起来比 relate 更正式，多用于书面或学术语境。"
+      },
+      {
+        "point": "常见搭配",
+        "explanation": "常用表达为 ‘pertain to something’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *pertinēre*，意为‘伸向、关系到’，后进入中古英语保留‘与……相关’的意思。",
+      "explanation_english": "From Latin *pertinēre* (‘to reach toward, to relate to’), Middle English kept the meaning ‘to be connected with’."
+    },
+    "variation_between_british_american": {
+      "british": "在英国多用于学术、法律语境，日常生活中较少使用。",
+      "american": "在美国同样偏正式，法律、商业文件中较为常见。"
+    }
+  },
+  {
+    "word": "horse-drawn",
+    "pronunciation": {
+      "british": "/ˈhɔːs drɔːn/ 🇬🇧",
+      "american": "/ˈhɔːrs drɔn/ 🇺🇸"
+    },
+    "phrase_type": "adjective（复合形容词）",
+    "usage": "用于描述由马拉的交通工具或机械，多见于历史、旅游、文学语境。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "马拉的",
+          "english": "Pulled by a horse or horses."
+        },
+        "examples": [
+          {
+            "sentence": "They took a ride in a horse-drawn carriage.",
+            "translation": "他们乘坐了一辆马车。"
+          },
+          {
+            "sentence": "Horse-drawn plows were once common in farming.",
+            "translation": "马拉犁曾经在农业中很常见。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "carriage",
+        "type": "noun",
+        "definition": {
+          "chinese": "马车",
+          "english": "A vehicle pulled by horses, especially used in the past."
+        },
+        "examples": [
+          {
+            "sentence": "The royal couple arrived in a grand carriage.",
+            "translation": "王室夫妇乘坐华丽的马车到达。"
+          }
+        ]
+      },
+      {
+        "word": "wagon",
+        "type": "noun",
+        "definition": {
+          "chinese": "四轮货车，马车",
+          "english": "A strong vehicle with four wheels, usually pulled by animals, for carrying goods."
+        },
+        "examples": [
+          {
+            "sentence": "Pioneers traveled westward in covered wagons.",
+            "translation": "拓荒者们乘坐篷车向西进发。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "典型历史语境",
+        "explanation": "现代已不常用，主要在描述过去交通方式或旅游景点的体验。"
+      },
+      {
+        "point": "复合形容词",
+        "explanation": "由 horse + drawn 组成，其中 drawn 是 draw 的过去分词，表示‘被拉的’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "horse-drawn 没有复杂的多义来源，本质上是字面组合：horse（马）+ drawn（拉的）。",
+      "explanation_english": "The meaning is literal: 'drawn' as the past participle of 'draw' (to pull) combined with 'horse'."
+    },
+    "variation_between_british_american": {
+      "british": "在英国常与历史街道、古老城市观光相关。",
+      "american": "在美国多见于历史重演（reenactments）或旅游宣传。"
+    }
+  },
+  {
+    "word": "enacted",
+    "pronunciation": {
+      "british": "/ɪˈnæktɪd/ 🇬🇧",
+      "american": "/ɪˈnæktɪd/ 🇺🇸"
+    },
+    "phrase_type": "verb（过去式/过去分词）",
+    "usage": "常见于法律、政策、正式文本中；也可用于文学、戏剧语境。",
+    "meanings": [
+      {
+        "type": "verb (law/policy)",
+        "definition": {
+          "chinese": "制定法律；通过法案",
+          "english": "To make a bill or proposal into law."
+        },
+        "examples": [
+          {
+            "sentence": "The new tax law was enacted last year.",
+            "translation": "新的税法去年被颁布。"
+          }
+        ]
+      },
+      {
+        "type": "verb (drama/role-play)",
+        "definition": {
+          "chinese": "扮演；表演",
+          "english": "To perform or represent a role, story, or situation."
+        },
+        "examples": [
+          {
+            "sentence": "The students enacted scenes from Shakespeare’s plays.",
+            "translation": "学生们表演了莎士比亚戏剧中的片段。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "legislate",
+        "type": "verb",
+        "definition": {
+          "chinese": "立法",
+          "english": "To make or pass laws."
+        },
+        "examples": [
+          {
+            "sentence": "The government legislated new rules on online safety.",
+            "translation": "政府制定了新的网络安全规则。"
+          }
+        ]
+      },
+      {
+        "word": "implement",
+        "type": "verb",
+        "definition": {
+          "chinese": "实施；执行",
+          "english": "To put a law, policy, or plan into action."
+        },
+        "examples": [
+          {
+            "sentence": "The reforms were implemented quickly.",
+            "translation": "改革很快被实施。"
+          }
+        ]
+      },
+      {
+        "word": "perform",
+        "type": "verb",
+        "definition": {
+          "chinese": "表演，执行",
+          "english": "To carry out an action or entertain by acting."
+        },
+        "examples": [
+          {
+            "sentence": "She performed the role beautifully.",
+            "translation": "她完美地演绎了这个角色。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用语",
+        "explanation": "用于“立法”时，enacted 比 legislated 更偏正式书面语。"
+      },
+      {
+        "point": "双重语境",
+        "explanation": "既能用于法律，也能用于戏剧，因此需根据上下文区分。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *enactare*，原意是“驱使去行动”；先发展为“使法律生效”，后来引申为“在舞台上表演”。",
+      "explanation_english": "From Latin *enactare*, meaning 'to drive into action'; first used for laws ('to make effective'), later extended to drama ('to act out')."
+    },
+    "variation_between_british_american": {
+      "british": "在英国法律语境中更常用，例如 ‘Act of Parliament enacted...’。",
+      "american": "美国法律文本和新闻中极其常见，特别是在国会法案和州法律中。"
+    }
+  },
+  {
+    "word": "fraudulent",
+    "pronunciation": {
+      "british": "/ˈfrɔːdjʊlənt/ 🇬🇧",
+      "american": "/ˈfrɔːdʒələnt/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用于法律、金融、商业场合，带有强烈的负面和法律含义。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "欺骗的，诈骗的，欺诈性的",
+          "english": "Characterized by, based on, or done using deception or trickery, especially for personal or financial gain."
+        },
+        "examples": [
+          {
+            "sentence": "He was arrested for making fraudulent claims on his insurance.",
+            "translation": "他因在保险上提出欺诈性索赔而被捕。"
+          },
+          {
+            "sentence": "The company was involved in fraudulent financial activities.",
+            "translation": "这家公司涉及欺诈性的金融活动。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fake",
+        "type": "adjective/noun",
+        "definition": {
+          "chinese": "假的；假货",
+          "english": "Not genuine; something that is not what it appears to be."
+        },
+        "examples": [
+          {
+            "sentence": "She bought a fake designer handbag.",
+            "translation": "她买了一个假冒的名牌手袋。"
+          }
+        ]
+      },
+      {
+        "word": "deceptive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "欺骗性的",
+          "english": "Misleading or giving a false impression of reality."
+        },
+        "examples": [
+          {
+            "sentence": "Appearances can be deceptive.",
+            "translation": "外表可能是骗人的。"
+          }
+        ]
+      },
+      {
+        "word": "scam",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "骗局；诈骗",
+          "english": "A dishonest scheme or trick; to deceive someone, especially for money."
+        },
+        "examples": [
+          {
+            "sentence": "The email turned out to be a scam.",
+            "translation": "那封邮件结果是个骗局。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "法律语气强",
+        "explanation": "fraudulent 常出现在法律文本、新闻报道、法庭用语中，带有正式与专业的色彩。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘fraus’（欺骗）+ 后缀 ‘-ulent’（充满……的），即‘充满欺骗的’。",
+      "explanation_english": "Derived from Latin ‘fraus’ (deceit) + ‘-ulent’ (full of), meaning ‘full of deceit’."
+    },
+    "variation_between_british_american": {
+      "british": "英式英语中常用于法律语境，也出现在财经新闻中。",
+      "american": "美式英语中使用频率更高，常见于日常新闻报道、商业案件、FBI 通告等。"
+    }
+  },
+  {
+    "word": "hostage",
+    "pronunciation": {
+      "british": "/ˈhɒstɪdʒ/ 🇬🇧",
+      "american": "/ˈhɑːstɪdʒ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指被劫持的人质或被迫接受某种条件的人或物，常用于安全、犯罪、政治语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "人质",
+          "english": "A person seized or held as security for the fulfillment of a condition."
+        },
+        "examples": [
+          {
+            "sentence": "The kidnappers held the businessman hostage.",
+            "translation": "绑匪把那位商人当做人质。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "受制于某种情况的人或事物",
+          "english": "Someone or something that is controlled or put in a difficult situation due to external circumstances."
+        },
+        "examples": [
+          {
+            "sentence": "The company was held hostage by rising costs.",
+            "translation": "这家公司被不断上涨的成本所制约。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "captive",
+        "type": "noun/adjective",
+        "definition": {
+          "chinese": "俘虏，被囚禁的",
+          "english": "A person or animal that is confined or imprisoned."
+        },
+        "examples": [
+          {
+            "sentence": "The soldiers took several captives during the raid.",
+            "translation": "士兵在袭击中俘获了几名俘虏。"
+          }
+        ]
+      },
+      {
+        "word": "kidnap",
+        "type": "verb",
+        "definition": {
+          "chinese": "绑架",
+          "english": "To unlawfully seize and detain a person, usually for ransom."
+        },
+        "examples": [
+          {
+            "sentence": "The criminals planned to kidnap the wealthy businessman.",
+            "translation": "罪犯计划绑架这位富商。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "引申用法",
+        "explanation": "除了字面‘人质’，还可比喻被某种情况或环境控制的人或事物，如‘held hostage by bureaucracy’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语‘ostage’，原意为‘留作人质以确保条件’，后引申出比喻用法表示‘受制者’。",
+      "explanation_english": "From Old French ‘ostage’, originally meaning ‘a person held as security for conditions’, later extended metaphorically to mean anyone or anything under constraint."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，常出现在新闻或政治语境中。",
+      "american": "用法与英式相同，口语和媒体均广泛使用。"
+    }
+  },
+  {
+    "word": "follow up",
+    "pronunciation": {
+      "british": "/ˈfɒləʊ ʌp/ 🇬🇧",
+      "american": "/ˈfɑːloʊ ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb/noun 多义词",
+    "usage": "非常常用 👍：用于日常、商业、医学等场景，可表示‘跟进、后续行动或检查’。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "跟进，继续处理",
+          "english": "To take further action connected with something that has already been done or discussed."
+        },
+        "examples": [
+          {
+            "sentence": "I will follow up on your email tomorrow.",
+            "translation": "我明天会跟进你的邮件。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "复查，随访（医学）",
+          "english": "To check the progress or outcome of a medical treatment or appointment."
+        },
+        "examples": [
+          {
+            "sentence": "The doctor asked her to follow up in two weeks.",
+            "translation": "医生要求她两周后复查。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "后续行动或补充事项",
+          "english": "An additional action or meeting to continue or review previous work."
+        },
+        "examples": [
+          {
+            "sentence": "We scheduled a follow-up to discuss the project results.",
+            "translation": "我们安排了一个后续会议讨论项目成果。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "check in",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "登记，汇报情况",
+          "english": "To report or update on progress or status."
+        },
+        "examples": [
+          {
+            "sentence": "Please check in with your supervisor weekly.",
+            "translation": "请每周向你的主管汇报情况。"
+          }
+        ]
+      },
+      {
+        "word": "review",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "复查，审查",
+          "english": "To examine or assess something carefully."
+        },
+        "examples": [
+          {
+            "sentence": "We need to review the results before the next meeting.",
+            "translation": "我们需要在下次会议前复查结果。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法灵活",
+        "explanation": "可作动词短语或名词，商务、医学、日常场景均可使用。语境决定具体含义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘follow up’原意为‘跟随’，引申为‘继续处理、复查或补充行动’，因应用场景多样而形成多义。",
+      "explanation_english": "Originally meant ‘to follow’, later extended to ‘take further action, check progress, or additional steps’, leading to multiple related senses."
+    },
+    "variation_between_british_american": {
+      "british": "商务和医学中常用‘follow up’；发音 /ˈfɒləʊ ʌp/。",
+      "american": "发音 /ˈfɑːloʊ ʌp/，商务、医疗和日常口语均广泛使用。"
+    }
   }
 ]
 
