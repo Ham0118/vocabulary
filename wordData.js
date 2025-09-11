@@ -32314,2105 +32314,2341 @@ const wordData = [
     }
   },
   {
-  "word": "vacancy",
-  "pronunciation": {
-    "british": "/ˈveɪ.kən.si/ 🇬🇧",
-    "american": "/ˈveɪ.kən.si/ 🇺🇸"
-  },
-  "phrase_type": "noun",
-  "usage": "常用 👍：主要指空缺位置（职位或房间），也可指思想的空虚感。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "空缺（职位）",
-        "english": "An unoccupied job or position available for someone to fill."
-      },
-      "examples": [
-        {
-          "sentence": "There’s a vacancy for a software engineer at the company.",
-          "translation": "公司有一个软件工程师职位的空缺。"
-        }
-      ]
+    "word": "vacancy",
+    "pronunciation": {
+      "british": "/ˈveɪ.kən.si/ 🇬🇧",
+      "american": "/ˈveɪ.kən.si/ 🇺🇸"
     },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "空房，空位",
-        "english": "An available room in a hotel or place to stay."
-      },
-      "examples": [
-        {
-          "sentence": "We need to find a hotel with vacancies for tonight.",
-          "translation": "我们需要找一家今晚有空房的酒店。"
-        }
-      ]
-    },
-    {
-      "type": "noun (figurative)",
-      "definition": {
-        "chinese": "空虚，茫然",
-        "english": "An absence of thought or intelligence; emptiness."
-      },
-      "examples": [
-        {
-          "sentence": "He stared at her with a look of vacancy.",
-          "translation": "他茫然地盯着她。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "opening",
-      "type": "noun",
-      "definition": {
-        "chinese": "职位空缺",
-        "english": "A job position that is available."
-      },
-      "examples": [
-        {
-          "sentence": "There are several job openings in the IT department.",
-          "translation": "IT 部门有几个职位空缺。"
-        }
-      ]
-    },
-    {
-      "word": "available room",
-      "type": "phrase",
-      "definition": {
-        "chinese": "可用的房间",
-        "english": "A hotel room that is not occupied."
-      },
-      "examples": [
-        {
-          "sentence": "Do you have an available room for two guests?",
-          "translation": "请问有两人入住的空房吗？"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "多义性",
-      "explanation": "常见于招聘广告和酒店招牌中，口语和正式语境均可使用。‘空虚’用法偏文学或描述性。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 *vacuus*（空的），最初表示“空的状态”，引申为职位空缺、房间空缺，后来又发展出“心灵空虚”的比喻义。",
-    "explanation_english": "From Latin *vacuus* (empty), originally meaning 'emptiness'; extended to mean job or room vacancy, and later figuratively 'mental emptiness'."
-  },
-  "variation_between_british_american": {
-    "british": "常见于酒店招牌‘Vacancies’（有空房）。",
-    "american": "用法相同，也常见‘No Vacancy’（客满）。"
-  }
-},
-{
-  "word": "relieved",
-  "pronunciation": {
-    "british": "/rɪˈliːvd/ 🇬🇧",
-    "american": "/rɪˈliːvd/ 🇺🇸"
-  },
-  "phrase_type": "adjective（过去分词作形容词）",
-  "usage": "常用 👍：用来表达因压力、担忧或负担消除后感到放松、轻松或宽慰。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "感到宽慰的，如释重负的",
-        "english": "Feeling happy or relaxed because something unpleasant has not happened or has ended."
-      },
-      "examples": [
-        {
-          "sentence": "She was relieved to hear that her test results were normal.",
-          "translation": "听到她的检查结果正常时，她感到如释重负。"
-        }
-      ]
-    },
-    {
-      "type": "adjective (extended sense)",
-      "definition": {
-        "chinese": "（负担）减轻的，被解脱的",
-        "english": "Freed from a duty, burden, or pain."
-      },
-      "examples": [
-        {
-          "sentence": "The soldier felt relieved after being replaced at his post.",
-          "translation": "士兵在岗位上被替换后感到负担减轻。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "comforted",
-      "type": "adjective",
-      "definition": {
-        "chinese": "感到安慰的",
-        "english": "Feeling reassured or consoled."
-      },
-      "examples": [
-        {
-          "sentence": "She felt comforted by her friend's kind words.",
-          "translation": "朋友的安慰话让她感到安心。"
-        }
-      ]
-    },
-    {
-      "word": "at ease",
-      "type": "phrase",
-      "definition": {
-        "chinese": "放松，轻松自在",
-        "english": "Free from worry or anxiety."
-      },
-      "examples": [
-        {
-          "sentence": "He felt at ease after finishing the interview.",
-          "translation": "面试结束后，他感到轻松。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语气",
-      "explanation": "‘relieved’ 通常表示之前有紧张或担心，情况改善后才感到宽慰。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自动词 *relieve*（减轻、缓解、解除），过去分词形式作形容词，表示状态的变化：担忧被解除 → 感到宽慰。",
-    "explanation_english": "Derived from the verb *relieve* (to ease, to free from), the past participle functions as an adjective, indicating the state after worry or burden is lifted."
-  },
-  "variation_between_british_american": {
-    "british": "用法与美式相同。",
-    "american": "用法与英式相同，但更常见于日常口语表达。"
-  }
-},
-{
-  "word": "vow",
-  "pronunciation": {
-    "british": "/vaʊ/ 🇬🇧",
-    "american": "/vaʊ/ 🇺🇸"
-  },
-  "phrase_type": "noun / verb 多义词",
-  "usage": "常用 👍：既可表示郑重承诺，也可作动词表示立誓。常出现在婚礼、宗教、或正式承诺的语境中。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "誓言，承诺",
-        "english": "A solemn promise or pledge."
-      },
-      "examples": [
-        {
-          "sentence": "They exchanged wedding vows in front of their families.",
-          "translation": "他们在家人面前交换了婚礼誓言。"
-        }
-      ]
-    },
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "发誓，郑重承诺",
-        "english": "To make a solemn promise or pledge."
-      },
-      "examples": [
-        {
-          "sentence": "He vowed to always protect his friends.",
-          "translation": "他发誓永远保护他的朋友们。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "promise",
-      "type": "noun / verb",
-      "definition": {
-        "chinese": "承诺",
-        "english": "A declaration or assurance that one will do something."
-      },
-      "examples": [
-        {
-          "sentence": "She promised to call me tomorrow.",
-          "translation": "她答应明天给我打电话。"
-        }
-      ]
-    },
-    {
-      "word": "pledge",
-      "type": "noun / verb",
-      "definition": {
-        "chinese": "保证，誓言",
-        "english": "A solemn promise or undertaking."
-      },
-      "examples": [
-        {
-          "sentence": "He pledged his loyalty to the organization.",
-          "translation": "他向组织宣誓效忠。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "正式语气",
-      "explanation": "‘vow’ 比 ‘promise’ 更郑重，多用于正式或庄重场合，如婚礼、宗教、政治承诺。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 *votum*（誓愿），原指宗教或庄重承诺，动词用法由此引申。",
-    "explanation_english": "From Latin *votum* (a solemn promise), originally denoting religious or formal pledges; verb usage developed from noun."
-  },
-  "variation_between_british_american": {
-    "british": "用法与美式相同，多用于婚礼或庄重承诺语境。",
-    "american": "用法相同，也常出现在政治或影视语境中强调郑重誓言。"
-  }
-},
-{
-  "word": "enforcer",
-  "pronunciation": {
-    "british": "/ɪnˈfɔːsər/ 🇬🇧",
-    "american": "/ɪnˈfɔːrsər/ 🇺🇸"
-  },
-  "phrase_type": "noun",
-  "usage": "常用 👍：指执行法律、规则或政策的人，既可正式（如警察、法官助理），也可非正式（如黑帮打手）。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "执法者，执行者",
-        "english": "A person who ensures that laws, rules, or regulations are followed."
-      },
-      "examples": [
-        {
-          "sentence": "The enforcer made sure the company complied with safety regulations.",
-          "translation": "执法人员确保公司遵守安全规定。"
-        }
-      ]
-    },
-    {
-      "type": "noun (informal/figurative)",
-      "definition": {
-        "chinese": "（黑帮或组织中的）打手，强硬执行者",
-        "english": "A person who uses force or intimidation to ensure compliance, especially in criminal or informal contexts."
-      },
-      "examples": [
-        {
-          "sentence": "He was known as the enforcer of the gang.",
-          "translation": "他是该帮派中出名的打手。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "police officer",
-      "type": "noun",
-      "definition": {
-        "chinese": "警察",
-        "english": "A member of the police force responsible for enforcing the law."
-      },
-      "examples": [
-        {
-          "sentence": "The police officer enforced the traffic rules.",
-          "translation": "警察执行交通规则。"
-        }
-      ]
-    },
-    {
-      "word": "enforce",
-      "type": "verb",
-      "definition": {
-        "chinese": "执行，实施",
-        "english": "To compel observance of or compliance with laws or rules."
-      },
-      "examples": [
-        {
-          "sentence": "The city enforces strict building codes.",
-          "translation": "该市严格执行建筑规范。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "正式与非正式",
-      "explanation": "正式场景指合法执法者，非正式或文学中指用暴力手段执行命令的人。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自动词 *enforce*（执行、强制），最初指合法执行规则，后在非正式语境中引申为强硬执行者。",
-    "explanation_english": "Derived from the verb *enforce* (to carry out, compel), originally referred to lawful enforcement, later extended figuratively to a tough or violent enforcer."
-  },
-  "variation_between_british_american": {
-    "british": "正式场景多指执法人员，非正式语境也可用作打手。",
-    "american": "用法相同，但在美国影视和黑帮语境中‘enforcer’出现频率更高。"
-  }
-},
-{
-  "word": "antitrust",
-  "pronunciation": {
-    "british": "/ˌæn.tiˈtrʌst/ 🇬🇧",
-    "american": "/ˌæn.tiˈtrʌst/ 🇺🇸"
-  },
-  "phrase_type": "adjective / noun",
-  "usage": "常用 👍：主要用于商业和法律语境，指反垄断的，旨在防止企业滥用市场支配地位。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "反垄断的",
-        "english": "Relating to laws or regulations that prevent monopolies and promote competition."
-      },
-      "examples": [
-        {
-          "sentence": "The company faced antitrust investigations for its market practices.",
-          "translation": "该公司因其市场行为面临反垄断调查。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "反垄断法规/行为",
-        "english": "Legislation or legal actions designed to prevent monopolistic practices."
-      },
-      "examples": [
-        {
-          "sentence": "Antitrust laws are essential to ensure fair competition.",
-          "translation": "反垄断法对于确保公平竞争至关重要。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "monopoly",
-      "type": "noun",
-      "definition": {
-        "chinese": "垄断",
-        "english": "Exclusive control of a commodity or service in a particular market."
-      },
-      "examples": [
-        {
-          "sentence": "The company was accused of creating a monopoly.",
-          "translation": "该公司被指控形成垄断。"
-        }
-      ]
-    },
-    {
-      "word": "competition law",
-      "type": "noun",
-      "definition": {
-        "chinese": "竞争法",
-        "english": "Laws that regulate market competition to prevent unfair business practices."
-      },
-      "examples": [
-        {
-          "sentence": "The new competition law strengthens antitrust enforcement.",
-          "translation": "新的竞争法强化了反垄断执法。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语境专用",
-      "explanation": "主要用于法律、经济和商业语境，日常口语中不常用。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "由 anti-（反）+ trust（企业托拉斯，垄断集团）构成，原义指反对托拉斯，后来泛指反垄断行为和法律。",
-    "explanation_english": "Formed from anti- (against) + trust (business monopoly), originally referred to opposing corporate trusts, later generalized to antitrust actions and laws."
-  },
-  "variation_between_british_american": {
-    "british": "多用 'competition law' 或 'anti-competitive law'，‘antitrust’使用较少。",
-    "american": "‘Antitrust’ 是正式法律和商业术语，美国使用最广泛。"
-  }
-},
-{
-  "word": "executive",
-  "pronunciation": {
-    "british": "/ɪɡˈzek.jʊ.tɪv/ 🇬🇧",
-    "american": "/ɪɡˈzek.jə.tɪv/ 🇺🇸"
-  },
-  "phrase_type": "noun / adjective 多义词",
-  "usage": "非常常用 👍：常用于商业、政治、行政领域，可指“管理人员、高管”，也指“执行的、行政的”。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "管理人员，高管",
-        "english": "A person with senior managerial responsibility in a business or organization."
-      },
-      "examples": [
-        {
-          "sentence": "She is a senior executive at a tech company.",
-          "translation": "她是一家科技公司的高级管理人员。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "行政机关",
-        "english": "The branch of a government responsible for enforcing laws and managing public affairs."
-      },
-      "examples": [
-        {
-          "sentence": "The executive has the power to enforce the law.",
-          "translation": "行政机关有执行法律的权力。"
-        }
-      ]
-    },
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "执行的，行政的",
-        "english": "Relating to the execution of plans, duties, or laws; managerial."
-      },
-      "examples": [
-        {
-          "sentence": "He has an executive role in the company.",
-          "translation": "他在公司中担任执行职务。"
+    "phrase_type": "noun",
+    "usage": "常用 👍：主要指空缺位置（职位或房间），也可指思想的空虚感。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "空缺（职位）",
+          "english": "An unoccupied job or position available for someone to fill."
         },
-        {
-          "sentence": "The President is the head of the executive branch.",
-          "translation": "总统是行政部门的首脑。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "manager",
-      "type": "noun",
-      "definition": {
-        "chinese": "经理",
-        "english": "A person responsible for controlling or administering part of a company."
+        "examples": [
+          {
+            "sentence": "There’s a vacancy for a software engineer at the company.",
+            "translation": "公司有一个软件工程师职位的空缺。"
+          }
+        ]
       },
-      "examples": [
-        {
-          "sentence": "She was promoted to manager after five years.",
-          "translation": "她在五年后被提升为经理。"
-        }
-      ]
-    },
-    {
-      "word": "administrator",
-      "type": "noun",
-      "definition": {
-        "chinese": "行政人员，管理者",
-        "english": "A person responsible for running a business, organization, or institution."
-      },
-      "examples": [
-        {
-          "sentence": "The school administrator organized the event.",
-          "translation": "学校行政人员组织了这次活动。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "政企双用",
-      "explanation": "在企业中多指高管，在政治语境中常指政府行政机关或行政部门。"
-    },
-    {
-      "point": "常见搭配",
-      "explanation": "常见短语：*executive decision*（高层决定）、*executive branch*（行政部门）。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 *exsequi*（执行），最初指“执行任务的人”，后发展为名词（高管、行政机关）和形容词（行政的、执行的）。",
-    "explanation_english": "From Latin *exsequi* (to carry out), originally meant 'one who carries out duties,' later extended to mean both 'manager/government body' and 'relating to execution/administration.'"
-  },
-  "variation_between_british_american": {
-    "british": "用法相同，但在政府语境中‘executive’更常用于政治学表达。",
-    "american": "在企业语境中，‘executive’常特指公司高管，如‘Chief Executive Officer (CEO)’。"
-  }
-},
-{
-  "word": "favor",
-  "pronunciation": {
-    "british": "/ˈfeɪvə/ 🇬🇧 (拼写多为 favour)",
-    "american": "/ˈfeɪvər/ 🇺🇸"
-  },
-  "phrase_type": "noun / verb 多义词",
-  "usage": "非常常用 👍：既可指“帮助、恩惠”，也可作“偏爱、支持”；动词可表示“偏向、赞同”。英式拼写多为 *favour*。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "帮助，恩惠",
-        "english": "A kind or helpful act that you do for someone."
-      },
-      "examples": [
-        {
-          "sentence": "Can you do me a favor and close the window?",
-          "translation": "你能帮个忙把窗户关上吗？"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "偏爱，支持",
-        "english": "Approval, support, or preference for someone or something."
-      },
-      "examples": [
-        {
-          "sentence": "The judge’s decision was in his favor.",
-          "translation": "法官的判决对他有利。"
-        }
-      ]
-    },
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "支持，偏向",
-        "english": "To prefer, approve of, or give support to someone or something."
-      },
-      "examples": [
-        {
-          "sentence": "The teacher favors active participation in class.",
-          "translation": "老师更支持课堂上的积极参与。"
-        }
-      ]
-    },
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "像，长得像（旧用法）",
-        "english": "To resemble someone in appearance. (old-fashioned, mainly in American English)"
-      },
-      "examples": [
-        {
-          "sentence": "She really favors her mother.",
-          "translation": "她长得很像她母亲。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "kindness",
-      "type": "noun",
-      "definition": {
-        "chinese": "善意，仁慈",
-        "english": "The quality of being friendly and generous."
-      },
-      "examples": [
-        {
-          "sentence": "She treated him with great kindness.",
-          "translation": "她非常善意地对待他。"
-        }
-      ]
-    },
-    {
-      "word": "preference",
-      "type": "noun",
-      "definition": {
-        "chinese": "偏爱，偏好",
-        "english": "A greater liking for one alternative over another."
-      },
-      "examples": [
-        {
-          "sentence": "My preference is for coffee over tea.",
-          "translation": "相比茶，我更喜欢咖啡。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "拼写差异",
-      "explanation": "英式英语拼作 *favour*，美式英语拼作 *favor*。"
-    },
-    {
-      "point": "礼貌用法",
-      "explanation": "常见礼貌句型：*Do me a favor…* 表示请求别人帮忙。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 *favorem*（善意、支持），最初指“善意、帮助”，后扩展为“偏爱、偏向”，再进一步用作动词。",
-    "explanation_english": "From Latin *favorem* (goodwill, support), originally meant 'kindness or help,' later extended to 'preference or approval,' and then verbalized as 'to support or prefer.'"
-  },
-  "variation_between_british_american": {
-    "british": "拼写 *favour*；口语中常用于‘in favour of’（支持某事）。",
-    "american": "拼写 *favor*；常见于‘do me a favor’（帮个忙），‘in favor of’（支持）。"
-  }
-},
-{
-  "word": "keep up with",
-  "pronunciation": {
-    "british": "/kiːp ʌp wɪð/ 🇬🇧",
-    "american": "/kiːp ʌp wɪθ/ 🇺🇸"
-  },
-  "phrase_type": "phrasal verb",
-  "usage": "非常常用 👍：表示跟上速度、保持联系、了解最新信息，涵盖生活、学习、工作和社交多种语境。",
-  "meanings": [
-    {
-      "type": "phrasal verb",
-      "definition": {
-        "chinese": "跟上（某人或某事的速度）",
-        "english": "To move or progress at the same rate as someone or something."
-      },
-      "examples": [
-        {
-          "sentence": "I walk too fast—can you keep up with me?",
-          "translation": "我走得太快了——你能跟上我吗？"
-        }
-      ]
-    },
-    {
-      "type": "phrasal verb",
-      "definition": {
-        "chinese": "保持对…的了解",
-        "english": "To stay informed about the latest developments in something."
-      },
-      "examples": [
-        {
-          "sentence": "It’s hard to keep up with the news these days.",
-          "translation": "如今要跟上新闻的节奏很难。"
-        }
-      ]
-    },
-    {
-      "type": "phrasal verb",
-      "definition": {
-        "chinese": "保持联系，维持关系",
-        "english": "To maintain contact or a relationship with someone."
-      },
-      "examples": [
-        {
-          "sentence": "She tries to keep up with her old school friends.",
-          "translation": "她努力和老同学保持联系。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "catch up with",
-      "type": "phrasal verb",
-      "definition": {
-        "chinese": "赶上",
-        "english": "To reach the same level or standard as someone or something."
-      },
-      "examples": [
-        {
-          "sentence": "He ran fast to catch up with the bus.",
-          "translation": "他拼命跑去赶上那辆公交车。"
-        }
-      ]
-    },
-    {
-      "word": "stay updated",
-      "type": "phrase",
-      "definition": {
-        "chinese": "保持更新",
-        "english": "To continuously know the latest news or information."
-      },
-      "examples": [
-        {
-          "sentence": "I read blogs to stay updated on technology.",
-          "translation": "我读博客来保持对科技的了解。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "注意介词",
-      "explanation": "固定用法是 *keep up with*，不要误说成 *keep up to*。"
-    },
-    {
-      "point": "语气色彩",
-      "explanation": "有时带有“努力不落后”的意味，比如跟上工作节奏或时尚潮流。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原始意义是“物理上跟上速度”，后来比喻扩展为“跟上信息、趋势或关系”。",
-    "explanation_english": "Originally meant physically keeping pace, later extended metaphorically to keeping up with information, trends, or relationships."
-  },
-  "variation_between_british_american": {
-    "british": "常用于人际关系和学业场景：keep up with studies/friends。",
-    "american": "除人际外，更常用于信息更新：keep up with the news/sports/technology。"
-  }
-},
-{
-  "word": "bandwagon",
-  "pronunciation": {
-    "british": "/ˈbændˌwæɡ.ən/ 🇬🇧",
-    "american": "/ˈbændˌwæɡ.ən/ 🇺🇸"
-  },
-  "phrase_type": "noun / idiom",
-  "usage": "常见 👍：既可指游行用的彩车（原义），更常用作比喻，指“潮流、热门趋势”，衍生出短语 *jump on the bandwagon*（跟风）。",
-  "meanings": [
-    {
-      "type": "noun (literal, old-fashioned)",
-      "definition": {
-        "chinese": "乐队花车",
-        "english": "A wagon carrying a band in a parade."
-      },
-      "examples": [
-        {
-          "sentence": "The circus parade had a brightly decorated bandwagon.",
-          "translation": "马戏团游行有一辆装饰华丽的乐队花车。"
-        }
-      ]
-    },
-    {
-      "type": "noun / idiomatic (modern)",
-      "definition": {
-        "chinese": "潮流，热门趋势",
-        "english": "An activity, cause, or trend that many people join or support once it becomes popular."
-      },
-      "examples": [
-        {
-          "sentence": "Many companies are jumping on the eco-friendly bandwagon.",
-          "translation": "许多公司正在跟风环保潮流。"
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "空房，空位",
+          "english": "An available room in a hotel or place to stay."
         },
-        {
-          "sentence": "Once the product went viral, everyone wanted to get on the bandwagon.",
-          "translation": "一旦这款产品火了，大家都想跟风。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "trend",
-      "type": "noun",
-      "definition": {
-        "chinese": "趋势，潮流",
-        "english": "A general direction in which something is developing or changing."
+        "examples": [
+          {
+            "sentence": "We need to find a hotel with vacancies for tonight.",
+            "translation": "我们需要找一家今晚有空房的酒店。"
+          }
+        ]
       },
-      "examples": [
-        {
-          "sentence": "Minimalist design is a growing trend.",
-          "translation": "极简设计是一种日益增长的潮流。"
-        }
-      ]
-    },
-    {
-      "word": "fad",
-      "type": "noun",
-      "definition": {
-        "chinese": "一时的风尚",
-        "english": "A short-lived, highly popular activity or style."
-      },
-      "examples": [
-        {
-          "sentence": "That diet was just a passing fad.",
-          "translation": "那种饮食方式只是一时的风尚。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "常见搭配",
-      "explanation": "固定短语 *jump on the bandwagon* 表示“随大流、跟风”。"
-    },
-    {
-      "point": "语气色彩",
-      "explanation": "在比喻用法中常带有批评意味，暗指人们盲目跟随。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原本是游行中的“乐队车”，因为这种车常吸引人群跟随，19世纪美国政治圈便引申为“跟风潮流”。",
-    "explanation_english": "Originally a parade wagon carrying a band. Because it attracted followers, U.S. politics in the 19th century extended the meaning to 'popular trend or cause.'"
-  },
-  "variation_between_british_american": {
-    "british": "主要用于比喻义（follow a trend）。",
-    "american": "用法相同，但更频繁地出现在媒体和日常口语中。"
-  }
-},
-{
-  "word": "swollen",
-  "pronunciation": {
-    "british": "/ˈswəʊlən/ 🇬🇧",
-    "american": "/ˈswoʊlən/ 🇺🇸"
-  },
-  "phrase_type": "adjective (past participle of 'swell')",
-  "usage": "常用 👍：用于描述身体部位肿胀，也可比喻规模扩大或情绪高涨。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "肿胀的",
-        "english": "Enlarged or puffed up, typically as a result of injury, illness, or fluid retention."
-      },
-      "examples": [
-        {
-          "sentence": "Her ankle is swollen after the fall.",
-          "translation": "她摔倒后脚踝肿了。"
+      {
+        "type": "noun (figurative)",
+        "definition": {
+          "chinese": "空虚，茫然",
+          "english": "An absence of thought or intelligence; emptiness."
         },
-        {
-          "sentence": "The swollen river overflowed its banks.",
-          "translation": "暴涨的河水溢出了河岸。"
-        }
-      ]
-    },
-    {
-      "type": "adjective (figurative)",
-      "definition": {
-        "chinese": "夸大的，膨胀的",
-        "english": "Excessively increased in size, pride, or importance."
-      },
-      "examples": [
-        {
-          "sentence": "He spoke with swollen pride after winning the award.",
-          "translation": "他在获奖后满是自大地讲话。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "inflamed",
-      "type": "adjective",
-      "definition": {
-        "chinese": "发炎的，红肿的",
-        "english": "Red, hot, and swollen due to infection or irritation."
-      },
-      "examples": [
-        {
-          "sentence": "The wound looked inflamed.",
-          "translation": "伤口看起来发炎了。"
-        }
-      ]
-    },
-    {
-      "word": "puffy",
-      "type": "adjective",
-      "definition": {
-        "chinese": "浮肿的，肿胀的",
-        "english": "Swollen, often due to fluid build-up or tiredness."
-      },
-      "examples": [
-        {
-          "sentence": "His eyes were puffy from crying.",
-          "translation": "他哭得眼睛肿了。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "医学与比喻双用",
-      "explanation": "在医学中多指身体部位肿胀；在文学或口语中可比喻自大、规模膨胀。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自动词 *swell*（膨胀、上涨），其过去分词 *swollen* 引申为形容词，不仅指物理上的膨胀，还比喻情绪或规模的扩张。",
-    "explanation_english": "Derived from the verb *swell* (to expand, rise), the past participle *swollen* developed adjectival use, extending from physical swelling to figurative growth or pride."
-  },
-  "variation_between_british_american": {
-    "british": "常用于描述身体或河流的肿胀、上涨。",
-    "american": "用法相同，但 figurative 用法（e.g., swollen ego）在美式口语中更常见。"
-  }
-},
-{
-  "word": "machete",
-  "pronunciation": {
-    "british": "/məˈʃɛti/ 🇬🇧",
-    "american": "/məˈʃɛti/ 🇺🇸"
-  },
-  "phrase_type": "noun",
-  "usage": "常用 👍：指一种大型刀具，多用于砍伐植物，也在一些文化和武器语境中使用。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "大砍刀",
-        "english": "A large, heavy knife used for cutting vegetation or as a weapon."
-      },
-      "examples": [
-        {
-          "sentence": "He cleared the path with a machete.",
-          "translation": "他用大砍刀清理出一条路。"
+        "examples": [
+          {
+            "sentence": "He stared at her with a look of vacancy.",
+            "translation": "他茫然地盯着她。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "opening",
+        "type": "noun",
+        "definition": {
+          "chinese": "职位空缺",
+          "english": "A job position that is available."
         },
-        {
-          "sentence": "The machete is commonly used in agriculture.",
-          "translation": "大砍刀在农业中很常见。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "knife",
-      "type": "noun",
-      "definition": {
-        "chinese": "小刀",
-        "english": "A smaller hand tool with a blade used for cutting."
+        "examples": [
+          {
+            "sentence": "There are several job openings in the IT department.",
+            "translation": "IT 部门有几个职位空缺。"
+          }
+        ]
       },
-      "examples": [
-        {
-          "sentence": "Use a knife to slice the fruit.",
-          "translation": "用刀切水果。"
-        }
-      ]
-    },
-    {
-      "word": "sword",
-      "type": "noun",
-      "definition": {
-        "chinese": "剑",
-        "english": "A weapon with a long metal blade used in combat."
-      },
-      "examples": [
-        {
-          "sentence": "The knight drew his sword.",
-          "translation": "骑士拔出了剑。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "文化含义",
-      "explanation": "在一些拉丁美洲和非洲国家，machete 是日常农具；但在媒体报道中，它也常与暴力或武器联系。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自西班牙语 *machete*（小锤子之意的 *macho* 的派生），最初指大刀农具，后也延伸为武器。含义差别源于用途场景的延伸。",
-    "explanation_english": "Borrowed from Spanish *machete* (from *macho*, meaning hammer or sledge), originally an agricultural tool, later extended to weapon use."
-  },
-  "variation_between_british_american": {
-    "british": "用法与美式相同，常见于殖民地历史或热带地区语境。",
-    "american": "在美国英语中，常用于拉美文化语境或电影/新闻报道。"
-  }
-},
-{
-  "word": "take a sick day",
-  "pronunciation": {
-    "british": "/teɪk ə sɪk deɪ/ 🇬🇧",
-    "american": "/teɪk ə sɪk deɪ/ 🇺🇸"
-  },
-  "phrase_type": "phrase / idiomatic expression",
-  "usage": "常用于工作和学校场景，表示请病假或因病缺勤。",
-  "meanings": [
-    {
-      "type": "phrase",
-      "definition": {
-        "chinese": "请病假；因病休息一天",
-        "english": "To be absent from work or school for a day due to illness."
-      },
-      "examples": [
-        {
-          "sentence": "I need to take a sick day because I have a fever.",
-          "translation": "我需要请一天病假，因为我发烧了。"
+      {
+        "word": "available room",
+        "type": "phrase",
+        "definition": {
+          "chinese": "可用的房间",
+          "english": "A hotel room that is not occupied."
         },
-        {
-          "sentence": "He took a sick day to recover from the flu.",
-          "translation": "他请了一天病假来从流感中恢复。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "call in sick",
-      "type": "phrase",
-      "definition": {
-        "chinese": "打电话请病假",
-        "english": "To inform your employer or school that you cannot attend due to illness."
-      },
-      "examples": [
-        {
-          "sentence": "She called in sick this morning.",
-          "translation": "她今天早上打电话请了病假。"
-        }
-      ]
+        "examples": [
+          {
+            "sentence": "Do you have an available room for two guests?",
+            "translation": "请问有两人入住的空房吗？"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性",
+        "explanation": "常见于招聘广告和酒店招牌中，口语和正式语境均可使用。‘空虚’用法偏文学或描述性。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *vacuus*（空的），最初表示“空的状态”，引申为职位空缺、房间空缺，后来又发展出“心灵空虚”的比喻义。",
+      "explanation_english": "From Latin *vacuus* (empty), originally meaning 'emptiness'; extended to mean job or room vacancy, and later figuratively 'mental emptiness'."
     },
-    {
-      "word": "sick leave",
-      "type": "noun",
-      "definition": {
-        "chinese": "病假",
-        "english": "Official time away from work granted due to illness."
-      },
-      "examples": [
-        {
-          "sentence": "He’s on sick leave for two weeks after surgery.",
-          "translation": "他做完手术后休了两周病假。"
-        }
-      ]
+    "variation_between_british_american": {
+      "british": "常见于酒店招牌‘Vacancies’（有空房）。",
+      "american": "用法相同，也常见‘No Vacancy’（客满）。"
     }
-  ],
-  "notes": [
-    {
-      "point": "固定搭配",
-      "explanation": "常用结构为 *take a sick day*（单日），若多天则用 *take sick days*。"
+  },
+  {
+    "word": "relieved",
+    "pronunciation": {
+      "british": "/rɪˈliːvd/ 🇬🇧",
+      "american": "/rɪˈliːvd/ 🇺🇸"
     },
-    {
-      "point": "职场习惯",
-      "explanation": "在美式职场中，员工通常有一定天数的“sick days”作为福利。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "sick day 原本指“生病的一天”，在职场和教育场景里固定化为“病假”。",
-    "explanation_english": "Originally 'a day of being sick,' formalized in workplace/school settings as 'a day off for illness.'"
-  },
-  "variation_between_british_american": {
-    "british": "可用 *take a sick day*，但更常说 *off sick*（e.g., He is off sick today.）",
-    "american": "更常见说法是 *take a sick day*，尤其在工作场合。"
-  }
-},
-{
-  "word": "run out of",
-  "pronunciation": {
-    "british": "/rʌn aʊt əv/ 🇬🇧",
-    "american": "/rʌn aʊt əv/ 🇺🇸"
-  },
-  "phrase_type": "phrasal verb",
-  "usage": "常用于日常生活和口语，表示“用光、耗尽”。",
-  "meanings": [
-    {
-      "type": "phrasal verb",
-      "definition": {
-        "chinese": "用完，耗尽",
-        "english": "To have no more of something because it has all been used or consumed."
-      },
-      "examples": [
-        {
-          "sentence": "We’ve run out of milk, so I need to go to the shop.",
-          "translation": "我们牛奶用完了，所以我得去商店。"
+    "phrase_type": "adjective（过去分词作形容词）",
+    "usage": "常用 👍：用来表达因压力、担忧或负担消除后感到放松、轻松或宽慰。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "感到宽慰的，如释重负的",
+          "english": "Feeling happy or relaxed because something unpleasant has not happened or has ended."
         },
-        {
-          "sentence": "She ran out of patience after waiting for two hours.",
-          "translation": "等了两个小时后，她失去了耐心。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "use up",
-      "type": "phrasal verb",
-      "definition": {
-        "chinese": "用尽，耗尽",
-        "english": "To consume completely."
+        "examples": [
+          {
+            "sentence": "She was relieved to hear that her test results were normal.",
+            "translation": "听到她的检查结果正常时，她感到如释重负。"
+          }
+        ]
       },
-      "examples": [
-        {
-          "sentence": "He used up all his savings on the trip.",
-          "translation": "他在这次旅行上花光了所有积蓄。"
-        }
-      ]
-    },
-    {
-      "word": "run short of",
-      "type": "phrase",
-      "definition": {
-        "chinese": "短缺，快要没有",
-        "english": "To not have enough of something."
+      {
+        "type": "adjective (extended sense)",
+        "definition": {
+          "chinese": "（负担）减轻的，被解脱的",
+          "english": "Freed from a duty, burden, or pain."
+        },
+        "examples": [
+          {
+            "sentence": "The soldier felt relieved after being replaced at his post.",
+            "translation": "士兵在岗位上被替换后感到负担减轻。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "comforted",
+        "type": "adjective",
+        "definition": {
+          "chinese": "感到安慰的",
+          "english": "Feeling reassured or consoled."
+        },
+        "examples": [
+          {
+            "sentence": "She felt comforted by her friend's kind words.",
+            "translation": "朋友的安慰话让她感到安心。"
+          }
+        ]
       },
-      "examples": [
-        {
-          "sentence": "The hospital is running short of supplies.",
-          "translation": "医院的物资快要不够用了。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "介词搭配",
-      "explanation": "固定用法是 *run out of + 名词*，不能省略 *of*。"
+      {
+        "word": "at ease",
+        "type": "phrase",
+        "definition": {
+          "chinese": "放松，轻松自在",
+          "english": "Free from worry or anxiety."
+        },
+        "examples": [
+          {
+            "sentence": "He felt at ease after finishing the interview.",
+            "translation": "面试结束后，他感到轻松。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "‘relieved’ 通常表示之前有紧张或担心，情况改善后才感到宽慰。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 *relieve*（减轻、缓解、解除），过去分词形式作形容词，表示状态的变化：担忧被解除 → 感到宽慰。",
+      "explanation_english": "Derived from the verb *relieve* (to ease, to free from), the past participle functions as an adjective, indicating the state after worry or burden is lifted."
     },
-    {
-      "point": "时态变化",
-      "explanation": "过去式常用 *ran out of*，现在完成时为 *have/has run out of*。"
+    "variation_between_british_american": {
+      "british": "用法与美式相同。",
+      "american": "用法与英式相同，但更常见于日常口语表达。"
     }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原意是“跑出去”，引申为资源用尽（就像跑到尽头）。",
-    "explanation_english": "Originally meant 'to run beyond/outside,' extended metaphorically to 'having none left' (reaching the end of supply)."
   },
-  "variation_between_british_american": {
-    "british": "常用于日常会话，比如 run out of petrol。",
-    "american": "常用于相同场景，比如 run out of gas（汽油）。"
+  {
+    "word": "vow",
+    "pronunciation": {
+      "british": "/vaʊ/ 🇬🇧",
+      "american": "/vaʊ/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb 多义词",
+    "usage": "常用 👍：既可表示郑重承诺，也可作动词表示立誓。常出现在婚礼、宗教、或正式承诺的语境中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "誓言，承诺",
+          "english": "A solemn promise or pledge."
+        },
+        "examples": [
+          {
+            "sentence": "They exchanged wedding vows in front of their families.",
+            "translation": "他们在家人面前交换了婚礼誓言。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "发誓，郑重承诺",
+          "english": "To make a solemn promise or pledge."
+        },
+        "examples": [
+          {
+            "sentence": "He vowed to always protect his friends.",
+            "translation": "他发誓永远保护他的朋友们。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "promise",
+        "type": "noun / verb",
+        "definition": {
+          "chinese": "承诺",
+          "english": "A declaration or assurance that one will do something."
+        },
+        "examples": [
+          {
+            "sentence": "She promised to call me tomorrow.",
+            "translation": "她答应明天给我打电话。"
+          }
+        ]
+      },
+      {
+        "word": "pledge",
+        "type": "noun / verb",
+        "definition": {
+          "chinese": "保证，誓言",
+          "english": "A solemn promise or undertaking."
+        },
+        "examples": [
+          {
+            "sentence": "He pledged his loyalty to the organization.",
+            "translation": "他向组织宣誓效忠。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式语气",
+        "explanation": "‘vow’ 比 ‘promise’ 更郑重，多用于正式或庄重场合，如婚礼、宗教、政治承诺。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *votum*（誓愿），原指宗教或庄重承诺，动词用法由此引申。",
+      "explanation_english": "From Latin *votum* (a solemn promise), originally denoting religious or formal pledges; verb usage developed from noun."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，多用于婚礼或庄重承诺语境。",
+      "american": "用法相同，也常出现在政治或影视语境中强调郑重誓言。"
+    }
+  },
+  {
+    "word": "enforcer",
+    "pronunciation": {
+      "british": "/ɪnˈfɔːsər/ 🇬🇧",
+      "american": "/ɪnˈfɔːrsər/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指执行法律、规则或政策的人，既可正式（如警察、法官助理），也可非正式（如黑帮打手）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "执法者，执行者",
+          "english": "A person who ensures that laws, rules, or regulations are followed."
+        },
+        "examples": [
+          {
+            "sentence": "The enforcer made sure the company complied with safety regulations.",
+            "translation": "执法人员确保公司遵守安全规定。"
+          }
+        ]
+      },
+      {
+        "type": "noun (informal/figurative)",
+        "definition": {
+          "chinese": "（黑帮或组织中的）打手，强硬执行者",
+          "english": "A person who uses force or intimidation to ensure compliance, especially in criminal or informal contexts."
+        },
+        "examples": [
+          {
+            "sentence": "He was known as the enforcer of the gang.",
+            "translation": "他是该帮派中出名的打手。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "police officer",
+        "type": "noun",
+        "definition": {
+          "chinese": "警察",
+          "english": "A member of the police force responsible for enforcing the law."
+        },
+        "examples": [
+          {
+            "sentence": "The police officer enforced the traffic rules.",
+            "translation": "警察执行交通规则。"
+          }
+        ]
+      },
+      {
+        "word": "enforce",
+        "type": "verb",
+        "definition": {
+          "chinese": "执行，实施",
+          "english": "To compel observance of or compliance with laws or rules."
+        },
+        "examples": [
+          {
+            "sentence": "The city enforces strict building codes.",
+            "translation": "该市严格执行建筑规范。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式与非正式",
+        "explanation": "正式场景指合法执法者，非正式或文学中指用暴力手段执行命令的人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自动词 *enforce*（执行、强制），最初指合法执行规则，后在非正式语境中引申为强硬执行者。",
+      "explanation_english": "Derived from the verb *enforce* (to carry out, compel), originally referred to lawful enforcement, later extended figuratively to a tough or violent enforcer."
+    },
+    "variation_between_british_american": {
+      "british": "正式场景多指执法人员，非正式语境也可用作打手。",
+      "american": "用法相同，但在美国影视和黑帮语境中‘enforcer’出现频率更高。"
+    }
+  },
+  {
+    "word": "antitrust",
+    "pronunciation": {
+      "british": "/ˌæn.tiˈtrʌst/ 🇬🇧",
+      "american": "/ˌæn.tiˈtrʌst/ 🇺🇸"
+    },
+    "phrase_type": "adjective / noun",
+    "usage": "常用 👍：主要用于商业和法律语境，指反垄断的，旨在防止企业滥用市场支配地位。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "反垄断的",
+          "english": "Relating to laws or regulations that prevent monopolies and promote competition."
+        },
+        "examples": [
+          {
+            "sentence": "The company faced antitrust investigations for its market practices.",
+            "translation": "该公司因其市场行为面临反垄断调查。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "反垄断法规/行为",
+          "english": "Legislation or legal actions designed to prevent monopolistic practices."
+        },
+        "examples": [
+          {
+            "sentence": "Antitrust laws are essential to ensure fair competition.",
+            "translation": "反垄断法对于确保公平竞争至关重要。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "monopoly",
+        "type": "noun",
+        "definition": {
+          "chinese": "垄断",
+          "english": "Exclusive control of a commodity or service in a particular market."
+        },
+        "examples": [
+          {
+            "sentence": "The company was accused of creating a monopoly.",
+            "translation": "该公司被指控形成垄断。"
+          }
+        ]
+      },
+      {
+        "word": "competition law",
+        "type": "noun",
+        "definition": {
+          "chinese": "竞争法",
+          "english": "Laws that regulate market competition to prevent unfair business practices."
+        },
+        "examples": [
+          {
+            "sentence": "The new competition law strengthens antitrust enforcement.",
+            "translation": "新的竞争法强化了反垄断执法。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语境专用",
+        "explanation": "主要用于法律、经济和商业语境，日常口语中不常用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 anti-（反）+ trust（企业托拉斯，垄断集团）构成，原义指反对托拉斯，后来泛指反垄断行为和法律。",
+      "explanation_english": "Formed from anti- (against) + trust (business monopoly), originally referred to opposing corporate trusts, later generalized to antitrust actions and laws."
+    },
+    "variation_between_british_american": {
+      "british": "多用 'competition law' 或 'anti-competitive law'，‘antitrust’使用较少。",
+      "american": "‘Antitrust’ 是正式法律和商业术语，美国使用最广泛。"
+    }
+  },
+  {
+    "word": "executive",
+    "pronunciation": {
+      "british": "/ɪɡˈzek.jʊ.tɪv/ 🇬🇧",
+      "american": "/ɪɡˈzek.jə.tɪv/ 🇺🇸"
+    },
+    "phrase_type": "noun / adjective 多义词",
+    "usage": "非常常用 👍：常用于商业、政治、行政领域，可指“管理人员、高管”，也指“执行的、行政的”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "管理人员，高管",
+          "english": "A person with senior managerial responsibility in a business or organization."
+        },
+        "examples": [
+          {
+            "sentence": "She is a senior executive at a tech company.",
+            "translation": "她是一家科技公司的高级管理人员。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "行政机关",
+          "english": "The branch of a government responsible for enforcing laws and managing public affairs."
+        },
+        "examples": [
+          {
+            "sentence": "The executive has the power to enforce the law.",
+            "translation": "行政机关有执行法律的权力。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "执行的，行政的",
+          "english": "Relating to the execution of plans, duties, or laws; managerial."
+        },
+        "examples": [
+          {
+            "sentence": "He has an executive role in the company.",
+            "translation": "他在公司中担任执行职务。"
+          },
+          {
+            "sentence": "The President is the head of the executive branch.",
+            "translation": "总统是行政部门的首脑。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "manager",
+        "type": "noun",
+        "definition": {
+          "chinese": "经理",
+          "english": "A person responsible for controlling or administering part of a company."
+        },
+        "examples": [
+          {
+            "sentence": "She was promoted to manager after five years.",
+            "translation": "她在五年后被提升为经理。"
+          }
+        ]
+      },
+      {
+        "word": "administrator",
+        "type": "noun",
+        "definition": {
+          "chinese": "行政人员，管理者",
+          "english": "A person responsible for running a business, organization, or institution."
+        },
+        "examples": [
+          {
+            "sentence": "The school administrator organized the event.",
+            "translation": "学校行政人员组织了这次活动。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "政企双用",
+        "explanation": "在企业中多指高管，在政治语境中常指政府行政机关或行政部门。"
+      },
+      {
+        "point": "常见搭配",
+        "explanation": "常见短语：*executive decision*（高层决定）、*executive branch*（行政部门）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *exsequi*（执行），最初指“执行任务的人”，后发展为名词（高管、行政机关）和形容词（行政的、执行的）。",
+      "explanation_english": "From Latin *exsequi* (to carry out), originally meant 'one who carries out duties,' later extended to mean both 'manager/government body' and 'relating to execution/administration.'"
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，但在政府语境中‘executive’更常用于政治学表达。",
+      "american": "在企业语境中，‘executive’常特指公司高管，如‘Chief Executive Officer (CEO)’。"
+    }
+  },
+  {
+    "word": "favor",
+    "pronunciation": {
+      "british": "/ˈfeɪvə/ 🇬🇧 (拼写多为 favour)",
+      "american": "/ˈfeɪvər/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb 多义词",
+    "usage": "非常常用 👍：既可指“帮助、恩惠”，也可作“偏爱、支持”；动词可表示“偏向、赞同”。英式拼写多为 *favour*。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "帮助，恩惠",
+          "english": "A kind or helpful act that you do for someone."
+        },
+        "examples": [
+          {
+            "sentence": "Can you do me a favor and close the window?",
+            "translation": "你能帮个忙把窗户关上吗？"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "偏爱，支持",
+          "english": "Approval, support, or preference for someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "The judge’s decision was in his favor.",
+            "translation": "法官的判决对他有利。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "支持，偏向",
+          "english": "To prefer, approve of, or give support to someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "The teacher favors active participation in class.",
+            "translation": "老师更支持课堂上的积极参与。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "像，长得像（旧用法）",
+          "english": "To resemble someone in appearance. (old-fashioned, mainly in American English)"
+        },
+        "examples": [
+          {
+            "sentence": "She really favors her mother.",
+            "translation": "她长得很像她母亲。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "kindness",
+        "type": "noun",
+        "definition": {
+          "chinese": "善意，仁慈",
+          "english": "The quality of being friendly and generous."
+        },
+        "examples": [
+          {
+            "sentence": "She treated him with great kindness.",
+            "translation": "她非常善意地对待他。"
+          }
+        ]
+      },
+      {
+        "word": "preference",
+        "type": "noun",
+        "definition": {
+          "chinese": "偏爱，偏好",
+          "english": "A greater liking for one alternative over another."
+        },
+        "examples": [
+          {
+            "sentence": "My preference is for coffee over tea.",
+            "translation": "相比茶，我更喜欢咖啡。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写差异",
+        "explanation": "英式英语拼作 *favour*，美式英语拼作 *favor*。"
+      },
+      {
+        "point": "礼貌用法",
+        "explanation": "常见礼貌句型：*Do me a favor…* 表示请求别人帮忙。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *favorem*（善意、支持），最初指“善意、帮助”，后扩展为“偏爱、偏向”，再进一步用作动词。",
+      "explanation_english": "From Latin *favorem* (goodwill, support), originally meant 'kindness or help,' later extended to 'preference or approval,' and then verbalized as 'to support or prefer.'"
+    },
+    "variation_between_british_american": {
+      "british": "拼写 *favour*；口语中常用于‘in favour of’（支持某事）。",
+      "american": "拼写 *favor*；常见于‘do me a favor’（帮个忙），‘in favor of’（支持）。"
+    }
+  },
+  {
+    "word": "keep up with",
+    "pronunciation": {
+      "british": "/kiːp ʌp wɪð/ 🇬🇧",
+      "american": "/kiːp ʌp wɪθ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "非常常用 👍：表示跟上速度、保持联系、了解最新信息，涵盖生活、学习、工作和社交多种语境。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "跟上（某人或某事的速度）",
+          "english": "To move or progress at the same rate as someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "I walk too fast—can you keep up with me?",
+            "translation": "我走得太快了——你能跟上我吗？"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "保持对…的了解",
+          "english": "To stay informed about the latest developments in something."
+        },
+        "examples": [
+          {
+            "sentence": "It’s hard to keep up with the news these days.",
+            "translation": "如今要跟上新闻的节奏很难。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "保持联系，维持关系",
+          "english": "To maintain contact or a relationship with someone."
+        },
+        "examples": [
+          {
+            "sentence": "She tries to keep up with her old school friends.",
+            "translation": "她努力和老同学保持联系。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "catch up with",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "赶上",
+          "english": "To reach the same level or standard as someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "He ran fast to catch up with the bus.",
+            "translation": "他拼命跑去赶上那辆公交车。"
+          }
+        ]
+      },
+      {
+        "word": "stay updated",
+        "type": "phrase",
+        "definition": {
+          "chinese": "保持更新",
+          "english": "To continuously know the latest news or information."
+        },
+        "examples": [
+          {
+            "sentence": "I read blogs to stay updated on technology.",
+            "translation": "我读博客来保持对科技的了解。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "注意介词",
+        "explanation": "固定用法是 *keep up with*，不要误说成 *keep up to*。"
+      },
+      {
+        "point": "语气色彩",
+        "explanation": "有时带有“努力不落后”的意味，比如跟上工作节奏或时尚潮流。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原始意义是“物理上跟上速度”，后来比喻扩展为“跟上信息、趋势或关系”。",
+      "explanation_english": "Originally meant physically keeping pace, later extended metaphorically to keeping up with information, trends, or relationships."
+    },
+    "variation_between_british_american": {
+      "british": "常用于人际关系和学业场景：keep up with studies/friends。",
+      "american": "除人际外，更常用于信息更新：keep up with the news/sports/technology。"
+    }
+  },
+  {
+    "word": "bandwagon",
+    "pronunciation": {
+      "british": "/ˈbændˌwæɡ.ən/ 🇬🇧",
+      "american": "/ˈbændˌwæɡ.ən/ 🇺🇸"
+    },
+    "phrase_type": "noun / idiom",
+    "usage": "常见 👍：既可指游行用的彩车（原义），更常用作比喻，指“潮流、热门趋势”，衍生出短语 *jump on the bandwagon*（跟风）。",
+    "meanings": [
+      {
+        "type": "noun (literal, old-fashioned)",
+        "definition": {
+          "chinese": "乐队花车",
+          "english": "A wagon carrying a band in a parade."
+        },
+        "examples": [
+          {
+            "sentence": "The circus parade had a brightly decorated bandwagon.",
+            "translation": "马戏团游行有一辆装饰华丽的乐队花车。"
+          }
+        ]
+      },
+      {
+        "type": "noun / idiomatic (modern)",
+        "definition": {
+          "chinese": "潮流，热门趋势",
+          "english": "An activity, cause, or trend that many people join or support once it becomes popular."
+        },
+        "examples": [
+          {
+            "sentence": "Many companies are jumping on the eco-friendly bandwagon.",
+            "translation": "许多公司正在跟风环保潮流。"
+          },
+          {
+            "sentence": "Once the product went viral, everyone wanted to get on the bandwagon.",
+            "translation": "一旦这款产品火了，大家都想跟风。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "trend",
+        "type": "noun",
+        "definition": {
+          "chinese": "趋势，潮流",
+          "english": "A general direction in which something is developing or changing."
+        },
+        "examples": [
+          {
+            "sentence": "Minimalist design is a growing trend.",
+            "translation": "极简设计是一种日益增长的潮流。"
+          }
+        ]
+      },
+      {
+        "word": "fad",
+        "type": "noun",
+        "definition": {
+          "chinese": "一时的风尚",
+          "english": "A short-lived, highly popular activity or style."
+        },
+        "examples": [
+          {
+            "sentence": "That diet was just a passing fad.",
+            "translation": "那种饮食方式只是一时的风尚。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见搭配",
+        "explanation": "固定短语 *jump on the bandwagon* 表示“随大流、跟风”。"
+      },
+      {
+        "point": "语气色彩",
+        "explanation": "在比喻用法中常带有批评意味，暗指人们盲目跟随。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原本是游行中的“乐队车”，因为这种车常吸引人群跟随，19世纪美国政治圈便引申为“跟风潮流”。",
+      "explanation_english": "Originally a parade wagon carrying a band. Because it attracted followers, U.S. politics in the 19th century extended the meaning to 'popular trend or cause.'"
+    },
+    "variation_between_british_american": {
+      "british": "主要用于比喻义（follow a trend）。",
+      "american": "用法相同，但更频繁地出现在媒体和日常口语中。"
+    }
+  },
+  {
+    "word": "swollen",
+    "pronunciation": {
+      "british": "/ˈswəʊlən/ 🇬🇧",
+      "american": "/ˈswoʊlən/ 🇺🇸"
+    },
+    "phrase_type": "adjective (past participle of 'swell')",
+    "usage": "常用 👍：用于描述身体部位肿胀，也可比喻规模扩大或情绪高涨。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "肿胀的",
+          "english": "Enlarged or puffed up, typically as a result of injury, illness, or fluid retention."
+        },
+        "examples": [
+          {
+            "sentence": "Her ankle is swollen after the fall.",
+            "translation": "她摔倒后脚踝肿了。"
+          },
+          {
+            "sentence": "The swollen river overflowed its banks.",
+            "translation": "暴涨的河水溢出了河岸。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (figurative)",
+        "definition": {
+          "chinese": "夸大的，膨胀的",
+          "english": "Excessively increased in size, pride, or importance."
+        },
+        "examples": [
+          {
+            "sentence": "He spoke with swollen pride after winning the award.",
+            "translation": "他在获奖后满是自大地讲话。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "inflamed",
+        "type": "adjective",
+        "definition": {
+          "chinese": "发炎的，红肿的",
+          "english": "Red, hot, and swollen due to infection or irritation."
+        },
+        "examples": [
+          {
+            "sentence": "The wound looked inflamed.",
+            "translation": "伤口看起来发炎了。"
+          }
+        ]
+      },
+      {
+        "word": "puffy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "浮肿的，肿胀的",
+          "english": "Swollen, often due to fluid build-up or tiredness."
+        },
+        "examples": [
+          {
+            "sentence": "His eyes were puffy from crying.",
+            "translation": "他哭得眼睛肿了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学与比喻双用",
+        "explanation": "在医学中多指身体部位肿胀；在文学或口语中可比喻自大、规模膨胀。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 *swell*（膨胀、上涨），其过去分词 *swollen* 引申为形容词，不仅指物理上的膨胀，还比喻情绪或规模的扩张。",
+      "explanation_english": "Derived from the verb *swell* (to expand, rise), the past participle *swollen* developed adjectival use, extending from physical swelling to figurative growth or pride."
+    },
+    "variation_between_british_american": {
+      "british": "常用于描述身体或河流的肿胀、上涨。",
+      "american": "用法相同，但 figurative 用法（e.g., swollen ego）在美式口语中更常见。"
+    }
+  },
+  {
+    "word": "machete",
+    "pronunciation": {
+      "british": "/məˈʃɛti/ 🇬🇧",
+      "american": "/məˈʃɛti/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指一种大型刀具，多用于砍伐植物，也在一些文化和武器语境中使用。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大砍刀",
+          "english": "A large, heavy knife used for cutting vegetation or as a weapon."
+        },
+        "examples": [
+          {
+            "sentence": "He cleared the path with a machete.",
+            "translation": "他用大砍刀清理出一条路。"
+          },
+          {
+            "sentence": "The machete is commonly used in agriculture.",
+            "translation": "大砍刀在农业中很常见。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "knife",
+        "type": "noun",
+        "definition": {
+          "chinese": "小刀",
+          "english": "A smaller hand tool with a blade used for cutting."
+        },
+        "examples": [
+          {
+            "sentence": "Use a knife to slice the fruit.",
+            "translation": "用刀切水果。"
+          }
+        ]
+      },
+      {
+        "word": "sword",
+        "type": "noun",
+        "definition": {
+          "chinese": "剑",
+          "english": "A weapon with a long metal blade used in combat."
+        },
+        "examples": [
+          {
+            "sentence": "The knight drew his sword.",
+            "translation": "骑士拔出了剑。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化含义",
+        "explanation": "在一些拉丁美洲和非洲国家，machete 是日常农具；但在媒体报道中，它也常与暴力或武器联系。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自西班牙语 *machete*（小锤子之意的 *macho* 的派生），最初指大刀农具，后也延伸为武器。含义差别源于用途场景的延伸。",
+      "explanation_english": "Borrowed from Spanish *machete* (from *macho*, meaning hammer or sledge), originally an agricultural tool, later extended to weapon use."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，常见于殖民地历史或热带地区语境。",
+      "american": "在美国英语中，常用于拉美文化语境或电影/新闻报道。"
+    }
+  },
+  {
+    "word": "take a sick day",
+    "pronunciation": {
+      "british": "/teɪk ə sɪk deɪ/ 🇬🇧",
+      "american": "/teɪk ə sɪk deɪ/ 🇺🇸"
+    },
+    "phrase_type": "phrase / idiomatic expression",
+    "usage": "常用于工作和学校场景，表示请病假或因病缺勤。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "请病假；因病休息一天",
+          "english": "To be absent from work or school for a day due to illness."
+        },
+        "examples": [
+          {
+            "sentence": "I need to take a sick day because I have a fever.",
+            "translation": "我需要请一天病假，因为我发烧了。"
+          },
+          {
+            "sentence": "He took a sick day to recover from the flu.",
+            "translation": "他请了一天病假来从流感中恢复。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "call in sick",
+        "type": "phrase",
+        "definition": {
+          "chinese": "打电话请病假",
+          "english": "To inform your employer or school that you cannot attend due to illness."
+        },
+        "examples": [
+          {
+            "sentence": "She called in sick this morning.",
+            "translation": "她今天早上打电话请了病假。"
+          }
+        ]
+      },
+      {
+        "word": "sick leave",
+        "type": "noun",
+        "definition": {
+          "chinese": "病假",
+          "english": "Official time away from work granted due to illness."
+        },
+        "examples": [
+          {
+            "sentence": "He’s on sick leave for two weeks after surgery.",
+            "translation": "他做完手术后休了两周病假。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "固定搭配",
+        "explanation": "常用结构为 *take a sick day*（单日），若多天则用 *take sick days*。"
+      },
+      {
+        "point": "职场习惯",
+        "explanation": "在美式职场中，员工通常有一定天数的“sick days”作为福利。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "sick day 原本指“生病的一天”，在职场和教育场景里固定化为“病假”。",
+      "explanation_english": "Originally 'a day of being sick,' formalized in workplace/school settings as 'a day off for illness.'"
+    },
+    "variation_between_british_american": {
+      "british": "可用 *take a sick day*，但更常说 *off sick*（e.g., He is off sick today.）",
+      "american": "更常见说法是 *take a sick day*，尤其在工作场合。"
+    }
+  },
+  {
+    "word": "run out of",
+    "pronunciation": {
+      "british": "/rʌn aʊt əv/ 🇬🇧",
+      "american": "/rʌn aʊt əv/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "常用于日常生活和口语，表示“用光、耗尽”。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "用完，耗尽",
+          "english": "To have no more of something because it has all been used or consumed."
+        },
+        "examples": [
+          {
+            "sentence": "We’ve run out of milk, so I need to go to the shop.",
+            "translation": "我们牛奶用完了，所以我得去商店。"
+          },
+          {
+            "sentence": "She ran out of patience after waiting for two hours.",
+            "translation": "等了两个小时后，她失去了耐心。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "use up",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "用尽，耗尽",
+          "english": "To consume completely."
+        },
+        "examples": [
+          {
+            "sentence": "He used up all his savings on the trip.",
+            "translation": "他在这次旅行上花光了所有积蓄。"
+          }
+        ]
+      },
+      {
+        "word": "run short of",
+        "type": "phrase",
+        "definition": {
+          "chinese": "短缺，快要没有",
+          "english": "To not have enough of something."
+        },
+        "examples": [
+          {
+            "sentence": "The hospital is running short of supplies.",
+            "translation": "医院的物资快要不够用了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "介词搭配",
+        "explanation": "固定用法是 *run out of + 名词*，不能省略 *of*。"
+      },
+      {
+        "point": "时态变化",
+        "explanation": "过去式常用 *ran out of*，现在完成时为 *have/has run out of*。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意是“跑出去”，引申为资源用尽（就像跑到尽头）。",
+      "explanation_english": "Originally meant 'to run beyond/outside,' extended metaphorically to 'having none left' (reaching the end of supply)."
+    },
+    "variation_between_british_american": {
+      "british": "常用于日常会话，比如 run out of petrol。",
+      "american": "常用于相同场景，比如 run out of gas（汽油）。"
+    }
+  },
+  {
+    "word": "cannibals",
+    "pronunciation": {
+      "british": "/ˈkænɪbəlz/ 🇬🇧",
+      "american": "/ˈkænɪbəlz/ 🇺🇸"
+    },
+    "phrase_type": "noun（复数）",
+    "usage": "常用于历史、文化或文学语境 ⚠️：指食人者，偶尔可用于比喻极端竞争或自相残杀的情况。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "食人者",
+          "english": "People who eat the flesh of other humans."
+        },
+        "examples": [
+          {
+            "sentence": "The explorers feared encountering cannibals in the remote jungle.",
+            "translation": "探险者害怕在偏远丛林中遇到食人族。"
+          }
+        ]
+      },
+      {
+        "type": "noun（比喻）",
+        "definition": {
+          "chinese": "残酷竞争者，自相残杀者",
+          "english": "People or groups who aggressively compete or destroy each other."
+        },
+        "examples": [
+          {
+            "sentence": "In the cutthroat industry, the firms behaved like cannibals.",
+            "translation": "在这个竞争激烈的行业里，各公司像食人者一样互相残杀。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "anthropophagist",
+        "type": "noun",
+        "definition": {
+          "chinese": "人食者",
+          "english": "A person who eats human flesh."
+        },
+        "examples": [
+          {
+            "sentence": "Ancient myths often describe anthropophagists living in distant lands.",
+            "translation": "古代神话常描述住在遥远地区的人食者。"
+          }
+        ]
+      },
+      {
+        "word": "predator",
+        "type": "noun",
+        "definition": {
+          "chinese": "掠食者",
+          "english": "An animal or person that preys on others."
+        },
+        "examples": [
+          {
+            "sentence": "In business, some companies act as predators.",
+            "translation": "在商业中，有些公司像掠食者一样行事。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语境重要",
+        "explanation": "cannibals 主要用于历史、文学、文化报道，日常口语中多为比喻用法。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自西班牙语 *caníbal*（加勒比地区某些土著民族），原义指食人族，后来比喻极端竞争或互相残杀。",
+      "explanation_english": "From Spanish *caníbal* (Carib people), originally referring to human-eating tribes, later metaphorically extended to ruthless competitors or self-destructive behavior."
+    },
+    "variation_between_british_american": {
+      "british": "正式或文学语境常用，口语中比喻用法较常见。",
+      "american": "用法相同，比喻用法在商业或体育语境中更常出现。"
+    }
+  },
+  {
+    "word": "excursion",
+    "pronunciation": {
+      "british": "/ɪkˈskɜːʃn/ 🇬🇧",
+      "american": "/ɪkˈskɜːrʒən/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：多用于旅行、学校活动或短途游览，也可引申为偏离、偏转。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "短途旅行，远足",
+          "english": "A short journey or trip, especially for leisure, education, or sightseeing."
+        },
+        "examples": [
+          {
+            "sentence": "The students went on an excursion to the museum.",
+            "translation": "学生们去博物馆进行了短途游。"
+          }
+        ]
+      },
+      {
+        "type": "noun（引申）",
+        "definition": {
+          "chinese": "偏离，偏转",
+          "english": "A brief deviation or digression from a main subject or path."
+        },
+        "examples": [
+          {
+            "sentence": "The lecture included an excursion into ancient history.",
+            "translation": "讲座中有一段关于古代历史的插曲。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "outing",
+        "type": "noun",
+        "definition": {
+          "chinese": "外出活动，短途游玩",
+          "english": "A short trip or excursion for pleasure or education."
+        },
+        "examples": [
+          {
+            "sentence": "We had a family outing to the beach.",
+            "translation": "我们全家去海滩进行了短途游。"
+          }
+        ]
+      },
+      {
+        "word": "trip",
+        "type": "noun",
+        "definition": {
+          "chinese": "旅行，行程",
+          "english": "A journey or voyage from one place to another."
+        },
+        "examples": [
+          {
+            "sentence": "We went on a weekend trip to the mountains.",
+            "translation": "我们周末去山里旅行。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式语感",
+        "explanation": "excursion 相比 outing 更正式，常用于学校、旅游或官方行程。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *excursio*（奔出、远行），原指出发、外出，后引申为短途游览或偏离主题的插入。",
+      "explanation_english": "From Latin *excursio* ('a running out, sally'), originally meaning a departure or outing, later extended to short trips and metaphorical digressions."
+    },
+    "variation_between_british_american": {
+      "british": "常用于学校组织的短途游或正式旅行场合。",
+      "american": "用法相同，也用于教育、旅游和户外活动场景。"
+    }
+  },
+  {
+    "word": "salvation",
+    "pronunciation": {
+      "british": "/sælˈveɪʃn/ 🇬🇧",
+      "american": "/sælˈveɪʃn/ 🇺🇸"
+    },
+    "phrase_type": "noun（不可数/可数）",
+    "usage": "较常用 👍：在宗教语境中表示“灵魂得救”，在日常语境中也可比喻“拯救、解脱”。",
+    "meanings": [
+      {
+        "type": "noun（宗教）",
+        "definition": {
+          "chinese": "救赎，得救",
+          "english": "Deliverance from sin and its consequences, often regarded as being granted by divine grace."
+        },
+        "examples": [
+          {
+            "sentence": "Many people seek salvation through faith.",
+            "translation": "许多人通过信仰寻求救赎。"
+          }
+        ]
+      },
+      {
+        "type": "noun（引申）",
+        "definition": {
+          "chinese": "解救，拯救",
+          "english": "A source of help or relief in a time of difficulty or crisis."
+        },
+        "examples": [
+          {
+            "sentence": "Exercise was his salvation during stressful times.",
+            "translation": "在压力大的时候，锻炼是他的解脱。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "deliverance",
+        "type": "noun",
+        "definition": {
+          "chinese": "解救，解脱",
+          "english": "The action of being rescued or set free."
+        },
+        "examples": [
+          {
+            "sentence": "They prayed for deliverance from suffering.",
+            "translation": "他们祈祷能从痛苦中解脱。"
+          }
+        ]
+      },
+      {
+        "word": "redemption",
+        "type": "noun",
+        "definition": {
+          "chinese": "救赎，赎回",
+          "english": "The action of saving or being saved from error or evil; in finance, buying back a bond or security."
+        },
+        "examples": [
+          {
+            "sentence": "The story is about guilt and redemption.",
+            "translation": "这个故事讲的是罪与救赎。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语域",
+        "explanation": "宗教语境中 salvation 几乎专指灵魂的得救；在非宗教语境中，更多是一种比喻性的“救星”或“解脱”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *salvatio*（拯救），来自 *salvare*（拯救、保全），最初用于宗教语境，后来引申到一般的救助或解脱。",
+      "explanation_english": "From Latin *salvatio*, from *salvare* ('to save'), originally referring to spiritual deliverance, later extended to general rescue or relief."
+    },
+    "variation_between_british_american": {
+      "british": "在文学和宗教文本中较常见。",
+      "american": "同样广泛使用，常见于宗教演讲、文学和日常比喻。"
+    }
+  },
+  {
+    "word": "hospitality",
+    "pronunciation": {
+      "british": "/ˌhɒspɪˈtæləti/ 🇬🇧",
+      "american": "/ˌhɑːspɪˈtæləti/ 🇺🇸"
+    },
+    "phrase_type": "noun（不可数）",
+    "usage": "常用 👍：既用于描述“好客、热情招待”，也作为产业术语（酒店、旅游、餐饮业统称）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "好客，殷勤",
+          "english": "The friendly and generous reception and entertainment of guests, visitors, or strangers."
+        },
+        "examples": [
+          {
+            "sentence": "Thank you for your warm hospitality during my stay.",
+            "translation": "感谢你在我逗留期间的热情款待。"
+          }
+        ]
+      },
+      {
+        "type": "noun（行业用法）",
+        "definition": {
+          "chinese": "酒店和旅游业",
+          "english": "The business of providing services such as lodging, food, and entertainment for visitors."
+        },
+        "examples": [
+          {
+            "sentence": "She works in the hospitality industry.",
+            "translation": "她在酒店和旅游行业工作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cordiality",
+        "type": "noun",
+        "definition": {
+          "chinese": "热诚，真挚",
+          "english": "Warm and sincere friendliness."
+        },
+        "examples": [
+          {
+            "sentence": "He greeted us with great cordiality.",
+            "translation": "他非常热情地迎接了我们。"
+          }
+        ]
+      },
+      {
+        "word": "accommodation",
+        "type": "noun",
+        "definition": {
+          "chinese": "住宿",
+          "english": "A place to stay, especially in hotels or guesthouses."
+        },
+        "examples": [
+          {
+            "sentence": "The price includes food and accommodation.",
+            "translation": "价格包括食物和住宿。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语境差异",
+        "explanation": "在日常交流中，hospitality 更常指人的热情好客；在商业环境中则指行业。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *hospitalitas*，本义是“对客人的友善对待”，后来引申到提供住宿、餐饮等服务的行业。",
+      "explanation_english": "From Latin *hospitalitas* ('friendliness to guests'), originally meant warm reception, later extended to the lodging and tourism industry."
+    },
+    "variation_between_british_american": {
+      "british": "在商业语境中常与 'hospitality sector' 或 'hospitality trade' 搭配。",
+      "american": "常用 'hospitality industry' 来指代酒店、餐饮、旅游业。"
+    }
+  },
+  {
+    "word": "renown",
+    "pronunciation": {
+      "british": "/rɪˈnaʊn/ 🇬🇧",
+      "american": "/rɪˈnaʊn/ 🇺🇸"
+    },
+    "phrase_type": "noun（不可数）",
+    "usage": "较常用 👍：多用于正式或文学语境，表示名声、声誉，通常带有积极色彩。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "名声，声誉",
+          "english": "The state of being widely known and admired for achievements or qualities."
+        },
+        "examples": [
+          {
+            "sentence": "She achieved international renown as a scientist.",
+            "translation": "她作为一名科学家获得了国际声誉。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fame",
+        "type": "noun",
+        "definition": {
+          "chinese": "名望，声誉（中性或偏正面）",
+          "english": "The state of being known by many people."
+        },
+        "examples": [
+          {
+            "sentence": "The actor rose to fame after his first film.",
+            "translation": "这位演员在第一部电影后成名。"
+          }
+        ]
+      },
+      {
+        "word": "reputation",
+        "type": "noun",
+        "definition": {
+          "chinese": "名声，口碑（可正可负）",
+          "english": "The beliefs or opinions generally held about someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "The restaurant has a reputation for excellent service.",
+            "translation": "这家餐馆因优质服务而闻名。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气色彩",
+        "explanation": "renown 带有文学感，多用于正式书写或演讲，语气比 fame 更高雅。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古法语 *renom*（名声），再追溯到拉丁语 *renomen*，由 *re-*（再）+ *nomen*（名字）组成，本义是“名字广为传播”，后稳定为“声誉”。",
+      "explanation_english": "From Old French *renom*, from Latin *renomen* ('re-' meaning 'again' + 'nomen' meaning 'name'), originally 'a name made known widely', later specialized to 'fame, reputation'."
+    },
+    "variation_between_british_american": {
+      "british": "使用频率略低于 reputation 或 fame，偏正式。",
+      "american": "用法相同，也主要出现在正式或文学语境。"
+    }
+  },
+  {
+    "word": "acre",
+    "pronunciation": {
+      "british": "/ˈeɪkə/ 🇬🇧",
+      "american": "/ˈeɪkər/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：主要用于表示土地面积的计量单位，也可泛指大片土地。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "英亩（面积单位，约等于 4046.86 平方米）",
+          "english": "A unit for measuring land area, equal to 4,840 square yards (about 4,047 square meters)."
+        },
+        "examples": [
+          {
+            "sentence": "The farm covers 200 acres.",
+            "translation": "这片农场占地 200 英亩。"
+          }
+        ]
+      },
+      {
+        "type": "noun（引申）",
+        "definition": {
+          "chinese": "大片土地",
+          "english": "A large expanse of land (used loosely, not as an exact measurement)."
+        },
+        "examples": [
+          {
+            "sentence": "Acres of forest were destroyed by the fire.",
+            "translation": "大片森林被大火摧毁了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hectare",
+        "type": "noun",
+        "definition": {
+          "chinese": "公顷（面积单位，1 公顷 = 10,000 平方米 ≈ 2.47 英亩）",
+          "english": "A metric unit for measuring land area, equal to 10,000 square meters."
+        },
+        "examples": [
+          {
+            "sentence": "The park is about 3 hectares in size.",
+            "translation": "这个公园大约有 3 公顷。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "计量单位的使用",
+        "explanation": "acre 属于英美传统单位，日常生活、房地产和农业中常用；在科学和国际场景中通常使用公顷（hectare）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 *æcer*，原义为“田地、耕地”。后来被固定为土地面积的单位，也在口语中延伸为“大片土地”。",
+      "explanation_english": "From Old English *æcer* ('field, piece of arable land'). Later standardized as a unit of land measurement and extended figuratively to mean 'large areas of land'."
+    },
+    "variation_between_british_american": {
+      "british": "常用于农业、房地产，计量仍用 acre。",
+      "american": "同样广泛使用 acre，尤其在地产、农地买卖中。"
+    }
+  },
+  {
+    "word": "insomnia",
+    "pronunciation": {
+      "british": "/ɪnˈsɒmniə/ 🇬🇧",
+      "american": "/ɪnˈsɑːmniə/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：医学和日常语境都常用，指难以入睡或保持睡眠状态。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "失眠",
+          "english": "The inability to fall asleep or stay asleep, despite the opportunity to do so."
+        },
+        "examples": [
+          {
+            "sentence": "He suffers from chronic insomnia.",
+            "translation": "他长期受失眠困扰。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sleeplessness",
+        "type": "noun",
+        "definition": {
+          "chinese": "无法入睡，睡不着",
+          "english": "The state of being unable to sleep."
+        },
+        "examples": [
+          {
+            "sentence": "Sleeplessness can affect your health.",
+            "translation": "失眠会影响健康。"
+          }
+        ]
+      },
+      {
+        "word": "wakefulness",
+        "type": "noun",
+        "definition": {
+          "chinese": "清醒状态，无法入睡",
+          "english": "The state of being awake, especially when you are expected to be asleep."
+        },
+        "examples": [
+          {
+            "sentence": "His wakefulness at night is due to insomnia.",
+            "translation": "他夜间清醒是因为失眠。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学术语",
+        "explanation": "insomnia 常用于医疗、心理健康、健康文章或日常描述睡眠问题。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *in-*（否定）+ *somnus*（睡眠），字面意思是“不睡眠”，主要含义集中在失眠，没有其他延伸义。",
+      "explanation_english": "From Latin *in-* ('not') + *somnus* ('sleep'), literally 'no sleep', primary meaning is insomnia; no major extensions."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，正式或口语均可。",
+      "american": "相同，可用于医疗、心理健康或日常表达。"
+    }
+  },
+  {
+    "word": "energetic",
+    "pronunciation": {
+      "british": "/ˌenəˈdʒetɪk/ 🇬🇧",
+      "american": "/ˌenərˈdʒetɪk/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "非常常用 👍：用来形容人精力充沛、活力十足，也可形容行为、活动或运动富有活力。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "精力充沛的，充满活力的",
+          "english": "Showing or involving great activity or vitality."
+        },
+        "examples": [
+          {
+            "sentence": "The energetic child ran around the playground all afternoon.",
+            "translation": "那个精力充沛的孩子整个下午都在操场上跑来跑去。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "积极的，主动的",
+          "english": "Actively and vigorously engaged in activity."
+        },
+        "examples": [
+          {
+            "sentence": "She is an energetic leader who motivates her team.",
+            "translation": "她是一位积极主动、充满活力的领导，能够激励团队。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "lively",
+        "type": "adjective",
+        "definition": {
+          "chinese": "生动的，活泼的",
+          "english": "Full of life and energy; spirited."
+        },
+        "examples": [
+          {
+            "sentence": "The party was lively and fun.",
+            "translation": "派对热闹而有趣。"
+          }
+        ]
+      },
+      {
+        "word": "vigorous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有力的，强健的",
+          "english": "Strong, healthy, and full of energy."
+        },
+        "examples": [
+          {
+            "sentence": "He enjoys vigorous exercise every morning.",
+            "translation": "他喜欢每天早晨进行剧烈运动。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "词义色彩",
+        "explanation": "energetic 多用于正面评价，形容人或行为积极有力。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊语 *energetikos*（积极的，有活力的），原义指行动力强，后引申到形容人和行为充满活力。",
+      "explanation_english": "From Greek *energetikos* ('active, effective'), originally describing forceful action, later extended to people and behaviors full of energy."
+    },
+    "variation_between_british_american": {
+      "british": "常用于形容儿童、运动或领导力，书面语和口语皆可。",
+      "american": "用法相同，也常用于商业、教育和体育场景。"
+    }
+  },
+  {
+    "word": "miserable",
+    "pronunciation": {
+      "british": "/ˈmɪzərəbəl/ 🇬🇧",
+      "american": "/ˈmɪzərəbəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "非常常用 👍：可形容人的情绪极差，也可指生活、环境等令人痛苦或不舒服。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "痛苦的，难受的",
+          "english": "Feeling very unhappy or uncomfortable."
+        },
+        "examples": [
+          {
+            "sentence": "He felt miserable after losing his job.",
+            "translation": "他失业后感到非常痛苦。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "悲惨的，艰苦的",
+          "english": "Very poor or of low quality; causing suffering."
+        },
+        "examples": [
+          {
+            "sentence": "They lived in miserable conditions.",
+            "translation": "他们生活在悲惨的环境中。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "极少的，微不足道的",
+          "english": "Very small or inadequate in amount or quality."
+        },
+        "examples": [
+          {
+            "sentence": "He earned a miserable salary.",
+            "translation": "他挣着微薄的工资。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "unhappy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "不开心的",
+          "english": "Not happy or joyful."
+        },
+        "examples": [
+          {
+            "sentence": "She was unhappy with the decision.",
+            "translation": "她对这个决定不满意。"
+          }
+        ]
+      },
+      {
+        "word": "wretched",
+        "type": "adjective",
+        "definition": {
+          "chinese": "可怜的，悲惨的",
+          "english": "Very bad, unpleasant, or unfortunate."
+        },
+        "examples": [
+          {
+            "sentence": "They lived in wretched conditions.",
+            "translation": "他们生活在悲惨的环境中。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语义强烈",
+        "explanation": "miserable 可以形容心理状态、生活环境或数量，非常强调负面感受。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *miserabilis*（可悲的、可怜的），原义是可悲，引申出心理痛苦、生活艰苦和微薄数量的含义。",
+      "explanation_english": "From Latin *miserabilis* ('wretched, pitiable'), originally meant 'to be pitied', later extended to describe emotional misery, poor living conditions, or meager amounts."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，但在口语中可更夸张形容天气或环境，如 'miserable day'。",
+      "american": "同样常用，可用于描述心情、工资、天气或环境。"
+    }
+  },
+  {
+    "word": "punctual",
+    "pronunciation": {
+      "british": "/ˈpʌŋktʃuəl/ 🇬🇧",
+      "american": "/ˈpʌŋktʃuəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：表示守时，强调按时到达或完成任务，是正式与日常语境都常见的词。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "准时的，守时的",
+          "english": "Arriving, happening, or doing something at the expected or scheduled time."
+        },
+        "examples": [
+          {
+            "sentence": "She is always punctual for meetings.",
+            "translation": "她开会总是准时。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "on time",
+        "type": "adjective/phrase",
+        "definition": {
+          "chinese": "按时，准时",
+          "english": "Happening or done at the planned time."
+        },
+        "examples": [
+          {
+            "sentence": "The train arrived on time.",
+            "translation": "火车准时到达。"
+          }
+        ]
+      },
+      {
+        "word": "prompt",
+        "type": "adjective",
+        "definition": {
+          "chinese": "迅速的，准时的",
+          "english": "Done without delay; on time."
+        },
+        "examples": [
+          {
+            "sentence": "She was prompt in replying to emails.",
+            "translation": "她回复邮件非常及时。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式语境偏好",
+        "explanation": "punctual 比 on time 更正式，更适合书面语、工作或教育场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *punctum*（点），引申为“按点时间到达”，因此主要意义集中在守时。",
+      "explanation_english": "From Latin *punctum* ('point'), extended to mean arriving 'at the point in time', hence the primary meaning of being on time."
+    },
+    "variation_between_british_american": {
+      "british": "正式与口语都使用 punctual，常用于学校和工作场景。",
+      "american": "使用相同，尤其用于工作或正式场合，但口语中可更常用 on time。"
+    }
+  },
+  {
+    "word": "benevolent",
+    "pronunciation": {
+      "british": "/bəˈnevələnt/ 🇬🇧",
+      "american": "/bəˈnevələnt/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用于正式或文学语境 👍：形容人心地善良、仁慈，或机构/行为带有慈善性质。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "仁慈的，善意的",
+          "english": "Well-meaning and kindly."
+        },
+        "examples": [
+          {
+            "sentence": "She gave him a benevolent smile.",
+            "translation": "她给了他一个善意的微笑。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "慈善的，行善的",
+          "english": "Serving charitable rather than profit-making purposes."
+        },
+        "examples": [
+          {
+            "sentence": "He donated a large sum to a benevolent fund.",
+            "translation": "他捐了一大笔钱给慈善基金。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "kindly",
+        "type": "adjective/adverb",
+        "definition": {
+          "chinese": "和善的，亲切的",
+          "english": "Kind, gentle, and friendly."
+        },
+        "examples": [
+          {
+            "sentence": "He spoke in a kindly voice.",
+            "translation": "他用亲切的声音说话。"
+          }
+        ]
+      },
+      {
+        "word": "charitable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "慈善的，仁厚的",
+          "english": "Generous in giving help to the needy."
+        },
+        "examples": [
+          {
+            "sentence": "She works for a charitable organization.",
+            "translation": "她在一家慈善机构工作。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语体偏正式",
+        "explanation": "benevolent 常见于文学、演讲或正式语境，在日常口语中，人们更常说 kind 或 nice。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *bene*（好）+ *velle*（愿望），字面意思是“希望他人好”，因此既可形容人心地善良，也可指带有慈善目的的机构或行为。",
+      "explanation_english": "From Latin *bene* ('well') + *velle* ('to wish'), literally 'to wish well'. Extended from describing a person's goodwill to describing charitable acts or organizations."
+    },
+    "variation_between_british_american": {
+      "british": "常见于文学和慈善机构名称，如 'Benevolent Fund'。",
+      "american": "同样使用，但在日常语境中更多人会选择 simpler words（如 kind, good-hearted）。"
+    }
+  },
+  {
+    "word": "massacre",
+    "pronunciation": {
+      "british": "/ˈmæsəkə/ 🇬🇧",
+      "american": "/ˈmæsəkər/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb",
+    "usage": "常用于正式和历史语境 ⚠️：指大规模屠杀，也可比喻彻底击败或惨败。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大屠杀，残杀",
+          "english": "The violent killing of many people, especially those unable to defend themselves."
+        },
+        "examples": [
+          {
+            "sentence": "The soldiers were accused of participating in a massacre.",
+            "translation": "士兵们被指控参与了一场大屠杀。"
+          }
+        ]
+      },
+      {
+        "type": "noun（比喻）",
+        "definition": {
+          "chinese": "惨败，彻底失败",
+          "english": "An overwhelming defeat in a competition or contest."
+        },
+        "examples": [
+          {
+            "sentence": "The game was a complete massacre — the score was 10 to 0.",
+            "translation": "比赛完全是一场惨败——比分是 10 比 0。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "屠杀，大规模杀戮",
+          "english": "To kill a large number of people in a cruel or violent way."
+        },
+        "examples": [
+          {
+            "sentence": "The army massacred innocent villagers.",
+            "translation": "军队屠杀了无辜的村民。"
+          }
+        ]
+      },
+      {
+        "type": "verb（比喻）",
+        "definition": {
+          "chinese": "惨败，痛击",
+          "english": "To defeat thoroughly in a game or contest."
+        },
+        "examples": [
+          {
+            "sentence": "Our team massacred the opponents in the finals.",
+            "translation": "我们的队伍在决赛中痛击了对手。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "slaughter",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "屠杀，宰杀",
+          "english": "The killing of many people or animals in a cruel way."
+        },
+        "examples": [
+          {
+            "sentence": "The troops carried out a brutal slaughter.",
+            "translation": "部队进行了一场残忍的屠杀。"
+          }
+        ]
+      },
+      {
+        "word": "butchery",
+        "type": "noun",
+        "definition": {
+          "chinese": "大屠杀，残暴行为",
+          "english": "Cruel and unnecessary killing; savage violence."
+        },
+        "examples": [
+          {
+            "sentence": "The dictator’s regime was responsible for mass butchery.",
+            "translation": "独裁者的政权制造了大规模的屠杀。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "严重语义色彩",
+        "explanation": "作名词时多用于战争、历史或新闻报道，语气非常沉重；作动词时语气同样强烈。"
+      },
+      {
+        "point": "比喻用法",
+        "explanation": "在体育、辩论等语境中可夸张地用来形容一方被彻底击败。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自16世纪中古法语 *massacrer*，源于 *massacre*（大屠杀）。原义是残酷杀戮，后被比喻用于体育和竞争的惨败。",
+      "explanation_english": "From Middle French *massacrer*, based on *massacre* meaning slaughter. Originally literal killing, later extended figuratively to crushing defeats."
+    },
+    "variation_between_british_american": {
+      "british": "比喻用法稍微少见，多强调真实的历史或新闻事件。",
+      "american": "比喻用法更常见，尤其在体育、娱乐语境中。"
+    }
+  },
+  {
+    "word": "uninhabited",
+    "pronunciation": {
+      "british": "/ˌʌnɪnˈhæbɪtɪd/ 🇬🇧",
+      "american": "/ˌʌnɪnˈhæbɪtɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：指没有人居住的，多用于描述岛屿、房屋、地区。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "无人居住的",
+          "english": "Without inhabitants; not lived in by people."
+        },
+        "examples": [
+          {
+            "sentence": "They discovered an uninhabited island in the Pacific.",
+            "translation": "他们在太平洋发现了一座无人居住的岛屿。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "deserted",
+        "type": "adjective",
+        "definition": {
+          "chinese": "荒废的，荒无人烟的",
+          "english": "Empty of people; abandoned."
+        },
+        "examples": [
+          {
+            "sentence": "The street looked deserted after midnight.",
+            "translation": "午夜过后街道显得空无一人。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "与 deserted 区别",
+        "explanation": "uninhabited 强调从来没有人居住；deserted 强调原本有人后来被遗弃。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由前缀 un-（否定）+ inhabited（有人居住的）组成，直译即“无人居住的”。",
+      "explanation_english": "Formed from un- (not) + inhabited, literally meaning 'not inhabited'."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "用法与英式一致。"
+    }
+  },
+  {
+    "word": "work study program",
+    "pronunciation": {
+      "british": "/wɜːk ˈstʌdi ˌprəʊɡræm/ 🇬🇧",
+      "american": "/wɜːrk ˈstʌdi ˌproʊɡræm/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用 👍：主要在教育和就业体系中，指学生一边学习一边工作的项目（通常兼职）。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "工学结合项目",
+          "english": "A program that allows students to work part-time while studying, often to help cover expenses."
+        },
+        "examples": [
+          {
+            "sentence": "She pays her tuition through a work study program.",
+            "translation": "她通过工学结合项目来支付学费。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "internship",
+        "type": "noun",
+        "definition": {
+          "chinese": "实习",
+          "english": "A temporary job related to a student’s field of study, often unpaid or for credit."
+        },
+        "examples": [
+          {
+            "sentence": "He did an internship at a law firm.",
+            "translation": "他在一家律师事务所实习。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "教育语境",
+        "explanation": "美国大学中很常见，特别是政府资助的 *Federal Work-Study Program*。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 work（工作）+ study（学习）组合而来，直指“边工作边学习”的制度。",
+      "explanation_english": "Combination of 'work' and 'study', directly describing the practice of combining employment with education."
+    },
+    "variation_between_british_american": {
+      "british": "较少使用‘work study program’，更多说‘work placement’或‘sandwich course’。",
+      "american": "‘Work-study program’ 在大学教育体系中非常常见。"
+    }
+  },
+  {
+    "word": "textbook",
+    "pronunciation": {
+      "british": "/ˈtekstbʊk/ 🇬🇧",
+      "american": "/ˈtekstbʊk/ 🇺🇸"
+    },
+    "phrase_type": "noun / adjective",
+    "usage": "非常常用 👍：指学生用的教材；作形容词时表示“典型的、标准的”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "教科书，教材",
+          "english": "A book used as a standard source of information on a particular subject, especially in schools or colleges."
+        },
+        "examples": [
+          {
+            "sentence": "The biology textbook covers genetics in detail.",
+            "translation": "这本生物教材详细讲解了遗传学。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "典型的，标准的",
+          "english": "Conforming to what is usual or expected; classic or typical."
+        },
+        "examples": [
+          {
+            "sentence": "It was a textbook example of good teamwork.",
+            "translation": "这是一个典型的良好团队合作的例子。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "manual",
+        "type": "noun",
+        "definition": {
+          "chinese": "手册，指南",
+          "english": "A book giving instructions or information."
+        },
+        "examples": [
+          {
+            "sentence": "I need the user manual to fix this device.",
+            "translation": "我需要用户手册来修理这个设备。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性",
+        "explanation": "名词是最常见的“教材”意义；形容词义为“典型的”，是一种比喻延伸。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 text（正文、文字）+ book（书）构成，本义是学习用书。形容词“典型的”是后续延伸，因教材常作为“标准例子”。",
+      "explanation_english": "Formed from 'text' + 'book', originally a learning resource. The adjective sense 'typical' is an extension, since textbooks usually present model cases."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式相同，教材通用。",
+      "american": "用法相同，但‘textbook example’在口语中非常常见。"
+    }
+  },
+  {
+    "word": "nomad",
+    "pronunciation": {
+      "british": "/ˈnəʊ.mæd/ 🇬🇧",
+      "american": "/ˈnoʊ.mæd/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指没有固定住所、随季节或工作而迁徙的人，也可比喻现代四处漂泊的人。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "游牧民族的人；四处漂泊的人",
+          "english": "A member of a community with no fixed home, moving from place to place; also used figuratively for someone who moves frequently."
+        },
+        "examples": [
+          {
+            "sentence": "The desert nomads travel with their herds in search of water and pasture.",
+            "translation": "沙漠游牧民族随他们的牲畜迁徙寻找水源和牧草。"
+          },
+          {
+            "sentence": "After college, he lived like a nomad, moving from city to city.",
+            "translation": "大学毕业后，他过着像游牧人一样的生活，从一个城市搬到另一个城市。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "wanderer",
+        "type": "noun",
+        "definition": {
+          "chinese": "流浪者，漫游者",
+          "english": "A person who moves from place to place without a permanent home."
+        },
+        "examples": [
+          {
+            "sentence": "He was a wanderer with no place to call home.",
+            "translation": "他是一个没有归属的流浪者。"
+          }
+        ]
+      },
+      {
+        "word": "migrant",
+        "type": "noun",
+        "definition": {
+          "chinese": "迁徙者，移民",
+          "english": "A person who moves from one region to another, often for work."
+        },
+        "examples": [
+          {
+            "sentence": "Migrant workers travel seasonally to find employment.",
+            "translation": "流动工人季节性地迁移寻找工作。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "现代比喻用法",
+        "explanation": "除了传统的游牧民族，现在常用“digital nomad”指‘数字游民’，即依靠网络远程工作的人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语“nomas”（游牧人，放牧者），后来被引申为任何没有固定住所、四处漂泊的人。",
+      "explanation_english": "From Greek ‘nomas’ meaning ‘roaming, pasturing,’ extended to anyone without a fixed home."
+    },
+    "variation_between_british_american": {
+      "british": "用法和美式基本相同，但“digital nomad”在欧洲语境下更常见。",
+      "american": "常用于文学或现代语境，如 describing backpackers, freelancers, or gig workers."
+    }
   }
-},
-{
-  "word": "cannibals",
-  "pronunciation": {
-    "british": "/ˈkænɪbəlz/ 🇬🇧",
-    "american": "/ˈkænɪbəlz/ 🇺🇸"
-  },
-  "phrase_type": "noun（复数）",
-  "usage": "常用于历史、文化或文学语境 ⚠️：指食人者，偶尔可用于比喻极端竞争或自相残杀的情况。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "食人者",
-        "english": "People who eat the flesh of other humans."
-      },
-      "examples": [
-        {
-          "sentence": "The explorers feared encountering cannibals in the remote jungle.",
-          "translation": "探险者害怕在偏远丛林中遇到食人族。"
-        }
-      ]
-    },
-    {
-      "type": "noun（比喻）",
-      "definition": {
-        "chinese": "残酷竞争者，自相残杀者",
-        "english": "People or groups who aggressively compete or destroy each other."
-      },
-      "examples": [
-        {
-          "sentence": "In the cutthroat industry, the firms behaved like cannibals.",
-          "translation": "在这个竞争激烈的行业里，各公司像食人者一样互相残杀。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "anthropophagist",
-      "type": "noun",
-      "definition": {
-        "chinese": "人食者",
-        "english": "A person who eats human flesh."
-      },
-      "examples": [
-        {
-          "sentence": "Ancient myths often describe anthropophagists living in distant lands.",
-          "translation": "古代神话常描述住在遥远地区的人食者。"
-        }
-      ]
-    },
-    {
-      "word": "predator",
-      "type": "noun",
-      "definition": {
-        "chinese": "掠食者",
-        "english": "An animal or person that preys on others."
-      },
-      "examples": [
-        {
-          "sentence": "In business, some companies act as predators.",
-          "translation": "在商业中，有些公司像掠食者一样行事。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语境重要",
-      "explanation": "cannibals 主要用于历史、文学、文化报道，日常口语中多为比喻用法。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自西班牙语 *caníbal*（加勒比地区某些土著民族），原义指食人族，后来比喻极端竞争或互相残杀。",
-    "explanation_english": "From Spanish *caníbal* (Carib people), originally referring to human-eating tribes, later metaphorically extended to ruthless competitors or self-destructive behavior."
-  },
-  "variation_between_british_american": {
-    "british": "正式或文学语境常用，口语中比喻用法较常见。",
-    "american": "用法相同，比喻用法在商业或体育语境中更常出现。"
-  }
-},
-{
-  "word": "excursion",
-  "pronunciation": {
-    "british": "/ɪkˈskɜːʃn/ 🇬🇧",
-    "american": "/ɪkˈskɜːrʒən/ 🇺🇸"
-  },
-  "phrase_type": "noun",
-  "usage": "常用 👍：多用于旅行、学校活动或短途游览，也可引申为偏离、偏转。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "短途旅行，远足",
-        "english": "A short journey or trip, especially for leisure, education, or sightseeing."
-      },
-      "examples": [
-        {
-          "sentence": "The students went on an excursion to the museum.",
-          "translation": "学生们去博物馆进行了短途游。"
-        }
-      ]
-    },
-    {
-      "type": "noun（引申）",
-      "definition": {
-        "chinese": "偏离，偏转",
-        "english": "A brief deviation or digression from a main subject or path."
-      },
-      "examples": [
-        {
-          "sentence": "The lecture included an excursion into ancient history.",
-          "translation": "讲座中有一段关于古代历史的插曲。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "outing",
-      "type": "noun",
-      "definition": {
-        "chinese": "外出活动，短途游玩",
-        "english": "A short trip or excursion for pleasure or education."
-      },
-      "examples": [
-        {
-          "sentence": "We had a family outing to the beach.",
-          "translation": "我们全家去海滩进行了短途游。"
-        }
-      ]
-    },
-    {
-      "word": "trip",
-      "type": "noun",
-      "definition": {
-        "chinese": "旅行，行程",
-        "english": "A journey or voyage from one place to another."
-      },
-      "examples": [
-        {
-          "sentence": "We went on a weekend trip to the mountains.",
-          "translation": "我们周末去山里旅行。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "正式语感",
-      "explanation": "excursion 相比 outing 更正式，常用于学校、旅游或官方行程。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 *excursio*（奔出、远行），原指出发、外出，后引申为短途游览或偏离主题的插入。",
-    "explanation_english": "From Latin *excursio* ('a running out, sally'), originally meaning a departure or outing, later extended to short trips and metaphorical digressions."
-  },
-  "variation_between_british_american": {
-    "british": "常用于学校组织的短途游或正式旅行场合。",
-    "american": "用法相同，也用于教育、旅游和户外活动场景。"
-  }
-},
-{
-  "word": "salvation",
-  "pronunciation": {
-    "british": "/sælˈveɪʃn/ 🇬🇧",
-    "american": "/sælˈveɪʃn/ 🇺🇸"
-  },
-  "phrase_type": "noun（不可数/可数）",
-  "usage": "较常用 👍：在宗教语境中表示“灵魂得救”，在日常语境中也可比喻“拯救、解脱”。",
-  "meanings": [
-    {
-      "type": "noun（宗教）",
-      "definition": {
-        "chinese": "救赎，得救",
-        "english": "Deliverance from sin and its consequences, often regarded as being granted by divine grace."
-      },
-      "examples": [
-        {
-          "sentence": "Many people seek salvation through faith.",
-          "translation": "许多人通过信仰寻求救赎。"
-        }
-      ]
-    },
-    {
-      "type": "noun（引申）",
-      "definition": {
-        "chinese": "解救，拯救",
-        "english": "A source of help or relief in a time of difficulty or crisis."
-      },
-      "examples": [
-        {
-          "sentence": "Exercise was his salvation during stressful times.",
-          "translation": "在压力大的时候，锻炼是他的解脱。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "deliverance",
-      "type": "noun",
-      "definition": {
-        "chinese": "解救，解脱",
-        "english": "The action of being rescued or set free."
-      },
-      "examples": [
-        {
-          "sentence": "They prayed for deliverance from suffering.",
-          "translation": "他们祈祷能从痛苦中解脱。"
-        }
-      ]
-    },
-    {
-      "word": "redemption",
-      "type": "noun",
-      "definition": {
-        "chinese": "救赎，赎回",
-        "english": "The action of saving or being saved from error or evil; in finance, buying back a bond or security."
-      },
-      "examples": [
-        {
-          "sentence": "The story is about guilt and redemption.",
-          "translation": "这个故事讲的是罪与救赎。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语域",
-      "explanation": "宗教语境中 salvation 几乎专指灵魂的得救；在非宗教语境中，更多是一种比喻性的“救星”或“解脱”。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 *salvatio*（拯救），来自 *salvare*（拯救、保全），最初用于宗教语境，后来引申到一般的救助或解脱。",
-    "explanation_english": "From Latin *salvatio*, from *salvare* ('to save'), originally referring to spiritual deliverance, later extended to general rescue or relief."
-  },
-  "variation_between_british_american": {
-    "british": "在文学和宗教文本中较常见。",
-    "american": "同样广泛使用，常见于宗教演讲、文学和日常比喻。"
-  }
-},
-{
-  "word": "hospitality",
-  "pronunciation": {
-    "british": "/ˌhɒspɪˈtæləti/ 🇬🇧",
-    "american": "/ˌhɑːspɪˈtæləti/ 🇺🇸"
-  },
-  "phrase_type": "noun（不可数）",
-  "usage": "常用 👍：既用于描述“好客、热情招待”，也作为产业术语（酒店、旅游、餐饮业统称）。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "好客，殷勤",
-        "english": "The friendly and generous reception and entertainment of guests, visitors, or strangers."
-      },
-      "examples": [
-        {
-          "sentence": "Thank you for your warm hospitality during my stay.",
-          "translation": "感谢你在我逗留期间的热情款待。"
-        }
-      ]
-    },
-    {
-      "type": "noun（行业用法）",
-      "definition": {
-        "chinese": "酒店和旅游业",
-        "english": "The business of providing services such as lodging, food, and entertainment for visitors."
-      },
-      "examples": [
-        {
-          "sentence": "She works in the hospitality industry.",
-          "translation": "她在酒店和旅游行业工作。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "cordiality",
-      "type": "noun",
-      "definition": {
-        "chinese": "热诚，真挚",
-        "english": "Warm and sincere friendliness."
-      },
-      "examples": [
-        {
-          "sentence": "He greeted us with great cordiality.",
-          "translation": "他非常热情地迎接了我们。"
-        }
-      ]
-    },
-    {
-      "word": "accommodation",
-      "type": "noun",
-      "definition": {
-        "chinese": "住宿",
-        "english": "A place to stay, especially in hotels or guesthouses."
-      },
-      "examples": [
-        {
-          "sentence": "The price includes food and accommodation.",
-          "translation": "价格包括食物和住宿。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语境差异",
-      "explanation": "在日常交流中，hospitality 更常指人的热情好客；在商业环境中则指行业。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 *hospitalitas*，本义是“对客人的友善对待”，后来引申到提供住宿、餐饮等服务的行业。",
-    "explanation_english": "From Latin *hospitalitas* ('friendliness to guests'), originally meant warm reception, later extended to the lodging and tourism industry."
-  },
-  "variation_between_british_american": {
-    "british": "在商业语境中常与 'hospitality sector' 或 'hospitality trade' 搭配。",
-    "american": "常用 'hospitality industry' 来指代酒店、餐饮、旅游业。"
-  }
-},
-{
-  "word": "renown",
-  "pronunciation": {
-    "british": "/rɪˈnaʊn/ 🇬🇧",
-    "american": "/rɪˈnaʊn/ 🇺🇸"
-  },
-  "phrase_type": "noun（不可数）",
-  "usage": "较常用 👍：多用于正式或文学语境，表示名声、声誉，通常带有积极色彩。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "名声，声誉",
-        "english": "The state of being widely known and admired for achievements or qualities."
-      },
-      "examples": [
-        {
-          "sentence": "She achieved international renown as a scientist.",
-          "translation": "她作为一名科学家获得了国际声誉。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "fame",
-      "type": "noun",
-      "definition": {
-        "chinese": "名望，声誉（中性或偏正面）",
-        "english": "The state of being known by many people."
-      },
-      "examples": [
-        {
-          "sentence": "The actor rose to fame after his first film.",
-          "translation": "这位演员在第一部电影后成名。"
-        }
-      ]
-    },
-    {
-      "word": "reputation",
-      "type": "noun",
-      "definition": {
-        "chinese": "名声，口碑（可正可负）",
-        "english": "The beliefs or opinions generally held about someone or something."
-      },
-      "examples": [
-        {
-          "sentence": "The restaurant has a reputation for excellent service.",
-          "translation": "这家餐馆因优质服务而闻名。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语气色彩",
-      "explanation": "renown 带有文学感，多用于正式书写或演讲，语气比 fame 更高雅。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自古法语 *renom*（名声），再追溯到拉丁语 *renomen*，由 *re-*（再）+ *nomen*（名字）组成，本义是“名字广为传播”，后稳定为“声誉”。",
-    "explanation_english": "From Old French *renom*, from Latin *renomen* ('re-' meaning 'again' + 'nomen' meaning 'name'), originally 'a name made known widely', later specialized to 'fame, reputation'."
-  },
-  "variation_between_british_american": {
-    "british": "使用频率略低于 reputation 或 fame，偏正式。",
-    "american": "用法相同，也主要出现在正式或文学语境。"
-  }
-},
-{
-  "word": "acre",
-  "pronunciation": {
-    "british": "/ˈeɪkə/ 🇬🇧",
-    "american": "/ˈeɪkər/ 🇺🇸"
-  },
-  "phrase_type": "noun",
-  "usage": "常用 👍：主要用于表示土地面积的计量单位，也可泛指大片土地。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "英亩（面积单位，约等于 4046.86 平方米）",
-        "english": "A unit for measuring land area, equal to 4,840 square yards (about 4,047 square meters)."
-      },
-      "examples": [
-        {
-          "sentence": "The farm covers 200 acres.",
-          "translation": "这片农场占地 200 英亩。"
-        }
-      ]
-    },
-    {
-      "type": "noun（引申）",
-      "definition": {
-        "chinese": "大片土地",
-        "english": "A large expanse of land (used loosely, not as an exact measurement)."
-      },
-      "examples": [
-        {
-          "sentence": "Acres of forest were destroyed by the fire.",
-          "translation": "大片森林被大火摧毁了。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "hectare",
-      "type": "noun",
-      "definition": {
-        "chinese": "公顷（面积单位，1 公顷 = 10,000 平方米 ≈ 2.47 英亩）",
-        "english": "A metric unit for measuring land area, equal to 10,000 square meters."
-      },
-      "examples": [
-        {
-          "sentence": "The park is about 3 hectares in size.",
-          "translation": "这个公园大约有 3 公顷。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "计量单位的使用",
-      "explanation": "acre 属于英美传统单位，日常生活、房地产和农业中常用；在科学和国际场景中通常使用公顷（hectare）。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自古英语 *æcer*，原义为“田地、耕地”。后来被固定为土地面积的单位，也在口语中延伸为“大片土地”。",
-    "explanation_english": "From Old English *æcer* ('field, piece of arable land'). Later standardized as a unit of land measurement and extended figuratively to mean 'large areas of land'."
-  },
-  "variation_between_british_american": {
-    "british": "常用于农业、房地产，计量仍用 acre。",
-    "american": "同样广泛使用 acre，尤其在地产、农地买卖中。"
-  }
-},
-{
-  "word": "insomnia",
-  "pronunciation": {
-    "british": "/ɪnˈsɒmniə/ 🇬🇧",
-    "american": "/ɪnˈsɑːmniə/ 🇺🇸"
-  },
-  "phrase_type": "noun",
-  "usage": "非常常用 👍：医学和日常语境都常用，指难以入睡或保持睡眠状态。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "失眠",
-        "english": "The inability to fall asleep or stay asleep, despite the opportunity to do so."
-      },
-      "examples": [
-        {
-          "sentence": "He suffers from chronic insomnia.",
-          "translation": "他长期受失眠困扰。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "sleeplessness",
-      "type": "noun",
-      "definition": {
-        "chinese": "无法入睡，睡不着",
-        "english": "The state of being unable to sleep."
-      },
-      "examples": [
-        {
-          "sentence": "Sleeplessness can affect your health.",
-          "translation": "失眠会影响健康。"
-        }
-      ]
-    },
-    {
-      "word": "wakefulness",
-      "type": "noun",
-      "definition": {
-        "chinese": "清醒状态，无法入睡",
-        "english": "The state of being awake, especially when you are expected to be asleep."
-      },
-      "examples": [
-        {
-          "sentence": "His wakefulness at night is due to insomnia.",
-          "translation": "他夜间清醒是因为失眠。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "医学术语",
-      "explanation": "insomnia 常用于医疗、心理健康、健康文章或日常描述睡眠问题。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 *in-*（否定）+ *somnus*（睡眠），字面意思是“不睡眠”，主要含义集中在失眠，没有其他延伸义。",
-    "explanation_english": "From Latin *in-* ('not') + *somnus* ('sleep'), literally 'no sleep', primary meaning is insomnia; no major extensions."
-  },
-  "variation_between_british_american": {
-    "british": "用法与美式相同，正式或口语均可。",
-    "american": "相同，可用于医疗、心理健康或日常表达。"
-  }
-},
-{
-  "word": "energetic",
-  "pronunciation": {
-    "british": "/ˌenəˈdʒetɪk/ 🇬🇧",
-    "american": "/ˌenərˈdʒetɪk/ 🇺🇸"
-  },
-  "phrase_type": "adjective",
-  "usage": "非常常用 👍：用来形容人精力充沛、活力十足，也可形容行为、活动或运动富有活力。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "精力充沛的，充满活力的",
-        "english": "Showing or involving great activity or vitality."
-      },
-      "examples": [
-        {
-          "sentence": "The energetic child ran around the playground all afternoon.",
-          "translation": "那个精力充沛的孩子整个下午都在操场上跑来跑去。"
-        }
-      ]
-    },
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "积极的，主动的",
-        "english": "Actively and vigorously engaged in activity."
-      },
-      "examples": [
-        {
-          "sentence": "She is an energetic leader who motivates her team.",
-          "translation": "她是一位积极主动、充满活力的领导，能够激励团队。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "lively",
-      "type": "adjective",
-      "definition": {
-        "chinese": "生动的，活泼的",
-        "english": "Full of life and energy; spirited."
-      },
-      "examples": [
-        {
-          "sentence": "The party was lively and fun.",
-          "translation": "派对热闹而有趣。"
-        }
-      ]
-    },
-    {
-      "word": "vigorous",
-      "type": "adjective",
-      "definition": {
-        "chinese": "有力的，强健的",
-        "english": "Strong, healthy, and full of energy."
-      },
-      "examples": [
-        {
-          "sentence": "He enjoys vigorous exercise every morning.",
-          "translation": "他喜欢每天早晨进行剧烈运动。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "词义色彩",
-      "explanation": "energetic 多用于正面评价，形容人或行为积极有力。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自希腊语 *energetikos*（积极的，有活力的），原义指行动力强，后引申到形容人和行为充满活力。",
-    "explanation_english": "From Greek *energetikos* ('active, effective'), originally describing forceful action, later extended to people and behaviors full of energy."
-  },
-  "variation_between_british_american": {
-    "british": "常用于形容儿童、运动或领导力，书面语和口语皆可。",
-    "american": "用法相同，也常用于商业、教育和体育场景。"
-  }
-},
-{
-  "word": "miserable",
-  "pronunciation": {
-    "british": "/ˈmɪzərəbəl/ 🇬🇧",
-    "american": "/ˈmɪzərəbəl/ 🇺🇸"
-  },
-  "phrase_type": "adjective",
-  "usage": "非常常用 👍：可形容人的情绪极差，也可指生活、环境等令人痛苦或不舒服。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "痛苦的，难受的",
-        "english": "Feeling very unhappy or uncomfortable."
-      },
-      "examples": [
-        {
-          "sentence": "He felt miserable after losing his job.",
-          "translation": "他失业后感到非常痛苦。"
-        }
-      ]
-    },
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "悲惨的，艰苦的",
-        "english": "Very poor or of low quality; causing suffering."
-      },
-      "examples": [
-        {
-          "sentence": "They lived in miserable conditions.",
-          "translation": "他们生活在悲惨的环境中。"
-        }
-      ]
-    },
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "极少的，微不足道的",
-        "english": "Very small or inadequate in amount or quality."
-      },
-      "examples": [
-        {
-          "sentence": "He earned a miserable salary.",
-          "translation": "他挣着微薄的工资。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "unhappy",
-      "type": "adjective",
-      "definition": {
-        "chinese": "不开心的",
-        "english": "Not happy or joyful."
-      },
-      "examples": [
-        {
-          "sentence": "She was unhappy with the decision.",
-          "translation": "她对这个决定不满意。"
-        }
-      ]
-    },
-    {
-      "word": "wretched",
-      "type": "adjective",
-      "definition": {
-        "chinese": "可怜的，悲惨的",
-        "english": "Very bad, unpleasant, or unfortunate."
-      },
-      "examples": [
-        {
-          "sentence": "They lived in wretched conditions.",
-          "translation": "他们生活在悲惨的环境中。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语义强烈",
-      "explanation": "miserable 可以形容心理状态、生活环境或数量，非常强调负面感受。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 *miserabilis*（可悲的、可怜的），原义是可悲，引申出心理痛苦、生活艰苦和微薄数量的含义。",
-    "explanation_english": "From Latin *miserabilis* ('wretched, pitiable'), originally meant 'to be pitied', later extended to describe emotional misery, poor living conditions, or meager amounts."
-  },
-  "variation_between_british_american": {
-    "british": "用法与美式相同，但在口语中可更夸张形容天气或环境，如 'miserable day'。",
-    "american": "同样常用，可用于描述心情、工资、天气或环境。"
-  }
-},
-{
-  "word": "punctual",
-  "pronunciation": {
-    "british": "/ˈpʌŋktʃuəl/ 🇬🇧",
-    "american": "/ˈpʌŋktʃuəl/ 🇺🇸"
-  },
-  "phrase_type": "adjective",
-  "usage": "常用 👍：表示守时，强调按时到达或完成任务，是正式与日常语境都常见的词。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "准时的，守时的",
-        "english": "Arriving, happening, or doing something at the expected or scheduled time."
-      },
-      "examples": [
-        {
-          "sentence": "She is always punctual for meetings.",
-          "translation": "她开会总是准时。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "on time",
-      "type": "adjective/phrase",
-      "definition": {
-        "chinese": "按时，准时",
-        "english": "Happening or done at the planned time."
-      },
-      "examples": [
-        {
-          "sentence": "The train arrived on time.",
-          "translation": "火车准时到达。"
-        }
-      ]
-    },
-    {
-      "word": "prompt",
-      "type": "adjective",
-      "definition": {
-        "chinese": "迅速的，准时的",
-        "english": "Done without delay; on time."
-      },
-      "examples": [
-        {
-          "sentence": "She was prompt in replying to emails.",
-          "translation": "她回复邮件非常及时。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "正式语境偏好",
-      "explanation": "punctual 比 on time 更正式，更适合书面语、工作或教育场景。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 *punctum*（点），引申为“按点时间到达”，因此主要意义集中在守时。",
-    "explanation_english": "From Latin *punctum* ('point'), extended to mean arriving 'at the point in time', hence the primary meaning of being on time."
-  },
-  "variation_between_british_american": {
-    "british": "正式与口语都使用 punctual，常用于学校和工作场景。",
-    "american": "使用相同，尤其用于工作或正式场合，但口语中可更常用 on time。"
-  }
-},
-{
-  "word": "benevolent",
-  "pronunciation": {
-    "british": "/bəˈnevələnt/ 🇬🇧",
-    "american": "/bəˈnevələnt/ 🇺🇸"
-  },
-  "phrase_type": "adjective",
-  "usage": "常用于正式或文学语境 👍：形容人心地善良、仁慈，或机构/行为带有慈善性质。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "仁慈的，善意的",
-        "english": "Well-meaning and kindly."
-      },
-      "examples": [
-        {
-          "sentence": "She gave him a benevolent smile.",
-          "translation": "她给了他一个善意的微笑。"
-        }
-      ]
-    },
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "慈善的，行善的",
-        "english": "Serving charitable rather than profit-making purposes."
-      },
-      "examples": [
-        {
-          "sentence": "He donated a large sum to a benevolent fund.",
-          "translation": "他捐了一大笔钱给慈善基金。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "kindly",
-      "type": "adjective/adverb",
-      "definition": {
-        "chinese": "和善的，亲切的",
-        "english": "Kind, gentle, and friendly."
-      },
-      "examples": [
-        {
-          "sentence": "He spoke in a kindly voice.",
-          "translation": "他用亲切的声音说话。"
-        }
-      ]
-    },
-    {
-      "word": "charitable",
-      "type": "adjective",
-      "definition": {
-        "chinese": "慈善的，仁厚的",
-        "english": "Generous in giving help to the needy."
-      },
-      "examples": [
-        {
-          "sentence": "She works for a charitable organization.",
-          "translation": "她在一家慈善机构工作。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语体偏正式",
-      "explanation": "benevolent 常见于文学、演讲或正式语境，在日常口语中，人们更常说 kind 或 nice。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自拉丁语 *bene*（好）+ *velle*（愿望），字面意思是“希望他人好”，因此既可形容人心地善良，也可指带有慈善目的的机构或行为。",
-    "explanation_english": "From Latin *bene* ('well') + *velle* ('to wish'), literally 'to wish well'. Extended from describing a person's goodwill to describing charitable acts or organizations."
-  },
-  "variation_between_british_american": {
-    "british": "常见于文学和慈善机构名称，如 'Benevolent Fund'。",
-    "american": "同样使用，但在日常语境中更多人会选择 simpler words（如 kind, good-hearted）。"
-  }
-},
-{
-  "word": "massacre",
-  "pronunciation": {
-    "british": "/ˈmæsəkə/ 🇬🇧",
-    "american": "/ˈmæsəkər/ 🇺🇸"
-  },
-  "phrase_type": "noun/verb",
-  "usage": "常用于正式和历史语境 ⚠️：指大规模屠杀，也可比喻彻底击败或惨败。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "大屠杀，残杀",
-        "english": "The violent killing of many people, especially those unable to defend themselves."
-      },
-      "examples": [
-        {
-          "sentence": "The soldiers were accused of participating in a massacre.",
-          "translation": "士兵们被指控参与了一场大屠杀。"
-        }
-      ]
-    },
-    {
-      "type": "noun（比喻）",
-      "definition": {
-        "chinese": "惨败，彻底失败",
-        "english": "An overwhelming defeat in a competition or contest."
-      },
-      "examples": [
-        {
-          "sentence": "The game was a complete massacre — the score was 10 to 0.",
-          "translation": "比赛完全是一场惨败——比分是 10 比 0。"
-        }
-      ]
-    },
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "屠杀，大规模杀戮",
-        "english": "To kill a large number of people in a cruel or violent way."
-      },
-      "examples": [
-        {
-          "sentence": "The army massacred innocent villagers.",
-          "translation": "军队屠杀了无辜的村民。"
-        }
-      ]
-    },
-    {
-      "type": "verb（比喻）",
-      "definition": {
-        "chinese": "惨败，痛击",
-        "english": "To defeat thoroughly in a game or contest."
-      },
-      "examples": [
-        {
-          "sentence": "Our team massacred the opponents in the finals.",
-          "translation": "我们的队伍在决赛中痛击了对手。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "slaughter",
-      "type": "noun/verb",
-      "definition": {
-        "chinese": "屠杀，宰杀",
-        "english": "The killing of many people or animals in a cruel way."
-      },
-      "examples": [
-        {
-          "sentence": "The troops carried out a brutal slaughter.",
-          "translation": "部队进行了一场残忍的屠杀。"
-        }
-      ]
-    },
-    {
-      "word": "butchery",
-      "type": "noun",
-      "definition": {
-        "chinese": "大屠杀，残暴行为",
-        "english": "Cruel and unnecessary killing; savage violence."
-      },
-      "examples": [
-        {
-          "sentence": "The dictator’s regime was responsible for mass butchery.",
-          "translation": "独裁者的政权制造了大规模的屠杀。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "严重语义色彩",
-      "explanation": "作名词时多用于战争、历史或新闻报道，语气非常沉重；作动词时语气同样强烈。"
-    },
-    {
-      "point": "比喻用法",
-      "explanation": "在体育、辩论等语境中可夸张地用来形容一方被彻底击败。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自16世纪中古法语 *massacrer*，源于 *massacre*（大屠杀）。原义是残酷杀戮，后被比喻用于体育和竞争的惨败。",
-    "explanation_english": "From Middle French *massacrer*, based on *massacre* meaning slaughter. Originally literal killing, later extended figuratively to crushing defeats."
-  },
-  "variation_between_british_american": {
-    "british": "比喻用法稍微少见，多强调真实的历史或新闻事件。",
-    "american": "比喻用法更常见，尤其在体育、娱乐语境中。"
-  }
-}
-
-
-
-
-
-
-
-
-
-
-
 ]
 
 

@@ -148,15 +148,17 @@
 
 <body>
   <button onclick="refreshPage()" class="btn">refresh</button>
+  <div>
+    <input type="text" id="seach">
+    <button id="seach_btn">搜索</button>
+  </div>
   <div id="app"></div>
   <script src="./wordData.js"></script>
   <script>
 
 
     const app = document.getElementById("app");
-    // Randomly select one word object from the array
     const selectedWord = wordData[Math.floor(Math.random() * wordData.length)];
-    // const selectedWord = wordData[wordData.length - 1];
     [selectedWord].forEach(word => {
       const card = document.createElement("div");
       card.className = "word-card";
