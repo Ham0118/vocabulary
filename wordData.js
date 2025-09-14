@@ -34648,6 +34648,449 @@ const wordData = [
       "british": "用法和美式基本相同，但“digital nomad”在欧洲语境下更常见。",
       "american": "常用于文学或现代语境，如 describing backpackers, freelancers, or gig workers."
     }
+  },
+  {
+    "word": "deluxe",
+    "pronunciation": {
+      "british": "/dɪˈlʌks/ 🇬🇧",
+      "american": "/dɪˈlʌks/ 或 /dəˈlʌks/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：表示“豪华的，高档的”，常用于酒店、餐饮、产品描述中。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "豪华的，高档的",
+          "english": "Luxurious, of better quality, often offering extra features or comfort."
+        },
+        "examples": [
+          {
+            "sentence": "We booked a deluxe room with a sea view.",
+            "translation": "我们订了一间带海景的豪华客房。"
+          },
+          {
+            "sentence": "This burger comes in a deluxe version with extra cheese and bacon.",
+            "translation": "这款汉堡有豪华版，配有额外的奶酪和培根。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "luxurious",
+        "type": "adjective",
+        "definition": {
+          "chinese": "奢华的，极为舒适的",
+          "english": "Extremely comfortable, elegant, or enjoyable, especially in a costly way."
+        },
+        "examples": [
+          {
+            "sentence": "They stayed at a luxurious resort in the Maldives.",
+            "translation": "他们住在马尔代夫的一家豪华度假村。"
+          }
+        ]
+      },
+      {
+        "word": "premium",
+        "type": "adjective",
+        "definition": {
+          "chinese": "高端的，优质的",
+          "english": "Of higher quality or cost, often marketed as superior."
+        },
+        "examples": [
+          {
+            "sentence": "This is a premium coffee brand.",
+            "translation": "这是一个高端咖啡品牌。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "营销用词",
+        "explanation": "“deluxe”常用于商业和广告中，吸引顾客时表示‘更豪华的选择’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语“de luxe”，字面意为“奢华的”。进入英语后，固定用来表示‘豪华版’。",
+      "explanation_english": "Borrowed from French ‘de luxe’ meaning ‘of luxury,’ adopted into English to describe upgraded or superior quality."
+    },
+    "variation_between_british_american": {
+      "british": "常用于酒店、旅游或餐饮行业描述，如 deluxe suite。",
+      "american": "用法相同，也常见于产品广告，如 deluxe edition of a game/album."
+    }
+  },
+  {
+    "word": "we play it by ear",
+    "pronunciation": {
+      "british": "/pleɪ ɪt baɪ ɪə/ 🇬🇧",
+      "american": "/pleɪ ɪt baɪ ɪr/ 🇺🇸"
+    },
+    "phrase_type": "idiom",
+    "usage": "常用 👍：表示“随机应变”，不按计划，而是看情况而定。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "随机应变",
+          "english": "To deal with a situation as it develops, without a fixed plan."
+        },
+        "examples": [
+          {
+            "sentence": "We don’t have a strict plan for the weekend, we’ll just play it by ear.",
+            "translation": "周末我们没有严格的计划，就随机应变吧。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "wing it",
+        "type": "idiom",
+        "definition": {
+          "chinese": "即兴发挥",
+          "english": "To do something without preparation."
+        },
+        "examples": [
+          {
+            "sentence": "I didn’t prepare for the speech, I just winged it.",
+            "translation": "我没准备演讲，直接即兴发挥了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "音乐起源",
+        "explanation": "源自音乐，意为凭耳朵听音演奏而不是看乐谱，后来引申为‘随机应变’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指音乐即兴演奏，后来被比喻为做事随机应变。",
+      "explanation_english": "Originally meant to play music by listening rather than reading notes, extended metaphorically to mean improvising."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同，非常常见。"
+    }
+  },
+  {
+    "word": "denial",
+    "pronunciation": {
+      "british": "/dɪˈnaɪ.əl/ 🇬🇧",
+      "american": "/dɪˈnaɪ.əl/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指否认、拒绝，心理学中也指‘否认阶段’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "否认；拒绝",
+          "english": "The refusal to accept the truth or existence of something."
+        },
+        "examples": [
+          {
+            "sentence": "She shook her head in denial.",
+            "translation": "她摇头表示否认。"
+          },
+          {
+            "sentence": "Denial is often the first stage of grief.",
+            "translation": "否认通常是悲伤的第一个阶段。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "refusal",
+        "type": "noun",
+        "definition": {
+          "chinese": "拒绝",
+          "english": "The act of saying no or rejecting something."
+        },
+        "examples": [
+          {
+            "sentence": "His refusal surprised everyone.",
+            "translation": "他的拒绝让大家感到惊讶。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "心理学用法",
+        "explanation": "在心理学中，denial 是常见的防御机制。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语“denegare”，意为‘否认’。",
+      "explanation_english": "From Latin ‘denegare,’ meaning ‘to deny or refuse.’"
+    },
+    "variation_between_british_american": {
+      "british": "无明显差异。",
+      "american": "常用于心理学语境。"
+    }
+  },
+  {
+    "word": "acceptance",
+    "pronunciation": {
+      "british": "/əkˈsep.təns/ 🇬🇧",
+      "american": "/əkˈsep.təns/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指接受、认可，也指‘接受现实’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "接受，认可",
+          "english": "The act of agreeing to take something offered, or coming to terms with reality."
+        },
+        "examples": [
+          {
+            "sentence": "Her acceptance of the award was humble and sincere.",
+            "translation": "她谦逊而真诚地接受了奖项。"
+          },
+          {
+            "sentence": "Acceptance is the final stage of grief.",
+            "translation": "接受是悲伤的最后阶段。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "approval",
+        "type": "noun",
+        "definition": {
+          "chinese": "认可，批准",
+          "english": "The belief that something or someone is good or acceptable."
+        },
+        "examples": [
+          {
+            "sentence": "The project won government approval.",
+            "translation": "该项目获得了政府批准。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "情绪阶段",
+        "explanation": "在悲伤五阶段模型中，acceptance 是最后一步，意味着与现实和解。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语‘acceptare’，意为‘接受’。",
+      "explanation_english": "From Latin ‘acceptare,’ meaning ‘to receive, to accept.’"
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式语境，如“letter of acceptance”。",
+      "american": "用法相同，常见于心理学和日常语境。"
+    }
+  },
+  {
+    "word": "anger",
+    "pronunciation": {
+      "british": "/ˈæŋ.ɡə/ 🇬🇧",
+      "american": "/ˈæŋ.ɡɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb",
+    "usage": "常用 👍：名词表示愤怒，动词表示‘使发怒’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "愤怒",
+          "english": "A strong feeling of displeasure or hostility."
+        },
+        "examples": [
+          {
+            "sentence": "He struggled to control his anger.",
+            "translation": "他努力控制自己的愤怒。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使愤怒",
+          "english": "To make someone angry."
+        },
+        "examples": [
+          {
+            "sentence": "The unfair decision angered the workers.",
+            "translation": "不公平的决定激怒了工人们。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "rage",
+        "type": "noun",
+        "definition": {
+          "chinese": "暴怒",
+          "english": "Intense, uncontrolled anger."
+        },
+        "examples": [
+          {
+            "sentence": "She was shaking with rage.",
+            "translation": "她气得发抖。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "情绪阶段",
+        "explanation": "在悲伤五阶段模型中，anger 是第二阶段。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古诺斯语“angr”，意为‘悲伤，愤怒’。",
+      "explanation_english": "From Old Norse ‘angr’ meaning ‘grief, sorrow,’ later shifting to ‘anger.’"
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式和日常语境。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "agenda",
+    "pronunciation": {
+      "british": "/əˈdʒen.də/ 🇬🇧",
+      "american": "/əˈdʒen.də/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：可指会议议程，也可比喻‘隐藏的意图’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "议程，日程表",
+          "english": "A list of items to be discussed or acted upon at a meeting."
+        },
+        "examples": [
+          {
+            "sentence": "Let’s move to the next item on the agenda.",
+            "translation": "我们进入下一个议程。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（隐含的）意图，目的",
+          "english": "An underlying personal motive or plan, often hidden."
+        },
+        "examples": [
+          {
+            "sentence": "He clearly has his own agenda in pushing this policy.",
+            "translation": "他显然在推动这项政策时有自己的目的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "schedule",
+        "type": "noun",
+        "definition": {
+          "chinese": "时间表",
+          "english": "A plan of events or activities with times."
+        },
+        "examples": [
+          {
+            "sentence": "The meeting is on the schedule for Friday.",
+            "translation": "会议安排在周五。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义性",
+        "explanation": "正式语境下是‘议程’，非正式语境下常指‘个人目的’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语“agere”（做、行动），agenda 原意为‘要做的事’。",
+      "explanation_english": "From Latin ‘agenda,’ meaning ‘things to be done.’ Later extended to mean motives or hidden goals."
+    },
+    "variation_between_british_american": {
+      "british": "更常用于正式会议语境。",
+      "american": "除会议外，常用于‘hidden agenda’的比喻语境。"
+    }
+  },
+  {
+    "word": "burden",
+    "pronunciation": {
+      "british": "/ˈbɜː.dən/ 🇬🇧",
+      "american": "/ˈbɝː.dən/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb",
+    "usage": "常用 👍：名词指负担、压力；动词指‘使承担重担’。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "负担，重担",
+          "english": "A heavy load, duty, or responsibility that causes difficulty or stress."
+        },
+        "examples": [
+          {
+            "sentence": "Caring for his sick mother became a heavy burden.",
+            "translation": "照顾他生病的母亲成了沉重的负担。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使负担，压迫",
+          "english": "To cause someone to carry or deal with a heavy responsibility or difficulty."
+        },
+        "examples": [
+          {
+            "sentence": "She didn’t want to burden her friends with her problems.",
+            "translation": "她不想让朋友们为她的问题操心。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "load",
+        "type": "noun",
+        "definition": {
+          "chinese": "负荷，重担",
+          "english": "Something carried, often physically or emotionally."
+        },
+        "examples": [
+          {
+            "sentence": "He carried a heavy load on his back.",
+            "translation": "他背着沉重的负荷。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "burden 可指实际的重量，也常用于心理和责任上的压力。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古英语“byrthen”，意为‘承载之物’。后来引申为责任和心理负担。",
+      "explanation_english": "From Old English ‘byrthen,’ meaning ‘something carried.’ Extended to mean responsibilities and difficulties."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同样常见，尤其在法律和心理学语境中。"
+    }
   }
 ]
 
