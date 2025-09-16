@@ -35091,6 +35091,392 @@ const wordData = [
       "british": "用法一致。",
       "american": "同样常见，尤其在法律和心理学语境中。"
     }
+  },
+  {
+    "word": "contact lens",
+    "pronunciation": {
+      "british": "/ˈkɒn.tækt lenz/ 🇬🇧",
+      "american": "/ˈkɑːn.tækt lenz/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指隐形眼镜，直接戴在眼球上的矫正或美容镜片。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "隐形眼镜",
+          "english": "A thin lens placed directly on the surface of the eye to correct vision or for cosmetic purposes."
+        },
+        "examples": [
+          {
+            "sentence": "She wears contact lenses instead of glasses.",
+            "translation": "她戴隐形眼镜而不是眼镜。"
+          },
+          {
+            "sentence": "I lost a contact lens while swimming.",
+            "translation": "我在游泳时弄丢了一片隐形眼镜。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "glasses",
+        "type": "noun",
+        "definition": {
+          "chinese": "眼镜",
+          "english": "Lenses set in a frame worn on the face to correct vision."
+        },
+        "examples": [
+          {
+            "sentence": "He needs glasses to read.",
+            "translation": "他需要戴眼镜才能看书。"
+          }
+        ]
+      },
+      {
+        "word": "lens",
+        "type": "noun",
+        "definition": {
+          "chinese": "镜片",
+          "english": "A piece of transparent material used to focus or adjust vision."
+        },
+        "examples": [
+          {
+            "sentence": "The camera has a powerful zoom lens.",
+            "translation": "这台相机有一个强大的变焦镜头。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "复数形式",
+        "explanation": "通常说 contact lenses（隐形眼镜，复数），因为一副眼睛需要两片。"
+      },
+      {
+        "point": "缩写",
+        "explanation": "口语中常说“contacts”来代替 contact lenses。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由“contact”（接触）+ “lens”（镜片）组成，表示直接与眼睛接触的镜片。",
+      "explanation_english": "Formed from ‘contact’ + ‘lens,’ meaning a lens in direct contact with the eye."
+    },
+    "variation_between_british_american": {
+      "british": "常用复数形式 contact lenses；口语也说 contacts。",
+      "american": "用法相同，contacts 在美式口语中更普遍。"
+    }
+  },
+  {
+    "word": "brag",
+    "pronunciation": {
+      "british": "/bræɡ/ 🇬🇧",
+      "american": "/bræɡ/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun",
+    "usage": "常用 👍：多指自夸、吹嘘，既可作动词也可作名词。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "吹嘘，自夸",
+          "english": "To talk with pride, often in an exaggerated way, about something you have or have done."
+        },
+        "examples": [
+          {
+            "sentence": "He’s always bragging about his car.",
+            "translation": "他总是在吹嘘自己的车。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "爱自夸的人或行为",
+          "english": "A boastful statement or the person making it."
+        },
+        "examples": [
+          {
+            "sentence": "Her biggest brag is that she graduated top of her class.",
+            "translation": "她最喜欢吹嘘的是自己以班级第一的成绩毕业。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "boast",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "夸耀；夸口",
+          "english": "To speak with pride about an achievement or possession."
+        },
+        "examples": [
+          {
+            "sentence": "She boasted about her cooking skills.",
+            "translation": "她夸耀自己的厨艺。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气差别",
+        "explanation": "“brag”语气更负面，常带有贬义；“boast”既可正面（自豪）也可负面（自大）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初来源于古诺曼法语 *braguer*（炫耀、吹嘘），后在英语中既用作动词也用作名词，形成多义。",
+      "explanation_english": "Derived from Old Norman French *braguer* meaning ‘to flaunt, show off’, later adopted in English as both a verb and a noun."
+    },
+    "variation_between_british_american": {
+      "british": "较少用，常用“boast”。",
+      "american": "更常用“brag”，语气更口语化。"
+    }
+  },
+  {
+    "word": "by the window",
+    "pronunciation": {
+      "british": "/baɪ ðə ˈwɪndəʊ/ 🇬🇧",
+      "american": "/baɪ ðə ˈwɪndoʊ/ 🇺🇸"
+    },
+    "phrase_type": "prepositional phrase",
+    "usage": "常用 👍：表示空间位置，尤其在房间、餐厅、飞机、火车等场景中。",
+    "meanings": [
+      {
+        "type": "prepositional phrase",
+        "definition": {
+          "chinese": "在窗边",
+          "english": "Located next to or near a window."
+        },
+        "examples": [
+          {
+            "sentence": "I’d like a seat by the window, please.",
+            "translation": "我想要一个靠窗的座位。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "next to",
+        "type": "prepositional phrase",
+        "definition": {
+          "chinese": "紧挨着",
+          "english": "Very close to someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "She sat next to me on the bus.",
+            "translation": "她在公交车上坐在我旁边。"
+          }
+        ]
+      },
+      {
+        "word": "beside",
+        "type": "prepositional phrase",
+        "definition": {
+          "chinese": "在……旁边",
+          "english": "At the side of someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "He placed the lamp beside the bed.",
+            "translation": "他把灯放在床边。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "礼貌用法",
+        "explanation": "在餐厅或飞机上点位子时说“I’d like a seat by the window”比直接说“window seat”更礼貌柔和。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "“by”源自古英语 *bi*，表示“在……旁边”，与“window”结合，固定为位置表达“在窗边”。本短语没有复杂的引申义。",
+      "explanation_english": "“By” comes from Old English *bi*, meaning ‘near, beside’. Combined with ‘window’, it naturally formed the common phrase meaning ‘next to the window’."
+    },
+    "variation_between_british_american": {
+      "british": "说法相同，但在英式英语中点座位时也常直接说“a window seat”。",
+      "american": "更常直接说“a window seat”，但“by the window”在口语里同样自然。"
+    }
+  },
+  {
+    "word": "booth",
+    "pronunciation": {
+      "british": "/buːð/ 🇬🇧",
+      "american": "/buːθ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：餐厅常用，指隔开的卡座；也可指投票间、电话亭、展位。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "餐厅卡座",
+          "english": "A semi-enclosed seat arrangement in a restaurant, usually with benches."
+        },
+        "examples": [
+          {
+            "sentence": "We prefer to sit in a booth.",
+            "translation": "我们更喜欢坐在卡座。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "小隔间，展位",
+          "english": "A small enclosed or partly enclosed space, such as for voting or exhibitions."
+        },
+        "examples": [
+          {
+            "sentence": "He cast his vote in the booth.",
+            "translation": "他在投票间里投了票。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "stall",
+        "type": "noun",
+        "definition": {
+          "chinese": "摊位，隔间",
+          "english": "A small shop or space for selling goods, or a divided area."
+        },
+        "examples": [
+          {
+            "sentence": "The market was full of colorful stalls.",
+            "translation": "市场上满是五颜六色的摊位。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音注意",
+        "explanation": "英式多发 /ð/，美式多发 /θ/。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自中古英语 *bothe*（小棚屋），后来引申为各种隔间或卡座。",
+      "explanation_english": "From Middle English *bothe* meaning ‘small hut or stall’, extended to restaurant seating and enclosed spaces."
+    },
+    "variation_between_british_american": {
+      "british": "日常生活中“booth”更常用于“phone booth”（电话亭）。",
+      "american": "在餐厅语境下“booth”专指卡座，非常常用。"
+    }
+  },
+  {
+    "word": "signature dish(es)",
+    "pronunciation": {
+      "british": "/ˈsɪɡnətʃə dɪʃ/ 🇬🇧",
+      "american": "/ˈsɪɡnətʃɚ dɪʃ/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用 👍：餐饮语境中表示“招牌菜”。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "招牌菜",
+          "english": "A special dish strongly associated with a chef or restaurant."
+        },
+        "examples": [
+          {
+            "sentence": "The chef’s signature dish is roast duck.",
+            "translation": "这位厨师的招牌菜是烤鸭。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "specialty",
+        "type": "noun",
+        "definition": {
+          "chinese": "特色菜，特产",
+          "english": "A dish or product for which a place or person is well known."
+        },
+        "examples": [
+          {
+            "sentence": "Seafood is the specialty of this town.",
+            "translation": "海鲜是这个城镇的特色。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "表达差异",
+        "explanation": "“signature dish”强调厨师或餐厅的代表作，“specialty”更广泛，可指地方特色或技能特长。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "“signature”原指“签名”，引申为“具有个人特色的东西”，结合“dish”表示餐厅或厨师的独特菜肴。",
+      "explanation_english": "‘Signature’ originally meant a written name, extended to mean ‘distinctive, characteristic’. When used with ‘dish’, it means the chef’s or restaurant’s unique specialty."
+    },
+    "variation_between_british_american": {
+      "british": "两地用法一致。",
+      "american": "与英式相同，但餐厅宣传时常见。"
+    }
+  },
+  {
+    "word": "Can we order separately?",
+    "pronunciation": {
+      "british": "/kæn wiː ˈɔːdə ˈsɛprətli/ 🇬🇧",
+      "american": "/kæn wi ˈɔrdɚ ˈsɛprətli/ 🇺🇸"
+    },
+    "phrase_type": "sentence (question)",
+    "usage": "常用 👍：餐厅常见问法，意思是“我们能分开点单/结账吗？” 根据上下文可指分开点餐或分开结账。",
+    "meanings": [
+      {
+        "type": "sentence",
+        "definition": {
+          "chinese": "我们能分开点餐/结账吗？",
+          "english": "A polite request asking if each person can place their own order or pay separately."
+        },
+        "examples": [
+          {
+            "sentence": "Can we order separately, please?",
+            "translation": "我们可以分开点单吗？"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "split the bill",
+        "type": "phrase",
+        "definition": {
+          "chinese": "AA制，各付各的",
+          "english": "To divide the cost of the meal so that each person pays their own share."
+        },
+        "examples": [
+          {
+            "sentence": "Let’s split the bill tonight.",
+            "translation": "今晚我们AA制吧。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "上下文区分",
+        "explanation": "有时“order separately”指各自点菜；有时客人实际想表达“separate checks”（分开结账）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "“separately”原意是“分开地”，和“order”搭配即可灵活表示“点餐分开”或“结账分开”。",
+      "explanation_english": "‘Separately’ means ‘individually, apart’. With ‘order’, it flexibly conveys either separate ordering or separate bills."
+    },
+    "variation_between_british_american": {
+      "british": "在结账时更常说“separate bills”。",
+      "american": "常说“separate checks”。点餐时也可说“order separately”。"
+    }
   }
 ]
 
