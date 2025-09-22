@@ -20650,40 +20650,56 @@ const wordData = [
       "british": "/blɒk ɪt aʊt/ 🇬🇧",
       "american": "/blɑːk ɪt aʊt/ 🇺🇸"
     },
-    "phrase_type": "动词短语（phrasal verb）",
-    "usage": "常用于指有意忘记或屏蔽令人不快的记忆或想法。",
+    "phrase_type": "phrasal verb",
+    "usage": "日常口语中常用，用于心理或物理层面，表示“阻挡/屏蔽/忘掉”。",
     "meanings": [
       {
+        "type": "verb phrase",
         "definition": {
-          "chinese": "刻意忘记，屏蔽（记忆、声音等）",
-          "english": "To deliberately try to forget something or stop it from affecting you."
+          "chinese": "屏蔽，阻挡（记忆、画面或干扰）",
+          "english": "To mentally or physically block something so it does not affect you, or to cover/obstruct something."
         },
         "examples": [
           {
-            "sentence": "He tried to block out the memory of the accident.",
-            "translation": "他试图把那次事故的记忆从脑中抹去。"
+            "sentence": "He tried to block out the unpleasant memories.",
+            "translation": "他试图将那些不愉快的记忆屏蔽掉。"
+          },
+          {
+            "sentence": "She blocked it out with a curtain.",
+            "translation": "她用窗帘把它挡住了。"
           }
         ]
       }
     ],
-    "common_collocations": ["block out the noise", "block out bad memories"],
     "related_words": [
       {
-        "word": "suppress",
-        "type": "verb",
+        "word": "tune out",
+        "type": "phrasal verb",
         "definition": {
-          "chinese": "压制，抑制",
-          "english": "To stop yourself from showing or feeling a particular emotion."
-        }
+          "chinese": "屏蔽干扰，不去理会",
+          "english": "To deliberately ignore or stop paying attention to something."
+        },
+        "examples": [
+          {
+            "sentence": "I just tuned out the noise outside.",
+            "translation": "我只是没去理会外面的噪音。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义引申",
+        "explanation": "可指心理屏蔽（记忆、情绪）或物理阻挡（光、物体等）。需结合上下文。"
       }
     ],
     "origin_of_multiple_meanings": {
-      "explanation_chinese": "‘block’ 本意是阻挡，引申为心理上的屏蔽或忘却。",
-      "explanation_english": "Originally refers to a physical blockage; figuratively extended to emotional or mental blocking."
+      "explanation_chinese": "block 本义“阻挡”，引申为心理上屏蔽，out 表示完全隔离。",
+      "explanation_english": "‘Block’ means to obstruct; combined with ‘out’ it figuratively extends to mental or emotional blocking."
     },
     "variation_between_british_american": {
-      "british": "更常说 block out。",
-      "american": "常见说法也为 block it out。"
+      "british": "心理层面的用法较常见，口语中也用 ‘shut out’。",
+      "american": "用法相同，心理和物理层面都常用。"
     }
   },
   {
@@ -36272,7 +36288,7 @@ const wordData = [
       "british": "仍在部分地区常见，尤其是老一辈说话方式。",
       "american": "较少用，更倾向说 'stock up'。"
     }
-  },
+  }
 ]
 
 
