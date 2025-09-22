@@ -2679,16 +2679,84 @@ const wordData = [
   },
   {
     "word": "demanding",
-    "pronunciation": { "british": "/dɪˈmɑːndɪŋ/ 🇬🇧", "american": "/dɪˈmændɪŋ/ 🇺🇸" },
-    "phrase_type": "adjective 形容词",
-    "usage": "常用 👍：要求高；苛求的。",
+    "pronunciation": {
+      "british": "/dɪˈmɑːndɪŋ/ 🇬🇧",
+      "american": "/dɪˈmændɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：多用于形容人“苛求的”或事情“费力的、要求高的”。",
     "meanings": [
-      { "type": "adjective", "definition": { "chinese": "要求高的；苛求的", "english": "Needing a lot of time, attention, or effort." }, "examples": [{ "sentence": "This job is very demanding.", "translation": "这份工作要求很高。" }] }
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "要求高的，费力的",
+          "english": "Requiring a lot of effort, attention, or skill."
+        },
+        "examples": [
+          {
+            "sentence": "Teaching can be a very demanding job.",
+            "translation": "教学可能是一份非常费力的工作。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "苛求的，过分要求的",
+          "english": "Describing a person who expects others to give a lot of time, attention, or effort."
+        },
+        "examples": [
+          {
+            "sentence": "Her boss is very demanding.",
+            "translation": "她的老板非常苛刻。"
+          }
+        ]
+      }
     ],
-    "related_words": [{ "word": "challenging", "type": "adjective", "definition": { "chinese": "富有挑战的", "english": "Forming a challenge; testing abilities." }, "examples": [{ "sentence": "She loves challenging tasks.", "translation": "她喜欢具有挑战性的任务。" }] }],
-    "notes": [{ "point": "语气", "explanation": "demanding 带有负担或压力感。" }],
-    "origin_of_multiple_meanings": { "explanation_chinese": "由动词 demand 派生，用作形容词描述需求大。", "explanation_english": "Derived from verb 'demand'; adjectival meaning 'requiring much'." },
-    "variation_between_british_american": { "british": "用法一致。", "american": "同上。" }
+    "related_words": [
+      {
+        "word": "challenging",
+        "type": "adjective",
+        "definition": {
+          "chinese": "具有挑战性的",
+          "english": "Difficult but interesting and stimulating."
+        },
+        "examples": [
+          {
+            "sentence": "Climbing Mount Everest is a challenging task.",
+            "translation": "攀登珠穆朗玛峰是一项具有挑战性的任务。"
+          }
+        ]
+      },
+      {
+        "word": "strict",
+        "type": "adjective",
+        "definition": {
+          "chinese": "严格的",
+          "english": "Expecting people to obey rules or to work hard, without allowing much freedom."
+        },
+        "examples": [
+          {
+            "sentence": "She is a strict teacher but very fair.",
+            "translation": "她是一位严格但很公正的老师。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气区别",
+        "explanation": "当修饰工作、任务时，通常是中性或积极（需要努力）；当修饰人时，往往带有负面色彩（苛刻）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 *demand*（要求），后加 -ing 构成形容词，表示“不断提出要求的”，引申为“费力的”。",
+      "explanation_english": "Formed from the verb *demand* (to request strongly). The -ing adjective form means ‘continually making demands’, extended to describe tasks that require much effort."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致，但在形容工作时常带积极意味。",
+      "american": "同样常用，但在日常口语中形容人时更容易带负面色彩。"
+    }
   },
   {
     "word": "knee-jerk",
@@ -35477,7 +35545,734 @@ const wordData = [
       "british": "在结账时更常说“separate bills”。",
       "american": "常说“separate checks”。点餐时也可说“order separately”。"
     }
-  }
+  },
+  {
+    "word": "fast track",
+    "pronunciation": {
+      "british": "/fɑːst træk/ 🇬🇧",
+      "american": "/fæst træk/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb phrase",
+    "usage": "常用 👍：可指快速晋升或快速通道，也可作动词“加速推进”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "快速晋升/快速通道",
+          "english": "A route or system that allows quicker progress than usual."
+        },
+        "examples": [
+          {
+            "sentence": "She’s on the fast track to promotion.",
+            "translation": "她正走在快速升职的通道上。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "加速推进",
+          "english": "To make something happen or progress more quickly than usual."
+        },
+        "examples": [
+          {
+            "sentence": "The government fast-tracked the new law.",
+            "translation": "政府加速推动了这项新法律。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "accelerate",
+        "type": "verb",
+        "definition": {
+          "chinese": "加速",
+          "english": "To make something happen faster."
+        },
+        "examples": [
+          {
+            "sentence": "The company is accelerating its growth plans.",
+            "translation": "公司正在加速实施其增长计划。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "既可用于职业发展，也常用于流程、法律、项目等场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意是“快速赛道”，比喻为“更快的方式”或“捷径”，因此引申为职业、流程的加速。",
+      "explanation_english": "Originally referred to a racing track lane for faster pace, later metaphorically extended to mean a quicker path in careers or processes."
+    },
+    "variation_between_british_american": {
+      "british": "常用于职业晋升或流程（on the fast track to...）。",
+      "american": "同样常见，但也经常作动词使用（to fast-track something）。"
+    }
+  },
+  {
+    "word": "embrace",
+    "pronunciation": {
+      "british": "/ɪmˈbreɪs/ 🇬🇧",
+      "american": "/ɪmˈbreɪs/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun",
+    "usage": "常用 👍：既可表示身体上的“拥抱”，也可比喻“欣然接受、采纳”。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "拥抱",
+          "english": "To hold someone closely in your arms, usually as a sign of affection."
+        },
+        "examples": [
+          {
+            "sentence": "They embraced after a long separation.",
+            "translation": "他们在长时间分别后拥抱在一起。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "接受，采纳",
+          "english": "To willingly accept an idea, belief, or change."
+        },
+        "examples": [
+          {
+            "sentence": "The company embraced new technology.",
+            "translation": "公司采纳了新技术。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "拥抱",
+          "english": "The act of holding someone closely in your arms."
+        },
+        "examples": [
+          {
+            "sentence": "She gave him a warm embrace.",
+            "translation": "她给了他一个温暖的拥抱。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hug",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "拥抱",
+          "english": "To put your arms around someone to show affection."
+        },
+        "examples": [
+          {
+            "sentence": "He hugged his mother tightly.",
+            "translation": "他紧紧抱住了母亲。"
+          }
+        ]
+      },
+      {
+        "word": "adopt",
+        "type": "verb",
+        "definition": {
+          "chinese": "采纳，采用",
+          "english": "To take up an idea, method, or course of action."
+        },
+        "examples": [
+          {
+            "sentence": "The school adopted a new teaching method.",
+            "translation": "学校采用了一种新的教学方法。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻义常见",
+        "explanation": "在现代英语中，“embrace change/ideas/opportunities”是非常常见的搭配，带有积极接受的意味。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *bracchium*（手臂），原义为“用手臂环绕”，后引申为“心里接受”。",
+      "explanation_english": "From Latin *bracchium* (arm). Originally meant ‘to enfold with the arms’, later extended metaphorically to mean ‘to accept willingly’."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式或文学语境中，尤其是比喻用法。",
+      "american": "日常口语中也常用“embrace”表示接受新事物，语气更自然。"
+    }
+  },
+  {
+    "word": "boarding procedures",
+    "pronunciation": {
+      "british": "/ˈbɔːdɪŋ prəˈsiːdʒəz/ 🇬🇧",
+      "american": "/ˈbɔːrdɪŋ prəˈsiːdʒərz/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用于机场、旅行场景 ✈️，指登机的流程或手续。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "登机手续",
+          "english": "The official steps or process passengers must follow before boarding an aircraft."
+        },
+        "examples": [
+          {
+            "sentence": "The airline announced changes to its boarding procedures.",
+            "translation": "航空公司宣布了登机流程的变更。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "check-in",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "办理登机手续",
+          "english": "The process of registering for a flight at the airport."
+        },
+        "examples": [
+          {
+            "sentence": "We need to check in two hours before departure.",
+            "translation": "我们需要在起飞前两小时办理登机手续。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见于正式场合",
+        "explanation": "主要用于机场和交通行业的公告或说明。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "boarding 本意是“上船/上车/上飞机”，与 procedures（程序、手续）结合成固定短语。",
+      "explanation_english": "‘Boarding’ originally referred to getting onto a ship or vehicle; combined with ‘procedures’ it became a set phrase."
+    },
+    "variation_between_british_american": {
+      "british": "常见于机场广播与官方文件。",
+      "american": "用法相同，美国口语中也会简化为 'boarding process'。"
+    }
+  },
+  {
+    "word": "baggage drop off",
+    "pronunciation": {
+      "british": "/ˈbæɡɪdʒ drɒp ɒf/ 🇬🇧",
+      "american": "/ˈbæɡɪdʒ drɑːp ɔːf/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用于机场办理行李托运 🧳。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "行李托运处",
+          "english": "The counter or area at an airport where passengers hand over checked baggage."
+        },
+        "examples": [
+          {
+            "sentence": "Please go to the baggage drop off before security.",
+            "translation": "请在安检前去行李托运处。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "check-in desk",
+        "type": "noun",
+        "definition": {
+          "chinese": "值机柜台",
+          "english": "The counter where passengers receive boarding passes and can drop off luggage."
+        },
+        "examples": [
+          {
+            "sentence": "We queued at the check-in desk for 20 minutes.",
+            "translation": "我们在值机柜台排了20分钟的队。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "机场用语",
+        "explanation": "多见于机场指示牌，drop off 意为“放下”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "drop off 本义是“放下某物/某人”，引申为“托运行李”。",
+      "explanation_english": "‘Drop off’ means ‘to leave something or someone’, extended to checked luggage in airport context."
+    },
+    "variation_between_british_american": {
+      "british": "常写作 'bag drop' 简略说法。",
+      "american": "多用 'baggage drop off' 或 'bag drop'，意思相同。"
+    }
+  },
+  {
+    "word": "charge my phone",
+    "pronunciation": {
+      "british": "/tʃɑːdʒ maɪ fəʊn/ 🇬🇧",
+      "american": "/tʃɑːrdʒ maɪ foʊn/ 🇺🇸"
+    },
+    "phrase_type": "verb phrase",
+    "usage": "日常生活中非常常用 📱。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "给手机充电",
+          "english": "To connect a phone to electricity to restore its battery power."
+        },
+        "examples": [
+          {
+            "sentence": "I need to charge my phone before we leave.",
+            "translation": "出发前我得给手机充下电。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "plug in",
+        "type": "verb",
+        "definition": {
+          "chinese": "插上电源",
+          "english": "To connect a device to an electrical socket."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t forget to plug in your laptop.",
+            "translation": "别忘了给笔记本电脑插电源。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "charge 多义",
+        "explanation": "除“充电”外，还可指“收费、冲锋”等，需根据上下文判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "charge 来自拉丁语 'carricare'（装载），后延伸为“加电、收费”。",
+      "explanation_english": "‘Charge’ came from Latin ‘carricare’ (to load), extended to ‘load with electricity’."
+    },
+    "variation_between_british_american": {
+      "british": "说法相同。",
+      "american": "说法相同，也常听到简化的 'charge up my phone'。"
+    }
+  },
+  {
+    "word": "shared power bank",
+    "pronunciation": {
+      "british": "/ʃeəd ˈpaʊə bæŋk/ 🇬🇧",
+      "american": "/ʃerd ˈpaʊər bæŋk/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "现代共享经济产物 🔋，常见于公共场所。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "共享充电宝",
+          "english": "A portable battery pack rented for temporary use, usually found in public spaces."
+        },
+        "examples": [
+          {
+            "sentence": "I rented a shared power bank at the café.",
+            "translation": "我在咖啡馆租了一个共享充电宝。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "portable charger",
+        "type": "noun",
+        "definition": {
+          "chinese": "便携充电器",
+          "english": "A small device that stores electricity and charges phones or tablets."
+        },
+        "examples": [
+          {
+            "sentence": "She always carries a portable charger.",
+            "translation": "她总是带着一个便携充电器。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "新兴词汇",
+        "explanation": "源于移动互联网和共享经济的发展，2015年后流行。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "power bank 原意是“电源银行”，比喻电力存储工具，shared 表示“共享”。",
+      "explanation_english": "‘Power bank’ metaphorically means ‘a bank of electricity’, ‘shared’ refers to its rental nature."
+    },
+    "variation_between_british_american": {
+      "british": "多直接称 'portable charger'，'shared power bank' 在共享模式下使用。",
+      "american": "常说 'power bank' 或 'portable charger'，共享模式则明确为 'shared power bank'。"
+    }
+  },
+  {
+    "word": "rebel against",
+    "pronunciation": {
+      "british": "/ˈrebəl əˈɡenst/ 🇬🇧",
+      "american": "/ˈrebəl əˈɡenst/ 🇺🇸"
+    },
+    "phrase_type": "verb phrase",
+    "usage": "常用于政治、社会或个人反抗情境 ✊。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "反抗，反对",
+          "english": "To oppose or fight against authority, rules, or traditions."
+        },
+        "examples": [
+          {
+            "sentence": "The students rebelled against the new rules.",
+            "translation": "学生们反抗新规定。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "resist",
+        "type": "verb",
+        "definition": {
+          "chinese": "抵抗，抗拒",
+          "english": "To withstand or refuse to accept something."
+        },
+        "examples": [
+          {
+            "sentence": "They resisted the unfair treatment.",
+            "translation": "他们反抗了不公平的待遇。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写注意",
+        "explanation": "正确写法是 'rebel against'，不是 'rebel agains'。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "rebel 源自拉丁语 'rebellis'（再次作战），表示对权威的反抗。",
+      "explanation_english": "‘Rebel’ comes from Latin ‘rebellis’, meaning ‘waging war again’, hence opposition to authority."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致，口语中也可说 'push back against'。"
+    }
+  },
+  {
+    "word": "repaying",
+    "pronunciation": {
+      "british": "/rɪˈpeɪɪŋ/ 🇬🇧",
+      "american": "/rɪˈpeɪɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "verb (present participle)",
+    "usage": "常用于金融、借贷、人情回报 💰。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "偿还，归还",
+          "english": "To give back money that is owed."
+        },
+        "examples": [
+          {
+            "sentence": "She is repaying her student loan.",
+            "translation": "她正在偿还助学贷款。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "报答，回报",
+          "english": "To show gratitude or return a favor."
+        },
+        "examples": [
+          {
+            "sentence": "He is repaying her kindness with support.",
+            "translation": "他以支持回报她的善意。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "reimburse",
+        "type": "verb",
+        "definition": {
+          "chinese": "报销，偿还",
+          "english": "To pay back money spent or lost."
+        },
+        "examples": [
+          {
+            "sentence": "The company reimbursed travel expenses.",
+            "translation": "公司报销了差旅费。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "双重含义",
+        "explanation": "既可指金钱偿还，也可指情感回报。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 re-（再次）+ pay（支付），原意是“再次支付”，后来也指“回报恩情”。",
+      "explanation_english": "From re- (again) + pay, originally meant ‘to pay back money’, later extended to emotional return."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式金融语境。",
+      "american": "在日常口语中更广泛使用，包括‘paying someone back’。"
+    }
+  },
+  {
+    "word": "on the scale",
+    "pronunciation": {
+      "british": "/ɒn ðə skeɪl/ 🇬🇧",
+      "american": "/ɑːn ðə skeɪl/ 🇺🇸"
+    },
+    "phrase_type": "prepositional phrase",
+    "usage": "常用于讨论大小、程度、范围。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "在某个规模/范围上",
+          "english": "Used to indicate the level, size, or extent of something."
+        },
+        "examples": [
+          {
+            "sentence": "The project is not on the same scale as last year’s.",
+            "translation": "这个项目的规模和去年的不一样。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "to that extent",
+        "type": "phrase",
+        "definition": {
+          "chinese": "到那种程度",
+          "english": "Referring to a particular level or degree."
+        },
+        "examples": [
+          {
+            "sentence": "He didn’t expect the damage to that extent.",
+            "translation": "他没想到损害会到那种程度。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "scale 多义",
+        "explanation": "既可指物理的“刻度”，也可指抽象的“规模”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "scale 原意“梯子/刻度”，引申为“范围、程度”。",
+      "explanation_english": "‘Scale’ originally meant ‘ladder/measurement marks’, later extended to ‘scope or magnitude’."
+    },
+    "variation_between_british_american": {
+      "british": "常说 'on a large/small scale'。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "in a gentler way",
+    "pronunciation": {
+      "british": "/ɪn ə ˈdʒentlə weɪ/ 🇬🇧",
+      "american": "/ɪn ə ˈdʒentlər weɪ/ 🇺🇸"
+    },
+    "phrase_type": "adverbial phrase",
+    "usage": "用于修饰行为方式，强调更温和、更体贴。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "以更温和的方式",
+          "english": "In a softer, kinder, or less harsh manner."
+        },
+        "examples": [
+          {
+            "sentence": "He explained it in a gentler way so everyone could understand.",
+            "translation": "他用更温和的方式解释，让大家都能理解。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "softly",
+        "type": "adverb",
+        "definition": {
+          "chinese": "轻柔地",
+          "english": "In a quiet and gentle manner."
+        },
+        "examples": [
+          {
+            "sentence": "She spoke softly to calm the child.",
+            "translation": "她轻声安抚孩子。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "gentle → gentler",
+        "explanation": "gentler 是 gentle 的比较级。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "gentle 来自拉丁语 'gentilis'（高贵出身），后引申为“温和”。",
+      "explanation_english": "‘Gentle’ comes from Latin ‘gentilis’ (of noble birth), later associated with mildness and kindness."
+    },
+    "variation_between_british_american": {
+      "british": "常用于书面或正式表达。",
+      "american": "在口语中同样自然。"
+    }
+  },
+  {
+    "word": "collective",
+    "pronunciation": {
+      "british": "/kəˈlektɪv/ 🇬🇧",
+      "american": "/kəˈlektɪv/ 🇺🇸"
+    },
+    "phrase_type": "adjective/noun",
+    "usage": "学术、社会和组织语境中常用，表示“集体的”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "集体的，共同的",
+          "english": "Relating to or done by a group acting as a whole."
+        },
+        "examples": [
+          {
+            "sentence": "They made a collective decision.",
+            "translation": "他们做出了集体决定。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "集体组织",
+          "english": "A group of people acting together, often in a cooperative or communal way."
+        },
+        "examples": [
+          {
+            "sentence": "The artists formed a collective.",
+            "translation": "艺术家们组建了一个集体。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "communal",
+        "type": "adjective",
+        "definition": {
+          "chinese": "共有的，公共的",
+          "english": "Shared by all members of a community."
+        },
+        "examples": [
+          {
+            "sentence": "They lived in a communal house.",
+            "translation": "他们住在一个公用的房子里。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "词性多样",
+        "explanation": "既可作形容词（集体的），也可作名词（集体组织）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 'collectivus'，意为“收集在一起的”。",
+      "explanation_english": "From Latin ‘collectivus’, meaning ‘gathered together’."
+    },
+    "variation_between_british_american": {
+      "british": "在社会运动或工会中常见。",
+      "american": "在创业圈和艺术群体中常用。"
+    }
+  },
+  {
+    "word": "lay in",
+    "pronunciation": {
+      "british": "/leɪ ɪn/ 🇬🇧",
+      "american": "/leɪ ɪn/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "较少用的动词短语，表示“储备（物资）”。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "储备，囤积",
+          "english": "To stock up or store supplies for future use."
+        },
+        "examples": [
+          {
+            "sentence": "They laid in enough food for the winter.",
+            "translation": "他们储备了足够过冬的食物。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "stock up",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "囤货，备货",
+          "english": "To buy a large quantity of something for future use."
+        },
+        "examples": [
+          {
+            "sentence": "We stocked up on water before the storm.",
+            "translation": "暴风雨前我们囤了水。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气较旧",
+        "explanation": "现代英语更常说 'stock up'。'lay in' 仍能在文学或正式书面语中见到。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "lay 本意是“放置”，加 in 表示“放入储存”。",
+      "explanation_english": "‘Lay’ means ‘to put down’; with ‘in’ it means ‘put in storage’."
+    },
+    "variation_between_british_american": {
+      "british": "仍在部分地区常见，尤其是老一辈说话方式。",
+      "american": "较少用，更倾向说 'stock up'。"
+    }
+  },
 ]
 
 
