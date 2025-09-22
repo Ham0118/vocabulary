@@ -152,14 +152,17 @@
     <input type="text" id="seach">
     <button id="seach_btn">搜索</button>
   </div>
+  <div id="word_literal"></div>
   <div id="app"></div>
   <script src="./wordData.js"></script>
   <script>
 
 
     const app = document.getElementById("app");
+    const word_literal = document.getElementById("word_literal");
     const selectedWord = wordData[Math.floor(Math.random() * wordData.length)];
     [selectedWord].forEach(word => {
+      word_literal.innerHTML = `${word.word}`
       const card = document.createElement("div");
       card.className = "word-card";
 
