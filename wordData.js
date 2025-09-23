@@ -36288,6 +36288,248 @@ const wordData = [
       "british": "仍在部分地区常见，尤其是老一辈说话方式。",
       "american": "较少用，更倾向说 'stock up'。"
     }
+  },
+  {
+    "word": "prohibited",
+    "pronunciation": {
+      "british": "/prəˈhɪbɪtɪd/ 🇬🇧",
+      "american": "/proʊˈhɪbɪtɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective (past participle)",
+    "usage": "正式用语，常见于法律、规章或公共标识中，表示“禁止的”。日常口语中更多用 not allowed, banned。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "被禁止的",
+          "english": "Not allowed, officially or legally forbidden."
+        },
+        "examples": [
+          {
+            "sentence": "Smoking is prohibited in this area.",
+            "translation": "此区域禁止吸烟。"
+          },
+          {
+            "sentence": "The use of mobile phones is strictly prohibited during the exam.",
+            "translation": "考试期间严禁使用手机。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "forbidden",
+        "type": "adjective",
+        "definition": {
+          "chinese": "禁止的，不准的",
+          "english": "Not allowed, often with a strong sense of authority or taboo."
+        },
+        "examples": [
+          {
+            "sentence": "Entering this area is forbidden.",
+            "translation": "禁止进入此区域。"
+          }
+        ]
+      },
+      {
+        "word": "banned",
+        "type": "adjective/verb (past participle)",
+        "definition": {
+          "chinese": "被禁的，被查封的",
+          "english": "Officially or legally prevented from being used or done."
+        },
+        "examples": [
+          {
+            "sentence": "The book was banned in several countries.",
+            "translation": "这本书在几个国家被禁。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式程度",
+        "explanation": "prohibited 常用于法律、规定或正式文件，口语里多说 not allowed。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘prohibere’，pro-（前）+ habere（拿住），原义为“阻止、拦住”。后演变为法律和规则层面的“禁止”。",
+      "explanation_english": "From Latin ‘prohibere’, pro- (before) + habere (to hold), originally meaning ‘to prevent or restrain’, later specialized to legal/official prohibition."
+    },
+    "variation_between_british_american": {
+      "british": "常见于正式法规、警告标志。",
+      "american": "用法相同，但在日常英语中人们更常说 not allowed 或 banned。"
+    }
+  },
+  {
+    "word": "goosebumps",
+    "pronunciation": {
+      "british": "/ˈɡuːs.bʌmps/ 🇬🇧",
+      "american": "/ˈɡuːs.bʌmps/ 🇺🇸"
+    },
+    "phrase_type": "noun (plural, usually singular meaning)",
+    "usage": "非常常用 👍，日常口语里用来形容因寒冷、恐惧或激动时皮肤起鸡皮疙瘩。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "鸡皮疙瘩",
+          "english": "Small bumps on the skin caused by cold, fear, or strong emotion."
+        },
+        "examples": [
+          {
+            "sentence": "That horror movie gave me goosebumps.",
+            "translation": "那部恐怖片让我起了鸡皮疙瘩。"
+          },
+          {
+            "sentence": "I got goosebumps when she sang that song.",
+            "translation": "她唱那首歌时我起了鸡皮疙瘩。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "chills",
+        "type": "noun",
+        "definition": {
+          "chinese": "寒颤",
+          "english": "A sudden feeling of coldness or shivering, often due to fear or illness."
+        },
+        "examples": [
+          {
+            "sentence": "Her words sent chills down my spine.",
+            "translation": "她的话让我背脊发凉。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语化",
+        "explanation": "常用于描述强烈的情感体验，不限于生理现象。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原义是“像鹅皮一样的疙瘩”，直观形容皮肤收缩时的外观。",
+      "explanation_english": "From the resemblance of human skin bumps to the skin of a plucked goose."
+    },
+    "variation_between_british_american": {
+      "british": "也常说 goose pimples。",
+      "american": "更常说 goosebumps。"
+    }
+  },
+  {
+    "word": "coincidence",
+    "pronunciation": {
+      "british": "/kəʊˈɪnsɪdəns/ 🇬🇧",
+      "american": "/koʊˈɪnsɪdəns/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍，表示两个或更多事件在时间或情况上的巧合。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "巧合",
+          "english": "A situation where events happen at the same time by chance."
+        },
+        "examples": [
+          {
+            "sentence": "It was just a coincidence that we met at the station.",
+            "translation": "我们在车站遇见只是个巧合。"
+          },
+          {
+            "sentence": "What a strange coincidence!",
+            "translation": "多么奇怪的巧合！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "chance",
+        "type": "noun",
+        "definition": {
+          "chinese": "偶然",
+          "english": "The occurrence of events without apparent cause."
+        },
+        "examples": [
+          {
+            "sentence": "They met by chance.",
+            "translation": "他们偶然相遇。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见表达",
+        "explanation": "口语常说 just a coincidence 来强调“纯属巧合”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 co-（一起）+ incidere（发生），意为“同时发生”。",
+      "explanation_english": "From Latin co- (together) + incidere (to fall, happen), meaning ‘happening together’. "
+    },
+    "variation_between_british_american": {
+      "british": "发音首音节是 /kəʊ/。",
+      "american": "发音首音节是 /koʊ/。"
+    }
+  },
+  {
+    "word": "inarticulable",
+    "pronunciation": {
+      "british": "/ˌɪn.ɑːˈtɪk.jʊ.lə.bəl/ 🇬🇧",
+      "american": "/ˌɪn.ɑːrˈtɪk.jə.lə.bəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "不常用，较文学化，用来描述无法用语言表达的情感或思想。常见替代词是 indescribable, unspeakable。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "无法用言语表达的",
+          "english": "Not able to be expressed in words."
+        },
+        "examples": [
+          {
+            "sentence": "She felt an inarticulable sadness.",
+            "translation": "她感到一种无法言喻的悲伤。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "indescribable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "无法形容的",
+          "english": "Too extreme or unusual to describe."
+        },
+        "examples": [
+          {
+            "sentence": "The view from the mountain was indescribable.",
+            "translation": "山上的景色美得无法形容。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写注意",
+        "explanation": "常有人拼写成 *inarticulatable*，但标准形式是 *inarticulable*。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 in-（否定）+ articulable（能清晰表达的）组成，意为“不能清楚表达的”。",
+      "explanation_english": "Formed from in- (not) + articulable (able to express), meaning ‘not able to articulate’. "
+    },
+    "variation_between_british_american": {
+      "british": "更倾向用 indescribable 替代。",
+      "american": "inarticulable 和 indescribable 都可能用，但前者更正式。"
+    }
   }
 ]
 
