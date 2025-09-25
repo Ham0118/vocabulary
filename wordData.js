@@ -36530,6 +36530,395 @@ const wordData = [
       "british": "更倾向用 indescribable 替代。",
       "american": "inarticulable 和 indescribable 都可能用，但前者更正式。"
     }
+  },
+  {
+    "word": "gazebo",
+    "pronunciation": {
+      "british": "/ɡəˈziːbəʊ/ 🇬🇧",
+      "american": "/ɡəˈziːboʊ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常见于建筑和园艺语境，用于指花园凉亭。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "花园凉亭",
+          "english": "A freestanding, open-sided structure often found in gardens or parks."
+        },
+        "examples": [
+          {
+            "sentence": "They had their wedding photos taken in the gazebo.",
+            "translation": "他们在凉亭里拍了婚纱照。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "pavilion",
+        "type": "noun",
+        "definition": {
+          "chinese": "大亭子/临时建筑",
+          "english": "A larger structure, often used for events."
+        },
+        "examples": [
+          {
+            "sentence": "The exhibition was held in a pavilion.",
+            "translation": "展览在一个大亭子里举行。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "书面化",
+        "explanation": "在日常英语里使用频率不高，更常见于建筑学或正式描述。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来源于18世纪的幽默造词，类似“望出去(goes-a-bo)”的拉丁化构造。",
+      "explanation_english": "Coined in the 18th century, possibly humorous pseudo-Latin meaning 'I shall gaze.'"
+    },
+    "variation_between_british_american": {
+      "british": "与美式基本相同。",
+      "american": "与英式用法相同。"
+    }
+  },
+  {
+    "word": "prescribe",
+    "pronunciation": {
+      "british": "/prɪˈskraɪb/ 🇬🇧",
+      "american": "/prɪˈskraɪb/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "非常常用 👍：多用于医疗场景，也可指规定、指示。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "开药，处方",
+          "english": "To authorize the use of medicine or treatment."
+        },
+        "examples": [
+          {
+            "sentence": "The doctor prescribed antibiotics.",
+            "translation": "医生开了抗生素。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "规定，指示",
+          "english": "To lay down a rule or dictate a course of action."
+        },
+        "examples": [
+          {
+            "sentence": "The law prescribes heavy penalties for this crime.",
+            "translation": "法律规定此类犯罪将受到严厉处罚。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "prescription",
+        "type": "noun",
+        "definition": {
+          "chinese": "处方",
+          "english": "An official note from a doctor for medicine."
+        },
+        "examples": [
+          {
+            "sentence": "You need a prescription for this drug.",
+            "translation": "这种药需要处方。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "和 'proscribe' 区分",
+        "explanation": "'Prescribe' 意为“开处方/规定”，而 'proscribe' 意为“禁止”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 'praescribere'（写在前面），既可以指写下医嘱，也可以指预先规定。",
+      "explanation_english": "From Latin 'praescribere' (to write before), extended to both medical and legal contexts."
+    },
+    "variation_between_british_american": {
+      "british": "在英式英语中也可用于规定法律或制度。",
+      "american": "更常见于医疗开药场景。"
+    }
+  },
+  {
+    "word": "appetite",
+    "pronunciation": {
+      "british": "/ˈæpɪtaɪt/ 🇬🇧",
+      "american": "/ˈæpɪtaɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：既指食欲，也指对事物的欲望。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "食欲",
+          "english": "A natural desire to eat."
+        },
+        "examples": [
+          {
+            "sentence": "The long walk gave me a good appetite.",
+            "translation": "长时间的散步让我胃口很好。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "欲望，渴望",
+          "english": "A strong desire or liking for something."
+        },
+        "examples": [
+          {
+            "sentence": "She has an appetite for adventure.",
+            "translation": "她渴望冒险。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hunger",
+        "type": "noun",
+        "definition": {
+          "chinese": "饥饿",
+          "english": "The physical feeling of needing food."
+        },
+        "examples": [
+          {
+            "sentence": "He felt weak from hunger.",
+            "translation": "他因饥饿感到虚弱。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "常用于比喻，指对非食物的欲望。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 'appetitus'，意为“渴望”，既可指食物也可指其他欲望。",
+      "explanation_english": "From Latin 'appetitus' meaning desire or craving, extended beyond food."
+    },
+    "variation_between_british_american": {
+      "british": "常见用法与美式相同。",
+      "american": "相同，无明显差异。"
+    }
+  },
+  {
+    "word": "get into",
+    "pronunciation": {
+      "british": "/ɡet ˈɪntuː/ 🇬🇧",
+      "american": "/ɡet ˈɪntu/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "常用 👍：可指进入某地、卷入某事、对某事产生兴趣等。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "进入（地方/车辆）",
+          "english": "To enter a place, vehicle, or situation."
+        },
+        "examples": [
+          {
+            "sentence": "She got into the car quickly.",
+            "translation": "她迅速上了车。"
+          }
+        ]
+      },
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "对…产生兴趣",
+          "english": "To become interested in something."
+        },
+        "examples": [
+          {
+            "sentence": "He’s really getting into photography.",
+            "translation": "他现在非常喜欢摄影。"
+          }
+        ]
+      },
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "陷入（困境/争吵）",
+          "english": "To become involved in something, often unpleasant."
+        },
+        "examples": [
+          {
+            "sentence": "They got into trouble with the police.",
+            "translation": "他们和警察惹上了麻烦。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "get on",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "上车/相处",
+          "english": "To board or to have a relationship."
+        },
+        "examples": [
+          {
+            "sentence": "She got on the bus.",
+            "translation": "她上了公交车。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义短语",
+        "explanation": "需结合上下文判断是物理上的“进入”，还是比喻上的“卷入/感兴趣”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "基础含义是“进入”，随后引申为“进入某种状态/情境”。",
+      "explanation_english": "Core sense is physical entry, extended metaphorically to states or activities."
+    },
+    "variation_between_british_american": {
+      "british": "常用法一致。",
+      "american": "相同，无显著差异。"
+    }
+  },
+  {
+    "word": "outgrew",
+    "pronunciation": {
+      "british": "/aʊtˈɡruː/ 🇬🇧",
+      "american": "/aʊtˈɡruː/ 🇺🇸"
+    },
+    "phrase_type": "verb (past tense of 'outgrow')",
+    "usage": "常用：多指衣物、习惯、阶段‘长大而不再适合’。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "长大而不再适合",
+          "english": "To grow too large for something."
+        },
+        "examples": [
+          {
+            "sentence": "She outgrew her shoes quickly.",
+            "translation": "她很快就穿不下鞋了。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "长大而不再需要/喜欢",
+          "english": "To stop doing or liking something as one becomes older."
+        },
+        "examples": [
+          {
+            "sentence": "He outgrew his fear of the dark.",
+            "translation": "他长大后不再害怕黑暗。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "outgrow",
+        "type": "verb",
+        "definition": {
+          "chinese": "逐渐不再需要",
+          "english": "To leave something behind as you grow."
+        },
+        "examples": [
+          {
+            "sentence": "Kids often outgrow their toys.",
+            "translation": "孩子们常常会逐渐不再玩他们的玩具。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "不仅限于衣物，也可指心理或习惯的变化。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "基础含义为“长得超过”，引申为“不再适合/需要”。",
+      "explanation_english": "Base sense is 'to grow beyond,' extended to habits and stages in life."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "bowel movement",
+    "pronunciation": {
+      "british": "/ˈbaʊəl ˌmuːvmənt/ 🇬🇧",
+      "american": "/ˈbaʊəl ˌmuːvmənt/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "医学和日常生活中使用，用于描述排便。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "排便",
+          "english": "The act of passing solid waste from the body."
+        },
+        "examples": [
+          {
+            "sentence": "The patient reported having regular bowel movements.",
+            "translation": "病人说他的排便很规律。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "stool",
+        "type": "noun",
+        "definition": {
+          "chinese": "大便",
+          "english": "Solid waste discharged from the body."
+        },
+        "examples": [
+          {
+            "sentence": "The doctor asked for a stool sample.",
+            "translation": "医生要求提供一个粪便样本。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "较正式/医学用语",
+        "explanation": "在日常口语中，人们更常说 'poop' 或 'go to the bathroom'。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由解剖学词汇 'bowel'（肠子）+ 'movement'（运动）组成，直接指肠道的蠕动。",
+      "explanation_english": "Formed from 'bowel' (intestine) + 'movement,' meaning intestinal action."
+    },
+    "variation_between_british_american": {
+      "british": "更常用 'bowel movement' 或 'open bowels'。",
+      "american": "常用 'bowel movement'，口语中会说 'poop'。"
+    }
   }
 ]
 
