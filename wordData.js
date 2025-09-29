@@ -36919,6 +36919,207 @@ const wordData = [
       "british": "更常用 'bowel movement' 或 'open bowels'。",
       "american": "常用 'bowel movement'，口语中会说 'poop'。"
     }
+  },
+  {
+    "word": "come clean",
+    "pronunciation": {
+      "british": "/kʌm kliːn/ 🇬🇧",
+      "american": "/kʌm kliːn/ 🇺🇸"
+    },
+    "phrase_type": "idiom / phrasal verb",
+    "usage": "常用 👍：指承认实情、坦白交代，多用于非正式口语。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "坦白，承认实情",
+          "english": "To confess or admit the truth about something."
+        },
+        "examples": [
+          {
+            "sentence": "He finally came clean about what happened.",
+            "translation": "他终于坦白了事情的真相。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "confess",
+        "type": "verb",
+        "definition": {
+          "chinese": "承认，供认",
+          "english": "To admit to something, usually reluctantly."
+        },
+        "examples": [
+          {
+            "sentence": "She confessed to the crime.",
+            "translation": "她承认了犯罪。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "非字面用法",
+        "explanation": "虽然字面意思是“变干净”，但实际上是习语，指心灵上的坦白。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自比喻意义，把真相说出来就像“洗干净”一样。",
+      "explanation_english": "Figurative extension: telling the truth makes one feel 'clean' or free of guilt."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "常用于口语，尤其在日常对话。"
+    }
+  },
+  {
+    "word": "turn back",
+    "pronunciation": {
+      "british": "/tɜːn bæk/ 🇬🇧",
+      "american": "/tɝːn bæk/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "常用 👍：可以指物理上的“掉头、返回”，也可以指比喻上的“恢复到过去”。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "折返，掉头",
+          "english": "To reverse direction and return to where one came from."
+        },
+        "examples": [
+          {
+            "sentence": "We had to turn back because of the storm.",
+            "translation": "因为暴风雨我们不得不折返。"
+          }
+        ]
+      },
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "阻止，挡回",
+          "english": "To stop or force something/someone to go back."
+        },
+        "examples": [
+          {
+            "sentence": "The guards turned back the protesters.",
+            "translation": "警卫把抗议者拦了回去。"
+          }
+        ]
+      },
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "回到过去的状态（比喻）",
+          "english": "To return to a previous condition or time (figurative)."
+        },
+        "examples": [
+          {
+            "sentence": "You can’t turn back the clock.",
+            "translation": "你无法倒转时光。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "go back",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "回去",
+          "english": "To return to a place or time."
+        },
+        "examples": [
+          {
+            "sentence": "He went back to his hometown.",
+            "translation": "他回到了故乡。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "字面与比喻",
+        "explanation": "既可字面指掉头返回，也常用于比喻语境。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "基础含义是“转身返回”，后来引申为“回到原点/恢复旧状态”。",
+      "explanation_english": "Core sense is physical reversal, extended metaphorically to time or conditions."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "常用于日常和文学表达。"
+    }
+  },
+  {
+    "word": "cherish",
+    "pronunciation": {
+      "british": "/ˈtʃerɪʃ/ 🇬🇧",
+      "american": "/ˈtʃerɪʃ/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用于文学、感情表达 👍：指珍视、珍爱（人、记忆、情感）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "珍爱，爱护",
+          "english": "To hold dear; to care for someone or something deeply."
+        },
+        "examples": [
+          {
+            "sentence": "He cherished his family above all else.",
+            "translation": "他最珍视的是家人。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "珍藏，怀有（想法/感情）",
+          "english": "To keep or hold an idea, feeling, or memory in one’s mind."
+        },
+        "examples": [
+          {
+            "sentence": "She cherished the memory of her childhood home.",
+            "translation": "她珍藏着童年故居的回忆。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "treasure",
+        "type": "verb",
+        "definition": {
+          "chinese": "珍视",
+          "english": "To value greatly; to regard as precious."
+        },
+        "examples": [
+          {
+            "sentence": "I treasure our friendship.",
+            "translation": "我珍惜我们的友谊。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "感情色彩",
+        "explanation": "比 'like' 或 'value' 更强烈，更偏向于情感层面的珍视。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古法语 'cherir'（爱，珍爱），与 'cher'（亲爱的）相关，本义即珍视。",
+      "explanation_english": "From Old French 'cherir' (to hold dear), from 'cher' (dear), meaning has always carried affection."
+    },
+    "variation_between_british_american": {
+      "british": "多用于文学或正式语境。",
+      "american": "在日常口语和感情表达中也常用。"
+    }
   }
 ]
 
