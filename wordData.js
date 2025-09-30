@@ -37120,6 +37120,181 @@ const wordData = [
       "british": "多用于文学或正式语境。",
       "american": "在日常口语和感情表达中也常用。"
     }
+  },
+  {
+    "word": "a king-size bed",
+    "pronunciation": {
+      "british": "/ə ˈkɪŋ saɪz bed/ 🇬🇧",
+      "american": "/ə ˈkɪŋ saɪz bed/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用 👍：酒店和家居语境中，用于描述最大规格的双人床。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "特大号床",
+          "english": "A very large double bed, larger than a queen-size bed."
+        },
+        "examples": [
+          {
+            "sentence": "We booked a hotel room with a king-size bed.",
+            "translation": "我们订了一间有特大号床的酒店房间。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "queen-size bed",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "大号床",
+          "english": "A large bed, smaller than a king-size bed."
+        },
+        "examples": [
+          {
+            "sentence": "They usually sleep in a queen-size bed.",
+            "translation": "他们通常睡在一张大号床上。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "尺寸差异",
+        "explanation": "英式和美式 'king-size bed' 尺寸并不一样。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于美国酒店业的营销用语，用“king”比喻极大尺寸。",
+      "explanation_english": "From U.S. hotel marketing, 'king' used figuratively to indicate the largest size."
+    },
+    "variation_between_british_american": {
+      "british": "英国 king-size = 约 150cm 宽。",
+      "american": "美国 king-size = 约 193cm 宽，比英式更大。"
+    }
+  },
+  {
+    "word": "a king-size bed",
+    "pronunciation": {
+      "british": "/ə ˈkɪŋ saɪz bed/ 🇬🇧",
+      "american": "/ə ˈkɪŋ saɪz bed/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用 👍：酒店和家居语境中，用于描述最大规格的双人床。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "特大号床",
+          "english": "A very large double bed, larger than a queen-size bed."
+        },
+        "examples": [
+          {
+            "sentence": "We booked a hotel room with a king-size bed.",
+            "translation": "我们订了一间有特大号床的酒店房间。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "queen-size bed",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "大号床",
+          "english": "A large bed, smaller than a king-size bed."
+        },
+        "examples": [
+          {
+            "sentence": "They usually sleep in a queen-size bed.",
+            "translation": "他们通常睡在一张大号床上。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "尺寸差异",
+        "explanation": "英式和美式 'king-size bed' 尺寸并不一样。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于美国酒店业的营销用语，用“king”比喻极大尺寸。",
+      "explanation_english": "From U.S. hotel marketing, 'king' used figuratively to indicate the largest size."
+    },
+    "variation_between_british_american": {
+      "british": "英国 king-size = 约 150cm 宽。",
+      "american": "美国 king-size = 约 193cm 宽，比英式更大。"
+    }
+  },
+  {
+    "word": "veracity",
+    "pronunciation": {
+      "british": "/vəˈræsəti/ 🇬🇧",
+      "american": "/vəˈræsəti/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "较正式 👍：多用于书面语或学术语境，表示真实性、诚实。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "真实性，准确性",
+          "english": "The quality of being true, accurate, or honest."
+        },
+        "examples": [
+          {
+            "sentence": "The lawyer questioned the veracity of the witness’s statement.",
+            "translation": "律师质疑证人陈述的真实性。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "诚实，诚恳",
+          "english": "Habitual truthfulness; honesty."
+        },
+        "examples": [
+          {
+            "sentence": "She is known for her veracity and integrity.",
+            "translation": "她以诚实和正直而闻名。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "truthfulness",
+        "type": "noun",
+        "definition": {
+          "chinese": "真实，诚实",
+          "english": "The fact of being true or honest."
+        },
+        "examples": [
+          {
+            "sentence": "He valued her truthfulness.",
+            "translation": "他看重她的诚实。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式程度高",
+        "explanation": "比 'truth' 更正式，常用于法律、学术和文学。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 'verax'（真实的），本义即“真实”，没有太多后期引申。",
+      "explanation_english": "From Latin 'verax' meaning truthful, its senses remain close to the original."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式场合或新闻报道。",
+      "american": "用法相同，也偏书面化。"
+    }
   }
 ]
 
