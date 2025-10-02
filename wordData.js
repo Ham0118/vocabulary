@@ -37295,7 +37295,128 @@ const wordData = [
       "british": "常用于正式场合或新闻报道。",
       "american": "用法相同，也偏书面化。"
     }
-  }
+  },
+  {
+    "word": "take pride in",
+    "pronunciation": {
+      "british": "/teɪk praɪd ɪn/ 🇬🇧",
+      "american": "/teɪk praɪd ɪn/ 🇺🇸"
+    },
+    "phrase_type": "verb phrase 短语动词",
+    "usage": "常用 👍：表示对某事或某人感到自豪。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "以……为傲",
+          "english": "To feel proud or take satisfaction in something."
+        },
+        "examples": [
+          {
+            "sentence": "She takes pride in her cooking.",
+            "translation": "她为自己的厨艺感到自豪。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "be proud of",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "为……感到骄傲",
+          "english": "To feel deep pleasure or satisfaction because of achievements or qualities."
+        },
+        "examples": [
+          {
+            "sentence": "He is proud of his daughter.",
+            "translation": "他为自己的女儿感到骄傲。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "书面和口语均常见",
+        "explanation": "比单纯说 proud 更强调个人投入和满足感。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "该短语直译为“在……中拥有自豪”，语义上很直白，没有额外延伸。",
+      "explanation_english": "Literal phrase meaning 'hold pride inside something,' naturally used figuratively without major semantic shift."
+    },
+    "variation_between_british_american": {
+      "british": "常用于个人品质或成就。",
+      "american": "在日常口语里也用于小事，比如干净的院子、做饭等。"
+    }
+  },
+  {
+    "word": "more of",
+    "pronunciation": {
+      "british": "/mɔː(r) əv/ 🇬🇧",
+      "american": "/mɔːr əv/ 🇺🇸"
+    },
+    "phrase_type": "expression 表达",
+    "usage": "常用 👍：用来比较或说明某人/某物更像是某个类型或倾向。",
+    "meanings": [
+      {
+        "type": "expression",
+        "definition": {
+          "chinese": "更像是……，与其说是……不如说是……",
+          "english": "Used to indicate that something is better described as one thing rather than another."
+        },
+        "examples": [
+          {
+            "sentence": "It’s more of a hobby than a job.",
+            "translation": "这与其说是工作，不如说是爱好。"
+          }
+        ]
+      },
+      {
+        "type": "expression",
+        "definition": {
+          "chinese": "更……一点",
+          "english": "To a greater degree of something."
+        },
+        "examples": [
+          {
+            "sentence": "Can you give me more of that cake?",
+            "translation": "能再给我多一点那个蛋糕吗？"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "rather",
+        "type": "adverb",
+        "definition": {
+          "chinese": "更确切地说",
+          "english": "Used to introduce a correction or refinement."
+        },
+        "examples": [
+          {
+            "sentence": "It’s not cheap, rather affordable.",
+            "translation": "它并不便宜，更确切地说是实惠。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语非常常见",
+        "explanation": "尤其用于澄清或修正别人可能的误解。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "“more”原意是“更多”，后被语法化用于比较类别或性质，所以出现“更像是”与“更多”的双重用法。",
+      "explanation_english": "Originally 'more' meant 'greater in amount,' later extended to comparisons of type or category, leading to the sense 'more like.'"
+    },
+    "variation_between_british_american": {
+      "british": "常用于委婉表达：It's more of a suggestion than a rule.",
+      "american": "口语中很普遍，强调修正别人说法：It’s more of an observation."
+    }
+  },
 ]
 
 
