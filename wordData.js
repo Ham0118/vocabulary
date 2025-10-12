@@ -22665,43 +22665,6 @@ const wordData = [
     }
   },
   {
-    "word": "sufficient",
-    "pronunciation": {
-      "british": "/səˈfɪʃənt/ 🇬🇧",
-      "american": "/səˈfɪʃənt/ 🇺🇸"
-    },
-    "part_of_speech": "adjective",
-    "usage": "用于表达数量、程度、资源等方面的“足够”。",
-    "meanings": [
-      {
-        "definition": {
-          "chinese": "足够的；充足的",
-          "english": "Enough to meet the needs of a situation or a proposed end."
-        },
-        "examples": [
-          {
-            "sentence": "There was sufficient food for everyone.",
-            "translation": "每个人都有足够的食物。"
-          },
-          {
-            "sentence": "His explanation was not sufficient to satisfy the committee.",
-            "translation": "他的解释不足以令委员会满意。"
-          }
-        ]
-      }
-    ],
-    "related_words": ["adequate", "ample", "plenty of"],
-    "usage_notes": "'Sufficient' 较为正式，口语中更常用 'enough'。",
-    "origin_of_multiple_meanings": {
-      "explanation_chinese": "来自拉丁语 *sufficere*，意为“使满足”。",
-      "explanation_english": "From Latin *sufficere*, meaning 'to meet the need'."
-    },
-    "variation_between_british_american": {
-      "british": "通用",
-      "american": "通用"
-    }
-  },
-  {
     "word": "starchy",
     "pronunciation": {
       "british": "/ˈstɑː.tʃi/ 🇬🇧",
@@ -37417,6 +37380,936 @@ const wordData = [
       "american": "口语中很普遍，强调修正别人说法：It’s more of an observation."
     }
   },
+  {
+    "word": "knocked over",
+    "pronunciation": {
+      "british": "/nɒkt ˈoʊvər/ 🇬🇧",
+      "american": "/nɑːkt ˈoʊvɚ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：既可字面表示“被撞倒”，也可比喻表示“被抢劫/翻动”。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "撞倒，推倒",
+          "english": "To cause something or someone to fall over physically."
+        },
+        "examples": [
+          {
+            "sentence": "The child knocked over the vase.",
+            "translation": "孩子把花瓶撞倒了。"
+          }
+        ]
+      },
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "抢劫，劫持（口语/非正式）",
+          "english": "To rob or attack, often used for convenience stores or banks (informal)."
+        },
+        "examples": [
+          {
+            "sentence": "The convenience store was knocked over last night.",
+            "translation": "那家便利店昨晚被抢劫了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "topple",
+        "type": "verb",
+        "definition": {
+          "chinese": "使倒塌，推翻",
+          "english": "To fall or push over, often used for objects or structures."
+        },
+        "examples": [
+          {
+            "sentence": "The statue was toppled by strong winds.",
+            "translation": "雕像被大风吹倒了。"
+          }
+        ]
+      },
+      {
+        "word": "rob",
+        "type": "verb",
+        "definition": {
+          "chinese": "抢劫",
+          "english": "To take property unlawfully from a person or place."
+        },
+        "examples": [
+          {
+            "sentence": "The bank was robbed yesterday.",
+            "translation": "银行昨天被抢了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语与书面差异",
+        "explanation": "字面意思更正式，比喻意思通常出现在新闻标题或口语描述。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘knock over’本义是‘撞倒’，后因便利表达延伸出抢劫场景的口语用法。",
+      "explanation_english": "Originally meant to physically topple; extended informally to mean robbery in English usage."
+    },
+    "variation_between_british_american": {
+      "british": "比喻用法常见于新闻报道：‘shop knocked over’。",
+      "american": "口语中也常用，比喻抢劫场景更普遍。"
+    }
+  },
+  {
+    "word": "chase after",
+    "pronunciation": {
+      "british": "/tʃeɪs ˈɑːftər/ 🇬🇧",
+      "american": "/tʃeɪs ˈæftɚ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：表示追逐某物或某人，既可字面也可比喻。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "追赶，追逐",
+          "english": "To run after someone or something in order to catch them."
+        },
+        "examples": [
+          {
+            "sentence": "The dog chased after the ball.",
+            "translation": "狗追着球跑。"
+          }
+        ]
+      },
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "追求（目标/机会），努力争取",
+          "english": "To actively pursue a goal, opportunity, or person."
+        },
+        "examples": [
+          {
+            "sentence": "He spent years chasing after his dream of becoming an actor.",
+            "translation": "他花了多年时间追求成为演员的梦想。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "pursue",
+        "type": "verb",
+        "definition": {
+          "chinese": "追求，追逐",
+          "english": "To follow or strive to achieve something over time."
+        },
+        "examples": [
+          {
+            "sentence": "She pursued a career in medicine.",
+            "translation": "她从事医学事业。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "字面与比喻",
+        "explanation": "既可指实际追赶，也可指努力争取目标。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘chase’原意为追逐，‘after’强化方向，后来引申为追求目标或机会。",
+      "explanation_english": "‘Chase’ originally meant to pursue physically; adding ‘after’ emphasizes direction and later extended metaphorically to pursuing goals."
+    },
+    "variation_between_british_american": {
+      "british": "口语和书面语均常见，追逐运动或机会都可用。",
+      "american": "口语中更偏向比喻意义，如追求梦想或机会。"
+    }
+  },
+  {
+    "word": "drain",
+    "pronunciation": {
+      "british": "/dreɪn/ 🇬🇧",
+      "american": "/dreɪn/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：可作动词表示“排出液体、耗尽”，也可作名词表示“排水管”或“负担”。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "排出（液体），放干",
+          "english": "To cause liquid to flow away from something; to make dry or empty."
+        },
+        "examples": [
+          {
+            "sentence": "Drain the pasta before adding the sauce.",
+            "translation": "在加酱汁前先把意面沥干。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "耗尽，使精疲力尽",
+          "english": "To gradually use up or reduce resources, energy, or enthusiasm."
+        },
+        "examples": [
+          {
+            "sentence": "The long meeting drained my energy.",
+            "translation": "那场漫长的会议让我精疲力尽。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "排水管，下水道",
+          "english": "A pipe or channel that carries away liquid waste or rainwater."
+        },
+        "examples": [
+          {
+            "sentence": "The kitchen drain is clogged.",
+            "translation": "厨房下水道堵了。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "消耗，负担",
+          "english": "A continuous loss or depletion of something valuable, like money or energy."
+        },
+        "examples": [
+          {
+            "sentence": "The rent is a real drain on my income.",
+            "translation": "房租真是我收入的一大负担。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "exhaust",
+        "type": "verb",
+        "definition": {
+          "chinese": "耗尽，使筋疲力尽",
+          "english": "To use up completely or to make someone very tired."
+        },
+        "examples": [
+          {
+            "sentence": "The work exhausted him completely.",
+            "translation": "这项工作让他筋疲力尽。"
+          }
+        ]
+      },
+      {
+        "word": "pipe",
+        "type": "noun",
+        "definition": {
+          "chinese": "管道",
+          "english": "A tube through which liquids or gases can flow."
+        },
+        "examples": [
+          {
+            "sentence": "A water pipe burst under the sink.",
+            "translation": "水槽下的水管爆裂了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语义范围广",
+        "explanation": "‘drain’既能描述物理动作（排水），也常用于比喻心理或资源消耗。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语“drēahnian”（使流出），最初指“排水”，后来比喻“耗尽资源”。",
+      "explanation_english": "From Old English 'drēahnian' meaning 'to cause to flow out'; extended metaphorically to mean 'to deplete or exhaust.'"
+    },
+    "variation_between_british_american": {
+      "british": "‘drain’作名词时常用于‘the drains’指整个下水系统。",
+      "american": "常用在口语中如‘energy drain’‘money drain’表达负担或消耗。"
+    }
+  },
+  {
+    "word": "lumps",
+    "pronunciation": {
+      "british": "/lʌmps/ 🇬🇧",
+      "american": "/lʌmps/ 🇺🇸"
+    },
+    "phrase_type": "noun (plural)/verb 动词与名词复数",
+    "usage": "常用 👍：可指块状物、肿块，或作动词表示“归为一类”。",
+    "meanings": [
+      {
+        "type": "noun (plural)",
+        "definition": {
+          "chinese": "块，肿块",
+          "english": "Small pieces or masses of a substance without a definite shape."
+        },
+        "examples": [
+          {
+            "sentence": "There are lumps in the soup.",
+            "translation": "汤里有一些结块。"
+          },
+          {
+            "sentence": "She found lumps in her neck.",
+            "translation": "她在脖子上摸到一些肿块。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "把……归为一类（常带负面语气）",
+          "english": "To group things or people together indiscriminately."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t lump all teenagers together.",
+            "translation": "不要把所有青少年都一概而论。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bump",
+        "type": "noun",
+        "definition": {
+          "chinese": "鼓起的包，碰撞处",
+          "english": "A raised area or swelling on a surface or body."
+        },
+        "examples": [
+          {
+            "sentence": "He had a bump on his head after the fall.",
+            "translation": "摔倒后他头上起了个包。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "可作身体或物质用语",
+        "explanation": "语义随上下文变化明显，既可指实物块，也可指身体异常。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "古英语“lump”意为“一块实心物”，后来延伸出抽象含义“把事物混为一谈”。",
+      "explanation_english": "From Middle English 'lumpe' meaning a small compact mass, later figuratively used for grouping ideas or people together."
+    },
+    "variation_between_british_american": {
+      "british": "常用于食物或身体检查语境。",
+      "american": "除字面意思外，也有比喻义，如 'take your lumps'（接受惩罚或挫折）。"
+    }
+  },
+  {
+    "word": "instigated",
+    "pronunciation": {
+      "british": "/ˈɪnstɪɡeɪtɪd/ 🇬🇧",
+      "american": "/ˈɪnstɪɡeɪtɪd/ 🇺🇸"
+    },
+    "phrase_type": "verb (past tense/past participle) 动词过去式/过去分词",
+    "usage": "正式用语 ⚖️：常指挑起、煽动或发起某事（尤其负面事件）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "煽动，唆使，发起",
+          "english": "To provoke or initiate an action or event, often something negative."
+        },
+        "examples": [
+          {
+            "sentence": "They instigated a protest against the policy.",
+            "translation": "他们煽动了一场反对该政策的抗议。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "incite",
+        "type": "verb",
+        "definition": {
+          "chinese": "鼓动，煽动",
+          "english": "To encourage or stir up violent or unlawful behavior."
+        },
+        "examples": [
+          {
+            "sentence": "He was accused of inciting violence.",
+            "translation": "他被指控煽动暴力。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气正式且偏负面",
+        "explanation": "常用于政治、法律语境；比 start 更有‘挑起’意味。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语“instigare”（驱使、刺激），后扩展为“挑起事件”。",
+      "explanation_english": "From Latin 'instigare' meaning 'to urge on or stimulate,' later extended to initiating conflict or action."
+    },
+    "variation_between_british_american": {
+      "british": "多用于新闻、政府报告。",
+      "american": "常出现在法律或历史语境中，如‘instigated by outsiders.’"
+    }
+  },
+  {
+    "word": "habitually",
+    "pronunciation": {
+      "british": "/həˈbɪtʃuəli/ 🇬🇧",
+      "american": "/həˈbɪtʃuəli/ 🇺🇸"
+    },
+    "phrase_type": "adverb 副词",
+    "usage": "正式与书面语常见 📖：表示“习惯性地”或“惯常地”。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "习惯性地，经常地",
+          "english": "Usually or by habit; done regularly."
+        },
+        "examples": [
+          {
+            "sentence": "He habitually arrives late to meetings.",
+            "translation": "他开会总是习惯性迟到。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "routinely",
+        "type": "adverb",
+        "definition": {
+          "chinese": "例行地，惯常地",
+          "english": "As part of a regular procedure or habit."
+        },
+        "examples": [
+          {
+            "sentence": "The reports are routinely checked for errors.",
+            "translation": "报告会被例行检查错误。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气略正式",
+        "explanation": "多用于书面或带批评语气的场合，如‘habitually dishonest’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 habit（习惯），加副词后缀 -ually，原义保持一致，无显著语义扩展。",
+      "explanation_english": "Derived from 'habit' + '-ually'; retains the sense of 'by habit,' no major semantic change."
+    },
+    "variation_between_british_american": {
+      "british": "较正式，书面语中更常见。",
+      "american": "常用于强调某人一贯的行为：He’s habitually late."
+    }
+  },
+  {
+    "word": "homophobia",
+    "pronunciation": {
+      "british": "/ˌhəʊməˈfəʊbiə/ 🇬🇧",
+      "american": "/ˌhoʊməˈfoʊbiə/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "正式用语 ⚖️：指对同性恋者的恐惧、厌恶或偏见。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "恐同，仇视同性恋",
+          "english": "Dislike of or prejudice against homosexual people."
+        },
+        "examples": [
+          {
+            "sentence": "The campaign aims to fight homophobia in schools.",
+            "translation": "该活动旨在打击学校中的恐同现象。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "xenophobia",
+        "type": "noun",
+        "definition": {
+          "chinese": "排外心理",
+          "english": "Dislike or fear of people from other countries."
+        },
+        "examples": [
+          {
+            "sentence": "Xenophobia often rises during economic crises.",
+            "translation": "经济危机期间排外心理常常上升。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "社会议题用语",
+        "explanation": "常用于媒体、教育、政治讨论中，语气严肃。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由“homo（同性）”和“phobia（恐惧）”组成，本意为恐惧，后延伸为偏见。",
+      "explanation_english": "From 'homo-' (same) + '-phobia' (fear). Initially meant fear, later extended to prejudice or hostility."
+    },
+    "variation_between_british_american": {
+      "british": "在英国公共话语中非常常见，常与‘hate crime’相关。",
+      "american": "在美国媒体中也普遍使用，但更强调‘social discrimination’的层面。"
+    }
+  },
+  {
+    "word": "sole purpose in life",
+    "pronunciation": {
+      "british": "/səʊl ˈpɜːpəs ɪn laɪf/ 🇬🇧",
+      "american": "/soʊl ˈpɜːrpəs ɪn laɪf/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase 名词短语",
+    "usage": "常用于强调某人一生中唯一的目标或动力 💡，带有强烈情感色彩，常出现在励志、浪漫或哲理语境中。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "人生唯一的目的（或意义）",
+          "english": "The only goal, reason, or motivation that gives someone's life meaning."
+        },
+        "examples": [
+          {
+            "sentence": "Her sole purpose in life is to help abandoned animals.",
+            "translation": "她一生唯一的目标就是帮助被遗弃的动物。"
+          },
+          {
+            "sentence": "He felt as if his sole purpose in life had been fulfilled.",
+            "translation": "他感觉自己的人生唯一的意义已经实现了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "life goal",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "人生目标",
+          "english": "A long-term aim or ambition in life."
+        },
+        "examples": [
+          {
+            "sentence": "Her life goal is to become a doctor.",
+            "translation": "她的人生目标是成为一名医生。"
+          }
+        ]
+      },
+      {
+        "word": "reason for living",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "活着的理由",
+          "english": "Something that makes life worth living."
+        },
+        "examples": [
+          {
+            "sentence": "After his daughter was born, she became his reason for living.",
+            "translation": "女儿出生后，她成了他活着的理由。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气强调",
+        "explanation": "“sole” 表示“唯一的”，与 “purpose in life” 搭配时，语气非常强烈，常用于表达某人全身心投入的信念或动力。"
+      },
+      {
+        "point": "语义氛围",
+        "explanation": "可用于正面（如‘帮助他人’）或反面（如‘复仇’）语境，取决于上下文。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "“sole” 原意为“唯一的”，来源于拉丁语 *solus*；“purpose in life” 原为普通表达，组合后形成固定搭配，用以强调人生唯一意义。多义性主要来自“purpose”的延伸义（目标、意义、原因）。",
+      "explanation_english": "‘Sole’ comes from Latin *solus* meaning ‘alone’ or ‘only’. ‘Purpose’ originally meant ‘intention’ or ‘aim’. When combined, the phrase emphasizes exclusivity of meaning in one’s life. The variety of tone arises from emotional or moral context rather than lexical ambiguity."
+    },
+    "variation_between_british_american": {
+      "british": "常用于哲理或文学语境，语气更内省。",
+      "american": "更常见于励志或浪漫语境，如电影台词或个人宣言。"
+    }
+  },
+  {
+  "word": "field goal percentage",
+  "pronunciation": {
+    "british": "/ˈfiːld ɡəʊl pəˈsɛntɪdʒ/ 🇬🇧",
+    "american": "/ˈfiːld ɡoʊl pərˈsɛntɪdʒ/ 🇺🇸"
+  },
+  "phrase_type": "noun phrase 名词短语（篮球术语）",
+  "usage": "🏀 在篮球中常用，指投篮命中率；用于统计分析、比赛解说等语境。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "投篮命中率",
+        "english": "The ratio of field goals made to field goals attempted, expressed as a percentage."
+      },
+      "examples": [
+        {
+          "sentence": "He has a field goal percentage of over 50%.",
+          "translation": "他的投篮命中率超过 50%。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "free throw percentage",
+      "type": "noun phrase",
+      "definition": {
+        "chinese": "罚球命中率",
+        "english": "The percentage of free throws successfully made."
+      },
+      "examples": [
+        {
+          "sentence": "Her free throw percentage has improved this season.",
+          "translation": "她本赛季的罚球命中率有所提升。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "field goal 含义",
+      "explanation": "在篮球中 ‘field goal’ 指除罚球外的任何得分投篮。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "‘field goal’ 原意为“场上投篮”来自体育术语；‘percentage’ 为统计学用词，组合后成为标准数据指标。",
+    "explanation_english": "‘Field goal’ originally referred to any goal scored in play (field), not from a free throw; combining with ‘percentage’ created a statistical term."
+  },
+  "variation_between_british_american": {
+    "british": "较少使用（篮球术语多为美式）。",
+    "american": "常见于体育媒体、NBA 数据统计。"
+  }
+},
+{
+  "word": "on its way",
+  "pronunciation": {
+    "british": "/ɒn ɪts weɪ/ 🇬🇧",
+    "american": "/ɑːn ɪts weɪ/ 🇺🇸"
+  },
+  "phrase_type": "idiom 常用短语",
+  "usage": "🚚 表示“正在前往”或“即将发生”，在生活和商业中都极常见。",
+  "meanings": [
+    {
+      "type": "phrase",
+      "definition": {
+        "chinese": "在路上；即将到来",
+        "english": "In the process of coming, going, or happening soon."
+      },
+      "examples": [
+        {
+          "sentence": "Your package is on its way.",
+          "translation": "你的包裹正在路上。"
+        },
+        {
+          "sentence": "Summer is on its way.",
+          "translation": "夏天就要来了。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "on the way",
+      "type": "idiom",
+      "definition": {
+        "chinese": "在途中",
+        "english": "While traveling from one place to another."
+      },
+      "examples": [
+        {
+          "sentence": "We stopped for coffee on the way home.",
+          "translation": "我们在回家的路上停下来喝了杯咖啡。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "its 与 the 的区别",
+      "explanation": "‘on its way’ 强调主语自身的行动或进程（如‘The train is on its way’），而‘on the way’较一般。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自字面含义‘在它的路上’，后引申为‘进展中’或‘即将到来’。",
+    "explanation_english": "Literal origin ‘on its path or route’; later extended metaphorically to mean ‘in progress’ or ‘upcoming’."
+  },
+  "variation_between_british_american": {
+    "british": "更常用于自然描述（天气、季节）。",
+    "american": "常用于物流、通知等日常场景。"
+  }
+},
+{
+  "word": "formidable",
+  "pronunciation": {
+    "british": "/ˈfɔːmɪdəbl/ 🇬🇧",
+    "american": "/ˈfɔːrmɪdəbl/ 🇺🇸"
+  },
+  "phrase_type": "adjective 形容词",
+  "usage": "💪 表示“强大的、令人敬畏的、难以对付的”；常用于人、任务、对手。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "强大的；令人畏惧的",
+        "english": "Inspiring fear or respect through being impressively large, powerful, or capable."
+      },
+      "examples": [
+        {
+          "sentence": "She was a formidable lawyer with decades of experience.",
+          "translation": "她是一位经验丰富、令人敬畏的律师。"
+        },
+        {
+          "sentence": "Climbing that mountain is a formidable challenge.",
+          "translation": "攀登那座山是一项艰巨的挑战。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "intimidating",
+      "type": "adjective",
+      "definition": {
+        "chinese": "令人生畏的",
+        "english": "Frightening or discouraging through appearance or manner."
+      },
+      "examples": [
+        {
+          "sentence": "He can seem intimidating at first.",
+          "translation": "他一开始看起来让人害怕。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "语气层次",
+      "explanation": "‘formidable’ 带有敬畏与尊重，而非单纯恐惧。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 *formidare*（害怕），后转义为‘强大到令人敬畏’。",
+    "explanation_english": "From Latin *formidare* ‘to fear’; meaning evolved to describe something so powerful it commands respect."
+  },
+  "variation_between_british_american": {
+    "british": "常用于正式场合或文学表达。",
+    "american": "语气稍轻，也可带褒义，如“a formidable team”。"
+  }
+},
+{
+  "word": "mash up",
+  "pronunciation": {
+    "british": "/mæʃ ʌp/ 🇬🇧",
+    "american": "/mæʃ ʌp/ 🇺🇸"
+  },
+  "phrase_type": "phrasal verb 短语动词",
+  "usage": "🍠 可指把食物捣碎，也可比喻“混合、融合不同元素”（如音乐、视频）。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "捣碎（食物）",
+        "english": "To crush food into a soft mass."
+      },
+      "examples": [
+        {
+          "sentence": "Mash up the avocado with a fork.",
+          "translation": "用叉子把牛油果捣碎。"
+        }
+      ]
+    },
+    {
+      "type": "verb (figurative)",
+      "definition": {
+        "chinese": "融合不同元素（如歌曲、影像）",
+        "english": "To combine elements from different sources, especially in media or art."
+      },
+      "examples": [
+        {
+          "sentence": "The DJ mashed up two classic songs into one track.",
+          "translation": "DJ 把两首经典歌曲混合成了一首曲子。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "blend",
+      "type": "verb",
+      "definition": {
+        "chinese": "混合",
+        "english": "To mix different things together smoothly."
+      },
+      "examples": [
+        {
+          "sentence": "Blend the ingredients until smooth.",
+          "translation": "把食材搅拌至顺滑。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "比喻意义",
+      "explanation": "‘mash up’ 从食物延伸至音乐和媒体领域，是典型的语义比喻演变。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "原意‘捣碎’，后引申为‘把不同素材捣在一起’，表示混搭。",
+    "explanation_english": "Originally meant ‘to crush or smash’; extended metaphorically to ‘mix elements together’ in music or art."
+  },
+  "variation_between_british_american": {
+    "british": "在音乐圈中‘mash-up’名词更常见。",
+    "american": "口语和网络文化中使用更广。"
+  }
+},
+{
+  "word": "sprinkle",
+  "pronunciation": {
+    "british": "/ˈsprɪŋkl/ 🇬🇧",
+    "american": "/ˈsprɪŋkəl/ 🇺🇸"
+  },
+  "phrase_type": "verb/noun 动词/名词",
+  "usage": "🍩 表示轻轻洒上或点缀；常用于烹饪或比喻‘少量添加’。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "洒；撒上",
+        "english": "To scatter small drops or particles of a substance over something."
+      },
+      "examples": [
+        {
+          "sentence": "Sprinkle salt over the salad.",
+          "translation": "在沙拉上撒点盐。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "少量；点点滴滴",
+        "english": "A small amount of something scattered or spread."
+      },
+      "examples": [
+        {
+          "sentence": "A sprinkle of sugar makes it perfect.",
+          "translation": "撒一点糖就完美了。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "scatter",
+      "type": "verb",
+      "definition": {
+        "chinese": "撒；散布",
+        "english": "To throw or spread things over an area."
+      },
+      "examples": [
+        {
+          "sentence": "The wind scattered the leaves everywhere.",
+          "translation": "风把树叶吹得到处都是。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "动词名词皆常用",
+      "explanation": "‘sprinkle’ 可作名词或动词，语气轻柔。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "来自中古英语‘sprenklen’，意为‘轻轻洒’，本义与现代一致。",
+    "explanation_english": "From Middle English ‘sprenklen’, meaning ‘to strew lightly’; core meaning unchanged."
+  },
+  "variation_between_british_american": {
+    "british": "也可作‘a sprinkle of rain’（小雨）。",
+    "american": "烹饪语境最常见。"
+  }
+},
+{
+  "word": "sufficient",
+  "pronunciation": {
+    "british": "/səˈfɪʃənt/ 🇬🇧",
+    "american": "/səˈfɪʃənt/ 🇺🇸"
+  },
+  "phrase_type": "adjective 形容词",
+  "usage": "✅ 表示‘足够的’，语气正式，多用于书面语、报告、说明文。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "足够的；充分的",
+        "english": "Enough; adequate for the purpose or need."
+      },
+      "examples": [
+        {
+          "sentence": "We don’t have sufficient evidence to prove it.",
+          "translation": "我们没有足够的证据来证明这点。"
+        },
+        {
+          "sentence": "Make sure there is sufficient time to prepare.",
+          "translation": "确保有足够的时间准备。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "adequate",
+      "type": "adjective",
+      "definition": {
+        "chinese": "足够的（勉强够用）",
+        "english": "Satisfactory or acceptable in quantity or quality."
+      },
+      "examples": [
+        {
+          "sentence": "The supply is adequate for now.",
+          "translation": "目前的供应量勉强够用。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "语气区别",
+      "explanation": "‘sufficient’ 表中性偏正式；‘enough’ 较口语；‘adequate’ 略带不足意味。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 *sufficere*（使足够），意为‘充足’。",
+    "explanation_english": "From Latin *sufficere*, meaning ‘to meet the need, to be enough’; meaning stable through history."
+  },
+  "variation_between_british_american": {
+    "british": "常用于法律、学术文体。",
+    "american": "日常和正式语境皆可。"
+  }
+}
+
+
+
+
 ]
 
 
