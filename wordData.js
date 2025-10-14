@@ -37945,371 +37945,947 @@ const wordData = [
     }
   },
   {
-  "word": "field goal percentage",
-  "pronunciation": {
-    "british": "/ˈfiːld ɡəʊl pəˈsɛntɪdʒ/ 🇬🇧",
-    "american": "/ˈfiːld ɡoʊl pərˈsɛntɪdʒ/ 🇺🇸"
-  },
-  "phrase_type": "noun phrase 名词短语（篮球术语）",
-  "usage": "🏀 在篮球中常用，指投篮命中率；用于统计分析、比赛解说等语境。",
-  "meanings": [
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "投篮命中率",
-        "english": "The ratio of field goals made to field goals attempted, expressed as a percentage."
-      },
-      "examples": [
-        {
-          "sentence": "He has a field goal percentage of over 50%.",
-          "translation": "他的投篮命中率超过 50%。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "free throw percentage",
-      "type": "noun phrase",
-      "definition": {
-        "chinese": "罚球命中率",
-        "english": "The percentage of free throws successfully made."
-      },
-      "examples": [
-        {
-          "sentence": "Her free throw percentage has improved this season.",
-          "translation": "她本赛季的罚球命中率有所提升。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "field goal 含义",
-      "explanation": "在篮球中 ‘field goal’ 指除罚球外的任何得分投篮。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "‘field goal’ 原意为“场上投篮”来自体育术语；‘percentage’ 为统计学用词，组合后成为标准数据指标。",
-    "explanation_english": "‘Field goal’ originally referred to any goal scored in play (field), not from a free throw; combining with ‘percentage’ created a statistical term."
-  },
-  "variation_between_british_american": {
-    "british": "较少使用（篮球术语多为美式）。",
-    "american": "常见于体育媒体、NBA 数据统计。"
-  }
-},
-{
-  "word": "on its way",
-  "pronunciation": {
-    "british": "/ɒn ɪts weɪ/ 🇬🇧",
-    "american": "/ɑːn ɪts weɪ/ 🇺🇸"
-  },
-  "phrase_type": "idiom 常用短语",
-  "usage": "🚚 表示“正在前往”或“即将发生”，在生活和商业中都极常见。",
-  "meanings": [
-    {
-      "type": "phrase",
-      "definition": {
-        "chinese": "在路上；即将到来",
-        "english": "In the process of coming, going, or happening soon."
-      },
-      "examples": [
-        {
-          "sentence": "Your package is on its way.",
-          "translation": "你的包裹正在路上。"
-        },
-        {
-          "sentence": "Summer is on its way.",
-          "translation": "夏天就要来了。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "on the way",
-      "type": "idiom",
-      "definition": {
-        "chinese": "在途中",
-        "english": "While traveling from one place to another."
-      },
-      "examples": [
-        {
-          "sentence": "We stopped for coffee on the way home.",
-          "translation": "我们在回家的路上停下来喝了杯咖啡。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "its 与 the 的区别",
-      "explanation": "‘on its way’ 强调主语自身的行动或进程（如‘The train is on its way’），而‘on the way’较一般。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自字面含义‘在它的路上’，后引申为‘进展中’或‘即将到来’。",
-    "explanation_english": "Literal origin ‘on its path or route’; later extended metaphorically to mean ‘in progress’ or ‘upcoming’."
-  },
-  "variation_between_british_american": {
-    "british": "更常用于自然描述（天气、季节）。",
-    "american": "常用于物流、通知等日常场景。"
-  }
-},
-{
-  "word": "formidable",
-  "pronunciation": {
-    "british": "/ˈfɔːmɪdəbl/ 🇬🇧",
-    "american": "/ˈfɔːrmɪdəbl/ 🇺🇸"
-  },
-  "phrase_type": "adjective 形容词",
-  "usage": "💪 表示“强大的、令人敬畏的、难以对付的”；常用于人、任务、对手。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "强大的；令人畏惧的",
-        "english": "Inspiring fear or respect through being impressively large, powerful, or capable."
-      },
-      "examples": [
-        {
-          "sentence": "She was a formidable lawyer with decades of experience.",
-          "translation": "她是一位经验丰富、令人敬畏的律师。"
-        },
-        {
-          "sentence": "Climbing that mountain is a formidable challenge.",
-          "translation": "攀登那座山是一项艰巨的挑战。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "intimidating",
-      "type": "adjective",
-      "definition": {
-        "chinese": "令人生畏的",
-        "english": "Frightening or discouraging through appearance or manner."
-      },
-      "examples": [
-        {
-          "sentence": "He can seem intimidating at first.",
-          "translation": "他一开始看起来让人害怕。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语气层次",
-      "explanation": "‘formidable’ 带有敬畏与尊重，而非单纯恐惧。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 *formidare*（害怕），后转义为‘强大到令人敬畏’。",
-    "explanation_english": "From Latin *formidare* ‘to fear’; meaning evolved to describe something so powerful it commands respect."
-  },
-  "variation_between_british_american": {
-    "british": "常用于正式场合或文学表达。",
-    "american": "语气稍轻，也可带褒义，如“a formidable team”。"
-  }
-},
-{
-  "word": "mash up",
-  "pronunciation": {
-    "british": "/mæʃ ʌp/ 🇬🇧",
-    "american": "/mæʃ ʌp/ 🇺🇸"
-  },
-  "phrase_type": "phrasal verb 短语动词",
-  "usage": "🍠 可指把食物捣碎，也可比喻“混合、融合不同元素”（如音乐、视频）。",
-  "meanings": [
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "捣碎（食物）",
-        "english": "To crush food into a soft mass."
-      },
-      "examples": [
-        {
-          "sentence": "Mash up the avocado with a fork.",
-          "translation": "用叉子把牛油果捣碎。"
-        }
-      ]
+    "word": "field goal percentage",
+    "pronunciation": {
+      "british": "/ˈfiːld ɡəʊl pəˈsɛntɪdʒ/ 🇬🇧",
+      "american": "/ˈfiːld ɡoʊl pərˈsɛntɪdʒ/ 🇺🇸"
     },
-    {
-      "type": "verb (figurative)",
-      "definition": {
-        "chinese": "融合不同元素（如歌曲、影像）",
-        "english": "To combine elements from different sources, especially in media or art."
-      },
-      "examples": [
-        {
-          "sentence": "The DJ mashed up two classic songs into one track.",
-          "translation": "DJ 把两首经典歌曲混合成了一首曲子。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "blend",
-      "type": "verb",
-      "definition": {
-        "chinese": "混合",
-        "english": "To mix different things together smoothly."
-      },
-      "examples": [
-        {
-          "sentence": "Blend the ingredients until smooth.",
-          "translation": "把食材搅拌至顺滑。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "比喻意义",
-      "explanation": "‘mash up’ 从食物延伸至音乐和媒体领域，是典型的语义比喻演变。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "原意‘捣碎’，后引申为‘把不同素材捣在一起’，表示混搭。",
-    "explanation_english": "Originally meant ‘to crush or smash’; extended metaphorically to ‘mix elements together’ in music or art."
-  },
-  "variation_between_british_american": {
-    "british": "在音乐圈中‘mash-up’名词更常见。",
-    "american": "口语和网络文化中使用更广。"
-  }
-},
-{
-  "word": "sprinkle",
-  "pronunciation": {
-    "british": "/ˈsprɪŋkl/ 🇬🇧",
-    "american": "/ˈsprɪŋkəl/ 🇺🇸"
-  },
-  "phrase_type": "verb/noun 动词/名词",
-  "usage": "🍩 表示轻轻洒上或点缀；常用于烹饪或比喻‘少量添加’。",
-  "meanings": [
-    {
-      "type": "verb",
-      "definition": {
-        "chinese": "洒；撒上",
-        "english": "To scatter small drops or particles of a substance over something."
-      },
-      "examples": [
-        {
-          "sentence": "Sprinkle salt over the salad.",
-          "translation": "在沙拉上撒点盐。"
-        }
-      ]
-    },
-    {
-      "type": "noun",
-      "definition": {
-        "chinese": "少量；点点滴滴",
-        "english": "A small amount of something scattered or spread."
-      },
-      "examples": [
-        {
-          "sentence": "A sprinkle of sugar makes it perfect.",
-          "translation": "撒一点糖就完美了。"
-        }
-      ]
-    }
-  ],
-  "related_words": [
-    {
-      "word": "scatter",
-      "type": "verb",
-      "definition": {
-        "chinese": "撒；散布",
-        "english": "To throw or spread things over an area."
-      },
-      "examples": [
-        {
-          "sentence": "The wind scattered the leaves everywhere.",
-          "translation": "风把树叶吹得到处都是。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "动词名词皆常用",
-      "explanation": "‘sprinkle’ 可作名词或动词，语气轻柔。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "来自中古英语‘sprenklen’，意为‘轻轻洒’，本义与现代一致。",
-    "explanation_english": "From Middle English ‘sprenklen’, meaning ‘to strew lightly’; core meaning unchanged."
-  },
-  "variation_between_british_american": {
-    "british": "也可作‘a sprinkle of rain’（小雨）。",
-    "american": "烹饪语境最常见。"
-  }
-},
-{
-  "word": "sufficient",
-  "pronunciation": {
-    "british": "/səˈfɪʃənt/ 🇬🇧",
-    "american": "/səˈfɪʃənt/ 🇺🇸"
-  },
-  "phrase_type": "adjective 形容词",
-  "usage": "✅ 表示‘足够的’，语气正式，多用于书面语、报告、说明文。",
-  "meanings": [
-    {
-      "type": "adjective",
-      "definition": {
-        "chinese": "足够的；充分的",
-        "english": "Enough; adequate for the purpose or need."
-      },
-      "examples": [
-        {
-          "sentence": "We don’t have sufficient evidence to prove it.",
-          "translation": "我们没有足够的证据来证明这点。"
+    "phrase_type": "noun phrase 名词短语（篮球术语）",
+    "usage": "🏀 在篮球中常用，指投篮命中率；用于统计分析、比赛解说等语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "投篮命中率",
+          "english": "The ratio of field goals made to field goals attempted, expressed as a percentage."
         },
-        {
-          "sentence": "Make sure there is sufficient time to prepare.",
-          "translation": "确保有足够的时间准备。"
-        }
-      ]
+        "examples": [
+          {
+            "sentence": "He has a field goal percentage of over 50%.",
+            "translation": "他的投篮命中率超过 50%。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "free throw percentage",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "罚球命中率",
+          "english": "The percentage of free throws successfully made."
+        },
+        "examples": [
+          {
+            "sentence": "Her free throw percentage has improved this season.",
+            "translation": "她本赛季的罚球命中率有所提升。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "field goal 含义",
+        "explanation": "在篮球中 ‘field goal’ 指除罚球外的任何得分投篮。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘field goal’ 原意为“场上投篮”来自体育术语；‘percentage’ 为统计学用词，组合后成为标准数据指标。",
+      "explanation_english": "‘Field goal’ originally referred to any goal scored in play (field), not from a free throw; combining with ‘percentage’ created a statistical term."
+    },
+    "variation_between_british_american": {
+      "british": "较少使用（篮球术语多为美式）。",
+      "american": "常见于体育媒体、NBA 数据统计。"
     }
-  ],
-  "related_words": [
-    {
-      "word": "adequate",
-      "type": "adjective",
-      "definition": {
-        "chinese": "足够的（勉强够用）",
-        "english": "Satisfactory or acceptable in quantity or quality."
-      },
-      "examples": [
-        {
-          "sentence": "The supply is adequate for now.",
-          "translation": "目前的供应量勉强够用。"
-        }
-      ]
-    }
-  ],
-  "notes": [
-    {
-      "point": "语气区别",
-      "explanation": "‘sufficient’ 表中性偏正式；‘enough’ 较口语；‘adequate’ 略带不足意味。"
-    }
-  ],
-  "origin_of_multiple_meanings": {
-    "explanation_chinese": "源自拉丁语 *sufficere*（使足够），意为‘充足’。",
-    "explanation_english": "From Latin *sufficere*, meaning ‘to meet the need, to be enough’; meaning stable through history."
   },
-  "variation_between_british_american": {
-    "british": "常用于法律、学术文体。",
-    "american": "日常和正式语境皆可。"
+  {
+    "word": "on its way",
+    "pronunciation": {
+      "british": "/ɒn ɪts weɪ/ 🇬🇧",
+      "american": "/ɑːn ɪts weɪ/ 🇺🇸"
+    },
+    "phrase_type": "idiom 常用短语",
+    "usage": "🚚 表示“正在前往”或“即将发生”，在生活和商业中都极常见。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "在路上；即将到来",
+          "english": "In the process of coming, going, or happening soon."
+        },
+        "examples": [
+          {
+            "sentence": "Your package is on its way.",
+            "translation": "你的包裹正在路上。"
+          },
+          {
+            "sentence": "Summer is on its way.",
+            "translation": "夏天就要来了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "on the way",
+        "type": "idiom",
+        "definition": {
+          "chinese": "在途中",
+          "english": "While traveling from one place to another."
+        },
+        "examples": [
+          {
+            "sentence": "We stopped for coffee on the way home.",
+            "translation": "我们在回家的路上停下来喝了杯咖啡。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "its 与 the 的区别",
+        "explanation": "‘on its way’ 强调主语自身的行动或进程（如‘The train is on its way’），而‘on the way’较一般。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自字面含义‘在它的路上’，后引申为‘进展中’或‘即将到来’。",
+      "explanation_english": "Literal origin ‘on its path or route’; later extended metaphorically to mean ‘in progress’ or ‘upcoming’."
+    },
+    "variation_between_british_american": {
+      "british": "更常用于自然描述（天气、季节）。",
+      "american": "常用于物流、通知等日常场景。"
+    }
+  },
+  {
+    "word": "formidable",
+    "pronunciation": {
+      "british": "/ˈfɔːmɪdəbl/ 🇬🇧",
+      "american": "/ˈfɔːrmɪdəbl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "💪 表示“强大的、令人敬畏的、难以对付的”；常用于人、任务、对手。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "强大的；令人畏惧的",
+          "english": "Inspiring fear or respect through being impressively large, powerful, or capable."
+        },
+        "examples": [
+          {
+            "sentence": "She was a formidable lawyer with decades of experience.",
+            "translation": "她是一位经验丰富、令人敬畏的律师。"
+          },
+          {
+            "sentence": "Climbing that mountain is a formidable challenge.",
+            "translation": "攀登那座山是一项艰巨的挑战。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "intimidating",
+        "type": "adjective",
+        "definition": {
+          "chinese": "令人生畏的",
+          "english": "Frightening or discouraging through appearance or manner."
+        },
+        "examples": [
+          {
+            "sentence": "He can seem intimidating at first.",
+            "translation": "他一开始看起来让人害怕。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气层次",
+        "explanation": "‘formidable’ 带有敬畏与尊重，而非单纯恐惧。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *formidare*（害怕），后转义为‘强大到令人敬畏’。",
+      "explanation_english": "From Latin *formidare* ‘to fear’; meaning evolved to describe something so powerful it commands respect."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式场合或文学表达。",
+      "american": "语气稍轻，也可带褒义，如“a formidable team”。"
+    }
+  },
+  {
+    "word": "mash up",
+    "pronunciation": {
+      "british": "/mæʃ ʌp/ 🇬🇧",
+      "american": "/mæʃ ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "🍠 可指把食物捣碎，也可比喻“混合、融合不同元素”（如音乐、视频）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "捣碎（食物）",
+          "english": "To crush food into a soft mass."
+        },
+        "examples": [
+          {
+            "sentence": "Mash up the avocado with a fork.",
+            "translation": "用叉子把牛油果捣碎。"
+          }
+        ]
+      },
+      {
+        "type": "verb (figurative)",
+        "definition": {
+          "chinese": "融合不同元素（如歌曲、影像）",
+          "english": "To combine elements from different sources, especially in media or art."
+        },
+        "examples": [
+          {
+            "sentence": "The DJ mashed up two classic songs into one track.",
+            "translation": "DJ 把两首经典歌曲混合成了一首曲子。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "blend",
+        "type": "verb",
+        "definition": {
+          "chinese": "混合",
+          "english": "To mix different things together smoothly."
+        },
+        "examples": [
+          {
+            "sentence": "Blend the ingredients until smooth.",
+            "translation": "把食材搅拌至顺滑。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻意义",
+        "explanation": "‘mash up’ 从食物延伸至音乐和媒体领域，是典型的语义比喻演变。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意‘捣碎’，后引申为‘把不同素材捣在一起’，表示混搭。",
+      "explanation_english": "Originally meant ‘to crush or smash’; extended metaphorically to ‘mix elements together’ in music or art."
+    },
+    "variation_between_british_american": {
+      "british": "在音乐圈中‘mash-up’名词更常见。",
+      "american": "口语和网络文化中使用更广。"
+    }
+  },
+  {
+    "word": "sprinkle",
+    "pronunciation": {
+      "british": "/ˈsprɪŋkl/ 🇬🇧",
+      "american": "/ˈsprɪŋkəl/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 动词/名词",
+    "usage": "🍩 表示轻轻洒上或点缀；常用于烹饪或比喻‘少量添加’。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "洒；撒上",
+          "english": "To scatter small drops or particles of a substance over something."
+        },
+        "examples": [
+          {
+            "sentence": "Sprinkle salt over the salad.",
+            "translation": "在沙拉上撒点盐。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "少量；点点滴滴",
+          "english": "A small amount of something scattered or spread."
+        },
+        "examples": [
+          {
+            "sentence": "A sprinkle of sugar makes it perfect.",
+            "translation": "撒一点糖就完美了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "scatter",
+        "type": "verb",
+        "definition": {
+          "chinese": "撒；散布",
+          "english": "To throw or spread things over an area."
+        },
+        "examples": [
+          {
+            "sentence": "The wind scattered the leaves everywhere.",
+            "translation": "风把树叶吹得到处都是。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动词名词皆常用",
+        "explanation": "‘sprinkle’ 可作名词或动词，语气轻柔。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自中古英语‘sprenklen’，意为‘轻轻洒’，本义与现代一致。",
+      "explanation_english": "From Middle English ‘sprenklen’, meaning ‘to strew lightly’; core meaning unchanged."
+    },
+    "variation_between_british_american": {
+      "british": "也可作‘a sprinkle of rain’（小雨）。",
+      "american": "烹饪语境最常见。"
+    }
+  },
+  {
+    "word": "sufficient",
+    "pronunciation": {
+      "british": "/səˈfɪʃənt/ 🇬🇧",
+      "american": "/səˈfɪʃənt/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "✅ 表示‘足够的’，语气正式，多用于书面语、报告、说明文。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "足够的；充分的",
+          "english": "Enough; adequate for the purpose or need."
+        },
+        "examples": [
+          {
+            "sentence": "We don’t have sufficient evidence to prove it.",
+            "translation": "我们没有足够的证据来证明这点。"
+          },
+          {
+            "sentence": "Make sure there is sufficient time to prepare.",
+            "translation": "确保有足够的时间准备。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "adequate",
+        "type": "adjective",
+        "definition": {
+          "chinese": "足够的（勉强够用）",
+          "english": "Satisfactory or acceptable in quantity or quality."
+        },
+        "examples": [
+          {
+            "sentence": "The supply is adequate for now.",
+            "translation": "目前的供应量勉强够用。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气区别",
+        "explanation": "‘sufficient’ 表中性偏正式；‘enough’ 较口语；‘adequate’ 略带不足意味。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 *sufficere*（使足够），意为‘充足’。",
+      "explanation_english": "From Latin *sufficere*, meaning ‘to meet the need, to be enough’; meaning stable through history."
+    },
+    "variation_between_british_american": {
+      "british": "常用于法律、学术文体。",
+      "american": "日常和正式语境皆可。"
+    }
+  },
+  {
+    "word": "innocent",
+    "pronunciation": {
+      "british": "/ˈɪnəsənt/ 🇬🇧",
+      "american": "/ˈɪnəsənt/ 🇺🇸"
+    },
+    "phrase_type": "adjective/noun",
+    "usage": "👶💭 常用于形容‘无辜的’、‘天真的’，也可作名词指‘无辜的人’。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "无罪的，无辜的",
+          "english": "Not guilty of a crime or offense."
+        },
+        "examples": [
+          {
+            "sentence": "He was found innocent of all charges.",
+            "translation": "他被判所有指控无罪。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "天真的，单纯的",
+          "english": "Lacking experience or worldly sophistication; pure."
+        },
+        "examples": [
+          {
+            "sentence": "She gave him an innocent smile.",
+            "translation": "她露出天真的微笑。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "无辜的人",
+          "english": "A person who is not guilty or who is naive."
+        },
+        "examples": [
+          {
+            "sentence": "Many innocents suffered during the war.",
+            "translation": "许多无辜的人在战争中受难。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "guilty",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有罪的；内疚的",
+          "english": "Responsible for a crime or wrongdoing."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语义对比",
+        "explanation": "‘innocent’ 通常与‘guilty’相对；但也可指‘单纯’、‘不谙世事’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *innocens*（in- “不” + nocere “伤害”），原意‘不造成伤害的人’，后来引申为‘无罪’和‘天真’。",
+      "explanation_english": "From Latin *innocens* (‘not harmful’), expanded from ‘not guilty’ to ‘pure or naive’."
+    },
+    "variation_between_british_american": {
+      "british": "无显著差异。",
+      "american": "同义使用。"
+    }
+  },
+  {
+    "word": "under house arrest",
+    "pronunciation": {
+      "british": "/ˈhaʊs əˌrest/ 🇬🇧",
+      "american": "/ˈhaʊs əˌrest/ 🇺🇸"
+    },
+    "phrase_type": "phrase",
+    "usage": "🚓⚖️ 法律表达，意为‘软禁’，指被限制在家中而非监狱服刑。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "软禁；居家监禁",
+          "english": "To be confined to one’s home instead of being in prison, usually by legal order."
+        },
+        "examples": [
+          {
+            "sentence": "The politician was placed under house arrest for corruption charges.",
+            "translation": "那名政客因贪污指控被软禁在家。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "detain",
+        "type": "verb",
+        "definition": {
+          "chinese": "拘留；扣押",
+          "english": "To hold someone in official custody."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语体",
+        "explanation": "‘house arrest’ 属正式用语，常见于新闻报道与法律文件。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由‘house（房屋）’+‘arrest（拘禁）’组成，字面义即‘在家中拘禁’。",
+      "explanation_english": "A compound phrase literally meaning 'arrest within one’s house'."
+    },
+    "variation_between_british_american": {
+      "british": "常用于政治或司法语境。",
+      "american": "同义使用，但在美式媒体中略偏法律口吻。"
+    }
+  },
+  {
+    "word": "singing a different tune",
+    "pronunciation": {
+      "british": "/ˈsɪŋɪŋ ə ˈdɪfrənt tjuːn/ 🇬🇧",
+      "american": "/ˈsɪŋɪŋ ə ˈdɪfrənt tun/ 🇺🇸"
+    },
+    "phrase_type": "idiom",
+    "usage": "🎵💬 意为“改口”“态度改变”，通常带讽刺意味。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "改口；态度改变",
+          "english": "To express a different opinion or attitude than before, especially after circumstances change."
+        },
+        "examples": [
+          {
+            "sentence": "He was against the plan, but after the promotion, he’s singing a different tune.",
+            "translation": "他原本反对这个计划，但升职后却改口支持了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "change one’s mind",
+        "type": "phrase",
+        "definition": {
+          "chinese": "改变主意",
+          "english": "To decide differently than before."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻来源",
+        "explanation": "“tune（曲调）”比喻说话或态度方式的改变。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "短语最早源于音乐比喻，指‘换曲调’，引申为‘改变态度’。",
+      "explanation_english": "Originates from musical imagery — changing the tune means changing tone or opinion."
+    },
+    "variation_between_british_american": {
+      "british": "常用于讽刺场合。",
+      "american": "更口语化，频繁用于职场或政治语境。"
+    }
+  },
+  {
+    "word": "which is pretty rich",
+    "pronunciation": {
+      "british": "/ˈprɪti rɪtʃ/ 🇬🇧",
+      "american": "/ˈprɪti rɪtʃ/ 🇺🇸"
+    },
+    "phrase_type": "informal idiom",
+    "usage": "😏 用于讽刺别人言行矛盾，意为“这也太讽刺了/太可笑了”。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "（讽刺）这话真有意思；太讽刺了",
+          "english": "Used sarcastically to point out that someone’s criticism or statement is hypocritical or ironic."
+        },
+        "examples": [
+          {
+            "sentence": "He said I was being lazy — which is pretty rich coming from him!",
+            "translation": "他说我懒？这话从他嘴里说出来可真讽刺！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "that’s ironic",
+        "type": "phrase",
+        "definition": {
+          "chinese": "真讽刺",
+          "english": "Used to express irony or contradiction."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气特点",
+        "explanation": "‘pretty rich’ 在此并非“很富”，而是一种英式讽刺表达。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘rich’ 原意‘丰富’，引申为‘过分夸张’，在口语中演变成‘讽刺’的语气。",
+      "explanation_english": "‘Rich’ evolved from meaning ‘abundant’ to ‘over-the-top’, hence used sarcastically."
+    },
+    "variation_between_british_american": {
+      "british": "极常用的英式讽刺短语。",
+      "american": "理解相同，但略显英式幽默风格。"
+    }
+  },
+  {
+    "word": "wilderness explorer",
+    "pronunciation": {
+      "british": "/ˈwɪldənəs ɪkˈsplɔːrə/ 🇬🇧",
+      "american": "/ˈwɪldɚnəs ɪkˈsplɔːrər/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "🌲🏕️ 指‘探险荒野的人’或‘野外探险家’，常带理想主义或童子军意味。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "荒野探险家；野外探险者",
+          "english": "A person who explores or studies wild, natural areas."
+        },
+        "examples": [
+          {
+            "sentence": "The boy dreamed of becoming a wilderness explorer like in the movie *Up*.",
+            "translation": "那男孩梦想像电影《飞屋环游记》里的角色一样成为荒野探险家。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "adventurer",
+        "type": "noun",
+        "definition": {
+          "chinese": "冒险家",
+          "english": "Someone who seeks excitement or exploration."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化含义",
+        "explanation": "在流行文化中（如皮克斯电影 *Up*）象征勇气、探索与自然精神。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由‘wilderness（荒野）’与‘explorer（探险者）’组合，直义清晰无引申义。",
+      "explanation_english": "A compound phrase combining literal meanings — ‘wild place’ + ‘one who explores’."
+    },
+    "variation_between_british_american": {
+      "british": "较少用于正式语境。",
+      "american": "在童军、户外文化中更常见，带正面冒险色彩。"
+    }
+  },
+  {
+    "word": "outbound",
+    "pronunciation": {
+      "british": "/ˈaʊtbɑːnd/ 🇬🇧",
+      "american": "/ˈaʊtbaʊnd/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "🚗✈️ 描述‘向外的’、‘出发的’方向，用于交通、通讯、贸易等语境中，与 'inbound'（入境的）相对。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "出发的；离开的；外向的",
+          "english": "Traveling away from a place; directed toward the outside or another destination."
+        },
+        "examples": [
+          {
+            "sentence": "All outbound flights have been delayed due to bad weather.",
+            "translation": "所有出港航班因恶劣天气被延误。"
+          },
+          {
+            "sentence": "The outbound train to Paris departs at 9 a.m.",
+            "translation": "开往巴黎的列车于早上九点出发。"
+          },
+          {
+            "sentence": "The company increased its outbound sales efforts to reach international clients.",
+            "translation": "公司加强了外部销售努力以接触国际客户。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "inbound",
+        "type": "adjective",
+        "definition": {
+          "chinese": "入境的，进来的",
+          "english": "Arriving or coming into a place."
+        },
+        "examples": [
+          {
+            "sentence": "Inbound flights will land on runway 3.",
+            "translation": "入境航班将在3号跑道降落。"
+          }
+        ]
+      },
+      {
+        "word": "outgoing",
+        "type": "adjective",
+        "definition": {
+          "chinese": "外出的；外向的；即将离任的",
+          "english": "Leaving a place or position; sociable; directed outward."
+        },
+        "examples": [
+          {
+            "sentence": "The outgoing president gave his farewell speech.",
+            "translation": "即将离任的总统发表了告别演讲。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用搭配",
+        "explanation": "常见搭配包括 outbound flight（出港航班）、outbound traffic（外向交通流量）、outbound call（外呼电话）等。"
+      },
+      {
+        "point": "语义差别",
+        "explanation": "‘outbound’ 仅强调方向或流向，不带人格特征；‘outgoing’ 除‘外出的’外，也可形容性格外向。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由‘out’（向外）+‘bound’（朝向某地）组成，原意为‘朝向外部’，后用于航运、通讯等多领域。",
+      "explanation_english": "Formed from 'out' + 'bound' (meaning 'headed toward'), originally used for ships leaving port, later extended to travel and communication contexts."
+    },
+    "variation_between_british_american": {
+      "british": "更多用于正式或运输语境，如航班、火车、海运。",
+      "american": "同样常见，但在商务与通讯领域使用更广，如 outbound marketing, outbound calls。"
+    }
+  },
+  {
+    "word": "twirl",
+    "pronunciation": {
+      "british": "/twɜːl/ 🇬🇧",
+      "american": "/twɜːrl/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "💃 表示快速旋转或旋舞，常用于舞蹈、运动或轻快动作，也可作名词指旋转动作本身。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "快速旋转，转动",
+          "english": "To spin something or oneself around quickly."
+        },
+        "examples": [
+          {
+            "sentence": "She twirled the ribbon gracefully in the air.",
+            "translation": "她优雅地在空中旋转丝带。"
+          },
+          {
+            "sentence": "The child twirled around with excitement.",
+            "translation": "孩子兴奋地转圈圈。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "旋转动作",
+          "english": "A quick spinning or turning movement."
+        },
+        "examples": [
+          {
+            "sentence": "Give the baton a twirl before passing it.",
+            "translation": "在传递接力棒前先旋转一下。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "spin",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "旋转",
+          "english": "To turn around rapidly or to make something do so."
+        },
+        "examples": [
+          {
+            "sentence": "The dancers spun across the stage.",
+            "translation": "舞者在舞台上旋转飞舞。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "‘twirl’ 强调轻快、优雅或玩耍性质的旋转，常带动作美感；比‘spin’更轻盈。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拟声词，模仿旋转动作的轻快声音，自然引申为动词和名词。",
+      "explanation_english": "Originates as an onomatopoeic word mimicking the light spinning motion, extended to verb and noun meanings."
+    },
+    "variation_between_british_american": {
+      "british": "常用于舞蹈、演出或儿童动作描写。",
+      "american": "日常口语中亦常用于旋转动作描述，带轻松或俏皮色彩。"
+    }
+  },
+  {
+    "word": "modest",
+    "pronunciation": {
+      "british": "/ˈmɒdɪst/ 🇬🇧",
+      "american": "/ˈmɑːdɪst/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "🌿 表示谦虚、适度、不夸张，也可指（数量、价格、外表）不大不高。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "谦虚的；不自夸的",
+          "english": "Not talking much about one’s achievements or abilities; not boastful."
+        },
+        "examples": [
+          {
+            "sentence": "She’s modest about her success.",
+            "translation": "她对自己的成功非常谦虚。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (extended)",
+        "definition": {
+          "chinese": "适度的；不太大的",
+          "english": "Limited in size, amount, or degree; not extreme."
+        },
+        "examples": [
+          {
+            "sentence": "They live on a modest income.",
+            "translation": "他们靠着不高的收入生活。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (old-fashioned)",
+        "definition": {
+          "chinese": "端庄的；不过分暴露的（衣着）",
+          "english": "Decent or not revealing much of the body."
+        },
+        "examples": [
+          {
+            "sentence": "She wore a modest dress for the ceremony.",
+            "translation": "她为典礼穿了一件端庄的连衣裙。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "reserved",
+        "type": "adjective",
+        "definition": {
+          "chinese": "内敛的，含蓄的",
+          "english": "Slow to show feelings or express opinions."
+        },
+        "examples": [
+          {
+            "sentence": "He’s polite but reserved.",
+            "translation": "他礼貌但内敛。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语义对比",
+        "explanation": "‘modest’ 偏向行为或数量上的“适度、不张扬”；‘humble’ 偏精神层面“自谦”。"
+      },
+      {
+        "point": "语域",
+        "explanation": "‘modest’ 比 ‘humble’ 更中性、客观，常用于描述外在条件。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *modestus*（适度的），原意为“有节制”，后引申为谦虚、低调、端庄。",
+      "explanation_english": "From Latin *modestus* (‘keeping measure’), originally about moderation, later extended to humility and decency."
+    },
+    "variation_between_british_american": {
+      "british": "更常用于‘适度’语义，如‘a modest increase’。",
+      "american": "更多用于谦虚语义，如‘He’s a modest guy.’"
+    }
+  },
+  {
+    "word": "humble",
+    "pronunciation": {
+      "british": "/ˈhʌmbl/ 🇬🇧",
+      "american": "/ˈhʌmbəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb 多义词",
+    "usage": "🙏 常用于表示谦虚、不傲慢，也可作动词‘使谦卑’或‘击败使之低头’。既可褒义，也可带轻微自谦语气。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "谦虚的，不骄傲的",
+          "english": "Having or showing a modest opinion of one’s importance; not proud or arrogant."
+        },
+        "examples": [
+          {
+            "sentence": "He’s humble despite his success.",
+            "translation": "尽管成功了，他依然谦虚。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (extended)",
+        "definition": {
+          "chinese": "卑微的，地位低的",
+          "english": "Of low social, administrative, or political rank."
+        },
+        "examples": [
+          {
+            "sentence": "She came from a humble background.",
+            "translation": "她出身卑微。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使谦卑，使自惭",
+          "english": "To cause someone to feel less proud or arrogant."
+        },
+        "examples": [
+          {
+            "sentence": "The defeat humbled the champion.",
+            "translation": "这次失败让冠军变得谦逊。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "humility",
+        "type": "noun",
+        "definition": {
+          "chinese": "谦逊",
+          "english": "The quality of having a modest view of one’s importance."
+        },
+        "examples": [
+          {
+            "sentence": "True leaders show humility, not arrogance.",
+            "translation": "真正的领导者表现出谦逊，而非傲慢。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气区别",
+        "explanation": "‘humble’ 带内在精神层面的谦逊；‘modest’ 偏外在表现（如言语或行为上低调）。"
+      },
+      {
+        "point": "自谦表达",
+        "explanation": "英语母语者常说 “in my humble opinion (IMHO)” 表示‘我拙见’，语气礼貌谦逊。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *humilis*，意为“地上的、低下的”；后引申为态度谦卑、地位卑微。",
+      "explanation_english": "From Latin *humilis* (‘low, on the ground’), extended from physical lowliness to moral or social humility."
+    },
+    "variation_between_british_american": {
+      "british": "常用在谦辞和宗教语境中（如 ‘a humble servant’）。",
+      "american": "常用于日常谦虚表达（如 ‘Stay humble’）。"
+    }
   }
-}
-
-
-
-
 ]
 
 
