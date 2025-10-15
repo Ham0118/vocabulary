@@ -38885,6 +38885,170 @@ const wordData = [
       "british": "常用在谦辞和宗教语境中（如 ‘a humble servant’）。",
       "american": "常用于日常谦虚表达（如 ‘Stay humble’）。"
     }
+  },
+  {
+    "word": "nonsense",
+    "pronunciation": {
+      "british": "/ˈnɒnsəns/ 🇬🇧",
+      "american": "/ˈnɑːnsens/ 🇺🇸"
+    },
+    "phrase_type": "noun/interjection",
+    "usage": "🙄🗯️ 常用于表示‘胡说’、‘荒谬的事’，也可作感叹词驳斥他人。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "胡说；荒谬的事；无意义的话",
+          "english": "Words or ideas that have no meaning, logic, or sense."
+        },
+        "examples": [
+          {
+            "sentence": "That’s complete nonsense — it makes no sense at all!",
+            "translation": "那完全是胡说八道——一点道理都没有！"
+          },
+          {
+            "sentence": "Don’t believe that nonsense you read online.",
+            "translation": "别相信你在网上看到的那些胡说八道。"
+          }
+        ]
+      },
+      {
+        "type": "interjection",
+        "definition": {
+          "chinese": "胡说！（表示不同意或反驳）",
+          "english": "Used to express disagreement or disbelief."
+        },
+        "examples": [
+          {
+            "sentence": "— You’re too old for that! — Nonsense!",
+            "translation": "——你年纪太大了！——胡说！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "ridiculous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "荒唐的，可笑的",
+          "english": "Deserving mockery; absurd."
+        }
+      },
+      {
+        "word": "absurd",
+        "type": "adjective",
+        "definition": {
+          "chinese": "荒谬的，不合理的",
+          "english": "Completely illogical or unreasonable."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气差别",
+        "explanation": "‘nonsense’ 既可轻松地表示‘别扯了’，也可严肃批评‘毫无道理’。语气取决于语境和语调。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘non-’（否定）+ ‘sense’（意义）构成，原意为‘没有意义的东西’，后扩展为‘胡言乱语’或‘荒唐的想法’。",
+      "explanation_english": "Formed from ‘non-’ (not) + ‘sense’, literally ‘without meaning’, later extended to absurd or foolish ideas."
+    },
+    "variation_between_british_american": {
+      "british": "非常常用，可作轻微反驳，如‘Oh, nonsense!’。",
+      "american": "同义使用，但略少作感叹语。"
+    }
+  },
+  {
+    "word": "compliment",
+    "pronunciation": {
+      "british": "/ˈkɒmplɪmənt/ 🇬🇧",
+      "american": "/ˈkɑːmpləmənt/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb",
+    "usage": "😊💬 指‘称赞’、‘赞美’，也可作动词‘赞扬某人’；注意不要与‘complement（补充）’混淆。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "赞美；恭维；致意",
+          "english": "A polite expression of praise or admiration."
+        },
+        "examples": [
+          {
+            "sentence": "She blushed at his compliment on her dress.",
+            "translation": "她因他夸自己裙子而脸红了。"
+          },
+          {
+            "sentence": "Please give my compliments to the chef.",
+            "translation": "请代我向厨师致意。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "称赞；恭维",
+          "english": "To express praise or admiration to someone."
+        },
+        "examples": [
+          {
+            "sentence": "He complimented her on her presentation skills.",
+            "translation": "他称赞了她的演讲能力。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "praise",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "赞扬",
+          "english": "To express approval or admiration."
+        }
+      },
+      {
+        "word": "flatter",
+        "type": "verb",
+        "definition": {
+          "chinese": "奉承，过度恭维",
+          "english": "To praise excessively, often insincerely."
+        }
+      },
+      {
+        "word": "complement",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "补充物，使更完善的东西（注意拼写不同）",
+          "english": "Something that completes or goes well with something."
+        },
+        "examples": [
+          {
+            "sentence": "The sauce complements the steak perfectly.",
+            "translation": "这酱汁与牛排完美搭配。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写混淆",
+        "explanation": "‘compliment’（称赞）与‘complement’（补足）发音相似但意义完全不同。"
+      },
+      {
+        "point": "常用搭配",
+        "explanation": "常见短语：pay someone a compliment（称赞某人）；take it as a compliment（把它当成赞美）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *complementum*，原意‘完成、完善’，后分化为两条线：‘complement’保留‘补足’义，而‘compliment’转义为‘使他人感到完整’→‘称赞’。",
+      "explanation_english": "Derived from Latin *complementum* (‘completion’); later diverged — ‘complement’ kept the ‘completion’ meaning, while ‘compliment’ evolved toward ‘social completion’ (giving praise)."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式和礼貌场合。",
+      "american": "更口语化，用于日常称赞或友好交流。"
+    }
   }
 ]
 
