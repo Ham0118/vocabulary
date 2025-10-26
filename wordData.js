@@ -39049,8 +39049,1082 @@ const wordData = [
       "british": "常用于正式和礼貌场合。",
       "american": "更口语化，用于日常称赞或友好交流。"
     }
+  },
+  {
+    "word": "rush hour",
+    "pronunciation": {
+      "british": "/ˈrʌʃ ˌaʊə/ 🇬🇧",
+      "american": "/ˈrʌʃ ˌaʊər/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "🚗🚆 指早晚通勤高峰期，人多车多、交通最拥堵的时段。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "交通高峰期；上下班高峰",
+          "english": "The time of day when traffic is heaviest, usually when people are traveling to or from work."
+        },
+        "examples": [
+          {
+            "sentence": "We got stuck in rush hour traffic for almost an hour.",
+            "translation": "我们在早高峰的堵车中困了将近一个小时。"
+          },
+          {
+            "sentence": "Try to avoid the subway during rush hour.",
+            "translation": "尽量避免在高峰期坐地铁。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "peak hour",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "高峰时段（英式）",
+          "english": "A British synonym for ‘rush hour’, meaning the busiest time of day."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见搭配",
+        "explanation": "rush hour traffic（高峰期交通）、morning rush hour（早高峰）、evening rush hour（晚高峰）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由‘rush（匆忙）’与‘hour（小时）’组成，直译即“匆忙的时段”，19世纪末用于描述通勤潮。",
+      "explanation_english": "From ‘rush’ + ‘hour’, first used in the late 19th century to describe commuter congestion times."
+    },
+    "variation_between_british_american": {
+      "british": "与‘peak hour’可互换使用。",
+      "american": "更常说‘rush hour’。"
+    }
+  },
+  {
+    "word": "step out on",
+    "pronunciation": {
+      "british": "/stɛp aʊt ɒn/ 🇬🇧",
+      "american": "/stɛp aʊt ɑːn/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "💔 通常是口语或非正式表达，意为‘对伴侣不忠’或‘出轨’，也可字面指‘踩上…’。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "对…不忠；出轨",
+          "english": "To cheat on one’s romantic partner; to be unfaithful."
+        },
+        "examples": [
+          {
+            "sentence": "He stepped out on his wife with a coworker.",
+            "translation": "他和同事出轨，背叛了妻子。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（字面义）踩到…上",
+          "english": "To step onto something physically."
+        },
+        "examples": [
+          {
+            "sentence": "Watch your step — don’t step out on the wet floor.",
+            "translation": "小心脚下，别踩到湿地板上。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cheat on",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "对某人不忠",
+          "english": "To be unfaithful to someone romantically."
+        }
+      },
+      {
+        "word": "betray",
+        "type": "verb",
+        "definition": {
+          "chinese": "背叛",
+          "english": "To be disloyal to someone who trusts you."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "‘step out on’ 比 ‘cheat on’ 更委婉，常用于美国旧式表达或影视对白。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意为‘走出去’（step out），在20世纪美语中引申为‘偷偷外出约会’→‘出轨’。",
+      "explanation_english": "Originally meant ‘to go out’, later in 20th-century American slang it evolved to mean ‘to go out secretly for an affair’."
+    },
+    "variation_between_british_american": {
+      "british": "不常用，通常说‘cheat on’。",
+      "american": "较老派但仍可听到，尤其在电视剧和旧电影中。"
+    }
+  },
+  {
+    "word": "creep up",
+    "pronunciation": {
+      "british": "/kriːp ʌp/ 🇬🇧",
+      "american": "/krip ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "🐍 表示‘悄悄靠近’或‘逐渐上升’，取决于上下文。",
+    "meanings": [
+      {
+        "definition": {
+          "chinese": "悄悄靠近",
+          "english": "To approach someone quietly and unexpectedly."
+        },
+        "examples": [
+          {
+            "sentence": "He crept up behind me and scared me.",
+            "translation": "他从我背后悄悄靠近，把我吓了一跳。"
+          }
+        ]
+      },
+      {
+        "definition": {
+          "chinese": "（数量或程度）逐渐上升",
+          "english": "To increase slowly and gradually."
+        },
+        "examples": [
+          {
+            "sentence": "Gas prices are creeping up again.",
+            "translation": "油价又在慢慢上涨。"
+          },
+          {
+            "sentence": "Deadlines tend to creep up before you know it.",
+            "translation": "你还没反应过来，截止日期就快到了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sneak up",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "偷偷接近",
+          "english": "To move quietly so as not to be noticed."
+        }
+      },
+      {
+        "word": "rise gradually",
+        "type": "phrase",
+        "definition": {
+          "chinese": "逐渐上升",
+          "english": "To increase little by little."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语义特点",
+        "explanation": "‘creep’ 原意‘爬行’，引申为‘悄悄进行’或‘慢慢逼近’，所以‘creep up’常带“无声变化”含义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘creep’（爬、潜行）在古英语中本意为‘慢慢移动’，后延伸出‘逐渐增加’的抽象用法。",
+      "explanation_english": "From Old English ‘crēopan’ (to crawl), later figuratively used for gradual or unnoticed changes."
+    },
+    "variation_between_british_american": {
+      "british": "两义皆通用。",
+      "american": "同样常用，但‘creep up on someone’ 更常见于口语。"
+    }
+  },
+
+  {
+    "word": "dilapidated",
+    "pronunciation": {
+      "british": "/dɪˈlæpɪdeɪtɪd/ 🇬🇧",
+      "american": "/dɪˈlæpədeɪtɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "🏚️ 形容建筑物或物品“破旧不堪、年久失修”。常用于房屋、桥梁、家具等。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "破旧的，残败的",
+          "english": "Fallen into disrepair or ruin through neglect or age."
+        },
+        "examples": [
+          {
+            "sentence": "They lived in a dilapidated old house on the edge of town.",
+            "translation": "他们住在镇边一座破旧的老房子里。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "run-down",
+        "type": "adjective",
+        "definition": {
+          "chinese": "破败的",
+          "english": "In a state of poor maintenance or neglect."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 dilapidare，意为“扔石头、毁坏建筑”，引申为“破旧”。",
+      "explanation_english": "From Latin ‘dilapidare’ meaning ‘to throw stones or demolish buildings’, hence ‘fallen into decay’."
+    },
+    "variation_between_british_american": {
+      "british": "常用于形容建筑物。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "sober",
+    "pronunciation": {
+      "british": "/ˈsəʊbə/ 🇬🇧",
+      "american": "/ˈsoʊbər/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb 多义词",
+    "usage": "🍷 既可指“未醉的”，也可指“冷静的、庄重的”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "清醒的（未醉的）",
+          "english": "Not affected by alcohol; not drunk."
+        },
+        "examples": [
+          {
+            "sentence": "He promised to stay sober at the party.",
+            "translation": "他答应在派对上保持清醒。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "冷静的，严肃的",
+          "english": "Serious, calm, or showing self-control."
+        },
+        "examples": [
+          {
+            "sentence": "Her tone was sober and thoughtful.",
+            "translation": "她的语气冷静而深思。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "calm",
+        "type": "adjective",
+        "definition": {
+          "chinese": "平静的",
+          "english": "Not showing or feeling nervousness or anger."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原义指“不醉”，后引申为“头脑清醒→态度冷静”。",
+      "explanation_english": "Originally meant ‘not drunk’, extended metaphorically to ‘clear-headed’ or ‘serious’."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式或文学语境。",
+      "american": "口语中常用于描述情绪‘冷静下来’。"
+    }
+  },
+  {
+    "word": "spacious",
+    "pronunciation": {
+      "british": "/ˈspeɪʃəs/ 🇬🇧",
+      "american": "/ˈspeɪʃəs/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "🏠 常用于形容“空间大、宽敞”的房间、车内或场地。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "宽敞的，空间大的",
+          "english": "Having a lot of space; roomy."
+        },
+        "examples": [
+          {
+            "sentence": "The apartment has a spacious living room.",
+            "translation": "这套公寓有一个宽敞的客厅。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "roomy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "宽敞的",
+          "english": "Having plenty of room inside."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 spatius（空间），无多义。",
+      "explanation_english": "From Latin ‘spatiosus’ meaning ‘ample, roomy’; single meaning."
+    },
+    "variation_between_british_american": {
+      "british": "常用于形容住宅或办公室。",
+      "american": "常用于形容汽车、酒店房间。"
+    }
+  },
+  {
+    "word": "spectator",
+    "pronunciation": {
+      "british": "/spekˈteɪtə/ 🇬🇧",
+      "american": "/spekˈteɪtər/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "👀 指“观看比赛、演出或活动的人”，即“观众”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "观众",
+          "english": "A person who watches an event, especially a sports event."
+        },
+        "examples": [
+          {
+            "sentence": "Thousands of spectators cheered during the game.",
+            "translation": "成千上万的观众在比赛中欢呼。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "audience",
+        "type": "noun",
+        "definition": {
+          "chinese": "听众、观众（表演类）",
+          "english": "People who watch or listen to a performance."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 spectare（观看），无多义。",
+      "explanation_english": "From Latin ‘spectare’ meaning ‘to watch’; single meaning."
+    },
+    "variation_between_british_american": {
+      "british": "常用于体育赛事。",
+      "american": "同义，但也可用于公共活动。"
+    }
+  },
+  {
+    "word": "spectacle",
+    "pronunciation": {
+      "british": "/ˈspektəkl/ 🇬🇧",
+      "american": "/ˈspektəkəl/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "🎭 可指“壮观场面”或“令人震撼的景象”，也可指“眼镜”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "壮观场面，奇观",
+          "english": "An impressive or striking display or performance."
+        },
+        "examples": [
+          {
+            "sentence": "The fireworks were a magnificent spectacle.",
+            "translation": "烟花表演十分壮观。"
+          }
+        ]
+      },
+      {
+        "type": "noun（复数：spectacles）",
+        "definition": {
+          "chinese": "眼镜",
+          "english": "A pair of lenses for correcting or assisting defective eyesight."
+        },
+        "examples": [
+          {
+            "sentence": "He put on his spectacles to read.",
+            "translation": "他戴上眼镜看书。"
+          }
+        ]
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原义为“被观看的事物”，后延伸为“奇观”和“用来看东西的工具（眼镜）”。",
+      "explanation_english": "Originally meant ‘something to look at’; extended to ‘impressive sight’ and ‘glasses for seeing’."
+    },
+    "variation_between_british_american": {
+      "british": "‘spectacles’是常用说法。",
+      "american": "更常说‘glasses’。"
+    }
+  },
+  {
+    "word": "spectacular",
+    "pronunciation": {
+      "british": "/spekˈtækjʊlə/ 🇬🇧",
+      "american": "/spekˈtækjələr/ 🇺🇸"
+    },
+    "phrase_type": "adjective/noun 多义词",
+    "usage": "🌟 表示“壮观的、令人惊叹的”；名词可指“盛大演出”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "壮观的，令人惊叹的",
+          "english": "Very impressive or dramatic."
+        },
+        "examples": [
+          {
+            "sentence": "They enjoyed a spectacular sunset.",
+            "translation": "他们欣赏到壮观的日落。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "盛大场面，豪华演出",
+          "english": "A large, impressive show or event."
+        },
+        "examples": [
+          {
+            "sentence": "The musical was a true Broadway spectacular.",
+            "translation": "这部音乐剧是名副其实的百老汇盛典。"
+          }
+        ]
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由spectacle派生，原意“可观看的”，引申为形容词和名词。",
+      "explanation_english": "Derived from ‘spectacle’, meaning ‘something worth seeing’; extended to describe grandeur or events."
+    },
+    "variation_between_british_american": {
+      "british": "常用于形容自然或文化场景。",
+      "american": "常用于娱乐业或体育赛事。"
+    }
+  },
+  {
+    "word": "splendid",
+    "pronunciation": {
+      "british": "/ˈsplendɪd/ 🇬🇧",
+      "american": "/ˈsplɛndɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "✨ 表示“极好的、辉煌的”，语气比“great”更文雅或正式。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "极好的，辉煌的",
+          "english": "Magnificent; very impressive or excellent."
+        },
+        "examples": [
+          {
+            "sentence": "They had a splendid time at the party.",
+            "translation": "他们在派对上度过了美好的时光。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "magnificent",
+        "type": "adjective",
+        "definition": {
+          "chinese": "壮丽的",
+          "english": "Extremely beautiful or impressive."
+        }
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 splendere（闪耀），无多义。",
+      "explanation_english": "From Latin ‘splendere’ meaning ‘to shine’; single meaning emphasizing excellence or brilliance."
+    },
+    "variation_between_british_american": {
+      "british": "常用作优雅的赞美语，如‘That’s splendid!’",
+      "american": "较少使用，语气显得正式或老派。"
+    }
+  },
+  {
+    "word": "grand",
+    "pronunciation": {
+      "british": "/ɡrænd/ 🇬🇧",
+      "american": "/ɡrænd/ 🇺🇸"
+    },
+    "phrase_type": "adjective/noun 多义词",
+    "usage": "🏰 表示“宏伟、盛大的”，也作名词指“一千美元”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "宏伟的，壮丽的",
+          "english": "Magnificent and impressive in appearance or style."
+        },
+        "examples": [
+          {
+            "sentence": "They entered the grand hall of the palace.",
+            "translation": "他们走进了宫殿宏伟的大殿。"
+          }
+        ]
+      },
+      {
+        "type": "noun（非正式）",
+        "definition": {
+          "chinese": "一千美元",
+          "english": "A thousand dollars (US slang)."
+        },
+        "examples": [
+          {
+            "sentence": "The repair cost him five grand.",
+            "translation": "维修花了他五千美元。"
+          }
+        ]
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 grandis（大的），后在美式英语中被俚语化为金额单位。",
+      "explanation_english": "From Latin ‘grandis’ meaning ‘large’; later slang in US English for ‘a thousand dollars’."
+    },
+    "variation_between_british_american": {
+      "british": "用于形容壮观、正式或高贵事物。",
+      "american": "除形容词外，‘a grand’指1000美元。"
+    }
+  },
+  {
+    "word": "ginormous",
+    "pronunciation": {
+      "british": "/dʒaɪˈnɔːməs/ 🇬🇧",
+      "american": "/dʒaɪˈnɔːrməs/ 🇺🇸"
+    },
+    "phrase_type": "adjective（非正式）",
+    "usage": "😲 俚语式表达“巨大无比”，比“enormous”更夸张，带有幽默或夸饰语气。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "极其巨大的，庞然大物的",
+          "english": "Extremely large; humongous or gigantic."
+        },
+        "examples": [
+          {
+            "sentence": "They built a ginormous sandcastle on the beach.",
+            "translation": "他们在沙滩上堆了一个巨无霸沙堡。"
+          },
+          {
+            "sentence": "That burger was ginormous!",
+            "translation": "那个汉堡大得离谱！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "gigantic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "巨大的",
+          "english": "Very large or extensive in size."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语色彩",
+        "explanation": "‘ginormous’ 是 ‘gigantic’ + ‘enormous’ 的混合词，常用于口语或幽默场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由‘gigantic’与‘enormous’合并创造（混成词），为20世纪中期的俚语。",
+      "explanation_english": "A blend of ‘gigantic’ and ‘enormous’; coined as humorous slang in mid-20th century English."
+    },
+    "variation_between_british_american": {
+      "british": "较少用，多为年轻人或非正式语境。",
+      "american": "使用更广泛，尤其在口语和儿童语境中。"
+    }
+  },
+  {
+    "word": "enormous",
+    "pronunciation": {
+      "british": "/ɪˈnɔːməs/ 🇬🇧",
+      "american": "/ɪˈnɔːrməs/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "📏 正式且常用，表示“非常大的、巨大的”，可用于物理大小或程度。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "巨大的，庞大的",
+          "english": "Extremely large in size, amount, or degree."
+        },
+        "examples": [
+          {
+            "sentence": "They made an enormous effort to finish the project.",
+            "translation": "他们付出了巨大的努力完成这个项目。"
+          },
+          {
+            "sentence": "The elephant is an enormous animal.",
+            "translation": "大象是一种庞大的动物。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "massive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "庞大的，沉重的",
+          "english": "Large, heavy, or solid in form."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气对比",
+        "explanation": "‘enormous’ 是标准英语词汇，用于正式和书面语；‘ginormous’ 则是幽默、夸张的俚语。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 enormis（超出常规的），原义‘不正常的’，后演变为‘巨大’。",
+      "explanation_english": "From Latin ‘enormis’ meaning ‘irregular or out of the norm’, later generalized to mean ‘very large’."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式场合，如‘enormous amount of work’。",
+      "american": "用法相同，但口语中更常被‘huge’替代。"
+    }
+  },
+  {
+    "word": "clutter",
+    "pronunciation": {
+      "british": "/ˈklʌtə/ 🇬🇧",
+      "american": "/ˈklʌtər/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "🧹 常指“杂乱的堆积物”或“使变得杂乱”，用于日常生活、房间或思绪等情境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "杂乱，凌乱的东西",
+          "english": "A messy collection of things; untidiness."
+        },
+        "examples": [
+          {
+            "sentence": "The desk was covered with clutter.",
+            "translation": "桌子上堆满了杂物。"
+          },
+          {
+            "sentence": "Try to get rid of unnecessary clutter in your home.",
+            "translation": "尽量清除家里没必要的杂物。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使杂乱，使凌乱",
+          "english": "To fill or cover something with too many things, making it untidy."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t clutter the kitchen with too many gadgets.",
+            "translation": "不要让厨房被太多的小器具弄得杂乱。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "mess",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "混乱、脏乱",
+          "english": "A state of disorder or untidiness."
+        },
+        "examples": [
+          {
+            "sentence": "Your room is a total mess!",
+            "translation": "你的房间乱成一团！"
+          }
+        ]
+      },
+      {
+        "word": "tidy",
+        "type": "adjective/verb",
+        "definition": {
+          "chinese": "整洁的 / 收拾整齐",
+          "english": "Neat and well arranged / to make something neat."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语义延伸",
+        "explanation": "‘clutter’ 不仅可用于实物，也可比喻思想混乱，如 ‘mental clutter’（思绪混乱）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中古英语 ‘clotter’（结块、聚集），后来引申为“堆积成杂乱”。",
+      "explanation_english": "From Middle English ‘clotter’ meaning ‘to form into lumps’, later extended to mean ‘accumulate in disorder’."
+    },
+    "variation_between_british_american": {
+      "british": "常用于描述家居环境杂乱。",
+      "american": "用法相同，也常用于比喻心理或信息混乱。"
+    }
+  },
+  {
+    "word": "fond of",
+    "pronunciation": {
+      "british": "/fɒnd əv/ 🇬🇧",
+      "american": "/fɑːnd ʌv/ 🇺🇸"
+    },
+    "phrase_type": "adjective phrase",
+    "usage": "❤️ 用于表达对人、事或物的喜爱或偏好，非常口语化且常用。",
+    "meanings": [
+      {
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "喜欢，喜爱",
+          "english": "Having a strong liking or affection for someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "She is very fond of her little brother.",
+            "translation": "她非常喜欢她的小弟弟。"
+          },
+          {
+            "sentence": "He’s fond of reading science fiction in his free time.",
+            "translation": "他喜欢在空闲时间阅读科幻小说。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "like",
+        "type": "verb",
+        "definition": {
+          "chinese": "喜欢",
+          "english": "To enjoy or have a preference for something."
+        }
+      },
+      {
+        "word": "keen on",
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "热衷于",
+          "english": "Very enthusiastic about or interested in something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "‘fond of’ 后面接名词或动名词（V-ing），如 fond of chocolate / fond of swimming。"
+      },
+      {
+        "point": "语气",
+        "explanation": "比 like 更温和、感情色彩更丰富，常用于表达长期喜好。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘fond’ 原意“愚蠢、傻”，后义扩展为“喜欢的、喜爱的”，成为固定搭配 fond of。",
+      "explanation_english": "‘Fond’ originally meant ‘foolish or silly’, later extended metaphorically to mean ‘affectionate or liking’, forming the phrase ‘fond of’."
+    },
+    "variation_between_british_american": {
+      "british": "常用且自然，口语与书面语均可。",
+      "american": "同样常用，但口语中也可用 ‘keen on’ 或 ‘really like’ 替代。"
+    }
+  },
+  {
+    "word": "be capable of",
+    "pronunciation": {
+      "british": "/bi ˈkeɪpəbl əv/ 🇬🇧",
+      "american": "/bi ˈkeɪpəbl ʌv/ 🇺🇸"
+    },
+    "phrase_type": "adjective phrase",
+    "usage": "💪 用于表示“有能力做某事”，可用于能力、潜力或可能性，正式和口语场景均可。",
+    "meanings": [
+      {
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "有能力做…，能够…",
+          "english": "Having the ability, skill, or qualities necessary to do something."
+        },
+        "examples": [
+          {
+            "sentence": "She is capable of handling difficult situations calmly.",
+            "translation": "她能够冷静应对困难的情况。"
+          },
+          {
+            "sentence": "This device is capable of recording high-definition video.",
+            "translation": "这台设备能够录制高清影片。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "able to",
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "能够",
+          "english": "Having the ability or opportunity to do something."
+        }
+      },
+      {
+        "word": "competent",
+        "type": "adjective",
+        "definition": {
+          "chinese": "胜任的，有能力的",
+          "english": "Having the necessary skill or knowledge to do something successfully."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "‘be capable of’ 后接名词或动名词（V-ing），如 capable of swimming / capable of great achievements。"
+      },
+      {
+        "point": "语气区别",
+        "explanation": "比‘able to’略正式，强调潜力或能力的程度。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 capax（能容纳的、有能力的），引申为“能够做某事”。",
+      "explanation_english": "From Latin ‘capax’ meaning ‘able to hold or contain’, later extended to ‘having ability to do something’."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式书面语和口语。",
+      "american": "使用方式相同，也可口语中替换为 ‘able to’。"
+    }
+  },
+  {
+    "word": "be short of",
+    "pronunciation": {
+      "british": "/bi ʃɔːt ɒv/ 🇬🇧",
+      "american": "/bi ʃɔːrt ʌv/ 🇺🇸"
+    },
+    "phrase_type": "phrasal adjective phrase",
+    "usage": "💸 用于表示“缺乏、不足”，常用于金钱、时间、物资或抽象概念，口语和书面语均可。",
+    "meanings": [
+      {
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "缺少，不足",
+          "english": "To not have enough of something."
+        },
+        "examples": [
+          {
+            "sentence": "We are short of cash until payday.",
+            "translation": "我们在发工资前手头缺钱。"
+          },
+          {
+            "sentence": "She was short of time and had to leave early.",
+            "translation": "她时间不够，只能提前离开。"
+          },
+          {
+            "sentence": "The company is short of skilled workers.",
+            "translation": "公司缺乏技术熟练的员工。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "lack",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "缺乏，不足",
+          "english": "To be without or not have enough of something."
+        }
+      },
+      {
+        "word": "insufficient",
+        "type": "adjective",
+        "definition": {
+          "chinese": "不足的，不够的",
+          "english": "Not enough; inadequate."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "‘be short of’ 后可接名词，不接动词原形。"
+      },
+      {
+        "point": "语气",
+        "explanation": "比 lack 更口语化，强调暂时性或实际情况。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘short’ 原意“矮的、少的”，后引申为‘缺乏、短缺’。",
+      "explanation_english": "‘Short’ originally meant ‘small in quantity or height’, later extended metaphorically to mean ‘lacking or insufficient’."
+    },
+    "variation_between_british_american": {
+      "british": "常用，口语与书面语均可。",
+      "american": "用法相同，也常用于日常口语。"
+    }
+  },
+  {
+    "word": "reverse into",
+    "pronunciation": {
+      "british": "/rɪˈvɜːs ˈɪntuː/ 🇬🇧",
+      "american": "/rɪˈvɜrs ˈɪntu/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "🚗 常用于驾驶场景，表示车辆“倒退进入”某处或碰撞到某物。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "倒车进入（某处）；撞上",
+          "english": "To drive a vehicle backward into something, intentionally or accidentally."
+        },
+        "examples": [
+          {
+            "sentence": "He reversed into the parking space carefully.",
+            "translation": "他小心地倒车进入车位。"
+          },
+          {
+            "sentence": "She accidentally reversed into a lamppost.",
+            "translation": "她不小心倒车撞上了灯柱。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "back into",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "倒退驶入",
+          "english": "To move backward into a space or object."
+        }
+      },
+      {
+        "word": "reverse",
+        "type": "verb",
+        "definition": {
+          "chinese": "倒退；颠倒",
+          "english": "To move backward or turn in the opposite direction."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "‘reverse into’ 后接名词，通常是物体或空间。"
+      },
+      {
+        "point": "使用场景",
+        "explanation": "多用于驾驶、交通或事故描述，也可比喻‘倒退进入某种状态’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由动词 ‘reverse’（倒退、反转）+ 介词 ‘into’ 构成，含义直译且衍生出驾驶术语。",
+      "explanation_english": "From the verb ‘reverse’ (to move backward) + preposition ‘into’, literal meaning extended to driving contexts."
+    },
+    "variation_between_british_american": {
+      "british": "常用，口语和交通报告中都可见。",
+      "american": "同样常用，尤其在驾驶教学或事故描述中。"
+    }
+  },
+  {
+    "word": "implode",
+    "pronunciation": {
+      "british": "/ɪmˈpləʊd/ 🇬🇧",
+      "american": "/ɪmˈploʊd/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "💥 表示“向内坍塌、崩溃”，既可用于物理爆炸（如建筑、潜艇），也可用于比喻心理或组织崩溃。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "向内爆炸，内爆",
+          "english": "To collapse or burst inward violently as a result of external pressure."
+        },
+        "examples": [
+          {
+            "sentence": "The building imploded after the controlled demolition.",
+            "translation": "那栋建筑在受控爆破后向内坍塌。"
+          },
+          {
+            "sentence": "The submarine imploded under the immense pressure of the deep sea.",
+            "translation": "潜艇在深海的巨大压力下内爆。"
+          }
+        ]
+      },
+      {
+        "type": "verb (figurative)",
+        "definition": {
+          "chinese": "崩溃，瓦解（比喻用法）",
+          "english": "To collapse or fail suddenly and completely (of an organization, system, or person)."
+        },
+        "examples": [
+          {
+            "sentence": "The company imploded after years of financial mismanagement.",
+            "translation": "公司在多年财务管理不善后彻底崩溃。"
+          },
+          {
+            "sentence": "He felt like he was going to implode from all the pressure.",
+            "translation": "他觉得自己快要被压力压垮了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "explode",
+        "type": "verb",
+        "definition": {
+          "chinese": "爆炸，向外炸开",
+          "english": "To burst outward with force."
+        }
+      },
+      {
+        "word": "collapse",
+        "type": "verb",
+        "definition": {
+          "chinese": "倒塌，崩溃",
+          "english": "To fall down or fail suddenly."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词义对比",
+        "explanation": "‘implode’ 是向内爆炸，而 ‘explode’ 是向外爆炸。"
+      },
+      {
+        "point": "比喻用法",
+        "explanation": "可形容公司、经济、心理状态的突然崩溃。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘implodere’，意为‘向内拍击’；最初用于描述声音或压力的内向崩塌，后来比喻‘精神或系统崩溃’。",
+      "explanation_english": "From Latin ‘implodere’ meaning ‘to strike or clap inward’; originally physical, later metaphorical for emotional or structural collapse."
+    },
+    "variation_between_british_american": {
+      "british": "在科学、建筑和新闻报道中常见。",
+      "american": "比喻用更普遍，用于情绪或机构崩溃。"
+    }
   }
 ]
+
+
 
 
 
