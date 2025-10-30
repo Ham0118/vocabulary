@@ -40121,7 +40121,1008 @@ const wordData = [
       "british": "在科学、建筑和新闻报道中常见。",
       "american": "比喻用更普遍，用于情绪或机构崩溃。"
     }
-  }
+  },
+  {
+    "word": "think ahead",
+    "pronunciation": {
+      "british": "/θɪŋk əˈhɛd/ 🇬🇧",
+      "american": "/θɪŋk əˈhɛd/ 🇺🇸"
+    },
+    "phrase_type": "verb phrase 动词短语",
+    "usage": "🧭 常用作建议或忠告，表示为未来做计划或预见可能的后果。口语与书面语都常见，语气偏实用/劝导。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "为将来做打算；未雨绸缪",
+          "english": "To consider and plan for the future; to anticipate future needs or consequences."
+        },
+        "examples": [
+          {
+            "sentence": "If you think ahead, you can avoid many last-minute problems.",
+            "translation": "如果你事先考虑周全，就能避免许多临时出现的问题。"
+          },
+          {
+            "sentence": "We need to think ahead about staffing for the holiday season.",
+            "translation": "我们需要为假期人手安排提前做打算。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "plan ahead",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "事先计划",
+          "english": "To make arrangements or decisions in advance."
+        },
+        "examples": [
+          {
+            "sentence": "Plan ahead to get the best deals on flights.",
+            "translation": "提前计划可以订到机票的最佳优惠。"
+          }
+        ]
+      },
+      {
+        "word": "anticipate",
+        "type": "verb",
+        "definition": {
+          "chinese": "预料，预见",
+          "english": "To expect or predict and prepare for something in advance."
+        }
+      },
+      {
+        "word": "prepare",
+        "type": "verb",
+        "definition": {
+          "chinese": "准备",
+          "english": "To make ready beforehand for an event or situation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法",
+        "explanation": "‘think ahead’ 是 think + 副词 ahead 的组合，后面可接名词或从句（think ahead about X / think ahead to when...）。"
+      },
+      {
+        "point": "语气与场合",
+        "explanation": "常作为建议或指示（e.g. in workplace, parenting, finance）。比 ‘plan’ 更口语、更侧重于‘预见’而非详尽计划。"
+      },
+      {
+        "point": "搭配",
+        "explanation": "常见搭配：think ahead about, think ahead to, think ahead and + V（imperative）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由动词 think（思考）与副词 ahead（在前、预先）组合而成，字面即“往前思考”。词义直接且透明，未产生复杂的历史多义演变。",
+      "explanation_english": "Formed from the verb ‘think’ + adverb ‘ahead’ (meaning ‘in front’ or ‘in advance’). The phrase is literal and transparent — ‘to think forward’ — so it hasn’t developed many divergent historical senses."
+    },
+    "variation_between_british_american": {
+      "british": "常用且自然，常见于日常建议与正式场合（如工作计划）。",
+      "american": "用法相同，口语与职场中都很常见；美式中也会用 ‘plan ahead’ 作为近义替代。"
+    }
+  },
+  {
+    "word": "fragrant",
+    "pronunciation": {
+      "british": "/ˈfreɪɡrənt/ 🇬🇧",
+      "american": "/ˈfreɪɡrənt/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "🌸 常用来形容花、食物、香料等散发愉快气味的东西，正式和口语场景均可使用。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "芳香的；有香味的",
+          "english": "Having a pleasant or sweet smell."
+        },
+        "examples": [
+          {
+            "sentence": "The kitchen was fragrant with the smell of baking bread.",
+            "translation": "厨房里弥漫着烤面包的香味。"
+          },
+          {
+            "sentence": "She picked a bouquet of fragrant flowers.",
+            "translation": "她采了一束芳香的花。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "aromatic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "芳香的，有香气的",
+          "english": "Having a strong and pleasant smell, often used for spices or herbs."
+        }
+      },
+      {
+        "word": "scented",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有香味的",
+          "english": "Having a noticeable smell, usually added artificially."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "‘fragrant’ 后接名词，可直接修饰可闻的物品，如 fragrant soap, fragrant flowers。"
+      },
+      {
+        "point": "语气",
+        "explanation": "比 ‘smelly’（气味）更正面；强调愉快的香气。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘fragrans’，意思是散发香气的。主要用于字面意义，未衍生其他复杂义项。",
+      "explanation_english": "From Latin ‘fragrans’ meaning ‘smelling sweet’. Mostly used literally; no significant semantic extensions."
+    },
+    "variation_between_british_american": {
+      "british": "使用频率高，多用于文学或形容食物、花香。",
+      "american": "用法相同，也常用于广告或口语描述香味。"
+    }
+  },
+  {
+    "word": "ratio",
+    "pronunciation": {
+      "british": "/ˈreɪʃiəʊ/ 🇬🇧",
+      "american": "/ˈreɪʃioʊ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "📊 表示两个数量之间的比率或关系，常用于数学、科学、经济等语境中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "比率，比例",
+          "english": "The relationship in quantity, amount, or size between two or more things."
+        },
+        "examples": [
+          {
+            "sentence": "The ratio of teachers to students is 1 to 20.",
+            "translation": "师生比例是1比20。"
+          },
+          {
+            "sentence": "Maintain the same ratio of water to rice.",
+            "translation": "保持相同的水和米的比例。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "proportion",
+        "type": "noun",
+        "definition": {
+          "chinese": "比例，部分",
+          "english": "A part, share, or number considered in comparative relation to a whole."
+        }
+      },
+      {
+        "word": "percentage",
+        "type": "noun",
+        "definition": {
+          "chinese": "百分比",
+          "english": "A rate, number, or amount in each hundred."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法",
+        "explanation": "常用结构为 ‘the ratio of A to B’，注意介词用 to。"
+      },
+      {
+        "point": "语气",
+        "explanation": "正式词汇，用于学术和日常场合都自然。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘ratio’，意为“计算、关系、理由”。数学用义来自“关系”这一原始含义。",
+      "explanation_english": "From Latin ‘ratio’ meaning ‘calculation, relation, or reason’; the mathematical sense developed from its meaning ‘relation’."
+    },
+    "variation_between_british_american": {
+      "british": "读音略短，常用于学术或商业场景。",
+      "american": "发音中 /ʃioʊ/ 更清晰，日常和专业语境中都常见。"
+    }
+  },
+  {
+    "word": "starch",
+    "pronunciation": {
+      "british": "/stɑːtʃ/ 🇬🇧",
+      "american": "/stɑːrtʃ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "🌾 通常指食物中的淀粉，也可作动词指“上浆（衣物）”。属于生活和科学中常用词。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "淀粉",
+          "english": "A white, tasteless carbohydrate found in foods like potatoes, rice, and corn."
+        },
+        "examples": [
+          {
+            "sentence": "Potatoes are rich in starch.",
+            "translation": "土豆富含淀粉。"
+          },
+          {
+            "sentence": "Cornstarch is used to thicken sauces.",
+            "translation": "玉米淀粉用来使酱汁变稠。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "给（衣物）上浆，使变硬挺",
+          "english": "To stiffen fabric, especially shirts, with starch during ironing."
+        },
+        "examples": [
+          {
+            "sentence": "He likes his shirts heavily starched.",
+            "translation": "他喜欢把衬衫上得很硬挺。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "carbohydrate",
+        "type": "noun",
+        "definition": {
+          "chinese": "碳水化合物",
+          "english": "A nutrient that includes sugars, starches, and fibers."
+        }
+      },
+      {
+        "word": "glucose",
+        "type": "noun",
+        "definition": {
+          "chinese": "葡萄糖",
+          "english": "A simple sugar that is a product of starch digestion."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义用法",
+        "explanation": "‘starch’ 作动词源自其名词义，因为早期用淀粉溶液处理衣物。"
+      },
+      {
+        "point": "常见搭配",
+        "explanation": "starchy foods（含淀粉的食物）、starch shirt（上浆的衬衫）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘stercan’，意为“使变硬”，最初用于织物，后来引申为物质‘淀粉’。",
+      "explanation_english": "From Old English ‘stercan’ meaning ‘to stiffen’; originally referred to fabric treatment, later extended to the substance itself."
+    },
+    "variation_between_british_american": {
+      "british": "两种用法皆常见；也常作烹饪术语。",
+      "american": "同样常用，尤其在饮食和洗衣领域。"
+    }
+  },
+  {
+    "word": "fluff",
+    "pronunciation": {
+      "british": "/flʌf/ 🇬🇧",
+      "american": "/flʌf/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "☁️ ‘fluff’ 是一个轻松可爱的词，可以指“绒毛”“小错误”，也可作动词表示“抖松、弄蓬松”，常见于日常口语、宠物、衣物、甚至影视作品中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "绒毛；轻软物质",
+          "english": "Soft, light material such as hair, feathers, or fabric fibers."
+        },
+        "examples": [
+          {
+            "sentence": "The kitten’s fur was all fluff.",
+            "translation": "那只小猫的毛全是软绒绒的。"
+          },
+          {
+            "sentence": "She brushed the fluff off her coat.",
+            "translation": "她把外套上的绒毛拍掉。"
+          }
+        ]
+      },
+      {
+        "type": "noun (figurative)",
+        "definition": {
+          "chinese": "无价值的东西；废话",
+          "english": "Something with little substance or importance; trivial material."
+        },
+        "examples": [
+          {
+            "sentence": "The movie was entertaining but mostly fluff.",
+            "translation": "那部电影很有趣，但内容很空洞。"
+          }
+        ]
+      },
+      {
+        "type": "noun (informal)",
+        "definition": {
+          "chinese": "小错误（尤其表演或讲话时）",
+          "english": "A minor mistake, especially in speaking or performing."
+        },
+        "examples": [
+          {
+            "sentence": "He made a small fluff during his presentation.",
+            "translation": "他在演讲中犯了一个小错误。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "抖松，使蓬松",
+          "english": "To make something soft or full by shaking or brushing it."
+        },
+        "examples": [
+          {
+            "sentence": "She fluffed the pillows before going to bed.",
+            "translation": "她在上床前把枕头拍松。"
+          },
+          {
+            "sentence": "He fluffed up the cat’s fur after bathing it.",
+            "translation": "他给猫洗完澡后把毛弄得蓬松。"
+          }
+        ]
+      },
+      {
+        "type": "verb (informal)",
+        "definition": {
+          "chinese": "搞砸，出错",
+          "english": "To make a mistake or fail to perform well."
+        },
+        "examples": [
+          {
+            "sentence": "She fluffed her lines in the play.",
+            "translation": "她在剧中忘词了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fuzz",
+        "type": "noun",
+        "definition": {
+          "chinese": "细绒，绒毛",
+          "english": "A mass of fine, soft hairs or fibers."
+        }
+      },
+      {
+        "word": "puff up",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "鼓起，使蓬松",
+          "english": "To expand or make something appear fuller or softer."
+        }
+      },
+      {
+        "word": "mistake",
+        "type": "noun",
+        "definition": {
+          "chinese": "错误",
+          "english": "An action or judgment that is wrong or misguided."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气与语域",
+        "explanation": "‘fluff’ 通常语气轻松、可爱，用于毛茸茸的物体或轻微错误。"
+      },
+      {
+        "point": "动词短语常见搭配",
+        "explanation": "fluff up (拍松)、fluff out (蓬松起来)、fluff one’s lines (说错台词)。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自16世纪的‘flue’（绒毛）词根，原指柔软物质。后来比喻为“轻飘无实的东西”或“小错误”。",
+      "explanation_english": "From Middle English ‘flue’ (soft down or fluff). Originally meant ‘soft fibers’, later metaphorically extended to mean ‘light, trivial, or mistaken things’."
+    },
+    "variation_between_british_american": {
+      "british": "‘fluff’ 作为‘犯错’的意思更常见于口语和戏剧界。",
+      "american": "常用于描述柔软质感，如 fluffy pillows, fluff up。比喻义（轻内容）在媒体评论中常见。"
+    }
+  },
+  {
+    "word": "attic",
+    "pronunciation": {
+      "british": "/ˈætɪk/ 🇬🇧",
+      "american": "/ˈætɪk/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "🏠 指房屋最顶层的空间，通常在屋顶下，可用作储物或居住空间。常见于日常口语、房地产和文学描述。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "阁楼，顶楼",
+          "english": "The space or room just below the roof of a house, often used for storage or sometimes converted into living space."
+        },
+        "examples": [
+          {
+            "sentence": "They store old furniture and boxes in the attic.",
+            "translation": "他们把旧家具和箱子存放在阁楼里。"
+          },
+          {
+            "sentence": "The children converted the attic into a playroom.",
+            "translation": "孩子们把阁楼改造成了一个游戏室。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "loft",
+        "type": "noun",
+        "definition": {
+          "chinese": "阁楼，顶层公寓",
+          "english": "A room or space directly under the roof, sometimes converted into a living area."
+        }
+      },
+      {
+        "word": "garret",
+        "type": "noun",
+        "definition": {
+          "chinese": "顶楼小屋，常指简陋的画室或住所",
+          "english": "A top-floor or attic room, often small or cramped."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "英国和美国都用 attic，但英国日常也可能说 loft。文学作品中常用 attic 营造温馨或神秘感。"
+      },
+      {
+        "point": "文化差异",
+        "explanation": "在美国，attic 通常是储藏室；在英国，loft 有时更强调可居住空间。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊建筑风格‘Attica’，指希腊雅典附近地区的风格屋顶空间，后引申为房屋顶层。",
+      "explanation_english": "From Greek ‘Attica’, relating to the architectural style in the region near Athens; later extended to mean the top space of a house."
+    },
+    "variation_between_british_american": {
+      "british": "attic 用于储藏阁楼，loft 更强调可改造的生活空间。",
+      "american": "attic 更常用，多为储物空间，也可改造成居住区。"
+    }
+  },
+  {
+    "word": "ongoing",
+    "pronunciation": {
+      "british": "/ˈɒnˌɡəʊɪŋ/ 🇬🇧",
+      "american": "/ˈɑːnˌɡoʊɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "🔄 常用来描述持续进行中的事件、过程或活动。既可用于正式书面语，也常见于新闻、职场或日常口语中。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "持续进行中的",
+          "english": "Continuing; still in progress."
+        },
+        "examples": [
+          {
+            "sentence": "The ongoing investigation will take several months.",
+            "translation": "这项正在进行的调查将持续几个月。"
+          },
+          {
+            "sentence": "We have ongoing projects that require attention.",
+            "translation": "我们有一些持续进行的项目需要关注。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "continuous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "连续的，不间断的",
+          "english": "Without interruption; happening in an unbroken sequence."
+        }
+      },
+      {
+        "word": "current",
+        "type": "adjective",
+        "definition": {
+          "chinese": "当前的，正在进行的",
+          "english": "Happening or existing now."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "通常放在名词前修饰，如 ongoing process, ongoing issue。"
+      },
+      {
+        "point": "语气",
+        "explanation": "强调事件或状态尚未结束，比 current 更强调‘延续性’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由动词 ‘go’ 的现在分词 ‘going’ 构成，前面加 on 表示‘继续进行’，字面意义直接转化为形容词。",
+      "explanation_english": "Formed from the present participle of ‘go’ with the preposition ‘on’, literally meaning ‘going on’, later used adjectivally to describe ongoing events or actions."
+    },
+    "variation_between_british_american": {
+      "british": "常用于新闻报道、商务和教育场合。",
+      "american": "用法相同，尤其在职场、学术和媒体中频繁使用。"
+    }
+  },
+  {
+    "word": "nutritious",
+    "pronunciation": {
+      "british": "/njuˈtrɪʃəs/ 🇬🇧",
+      "american": "/nuˈtrɪʃəs/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "🥗 用来形容食物富含营养，适合健康饮食。常用于口语、食谱、健康或营养相关场合。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "有营养的，滋养的",
+          "english": "Providing the substances necessary for good health and growth."
+        },
+        "examples": [
+          {
+            "sentence": "Fruits and vegetables are highly nutritious.",
+            "translation": "水果和蔬菜非常有营养。"
+          },
+          {
+            "sentence": "A nutritious breakfast helps you start the day with energy.",
+            "translation": "有营养的早餐帮助你充满活力地开始一天。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "healthy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "健康的",
+          "english": "Beneficial to one’s physical or mental well-being."
+        }
+      },
+      {
+        "word": "nutrient-rich",
+        "type": "adjective",
+        "definition": {
+          "chinese": "富含营养的",
+          "english": "Containing a lot of essential nutrients."
+        }
+      },
+      {
+        "word": "wholesome",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有益健康的",
+          "english": "Conducive to or suggestive of good health and physical well-being."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "通常用来修饰名词，如 nutritious food, nutritious meal。"
+      },
+      {
+        "point": "语气",
+        "explanation": "比 plain ‘healthy’ 更强调食物的营养价值。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘nutritius’，意为滋养的，直接延伸为形容富含营养的食物。",
+      "explanation_english": "From Latin ‘nutritius’ meaning ‘nourishing’; directly extended to describe food that provides nutrients."
+    },
+    "variation_between_british_american": {
+      "british": "常用在食物描述、健康建议和食谱中。",
+      "american": "用法相同，尤其在营养学和健康宣传中频繁使用。"
+    }
+  },
+  {
+    "word": "celly",
+    "pronunciation": {
+      "british": "/ˈsɛli/ 🇬🇧",
+      "american": "/ˈsɛli/ 🇺🇸"
+    },
+    "phrase_type": "noun (slang)",
+    "usage": "🏒 非正式用语，尤其在北美冰球文化中，表示进球后的庆祝动作（来自 celebration 的缩写）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "庆祝动作（俚语）",
+          "english": "A slang term for a celebration, especially after scoring a goal in hockey."
+        },
+        "examples": [
+          {
+            "sentence": "He scored the winning goal and did an epic celly.",
+            "translation": "他进了制胜球，还做了个超棒的庆祝动作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "celebration",
+        "type": "noun",
+        "definition": {
+          "chinese": "庆祝",
+          "english": "The action of celebrating an achievement or event."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语体",
+        "explanation": "极为口语化，主要在加拿大和美国青年语境中使用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自单词 ‘celebration’ 的缩写形式。",
+      "explanation_english": "A clipped slang form of ‘celebration’, popularized by hockey players."
+    },
+    "variation_between_british_american": {
+      "british": "极少使用。",
+      "american": "北美俚语中常见，尤其在运动语境下。"
+    }
+  },
+  {
+    "word": "deported",
+    "pronunciation": {
+      "british": "/dɪˈpɔːtɪd/ 🇬🇧",
+      "american": "/dɪˈpɔːrtɪd/ 🇺🇸"
+    },
+    "phrase_type": "verb (past participle)",
+    "usage": "⚖️ 常用于法律或移民语境，表示被官方驱逐出境。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "被驱逐出境",
+          "english": "Forced to leave a country by official order."
+        },
+        "examples": [
+          {
+            "sentence": "He was deported for overstaying his visa.",
+            "translation": "他因签证逾期被驱逐出境。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "expel",
+        "type": "verb",
+        "definition": {
+          "chinese": "驱逐",
+          "english": "To officially force someone to leave a place or organization."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "比 expel 更正式、带有政府或移民局强制执行的意味。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘deportare’，意为‘带走’或‘运走’。",
+      "explanation_english": "From Latin ‘deportare’, meaning ‘to carry away’."
+    },
+    "variation_between_british_american": {
+      "british": "法律语中常见。",
+      "american": "与移民局、ICE（移民执法局）语境关系紧密。"
+    }
+  },
+  {
+    "word": "correspond",
+    "pronunciation": {
+      "british": "/ˌkɒrɪˈspɒnd/ 🇬🇧",
+      "american": "/ˌkɔːrəˈspɑːnd/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "💬 可指通信、符合、相对应，用于正式和书面语场合。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "通信",
+          "english": "To communicate by exchanging letters or messages."
+        },
+        "examples": [
+          {
+            "sentence": "We corresponded by email for months.",
+            "translation": "我们通过电子邮件通信了几个月。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "相符，一致",
+          "english": "To match or agree with something."
+        },
+        "examples": [
+          {
+            "sentence": "Her actions do not correspond with her words.",
+            "translation": "她的行为与她的话不一致。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "match",
+        "type": "verb",
+        "definition": {
+          "chinese": "匹配",
+          "english": "To be equal or suitable for something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语体",
+        "explanation": "在书信往来语境下较正式。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘correspondere’，意为‘相互回应’。",
+      "explanation_english": "From Latin ‘correspondere’ meaning ‘to answer in return’."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式通信或科学语境。",
+      "american": "两种意义都常见。"
+    }
+  },
+  {
+    "word": "audit",
+    "pronunciation": {
+      "british": "/ˈɔːdɪt/ 🇬🇧",
+      "american": "/ˈɔːdɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb",
+    "usage": "💼 常用于财务、质量或系统检查，也用于大学选修旁听课。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "审计，稽查",
+          "english": "An official inspection of accounts or systems."
+        },
+        "examples": [
+          {
+            "sentence": "The company is preparing for its annual audit.",
+            "translation": "公司正在准备年度审计。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "审查，旁听（课程）",
+          "english": "To officially inspect accounts; or to attend a class without receiving credit."
+        },
+        "examples": [
+          {
+            "sentence": "She decided to audit a philosophy course.",
+            "translation": "她决定旁听一门哲学课。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "inspect",
+        "type": "verb",
+        "definition": {
+          "chinese": "检查",
+          "english": "To examine carefully for accuracy or quality."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义用法",
+        "explanation": "由‘检查’的核心义引申出‘财务审计’和‘课程旁听’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘audire’，意为‘听’——古时审计员亲耳聆听账务说明。",
+      "explanation_english": "From Latin ‘audire’ meaning ‘to hear’, as auditors used to ‘listen’ to accounts being read."
+    },
+    "variation_between_british_american": {
+      "british": "主要用于财务审计。",
+      "american": "除财务外，还常用于‘旁听课程’语境。"
+    }
+  },
+  {
+    "word": "prodigy",
+    "pronunciation": {
+      "british": "/ˈprɒdɪdʒi/ 🇬🇧",
+      "american": "/ˈprɑːdɪdʒi/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "🌟 表示天赋极高的年轻人，多用于音乐、数学、运动等领域。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "天才，奇才",
+          "english": "A young person with exceptional abilities or talents."
+        },
+        "examples": [
+          {
+            "sentence": "Mozart was a musical prodigy.",
+            "translation": "莫扎特是一位音乐天才。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "genius",
+        "type": "noun",
+        "definition": {
+          "chinese": "天才",
+          "english": "A person with extraordinary intellectual or creative power."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "通常指年轻时展现出超乎常人的才能。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘prodigium’，意为“奇迹”或“预兆”。",
+      "explanation_english": "From Latin ‘prodigium’ meaning ‘wonder’ or ‘omen’."
+    },
+    "variation_between_british_american": {
+      "british": "与美式用法相同。",
+      "american": "常用于描述“child prodigy”（神童）。"
+    }
+  },
+  {
+    "word": "playwright",
+    "pronunciation": {
+      "british": "/ˈpleɪraɪt/ 🇬🇧",
+      "american": "/ˈpleɪraɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "🎭 指编写戏剧或剧本的人，属于文学或表演艺术领域的正式用语。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "剧作家",
+          "english": "A person who writes plays."
+        },
+        "examples": [
+          {
+            "sentence": "Shakespeare is one of the greatest playwrights in history.",
+            "translation": "莎士比亚是历史上最伟大的剧作家之一。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "dramatist",
+        "type": "noun",
+        "definition": {
+          "chinese": "戏剧作家",
+          "english": "Another term for a playwright."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词形",
+        "explanation": "‘wright’ 来自古英语，意为‘工匠’——playwright 即‘制作剧本的工匠’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘wright’ 本意是工匠，如 shipwright（造船工），playwright 即‘造戏剧的人’。",
+      "explanation_english": "‘wright’ means craftsman; thus playwright = ‘play maker’."
+    },
+    "variation_between_british_american": {
+      "british": "文学传统中常见。",
+      "american": "同样常用，尤其在戏剧艺术领域。"
+    }
+  },
+  {
+    "word": "socially awkward",
+    "pronunciation": {
+      "british": "/ˈsəʊʃəli ˈɔːkwəd/ 🇬🇧",
+      "american": "/ˈsoʊʃəli ˈɔːkwɚd/ 🇺🇸"
+    },
+    "phrase_type": "adjective phrase",
+    "usage": "🧍‍♂️💬 用来形容一个人在社交场合中感到不自在、不自然或不擅长与他人互动。常用于口语、心理学或日常描述。",
+    "meanings": [
+      {
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "社交笨拙的，不善交际的",
+          "english": "Feeling uncomfortable or behaving unnaturally in social situations; having difficulty interacting with others."
+        },
+        "examples": [
+          {
+            "sentence": "He’s a bit socially awkward, but very kind once you get to know him.",
+            "translation": "他有点社交笨拙，但熟悉后你会发现他很善良。"
+          },
+          {
+            "sentence": "I used to be socially awkward at parties and never knew what to say.",
+            "translation": "我以前在聚会上总是很不自在，不知道该说什么。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "shy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "害羞的",
+          "english": "Nervous or timid in the company of other people."
+        }
+      },
+      {
+        "word": "introverted",
+        "type": "adjective",
+        "definition": {
+          "chinese": "内向的",
+          "english": "More focused on internal thoughts and feelings than on social interaction."
+        }
+      },
+      {
+        "word": "socially inept",
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "社交能力差的",
+          "english": "Lacking the skills to interact comfortably in social settings."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气区别",
+        "explanation": "‘socially awkward’ 比 ‘shy’ 更强调‘笨拙’或‘不自然’，而不仅仅是害羞。"
+      },
+      {
+        "point": "使用语境",
+        "explanation": "通常是非正式语气，也可自嘲地使用，如‘I’m kind of socially awkward.’"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘awkward’ 原意为‘笨拙的、不顺手的’，延伸到人际互动中表示‘社交不自然’；‘socially’ 仅作修饰说明社交方面的笨拙。",
+      "explanation_english": "‘Awkward’ originally meant ‘clumsy’ or ‘ungraceful’, later extended metaphorically to describe discomfort in social interactions; ‘socially’ specifies the context."
+    },
+    "variation_between_british_american": {
+      "british": "使用频繁，常作轻微自嘲或描述性评价。",
+      "american": "同样常见，有时简写成‘awkward’即可表达相同含义，如‘That was awkward.’"
+    }
+  },
 ]
 
 
