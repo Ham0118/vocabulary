@@ -41123,6 +41123,1147 @@ const wordData = [
       "american": "同样常见，有时简写成‘awkward’即可表达相同含义，如‘That was awkward.’"
     }
   },
+  {
+    "word": "undertaking",
+    "pronunciation": {
+      "british": "/ˈʌndəˌteɪkɪŋ/ 🇬🇧",
+      "american": "/ˈʌndərˌteɪkɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "🧭 常用于正式语，指“任务、事业、承诺”或“殡葬业”。来自动词 *undertake*（承担、承诺）。语气庄重或正式。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "任务；事业",
+          "english": "A task, project, or enterprise that is difficult or important."
+        },
+        "examples": [
+          {
+            "sentence": "Building the bridge was a major engineering undertaking.",
+            "translation": "建造那座桥是一项重大的工程任务。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "承诺；保证",
+          "english": "A formal promise or pledge to do something."
+        },
+        "examples": [
+          {
+            "sentence": "He gave an undertaking to repay the debt within six months.",
+            "translation": "他承诺在六个月内还清债务。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "殡葬业；葬礼事务",
+          "english": "The business or activity of preparing dead bodies for burial or cremation."
+        },
+        "examples": [
+          {
+            "sentence": "Her family has been in the undertaking business for generations.",
+            "translation": "她的家族从事殡葬业已有好几代人。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "undertake",
+        "type": "verb",
+        "definition": {
+          "chinese": "承担；着手进行",
+          "english": "To take on or begin a responsibility or task."
+        },
+        "examples": [
+          {
+            "sentence": "She undertook the project with great enthusiasm.",
+            "translation": "她满怀热情地承担了这个项目。"
+          }
+        ]
+      },
+      {
+        "word": "commitment",
+        "type": "noun",
+        "definition": {
+          "chinese": "承诺；投入",
+          "english": "A promise or firm decision to do something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语域与语气",
+        "explanation": "‘undertaking’ 常用于正式或书面语中，比 ‘project’ 更庄重，带有责任感。"
+      },
+      {
+        "point": "与动词关系",
+        "explanation": "名词 ‘undertaking’ 源自动词 ‘undertake’，语义保持一致，但常用作任务名词或正式承诺。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘undertaking’ 来自古英语结构 ‘under’（在…之下）+ ‘take’（承担）。最初意为“承担责任”，后来引申为“所承担的任务”“正式承诺”，再延伸为“负责处理丧事”的行业（即undertaker）。",
+      "explanation_english": "From Old English ‘under’ + ‘take’, literally ‘to take upon oneself’. Originally meant ‘to take responsibility’, later extended to ‘task’, ‘pledge’, and eventually to the funeral profession (via ‘undertaker’)."
+    },
+    "variation_between_british_american": {
+      "british": "‘undertaking’ 作为‘承诺’更常见于法律文件中。",
+      "american": "更常用作‘任务’或‘项目’，而殡葬义多由名词 ‘undertaker’ 表示。"
+    }
+  },
+  {
+    "word": "reckless",
+    "pronunciation": {
+      "british": "/ˈrekləs/ 🇬🇧",
+      "american": "/ˈrekləs/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "⚠️ 常用于形容“鲁莽的、不顾后果的”行为或人，带有强烈的负面含义，强调缺乏考虑或谨慎。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "鲁莽的；不顾后果的",
+          "english": "Without thinking or caring about the consequences of one’s actions."
+        },
+        "examples": [
+          {
+            "sentence": "He was fined for reckless driving.",
+            "translation": "他因鲁莽驾驶被罚款。"
+          },
+          {
+            "sentence": "It would be reckless to invest all your savings in one stock.",
+            "translation": "把你所有的积蓄都投在一只股票上太鲁莽了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "careless",
+        "type": "adjective",
+        "definition": {
+          "chinese": "粗心的；不小心的",
+          "english": "Not paying enough attention to what one does, so that mistakes are made."
+        },
+        "examples": [
+          {
+            "sentence": "It was careless of me to leave the door unlocked.",
+            "translation": "我忘记锁门太粗心了。"
+          }
+        ]
+      },
+      {
+        "word": "irresponsible",
+        "type": "adjective",
+        "definition": {
+          "chinese": "不负责任的",
+          "english": "Not showing a proper sense of responsibility."
+        }
+      },
+      {
+        "word": "rash",
+        "type": "adjective",
+        "definition": {
+          "chinese": "轻率的；草率的",
+          "english": "Acting too quickly without careful consideration."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气强度",
+        "explanation": "‘reckless’ 比 ‘careless’ 强得多，暗示严重后果或危险。例如：reckless driving（危险驾驶） vs. careless mistake（小错误）。"
+      },
+      {
+        "point": "构词特征",
+        "explanation": "来自 ‘reck’（顾虑、在意）+ 后缀 ‘-less’（无…的），字面意思是“无顾虑的”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘reckless’ 来自古英语 ‘receleas’，其中 ‘reck’ 意为“顾虑”或“关心”，‘-less’ 表“没有”。因此原意为“毫不在意的”，后来固定为“鲁莽、不顾后果”的意思。",
+      "explanation_english": "From Old English ‘receleas’ — ‘reck’ meaning ‘care or heed’ + ‘-less’ meaning ‘without’; originally ‘without care’, later used to describe dangerous or rash behavior."
+    },
+    "variation_between_british_american": {
+      "british": "常用于法律或正式语中，如 ‘reckless endangerment’（鲁莽危害）。",
+      "american": "同样常用，但在日常口语中更频繁，如 ‘That was so reckless of you!’。"
+    }
+  },
+  {
+    "word": "grate",
+    "pronunciation": {
+      "british": "/ɡreɪt/ 🇬🇧",
+      "american": "/ɡreɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "🧀🍋 常用且多义，可作动词“擦碎、使恼火”，名词则指“金属格栅、炉架”。其多义性来自同源古义“刮擦、摩擦”。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "擦碎（食物）",
+          "english": "To rub food against a grater to make it into small pieces."
+        },
+        "examples": [
+          {
+            "sentence": "Grate some cheese over the pasta before serving.",
+            "translation": "上菜前在意面上擦一些奶酪碎。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使恼火；令人不快",
+          "english": "To irritate or annoy someone continuously."
+        },
+        "examples": [
+          {
+            "sentence": "His constant complaining really grates on my nerves.",
+            "translation": "他不断的抱怨真让我心烦。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "发出刺耳摩擦声",
+          "english": "To make a harsh, scraping sound."
+        },
+        "examples": [
+          {
+            "sentence": "The chair legs grated against the floor.",
+            "translation": "椅子的腿在地板上摩擦出刺耳的声音。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "炉架；金属格栅",
+          "english": "A framework of metal bars used to hold fuel in a fireplace or to cover a drain."
+        },
+        "examples": [
+          {
+            "sentence": "The fire burned brightly behind the iron grate.",
+            "translation": "火焰在铁炉架后明亮地燃烧着。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "grater",
+        "type": "noun",
+        "definition": {
+          "chinese": "刨丝器",
+          "english": "A kitchen tool with holes used to grate food like cheese or carrots."
+        },
+        "examples": [
+          {
+            "sentence": "Use a fine grater for the lemon zest.",
+            "translation": "用细刨子擦柠檬皮屑。"
+          }
+        ]
+      },
+      {
+        "word": "gritty",
+        "type": "adjective",
+        "definition": {
+          "chinese": "有砂砾感的；粗糙的",
+          "english": "Having a rough texture, like sand."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "动词义与名词义的联系",
+        "explanation": "动词“grate（刮擦）”和名词“grate（金属格栅）”都源自摩擦、刮擦的原始概念。"
+      },
+      {
+        "point": "常见短语",
+        "explanation": "grate on someone's nerves（惹人心烦）常见于口语中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古法语 ‘grater’（刮擦），原意为“摩擦产生声音”，后引申为“擦碎食物”“刺耳”“恼人”等含义；名词义则来自“可摩擦或承受火”的金属格架。",
+      "explanation_english": "From Old French ‘grater’ meaning ‘to scrape’; the sense evolved from physical friction to emotional irritation and to the metal structure used in fireplaces."
+    },
+    "variation_between_british_american": {
+      "british": "‘grate’（名词）常用于壁炉（fire grate）。",
+      "american": "常用于街道排水口（sewer grate），动词用法相同。"
+    }
+  },
+  {
+    "word": "curvy",
+    "pronunciation": {
+      "british": "/ˈkɜː.vi/ 🇬🇧",
+      "american": "/ˈkɜːr.vi/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "💃 常用于形容物体或人的外形“曲线优美、弯曲的”。对人来说，多用于赞美女性身材有曲线美；对物体，如道路或家具，表示弯弯曲曲的形状。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "有曲线的；弯曲的",
+          "english": "Having many curves or rounded shapes."
+        },
+        "examples": [
+          {
+            "sentence": "The road ahead is long and curvy.",
+            "translation": "前方的道路又长又弯。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "（指女性）身材曲线优美的",
+          "english": "Having an attractively rounded body shape."
+        },
+        "examples": [
+          {
+            "sentence": "She’s confident and proud of her curvy figure.",
+            "translation": "她为自己曲线优美的身材感到自信与骄傲。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "curved",
+        "type": "adjective",
+        "definition": {
+          "chinese": "弯曲的（强调形状）",
+          "english": "Having a smooth, rounded shape rather than straight lines."
+        },
+        "examples": [
+          {
+            "sentence": "The building’s curved walls give it a modern look.",
+            "translation": "建筑物弯曲的墙面让它看起来更现代。"
+          }
+        ]
+      },
+      {
+        "word": "curvaceous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "身材曲线玲珑的（更正式或文学）",
+          "english": "Having an attractively curved body shape, especially a woman."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气差异",
+        "explanation": "‘curvy’ 通常是正面赞美词，而非物化语气；语境友好但要注意使用场合。"
+      },
+      {
+        "point": "与 curved 区别",
+        "explanation": "‘curvy’ 常形容有多个弯曲（如道路、人体），而 ‘curved’ 侧重单一弯曲形状。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自名词 ‘curve’（曲线）+ 形容词后缀 -y，最初用于描述弯曲的形状，后引申为“身材有曲线”的褒义用法。",
+      "explanation_english": "From ‘curve’ + suffix ‘-y’; originally meant ‘having curves’ (for shapes or lines), later extended to describe attractive human figures."
+    },
+    "variation_between_british_american": {
+      "british": "可用于形容道路或家具的弯曲形态。",
+      "american": "更多用于描述女性体态，语气轻松自然。"
+    }
+  },
+  {
+    "word": "barren",
+    "pronunciation": {
+      "british": "/ˈbærən/ 🇬🇧",
+      "american": "/ˈbærən/ 🇺🇸"
+    },
+    "phrase_type": "adjective/noun",
+    "usage": "🌵 常用于形容土地、植物、女性或事物“贫瘠的、无成果的”。既可用于自然环境，也可作比喻义。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "贫瘠的；不毛的（土地）",
+          "english": "Too poor to produce much or any vegetation; infertile."
+        },
+        "examples": [
+          {
+            "sentence": "The desert was a barren landscape of sand and rocks.",
+            "translation": "沙漠是一片贫瘠的沙石景观。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "不能生育的（人或动物）",
+          "english": "Unable to produce offspring; infertile."
+        },
+        "examples": [
+          {
+            "sentence": "The queen remained barren throughout her marriage.",
+            "translation": "这位王后在整个婚姻期间都没有生育。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "无成果的；无意义的（比喻义）",
+          "english": "Not producing useful results; unproductive or fruitless."
+        },
+        "examples": [
+          {
+            "sentence": "Their discussion turned out to be a barren debate with no solutions.",
+            "translation": "他们的讨论最终变成了一场毫无结果的争论。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "荒地；贫瘠之地",
+          "english": "An area of land too poor to produce much vegetation."
+        },
+        "examples": [
+          {
+            "sentence": "The travelers crossed a cold, rocky barren.",
+            "translation": "旅行者穿越了一片寒冷的石质荒原。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fertile",
+        "type": "adjective",
+        "definition": {
+          "chinese": "肥沃的；能生育的",
+          "english": "Able to produce crops or offspring abundantly."
+        },
+        "examples": [
+          {
+            "sentence": "The fertile valley supported many farms.",
+            "translation": "肥沃的山谷支撑了许多农场。"
+          }
+        ]
+      },
+      {
+        "word": "arid",
+        "type": "adjective",
+        "definition": {
+          "chinese": "干旱的；贫瘠的（土地）",
+          "english": "Extremely dry and lacking in moisture."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻义常见",
+        "explanation": "barren ideas / barren results 比喻“毫无成果的想法或努力”。"
+      },
+      {
+        "point": "情感色彩",
+        "explanation": "语气偏负面，强调“缺乏生命力或产出”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 *barain*（不育的、荒芜的），原指“不能生育”，后引申为“土地贫瘠”“无成果”等抽象含义。",
+      "explanation_english": "From Old French *barain* meaning 'infertile', first used for people and animals, then extended metaphorically to land and ideas."
+    },
+    "variation_between_british_american": {
+      "british": "常用于地貌描述，如 ‘the barren moors of Scotland’。",
+      "american": "也常用于比喻，如 ‘a barren marriage’ 或 ‘a barren business venture’。"
+    }
+  },
+  {
+    "word": "netting",
+    "pronunciation": {
+      "british": "/ˈnetɪŋ/ 🇬🇧",
+      "american": "/ˈnetɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb-derived noun",
+    "usage": "🕸️ 通常作名词使用，指由线、绳编成的网状物，也可指制造网的过程。常用于农业、捕鱼、体育、建筑安全等语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "网状物；网布；网的材料",
+          "english": "Material made of threads or cords woven or knotted together to form a net."
+        },
+        "examples": [
+          {
+            "sentence": "The garden was covered with bird netting to protect the crops.",
+            "translation": "花园被盖上防鸟网以保护农作物。"
+          },
+          {
+            "sentence": "She bought some fine netting for her wedding veil.",
+            "translation": "她买了一些细网布做婚纱头纱。"
+          }
+        ]
+      },
+      {
+        "type": "uncountable noun (process)",
+        "definition": {
+          "chinese": "制作网的行为",
+          "english": "The process or activity of making nets."
+        },
+        "examples": [
+          {
+            "sentence": "Fishing netting was once a common craft in coastal villages.",
+            "translation": "织渔网曾是沿海村庄常见的手艺。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "net",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "网；用网捕获",
+          "english": "A piece of meshed fabric; to catch something with a net."
+        }
+      },
+      {
+        "word": "mesh",
+        "type": "noun",
+        "definition": {
+          "chinese": "网眼；网状结构",
+          "english": "One of the openings or interwoven strands of a net or network."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见搭配",
+        "explanation": "safety netting（安全网）🧗, mosquito netting（蚊帐网）🦟, garden netting（园艺防护网）🌿。"
+      },
+      {
+        "point": "词形来源",
+        "explanation": "‘netting’ 来自动词 net（织网、捕获）+ -ing，表示行为或结果名词。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘net’（网）+ 后缀 -ing，最早指“织网的行为”，后来也指成品网状材料。",
+      "explanation_english": "From Old English ‘net’ + suffix ‘-ing’, originally meaning the act of making a net, later extended to mean the mesh material itself."
+    },
+    "variation_between_british_american": {
+      "british": "多用于园艺、防鸟、防球网等用途。",
+      "american": "常用于安全防护（如 construction netting）或昆虫防护（mosquito netting）。"
+    }
+  },
+  {
+    "word": "afterwards",
+    "pronunciation": {
+      "british": "/ˈɑːftəwədz/ 🇬🇧",
+      "american": "/ˈæftərwɚdz/ 🇺🇸"
+    },
+    "phrase_type": "adverb",
+    "usage": "🕒 常用副词，表示‘之后、后来’，用于叙述事件顺序，口语和书面语中都非常自然。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "后来，之后",
+          "english": "At a later time; after something else has happened."
+        },
+        "examples": [
+          {
+            "sentence": "We went for dinner and watched a movie afterwards.",
+            "translation": "我们去吃了晚餐，然后又看了场电影。"
+          },
+          {
+            "sentence": "He apologized afterwards for being rude.",
+            "translation": "他后来为自己的无礼道了歉。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "later",
+        "type": "adverb",
+        "definition": {
+          "chinese": "稍后，之后",
+          "english": "At a time in the future or after the present."
+        }
+      },
+      {
+        "word": "subsequently",
+        "type": "adverb",
+        "definition": {
+          "chinese": "随后（较正式）",
+          "english": "After a particular thing has happened; afterward."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "通常放在句尾或句中，不接介词，如 ‘I’ll call you afterwards.’ ✅ （不能说 *afterwards of* ❌）。"
+      },
+      {
+        "point": "风格区别",
+        "explanation": "比 later 更强调‘顺序上的后来’，语气更自然；在正式写作中可用 subsequently。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 after + -ward（表示方向）+ -s（副词后缀）组成，原意“往后的方向”，后用于时间意义。",
+      "explanation_english": "Formed from ‘after’ + the suffix ‘-ward’ (direction) + ‘-s’, literally ‘toward after’, later used to express time sequence."
+    },
+    "variation_between_british_american": {
+      "british": "‘afterwards’ 是标准形式。",
+      "american": "‘afterward’ 更常用，‘afterwards’ 也可接受但略显正式。"
+    }
+  },
+  {
+    "word": "mulch",
+    "pronunciation": {
+      "british": "/mʌltʃ/ 🇬🇧",
+      "american": "/mʌltʃ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "🌿 园艺与农业用语，指覆盖在土壤表面保持水分、防止杂草的材料，也可作动词表示“覆盖地面”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "覆盖物（保持土壤湿度的有机材料）",
+          "english": "A material such as decaying leaves, bark, or compost spread over soil to retain moisture and suppress weeds."
+        },
+        "examples": [
+          {
+            "sentence": "Add a layer of mulch around the plants to keep the soil moist.",
+            "translation": "在植物周围加一层覆盖物以保持土壤湿润。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "覆盖（土壤）",
+          "english": "To cover the ground with mulch to improve soil conditions."
+        },
+        "examples": [
+          {
+            "sentence": "They mulched the garden beds with wood chips.",
+            "translation": "他们用木屑覆盖花坛。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "compost",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "堆肥；制作堆肥",
+          "english": "Decayed organic material used as fertilizer; to make compost from organic waste."
+        }
+      },
+      {
+        "word": "fertilizer",
+        "type": "noun",
+        "definition": {
+          "chinese": "肥料",
+          "english": "A substance added to soil to help plants grow."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "在农业、园艺和环保语境中常用；口语中多用于具体操作场景。"
+      },
+      {
+        "point": "常见搭配",
+        "explanation": "apply mulch, spread mulch, organic mulch。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自中世纪英语 ‘molsh’（腐烂、潮湿的东西），原指腐殖质，后特指用于覆盖土壤的有机物。",
+      "explanation_english": "From Middle English ‘molsh’, meaning soft or decayed material; evolved to mean organic matter spread over soil."
+    },
+    "variation_between_british_american": {
+      "british": "多用于园艺领域，尤其在英国农村地区。",
+      "american": "在园艺、景观设计中非常常见，也用于环保话题。"
+    }
+  },
+  {
+    "word": "fertilizer",
+    "pronunciation": {
+      "british": "/ˈfɜːtəlaɪzər/ 🇬🇧",
+      "american": "/ˈfɝːtɪlaɪzər/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "🌾 指用于提高土壤肥力、促进植物生长的物质，农业、园艺和环保领域常用。口语和书面语均可使用。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "肥料，化肥",
+          "english": "A substance, natural or synthetic, added to soil to promote plant growth."
+        },
+        "examples": [
+          {
+            "sentence": "Farmers apply fertilizer to the crops to boost growth.",
+            "translation": "农民给作物施肥以促进生长。"
+          },
+          {
+            "sentence": "Organic fertilizers are better for the environment.",
+            "translation": "有机肥料对环境更好。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "manure",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "肥料（动物粪便）/施肥",
+          "english": "Animal dung used as fertilizer; to apply manure to soil."
+        }
+      },
+      {
+        "word": "compost",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "堆肥（名词）；制作堆肥（动词）",
+          "english": "Decayed organic material used as fertilizer; to make compost from organic waste."
+        }
+      },
+      {
+        "word": "nutrient",
+        "type": "noun",
+        "definition": {
+          "chinese": "养分",
+          "english": "A substance that provides nourishment essential for growth and the maintenance of life."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "常用于农业、园艺和食品安全讨论，也用于环境保护语境。"
+      },
+      {
+        "point": "口语与书面语",
+        "explanation": "书面语中多用于说明农业实践或科学资料，口语中可直接说 apply fertilizer。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘fertilis’，意为“肥沃的”，引申为施肥用物质。",
+      "explanation_english": "From Latin ‘fertilis’ meaning ‘fruitful’ or ‘productive’, extended to mean substances that enrich soil."
+    },
+    "variation_between_british_american": {
+      "british": "常用拼写 ‘fertiliser’，尤其在农业和园艺书面语中。",
+      "american": "拼写为 ‘fertilizer’，用法相同。"
+    }
+  },
+  {
+    "word": "manure",
+    "pronunciation": {
+      "british": "/məˈnjʊər/ 🇬🇧",
+      "american": "/məˈnʊr/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "🌱 在农业和园艺中非常常用，指动物粪便或其他有机物质用作肥料，也可作动词表示施肥。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "肥料（通常为动物粪便）",
+          "english": "Animal dung or other organic material used to fertilize land."
+        },
+        "examples": [
+          {
+            "sentence": "Farmers spread manure on the fields to enrich the soil.",
+            "translation": "农民把肥料撒在田地上以提高土壤肥力。"
+          },
+          {
+            "sentence": "The garden smells strongly of manure.",
+            "translation": "花园里有浓重的肥料味。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "施肥，给土地施肥",
+          "english": "To apply manure to land or soil to fertilize it."
+        },
+        "examples": [
+          {
+            "sentence": "They manure the vegetable patch every spring.",
+            "translation": "他们每年春天给菜园施肥。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fertilizer",
+        "type": "noun",
+        "definition": {
+          "chinese": "化肥，肥料",
+          "english": "Substance added to soil to enhance the growth of plants."
+        }
+      },
+      {
+        "word": "compost",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "堆肥（名词）；制作堆肥（动词）",
+          "english": "Decayed organic material used as fertilizer; to make compost from organic waste."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "多用于农业、园艺，也可以在环境或生态类书面语出现。"
+      },
+      {
+        "point": "语气",
+        "explanation": "名词较正式，动词形式也常见；口语中可直接说 'put manure on the soil'。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘manūrea’，意为手工处理的肥料，名词最初指肥料，动词由名词引申而来。",
+      "explanation_english": "From Latin ‘manūrea’, meaning manure or fertilizer handled by hand; noun came first, verb derived later."
+    },
+    "variation_between_british_american": {
+      "british": "名词和动词用法都很常见，尤其在农业文本中。",
+      "american": "用法相同，但日常口语中更常用 ‘fertilizer’ 来指商业肥料。"
+    }
+  },
+  {
+    "word": "tiptoe",
+    "pronunciation": {
+      "british": "/ˈtɪp.təʊ/ 🇬🇧",
+      "american": "/ˈtɪp.toʊ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "👣 用于描述轻轻踩着脚尖走路，既可作名词也可作动词，也可作比喻表示小心谨慎地行动。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "踮起脚尖走，悄悄走",
+          "english": "To walk quietly and carefully on the tips of your toes."
+        },
+        "examples": [
+          {
+            "sentence": "She tiptoed across the room to avoid waking the baby.",
+            "translation": "她踮着脚尖走过房间，以免吵醒婴儿。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "脚尖，踮脚走的动作",
+          "english": "The act of walking on the tips of your toes."
+        },
+        "examples": [
+          {
+            "sentence": "He moved on tiptoe to reach the top shelf.",
+            "translation": "他踮着脚尖去够最上面的架子。"
+          }
+        ]
+      },
+      {
+        "type": "figurative verb",
+        "definition": {
+          "chinese": "小心谨慎行事，避免冒犯或引起注意",
+          "english": "To act cautiously or delicately to avoid problems or offense."
+        },
+        "examples": [
+          {
+            "sentence": "The politician had to tiptoe around sensitive issues.",
+            "translation": "那位政治家不得不小心谨慎地处理敏感问题。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "creep",
+        "type": "verb",
+        "definition": {
+          "chinese": "悄悄地移动",
+          "english": "To move slowly and quietly to avoid being noticed."
+        }
+      },
+      {
+        "word": "stealthily",
+        "type": "adverb",
+        "definition": {
+          "chinese": "偷偷地，悄悄地",
+          "english": "In a secretive or sneaky manner."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法搭配",
+        "explanation": "tiptoe + into/around/across 频繁搭配，表示移动方向或范围。"
+      },
+      {
+        "point": "语气",
+        "explanation": "可用于字面动作或比喻语境，语气轻松，口语和书面语都自然。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由名词 ‘toe’（脚趾）+动词前缀 ‘tip-’（尖端）构成，原意字面，后引申比喻用法。",
+      "explanation_english": "From ‘toe’ + prefix ‘tip-’ (tip of the toe); literal sense of walking on toes later extended metaphorically to acting cautiously."
+    },
+    "variation_between_british_american": {
+      "british": "常用在日常生活和文学描写中，口语中亦可用作比喻。",
+      "american": "用法相同，比喻用法尤其在新闻或职场中常见。"
+    }
+  },
+  {
+    "word": "socially awkward",
+    "pronunciation": {
+      "british": "/ˈsəʊʃəli ˈɔːkwəd/ 🇬🇧",
+      "american": "/ˈsoʊʃəli ˈɔːkwɚd/ 🇺🇸"
+    },
+    "phrase_type": "adjective phrase",
+    "usage": "🧍‍♂️💬 用来形容一个人在社交场合中感到不自在、不自然或不擅长与他人互动。常用于口语、心理学或日常描述。",
+    "meanings": [
+      {
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "社交笨拙的，不善交际的",
+          "english": "Feeling uncomfortable or behaving unnaturally in social situations; having difficulty interacting with others."
+        },
+        "examples": [
+          {
+            "sentence": "He’s a bit socially awkward, but very kind once you get to know him.",
+            "translation": "他有点社交笨拙，但熟悉后你会发现他很善良。"
+          },
+          {
+            "sentence": "I used to be socially awkward at parties and never knew what to say.",
+            "translation": "我以前在聚会上总是很不自在，不知道该说什么。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "shy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "害羞的",
+          "english": "Nervous or timid in the company of other people."
+        }
+      },
+      {
+        "word": "introverted",
+        "type": "adjective",
+        "definition": {
+          "chinese": "内向的",
+          "english": "More focused on internal thoughts and feelings than on social interaction."
+        }
+      },
+      {
+        "word": "socially inept",
+        "type": "adjective phrase",
+        "definition": {
+          "chinese": "社交能力差的",
+          "english": "Lacking the skills to interact comfortably in social settings."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气区别",
+        "explanation": "‘socially awkward’ 比 ‘shy’ 更强调‘笨拙’或‘不自然’，而不仅仅是害羞。"
+      },
+      {
+        "point": "使用语境",
+        "explanation": "通常是非正式语气，也可自嘲地使用，如‘I’m kind of socially awkward.’"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘awkward’ 原意为‘笨拙的、不顺手的’，延伸到人际互动中表示‘社交不自然’；‘socially’ 仅作修饰说明社交方面的笨拙。",
+      "explanation_english": "‘Awkward’ originally meant ‘clumsy’ or ‘ungraceful’, later extended metaphorically to describe discomfort in social interactions; ‘socially’ specifies the context."
+    },
+    "variation_between_british_american": {
+      "british": "使用频繁，常作轻微自嘲或描述性评价。",
+      "american": "同样常见，有时简写成‘awkward’即可表达相同含义，如‘That was awkward.’"
+    }
+  },
+  {
+    "word": "personnel",
+    "pronunciation": {
+      "british": "/ˌpɜːsəˈnel/ 🇬🇧",
+      "american": "/ˌpɜːrsəˈnel/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用于正式或商业场合 💼：指公司、军队或组织中的全体员工或人事部门。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "全体人员，职员",
+          "english": "The people who work for an organization or one of its departments."
+        },
+        "examples": [
+          {
+            "sentence": "All company personnel must attend the meeting.",
+            "translation": "公司全体员工必须参加会议。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "人事部门",
+          "english": "The department responsible for hiring and managing employees."
+        },
+        "examples": [
+          {
+            "sentence": "Please contact the personnel office for more information.",
+            "translation": "请联系 人事部门 以获取更多信息。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "staff",
+        "type": "noun",
+        "definition": {
+          "chinese": "职员，员工（通常指具体的人）",
+          "english": "People employed in an organization, usually used more informally than 'personnel'."
+        },
+        "examples": [
+          {
+            "sentence": "The hotel staff were very friendly.",
+            "translation": "酒店员工非常友好。"
+          }
+        ]
+      },
+      {
+        "word": "human resources (HR)",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "人力资源部（现代说法）",
+          "english": "The modern term for the department dealing with recruitment and employee management."
+        },
+        "examples": [
+          {
+            "sentence": "HR is reviewing the new applications.",
+            "translation": "人力资源部正在审查新的申请。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "不可数名词",
+        "explanation": "‘personnel’ 本身是集合名词，指一群人，不说 ‘personnels’。"
+      },
+      {
+        "point": "正式语体",
+        "explanation": "比 ‘staff’ 更正式，常见于商业、军队、公务体系中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语“personnel”（个人的、人事的），最初指“有关人的事物”，后来被组织结构借用来指“人员”和“人事部门”。",
+      "explanation_english": "From French ‘personnel’, meaning ‘personal’ or ‘relating to people’; later adopted by organizations to mean ‘staff’ or ‘personnel department’."
+    },
+    "variation_between_british_american": {
+      "british": "‘personnel department’ 和 ‘staff’ 都常用。",
+      "american": "更常说 ‘human resources (HR)’ 代替 ‘personnel department’，但 ‘personnel’ 仍用于正式或军队语境。"
+    }
+  },
+  {
+    "word": "start by",
+    "pronunciation": {
+      "british": "/stɑːt baɪ/ 🇬🇧",
+      "american": "/stɑːrt baɪ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal structure (verb + preposition)",
+    "usage": "常用 👍：用于说明“做某事的第一步”，即“从……开始做”。后面通常接动名词（V-ing）。",
+    "meanings": [
+      {
+        "type": "phrasal structure",
+        "definition": {
+          "chinese": "从……开始（做某事）",
+          "english": "To begin a process or activity by doing a particular action first."
+        },
+        "examples": [
+          {
+            "sentence": "I'll start by filling out these spreadsheets.",
+            "translation": "我先从填写这些表格开始。"
+          },
+          {
+            "sentence": "You can start by introducing yourself.",
+            "translation": "你可以先从自我介绍开始。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "begin with",
+        "type": "phrase",
+        "definition": {
+          "chinese": "以……开始（更书面）",
+          "english": "Used similarly to ‘start by’, but often sounds slightly more formal or structural."
+        },
+        "examples": [
+          {
+            "sentence": "Let's begin with a short review.",
+            "translation": "我们先从一个简短的回顾开始。"
+          }
+        ]
+      },
+      {
+        "word": "start with",
+        "type": "phrase",
+        "definition": {
+          "chinese": "从……开始（可指顺序或起点）",
+          "english": "To begin something using a particular item, topic, or step."
+        },
+        "examples": [
+          {
+            "sentence": "We’ll start with the first chapter.",
+            "translation": "我们从第一章开始。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "后接动名词",
+        "explanation": "‘start by’ 后面必须接 V-ing 形式，如 start by doing something。"
+      },
+      {
+        "point": "强调第一步",
+        "explanation": "与 ‘start with’ 不同，‘start by’ 强调“采取某行动作为开端”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘start’ 原意为“开始、出发”，加上介词 ‘by’ 表示“通过某种方式、从某一动作开始”，是后期语义组合形成的固定搭配。",
+      "explanation_english": "‘Start’ means ‘to begin or set out’; when combined with ‘by’, it conveys ‘begin through doing something’, a later idiomatic extension rather than an original meaning of ‘start’."
+    },
+    "variation_between_british_american": {
+      "british": "与美式用法一致，但英式语体中‘begin by’更常见于正式写作。",
+      "american": "‘start by’ 是最自然、口语化的表达，广泛用于日常和工作场合。"
+    }
+  }
 ]
 
 
