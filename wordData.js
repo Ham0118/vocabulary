@@ -42263,6 +42263,1780 @@ const wordData = [
       "british": "与美式用法一致，但英式语体中‘begin by’更常见于正式写作。",
       "american": "‘start by’ 是最自然、口语化的表达，广泛用于日常和工作场合。"
     }
+  },
+  {
+    "word": "forward",
+    "pronunciation": {
+      "british": "/ˈfɔː.wəd/ 🇬🇧",
+      "american": "/ˈfɔːr.wɚd/ 🇺🇸"
+    },
+    "phrase_type": "adverb/adjective/verb/noun 多义词",
+    "usage": "非常常用 👍：可表示“向前地”“前面的”“转发”“前锋”等，常用于动作、方向、时间和通信中。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "向前，向前方",
+          "english": "Toward a place, position, or time that is ahead or in the future."
+        },
+        "examples": [
+          {
+            "sentence": "She stepped forward to accept the award.",
+            "translation": "她向前一步走去领奖。"
+          },
+          {
+            "sentence": "We look forward to seeing you soon.",
+            "translation": "我们期待很快见到你。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "前面的；进步的；早熟的",
+          "english": "Located ahead; progressive; or (of a child) more advanced than usual for their age."
+        },
+        "examples": [
+          {
+            "sentence": "He took the forward seat in the car.",
+            "translation": "他坐在车子的前排座位。"
+          },
+          {
+            "sentence": "She’s quite a forward student for her age.",
+            "translation": "她在同龄人中算是很超前的学生。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "转发（邮件、包裹等）",
+          "english": "To send something onward to another place or person."
+        },
+        "examples": [
+          {
+            "sentence": "Please forward this email to your manager.",
+            "translation": "请把这封邮件转发给你的经理。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（体育中的）前锋",
+          "english": "A player who is positioned nearer the opponent’s goal or attacking end."
+        },
+        "examples": [
+          {
+            "sentence": "He plays as a forward for the national team.",
+            "translation": "他是国家队的前锋。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "ahead",
+        "type": "adverb",
+        "definition": {
+          "chinese": "在前面，向前",
+          "english": "In or toward a position that is in front."
+        },
+        "examples": [
+          {
+            "sentence": "Go straight ahead for two blocks.",
+            "translation": "直走两个街区。"
+          }
+        ]
+      },
+      {
+        "word": "send",
+        "type": "verb",
+        "definition": {
+          "chinese": "发送",
+          "english": "To cause something to go or be taken to another place."
+        },
+        "examples": [
+          {
+            "sentence": "I’ll send you the document later.",
+            "translation": "我稍后会把文件发给你。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法多功能",
+        "explanation": "‘forward’ 可以作副词、形容词、动词和名词，是英语中非常灵活的词。"
+      },
+      {
+        "point": "‘look forward to’ 固定搭配",
+        "explanation": "后面必须接名词或动名词（V-ing），不能直接接动词原形。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘foreweard’（由 ‘fore’=前 + ‘-ward’=方向后缀），原意为“朝前的方向”。后来语义扩展到“提前”“进步”“转发”等抽象意义。",
+      "explanation_english": "From Old English ‘foreweard’ (‘fore’ = front + ‘-ward’ = direction suffix), originally meaning ‘toward the front’; later extended metaphorically to mean ‘progressive’, ‘advanced’, or ‘to send onward’."
+    },
+    "variation_between_british_american": {
+      "british": "拼写为 ‘forward’，但在极少数正式文件中可见旧式 ‘forwards’ 表示副词。",
+      "american": "主要使用 ‘forward’ 形式，无论作副词或形容词，‘forwards’ 较少使用。"
+    }
+  },
+  {
+    "word": "fatigue",
+    "pronunciation": {
+      "british": "/fəˈtiːɡ/ 🇬🇧",
+      "american": "/fəˈtiːɡ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：可表示身体或精神的疲劳，也可作动词表示使疲劳。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "疲劳",
+          "english": "Extreme tiredness, typically resulting from mental or physical exertion."
+        },
+        "examples": [
+          {
+            "sentence": "After the marathon, she was overcome with fatigue.",
+            "translation": "马拉松后，她疲惫不堪。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使疲劳",
+          "english": "To cause someone to feel tired or exhausted."
+        },
+        "examples": [
+          {
+            "sentence": "The long hike fatigued the children.",
+            "translation": "长途徒步让孩子们疲惫不堪。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "tiredness",
+        "type": "noun",
+        "definition": {
+          "chinese": "疲倦",
+          "english": "A state of being tired or weary."
+        },
+        "examples": [
+          {
+            "sentence": "He felt a wave of tiredness after work.",
+            "translation": "下班后，他感到一阵疲倦。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用语",
+        "explanation": "‘fatigue’ 常用于书面或正式场合，口语中更常用 ‘tired’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自法语 ‘fatigue’，原意“使疲劳”，后来名词和动词义同时保留。",
+      "explanation_english": "From French ‘fatigue’, originally meaning ‘to tire’, later retained as both noun and verb."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "同上，书面和口语中使用频率略有差异。"
+    }
+  },
+  {
+    "word": "clap",
+    "pronunciation": {
+      "british": "/klæp/ 🇬🇧",
+      "american": "/klæp/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：表示拍手或轻拍动作，也可作名词指掌声。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "拍手，拍击",
+          "english": "To strike the palms of the hands together, typically to show approval or appreciation."
+        },
+        "examples": [
+          {
+            "sentence": "The audience clapped loudly after the performance.",
+            "translation": "表演结束后，观众热烈鼓掌。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "掌声",
+          "english": "The sound made by clapping hands."
+        },
+        "examples": [
+          {
+            "sentence": "Give him a big clap for his achievement.",
+            "translation": "为他的成就热烈鼓掌。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "applause",
+        "type": "noun",
+        "definition": {
+          "chinese": "掌声",
+          "english": "The expression of approval or praise by clapping hands."
+        },
+        "examples": [
+          {
+            "sentence": "The speech received thunderous applause.",
+            "translation": "演讲赢得了雷鸣般的掌声。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动作与名词同形",
+        "explanation": "‘clap’ 作动词和名词时拼写相同，但用法需根据语境判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘clappan’ 表示拍打声，名词义由动词自然延伸而来。",
+      "explanation_english": "From Old English ‘clappan’, meaning ‘to strike’, noun sense derived from the verb."
+    },
+    "variation_between_british_american": {
+      "british": "可作动词和名词使用。",
+      "american": "同上，口语和书面语中均通用。"
+    }
+  },
+  {
+    "word": "spin",
+    "pronunciation": {
+      "british": "/spɪn/ 🇬🇧",
+      "american": "/spɪn/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：可表示旋转、快速移动，也可作名词表示旋转或自旋。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "旋转，快速旋转",
+          "english": "To turn or cause to turn around rapidly."
+        },
+        "examples": [
+          {
+            "sentence": "The dancers spun around gracefully.",
+            "translation": "舞者优雅地旋转。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "旋转，快速旋转",
+          "english": "An act of spinning or a rapid rotation."
+        },
+        "examples": [
+          {
+            "sentence": "Give the wheel a spin.",
+            "translation": "转动一下方向盘。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "twist",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "扭，扭曲",
+          "english": "To turn something, especially repeatedly or forcibly."
+        },
+        "examples": [
+          {
+            "sentence": "Twist the cap to open the bottle.",
+            "translation": "拧开瓶盖。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动词和名词多义",
+        "explanation": "‘spin’ 可表示物理旋转，也可表示快速行动或信息传播（比喻义）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘spinnan’（纺线），由物理旋转引申出快速运动和比喻意义。",
+      "explanation_english": "From Old English ‘spinnan’ (to spin yarn), extended metaphorically to rapid movement and figurative senses."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致，口语中也可表示‘洗脑宣传’（spin）。",
+      "american": "同上，‘spin’ 也常用于媒体语境表示‘包装信息’。"
+    }
+  },
+  {
+    "word": "tap",
+    "pronunciation": {
+      "british": "/tæp/ 🇬🇧",
+      "american": "/tæp/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：可表示轻敲、轻拍，也可指水龙头或轻拍动作。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "轻敲，轻拍",
+          "english": "To strike lightly or gently, usually repeatedly."
+        },
+        "examples": [
+          {
+            "sentence": "He tapped on the window to get their attention.",
+            "translation": "他轻敲窗户以引起他们注意。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "轻敲；水龙头",
+          "english": "A light touch or knock; also a device controlling the flow of liquid."
+        },
+        "examples": [
+          {
+            "sentence": "Turn off the tap after use.",
+            "translation": "用完后关掉水龙头。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "knock",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "敲打",
+          "english": "To hit a surface, especially a door, to attract attention."
+        },
+        "examples": [
+          {
+            "sentence": "Knock on the door before entering.",
+            "translation": "进门前敲门。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义且口语常用",
+        "explanation": "‘tap’ 可指动作或物品（如水龙头），需根据上下文判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘tæppan’，原意为轻敲或抽取液体，引申出动作和器具意义。",
+      "explanation_english": "From Old English ‘tæppan’, originally meaning to strike lightly or draw liquid, extended to actions and devices."
+    },
+    "variation_between_british_american": {
+      "british": "‘tap’ 作水龙头尤为常用。",
+      "american": "水龙头更常说 ‘faucet’，‘tap’ 用于动作或轻敲。"
+    }
+  },
+  {
+    "word": "raise",
+    "pronunciation": {
+      "british": "/reɪz/ 🇬🇧",
+      "american": "/reɪz/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：可表示举起、增加、养育，也可作名词表示增加的数量或工资。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "举起，提升，增加",
+          "english": "To lift, move to a higher position, or increase in amount."
+        },
+        "examples": [
+          {
+            "sentence": "She raised her hand to ask a question.",
+            "translation": "她举手提问。"
+          },
+          {
+            "sentence": "The company raised salaries last month.",
+            "translation": "公司上个月提高了工资。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "上涨，加薪",
+          "english": "An increase in amount, especially in salary or wages."
+        },
+        "examples": [
+          {
+            "sentence": "He got a raise after his performance review.",
+            "translation": "绩效评估后，他获得了加薪。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "lift",
+        "type": "verb",
+        "definition": {
+          "chinese": "抬起，举起",
+          "english": "To move something to a higher position."
+        },
+        "examples": [
+          {
+            "sentence": "Lift the box carefully.",
+            "translation": "小心地抬起箱子。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义且高频",
+        "explanation": "‘raise’ 可指物理动作、抽象提升或增加，需要结合语境判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘raeran’ 意为“抬起、建造”，后来引申出增加、养育等多义。",
+      "explanation_english": "From Old English ‘raeran’ meaning ‘to lift or build’, later extended to increase, nurture, and other senses."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "同上，raise 同样用于举起、加薪或增加。"
+    }
+  },
+  {
+    "word": "wave",
+    "pronunciation": {
+      "british": "/weɪv/ 🇬🇧",
+      "american": "/weɪv/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：可表示挥手、波动，也可指海浪或信号。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "挥手；摇动",
+          "english": "To move one's hand or an object back and forth as a greeting or signal."
+        },
+        "examples": [
+          {
+            "sentence": "She waved goodbye as the train left.",
+            "translation": "火车开走时，她挥手告别。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "波，波浪；挥手动作",
+          "english": "A moving ridge on the surface of water; also a motion of the hand or an object."
+        },
+        "examples": [
+          {
+            "sentence": "A wave crashed against the rocks.",
+            "translation": "海浪撞击岩石。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "gesture",
+        "type": "noun",
+        "definition": {
+          "chinese": "手势，动作",
+          "english": "A movement of part of the body, especially hands, to express meaning or emotion."
+        },
+        "examples": [
+          {
+            "sentence": "He made a gesture of approval.",
+            "translation": "他做了一个表示赞同的手势。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动词和名词同形",
+        "explanation": "需根据上下文判断是动作还是物理波动。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘wafian’（摇动、波动），动词和名词义自然衍生。",
+      "explanation_english": "From Old English ‘wafian’ meaning ‘to sway or fluctuate’, noun sense derived from the verb."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "同上，口语中常用作挥手或比喻波动。"
+    }
+  },
+  {
+    "word": "stretch",
+    "pronunciation": {
+      "british": "/stretʃ/ 🇬🇧",
+      "american": "/stretʃ/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：可表示拉伸、延伸，也可指一段时间或距离。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "拉伸，伸展",
+          "english": "To extend or reach out fully; to make longer or wider."
+        },
+        "examples": [
+          {
+            "sentence": "She stretched her arms after waking up.",
+            "translation": "醒来后，她伸展了手臂。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "一段时间/距离；拉伸动作",
+          "english": "A continuous area or period; the act of stretching."
+        },
+        "examples": [
+          {
+            "sentence": "The road has a long stretch through the countryside.",
+            "translation": "这条路有一段长长的乡村路段。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "extend",
+        "type": "verb",
+        "definition": {
+          "chinese": "延长，扩展",
+          "english": "To make something longer or larger in space or time."
+        },
+        "examples": [
+          {
+            "sentence": "The deadline was extended by two days.",
+            "translation": "截止日期延长了两天。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动作与名词意义衍生",
+        "explanation": "动词原意拉伸，名词可指物理动作或时间/距离延伸。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘streccan’，意为伸展，后引申出延伸和连续段落的意义。",
+      "explanation_english": "From Old English ‘streccan’, meaning ‘to stretch’, later extended to continuous distance or time."
+    },
+    "variation_between_british_american": {
+      "british": "与美式一致，但英式口语中可说 ‘have a stretch’。",
+      "american": "同上，也可用于日常锻炼动作。"
+    }
+  },
+  {
+    "word": "with your feet shoulder-width apart",
+    "pronunciation": {
+      "british": "/wɪð jɔː fiːt ˈʃəʊldə wɪdθ əˈpɑːt/ 🇬🇧",
+      "american": "/wɪð jʊr fiːt ˈʃoʊldər wɪdθ əˈpɑːrt/ 🇺🇸"
+    },
+    "phrase_type": "instructional phrase",
+    "usage": "常用于运动或健身指导 👍：描述站立姿势。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "双脚与肩同宽",
+          "english": "Standing with your feet positioned approximately the width of your shoulders apart."
+        },
+        "examples": [
+          {
+            "sentence": "Stand with your feet shoulder-width apart before squatting.",
+            "translation": "下蹲前双脚与肩同宽站立。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "stance",
+        "type": "noun",
+        "definition": {
+          "chinese": "站姿，姿态",
+          "english": "The way someone positions their body when standing."
+        },
+        "examples": [
+          {
+            "sentence": "Adopt a balanced stance for stability.",
+            "translation": "采用平衡的站姿以保持稳定。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "健身用语",
+        "explanation": "通常用于动作分解说明，非正式日常对话中较少使用完整表达。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "短语由基础词 ‘shoulder’, ‘width’, ‘apart’ 组合而成，意义直观描述姿势。",
+      "explanation_english": "Phrase composed of basic words ‘shoulder’, ‘width’, ‘apart’, conveying a literal stance instruction."
+    },
+    "variation_between_british_american": {
+      "british": "用词一致，发音略有差异。",
+      "american": "用词一致，口语中常缩略为 ‘feet shoulder-width apart’。"
+    }
+  },
+  {
+    "word": "come again",
+    "pronunciation": {
+      "british": "/kʌm əˈɡen/ 🇬🇧",
+      "american": "/kʌm əˈɡen/ 🇺🇸"
+    },
+    "phrase_type": "idiomatic phrase",
+    "usage": "常用口语 👍：可表示请求重复、惊讶或讽刺。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "请再说一遍；什么？",
+          "english": "Used to ask someone to repeat something; can also express disbelief or surprise."
+        },
+        "examples": [
+          {
+            "sentence": "‘I won the lottery.’ ‘Come again?’",
+            "translation": "“我中彩票了。” “什么？”"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "pardon",
+        "type": "interjection",
+        "definition": {
+          "chinese": "请再说一遍",
+          "english": "Used to politely ask someone to repeat what they said."
+        },
+        "examples": [
+          {
+            "sentence": "Pardon? I didn’t catch that.",
+            "translation": "请再说一遍？我没听清。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语常用",
+        "explanation": "在正式写作中不常用，多用于日常对话。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘come’ + ‘again’ 字面意为“再次来”，引申为请求重复或表示惊讶。",
+      "explanation_english": "Literally ‘come again’, extended idiomatically to request repetition or express surprise."
+    },
+    "variation_between_british_american": {
+      "british": "常用作口语，语气可能更礼貌。",
+      "american": "口语中广泛使用，也可带幽默或惊讶语气。"
+    }
+  },
+  {
+    "word": "bring forward",
+    "pronunciation": {
+      "british": "/brɪŋ ˈfɔː.wəd/ 🇬🇧",
+      "american": "/brɪŋ ˈfɔːr.wɚd/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "常用 👍：表示将事件、时间或议题提前或提出。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "提前（时间、日期）；提出（议题）",
+          "english": "To move something to an earlier time or to present an idea or topic for discussion."
+        },
+        "examples": [
+          {
+            "sentence": "The meeting was brought forward to Monday.",
+            "translation": "会议提前到周一。"
+          },
+          {
+            "sentence": "She brought forward a new proposal during the discussion.",
+            "translation": "她在讨论中提出了一项新建议。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "reschedule",
+        "type": "verb",
+        "definition": {
+          "chinese": "重新安排时间",
+          "english": "To change the time or date of a planned event."
+        },
+        "examples": [
+          {
+            "sentence": "We need to reschedule the appointment.",
+            "translation": "我们需要重新安排预约时间。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "固定搭配",
+        "explanation": "‘bring forward’ 用于正式和口语场景均可，需要根据上下文判断是提前时间还是提出议题。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘bring’ 表示带来，‘forward’ 表示向前，组合后引申为提前或提出的动作。",
+      "explanation_english": "‘Bring’ means ‘to carry’ and ‘forward’ means ‘ahead’; combined to mean moving forward in time or presenting something."
+    },
+    "variation_between_british_american": {
+      "british": "常用于正式文件、会议安排。",
+      "american": "可用，但在会议安排语境中更多用 ‘move up’。"
+    }
+  },
+  {
+    "word": "marinate",
+    "pronunciation": {
+      "british": "/ˈmærɪneɪt/ 🇬🇧",
+      "american": "/ˈmærɪneɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用 👍：烹饪术语，指将食物浸泡在调料中入味。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "腌制，使入味",
+          "english": "To soak food in a seasoned liquid before cooking to enhance flavor or tenderize."
+        },
+        "examples": [
+          {
+            "sentence": "Marinate the chicken for at least two hours before grilling.",
+            "translation": "烤鸡前至少腌制两小时。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "soak",
+        "type": "verb",
+        "definition": {
+          "chinese": "浸泡",
+          "english": "To immerse something in liquid for a period of time."
+        },
+        "examples": [
+          {
+            "sentence": "Soak the beans overnight.",
+            "translation": "将豆子浸泡一夜。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "烹饪专用",
+        "explanation": "‘marinate’ 多用于烹饪，尤其是肉类或蔬菜。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语 ‘mariner’，意为用盐水浸泡，后引申为腌制食物。",
+      "explanation_english": "From French ‘mariner’, meaning ‘to soak in brine’, later extended to seasoning food."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "同上，口语和食谱中广泛使用。"
+    }
+  },
+  {
+    "word": "Fatal",
+    "pronunciation": {
+      "british": "/ˈfeɪtl/ 🇬🇧",
+      "american": "/ˈfeɪtl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：表示灾难性、致命的，书面语或正式场合常见。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "致命的；灾难性的",
+          "english": "Causing death or leading to disaster; extremely serious."
+        },
+        "examples": [
+          {
+            "sentence": "He suffered a fatal injury in the accident.",
+            "translation": "他在事故中受了致命伤。"
+          },
+          {
+            "sentence": "A fatal flaw ruined the plan.",
+            "translation": "致命的缺陷毁了计划。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "lethal",
+        "type": "adjective",
+        "definition": {
+          "chinese": "致命的",
+          "english": "Sufficient to cause death."
+        },
+        "examples": [
+          {
+            "sentence": "The snake’s bite is lethal if untreated.",
+            "translation": "这种蛇咬若不治疗会致命。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式或书面语",
+        "explanation": "口语中有时用 ‘deadly’ 替代。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘fatalis’，意为‘命中注定’，引申出致命或灾难性的含义。",
+      "explanation_english": "From Latin ‘fatalis’ meaning ‘destined’, later extended to ‘deadly’ or ‘disastrous’."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "squinting",
+    "pronunciation": {
+      "british": "/ˈskwɪntɪŋ/ 🇬🇧",
+      "american": "/ˈskwɪntɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "verb/adjective 多义词",
+    "usage": "常用 👍：表示眯眼看或因光线/视力不佳而眯眼。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "眯眼看",
+          "english": "To partly close the eyes, usually to see more clearly or because of bright light."
+        },
+        "examples": [
+          {
+            "sentence": "She was squinting at the bright screen.",
+            "translation": "她在眯眼看亮屏幕。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "眯着眼的",
+          "english": "Having the eyes partly closed."
+        },
+        "examples": [
+          {
+            "sentence": "He gave her a squinting look.",
+            "translation": "他眯着眼看她。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "peek",
+        "type": "verb",
+        "definition": {
+          "chinese": "偷看",
+          "english": "To look quickly or secretly."
+        },
+        "examples": [
+          {
+            "sentence": "He peeked through the door.",
+            "translation": "他从门缝偷看。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动作和状态",
+        "explanation": "既可作动词表示动作，也可作形容词描述状态。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中古英语 ‘squinten’，表示斜视或眯眼，后来形容词用法自然衍生。",
+      "explanation_english": "From Middle English ‘squinten’, meaning to look askance or squint; adjective sense derived naturally."
+    },
+    "variation_between_british_american": {
+      "british": "常用作动作描述。",
+      "american": "同上，口语中更频繁。"
+    }
+  },
+  {
+    "word": "blur",
+    "pronunciation": {
+      "british": "/blɜː/ 🇬🇧",
+      "american": "/blɜːr/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：表示模糊或使模糊。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "模糊的事物或景象",
+          "english": "Something that is not clear or distinct."
+        },
+        "examples": [
+          {
+            "sentence": "Everything was a blur after the accident.",
+            "translation": "事故后，一切都模糊不清。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使模糊",
+          "english": "To make something unclear or hard to see."
+        },
+        "examples": [
+          {
+            "sentence": "The rain blurred the window.",
+            "translation": "雨水让窗户变得模糊。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "smudge",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "污迹；弄脏",
+          "english": "A mark or stain; to make dirty or smear."
+        },
+        "examples": [
+          {
+            "sentence": "The ink smudged on the paper.",
+            "translation": "墨水在纸上晕开了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "名词和动词同形",
+        "explanation": "需结合语境判断是动作还是状态。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中古英语 ‘blerren’，意为弄脏、模糊，动词名词意义自然延伸。",
+      "explanation_english": "From Middle English ‘blerren’, meaning to make dirty or dim, noun sense derived naturally."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "drowsy",
+    "pronunciation": {
+      "british": "/ˈdraʊzi/ 🇬🇧",
+      "american": "/ˈdraʊzi/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：形容困倦或昏昏欲睡。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "困倦的，昏昏欲睡的",
+          "english": "Feeling sleepy or lethargic."
+        },
+        "examples": [
+          {
+            "sentence": "The warm room made me drowsy.",
+            "translation": "温暖的房间让我昏昏欲睡。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sleepy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "困的",
+          "english": "Needing sleep or inclined to sleep."
+        },
+        "examples": [
+          {
+            "sentence": "The baby looks sleepy.",
+            "translation": "宝宝看起来很困。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语常用",
+        "explanation": "比 ‘sleepy’ 更强调昏沉或精神不振感。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中古英语 ‘drousi’（困倦），基本意义未发生延伸。",
+      "explanation_english": "From Middle English ‘drousi’, meaning sleepy, core meaning retained."
+    },
+    "variation_between_british_american": {
+      "british": "用法与美式一致。",
+      "american": "同上，书面和口语均可用。"
+    }
+  },
+  {
+    "word": "yawning",
+    "pronunciation": {
+      "british": "/ˈjɔːnɪŋ/ 🇬🇧",
+      "american": "/ˈjɔːnɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "verb/adjective 多义词",
+    "usage": "常用 👍：表示打哈欠或形容大而空旷的。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "打哈欠",
+          "english": "Involuntarily opening the mouth wide and inhaling deeply due to tiredness or boredom."
+        },
+        "examples": [
+          {
+            "sentence": "He couldn’t stop yawning during the lecture.",
+            "translation": "他在讲座上不停打哈欠。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "张得很大的，巨大的空隙",
+          "english": "Extremely wide open; gaping."
+        },
+        "examples": [
+          {
+            "sentence": "A yawning gap appeared between the buildings.",
+            "translation": "建筑物之间出现了一个巨大的空隙。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "gap",
+        "type": "noun",
+        "definition": {
+          "chinese": "裂缝，空隙",
+          "english": "An empty space or opening."
+        },
+        "examples": [
+          {
+            "sentence": "There is a gap in the fence.",
+            "translation": "栅栏上有个缝隙。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动作与形容词",
+        "explanation": "‘yawning’ 可作打哈欠动作，也可形容空间或裂缝巨大。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "动词原意打哈欠，由嘴张开动作引申为巨大空隙的形容词意义。",
+      "explanation_english": "Verb originally meant to yawn; adjective sense derived from the wide opening of the mouth."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "drift",
+    "pronunciation": {
+      "british": "/drɪft/ 🇬🇧",
+      "american": "/drɪft/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：可表示漂流、缓慢移动，也可指大意或趋势。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "漂流；缓慢移动",
+          "english": "To be carried along by currents of air or water; to move slowly without a fixed direction."
+        },
+        "examples": [
+          {
+            "sentence": "The boat drifted out to sea.",
+            "translation": "船漂到海上去了。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "漂流；趋势",
+          "english": "A slow movement or tendency; general meaning or purpose."
+        },
+        "examples": [
+          {
+            "sentence": "I couldn’t follow the drift of his argument.",
+            "translation": "我没能理解他论点的大意。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "float",
+        "type": "verb",
+        "definition": {
+          "chinese": "浮动，漂浮",
+          "english": "To rest or move on the surface of a liquid without sinking."
+        },
+        "examples": [
+          {
+            "sentence": "Leaves floated on the water.",
+            "translation": "树叶漂浮在水面上。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动词和名词均可比喻",
+        "explanation": "‘drift’ 可用作抽象概念，如趋势、思路大意。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘driftan’，意为驱动、漂动，动词意义延伸出名词及比喻义。",
+      "explanation_english": "From Old English ‘driftan’, meaning to drive or float; verb sense extended to noun and figurative meanings."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "build up",
+    "pronunciation": {
+      "british": "/bɪld ʌp/ 🇬🇧",
+      "american": "/bɪld ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "非常常用 👍：表示逐渐增加、积累或增强。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "逐渐增加；积累；增强",
+          "english": "To increase gradually in amount, size, or intensity."
+        },
+        "examples": [
+          {
+            "sentence": "Stress can build up if you don’t take breaks.",
+            "translation": "如果不休息，压力会逐渐积累。"
+          },
+          {
+            "sentence": "They built up their strength before the match.",
+            "translation": "他们在比赛前增强了体力。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "accumulate",
+        "type": "verb",
+        "definition": {
+          "chinese": "积累",
+          "english": "To gather or collect over time."
+        },
+        "examples": [
+          {
+            "sentence": "Dust had accumulated on the shelves.",
+            "translation": "灰尘在架子上积累了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多用途短语",
+        "explanation": "可指物理、心理或抽象概念的积累。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘build’意为建造，‘up’表示向上，引申为增强、积累。",
+      "explanation_english": "‘Build’ means to construct, ‘up’ implies increase; extended metaphorically to accumulation or intensification."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上，口语和书面均常用。"
+    }
+  },
+  {
+    "word": "fill up",
+    "pronunciation": {
+      "british": "/fɪl ʌp/ 🇬🇧",
+      "american": "/fɪl ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "常用 👍：表示填满或加满。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "填满；加满",
+          "english": "To make something full by adding something else."
+        },
+        "examples": [
+          {
+            "sentence": "Please fill up the tank with petrol.",
+            "translation": "请把油箱加满汽油。"
+          },
+          {
+            "sentence": "The cup is filled up to the brim.",
+            "translation": "杯子被倒满到杯口。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "refill",
+        "type": "verb",
+        "definition": {
+          "chinese": "再填充",
+          "english": "To fill again."
+        },
+        "examples": [
+          {
+            "sentence": "Can you refill my glass, please?",
+            "translation": "请帮我再倒满杯水。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用于物理填充",
+        "explanation": "可用于容器、油箱、表格等。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘fill’意为填充，‘up’表示完全，引申意义直观。",
+      "explanation_english": "‘Fill’ means to put in, ‘up’ emphasizes completely; literal sense extended to various contexts."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上，口语和书面常用。"
+    }
+  },
+  {
+    "word": "buckle up",
+    "pronunciation": {
+      "british": "/ˈbʌkl ʌp/ 🇬🇧",
+      "american": "/ˈbʌkl ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "常用 👍：表示系好安全带，也可引申为准备应对困难。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "系上安全带；准备应对",
+          "english": "To fasten a seatbelt; informally, to get ready for something challenging."
+        },
+        "examples": [
+          {
+            "sentence": "Buckle up before the car starts moving.",
+            "translation": "汽车启动前请系好安全带。"
+          },
+          {
+            "sentence": "It’s going to be a long meeting, so buckle up.",
+            "translation": "会议会很长，所以做好准备吧。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fasten",
+        "type": "verb",
+        "definition": {
+          "chinese": "系紧",
+          "english": "To attach or secure something firmly."
+        },
+        "examples": [
+          {
+            "sentence": "Fasten your seatbelt.",
+            "translation": "系好你的安全带。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语常用",
+        "explanation": "‘buckle up’ 常用于驾驶或隐喻准备应对。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘buckle’意为扣上，‘up’强调完成动作，引申出比喻用法。",
+      "explanation_english": "‘Buckle’ means to fasten, ‘up’ emphasizes completion; extended metaphorically to preparation."
+    },
+    "variation_between_british_american": {
+      "british": "用于安全带，口语比喻少用。",
+      "american": "口语中比喻用法更常见。"
+    }
+  },
+  {
+    "word": "skeptical",
+    "pronunciation": {
+      "british": "/ˈskeptɪkəl/ 🇬🇧",
+      "american": "/ˈskɛptɪkəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "非常常用 👍：表示怀疑、持保留态度。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "怀疑的；持保留态度的",
+          "english": "Having doubts or reservations about something; not easily convinced."
+        },
+        "examples": [
+          {
+            "sentence": "I’m skeptical about his promises.",
+            "translation": "我对他的承诺持怀疑态度。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "doubtful",
+        "type": "adjective",
+        "definition": {
+          "chinese": "可疑的，不确定的",
+          "english": "Uncertain or hesitant."
+        },
+        "examples": [
+          {
+            "sentence": "It’s doubtful he’ll arrive on time.",
+            "translation": "他准时到达的可能性不大。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用于正式与口语",
+        "explanation": "语气比 ‘doubtful’ 稍正式和理性。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘skeptikos’，意为‘思考、审视’，由此引申为怀疑。",
+      "explanation_english": "From Greek ‘skeptikos’, meaning ‘inquiring’ or ‘thoughtful’, extended to mean doubtful or questioning."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "dummy",
+    "pronunciation": {
+      "british": "/ˈdʌmi/ 🇬🇧",
+      "american": "/ˈdʌmi/ 🇺🇸"
+    },
+    "phrase_type": "noun/adjective 多义词",
+    "usage": "常用 👍：表示假人、仿制品，也可作形容词表示虚假的或无用的。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "假人；模型",
+          "english": "A model or replica of a human or object, often used for practice or display."
+        },
+        "examples": [
+          {
+            "sentence": "The firefighters practiced on a dummy.",
+            "translation": "消防员在假人上练习。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "虚拟的；无用的",
+          "english": "Made as a placeholder or imitation; not real or functional."
+        },
+        "examples": [
+          {
+            "sentence": "They created a dummy account for testing.",
+            "translation": "他们创建了一个测试用的虚拟账户。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "mannequin",
+        "type": "noun",
+        "definition": {
+          "chinese": "服装模特",
+          "english": "A life-sized model of a human used for displaying clothes."
+        },
+        "examples": [
+          {
+            "sentence": "The shop used mannequins to display jackets.",
+            "translation": "商店用模特展示夹克。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "名词与形容词意义衍生",
+        "explanation": "名词表示假人，形容词由此引申为虚拟或占位性质。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中古英语 ‘dummie’，意为哑巴或仿制品，引申出形容词用法。",
+      "explanation_english": "From Middle English ‘dummie’, meaning mute or imitation, adjective sense derived from noun."
+    },
+    "variation_between_british_american": {
+      "british": "名词用法常见，形容词口语中略少。",
+      "american": "名词和形容词用法均常见，口语和技术文档常用。"
+    }
+  },
+  {
+    "word": "groundbreaking",
+    "pronunciation": {
+      "british": "/ˈɡraʊndˌbreɪkɪŋ/ 🇬🇧",
+      "american": "/ˈɡraʊndˌbreɪkɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：表示创新的、开创性的。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "创新的；开创性的",
+          "english": "Introducing new ideas or methods; pioneering."
+        },
+        "examples": [
+          {
+            "sentence": "The scientist made a groundbreaking discovery.",
+            "translation": "这位科学家取得了开创性的发现。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "innovative",
+        "type": "adjective",
+        "definition": {
+          "chinese": "创新的",
+          "english": "Featuring new methods or ideas."
+        },
+        "examples": [
+          {
+            "sentence": "They developed an innovative app.",
+            "translation": "他们开发了一款创新应用。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多用于正式或书面语",
+        "explanation": "常用于科技、研究或重大成就描述。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意字面‘打破地面’，比喻用法引申为开创性的、创新的。",
+      "explanation_english": "Literally ‘breaking ground’, metaphorically extended to mean pioneering or innovative."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上，口语或新闻报道中均可使用。"
+    }
+  },
+  {
+    "word": "at the mercy of physics",
+    "pronunciation": {
+      "british": "/æt ðə ˈmɜːsi əv ˈfɪzɪks/ 🇬🇧",
+      "american": "/æt ðə ˈmɜːrsi əv ˈfɪzɪks/ 🇺🇸"
+    },
+    "phrase_type": "idiomatic phrase",
+    "usage": "常用 👍：表示受物理规律完全支配或限制，强调无法控制。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "受物理规律完全支配；无法抗拒",
+          "english": "Completely controlled or determined by physical forces; powerless to resist."
+        },
+        "examples": [
+          {
+            "sentence": "Without proper gear, climbers are at the mercy of physics.",
+            "translation": "没有合适装备，登山者完全受物理规律支配。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "at the mercy of",
+        "type": "phrase",
+        "definition": {
+          "chinese": "任…摆布；受…支配",
+          "english": "Completely under the control of someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "The villagers were at the mercy of the flood.",
+            "translation": "村民完全受洪水支配。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "固定表达",
+        "explanation": "‘physics’ 可换成任何力量或条件，如‘nature’、‘circumstances’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来源于惯用语 ‘at the mercy of…’，‘physics’ 是具体化对象。",
+      "explanation_english": "Derived from idiom ‘at the mercy of…’, with ‘physics’ specifying the controlling force."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上，口语和书面均可用。"
+    }
+  },
+  {
+    "word": "demerit points",
+    "pronunciation": {
+      "british": "/ˈdiːmerɪt pɔɪnts/ 🇬🇧",
+      "american": "/ˈdiːmɛrɪt pɔɪnts/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用 👍：交通或行为处罚系统中计分扣分。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "记过分；扣分",
+          "english": "Points assigned as a penalty for a violation or offense, often in driving."
+        },
+        "examples": [
+          {
+            "sentence": "He lost his license after accumulating too many demerit points.",
+            "translation": "他累计过多记过分后被吊销了驾驶证。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "penalty points",
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "罚分",
+          "english": "Points given as punishment for breaking rules."
+        },
+        "examples": [
+          {
+            "sentence": "Speeding earns penalty points on your license.",
+            "translation": "超速会让你的驾驶证被记罚分。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多用于交通法规",
+        "explanation": "在驾驶或学校等场景使用最常见。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘demerit’表示过失，‘points’表示计分，组合即扣分系统。",
+      "explanation_english": "‘Demerit’ means fault, ‘points’ indicate a scoring system; together, a penalty point system."
+    },
+    "variation_between_british_american": {
+      "british": "英国常用于交通违法计分。",
+      "american": "美国类似概念常称 ‘points on your license’。"
+    }
+  },
+  {
+    "word": "restraint",
+    "pronunciation": {
+      "british": "/rɪˈstreɪnt/ 🇬🇧",
+      "american": "/rɪˈstreɪnt/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：表示克制、自制或约束措施。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "克制；约束",
+          "english": "The action of controlling or limiting oneself; a measure to limit or control."
+        },
+        "examples": [
+          {
+            "sentence": "He showed restraint despite being provoked.",
+            "translation": "即使受到挑衅，他也表现出克制。"
+          },
+          {
+            "sentence": "The police used restraints to secure the suspect.",
+            "translation": "警方使用约束器固定嫌疑人。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "self-control",
+        "type": "noun",
+        "definition": {
+          "chinese": "自制力",
+          "english": "The ability to control one’s emotions or desires."
+        },
+        "examples": [
+          {
+            "sentence": "Self-control is important in stressful situations.",
+            "translation": "在压力大的情况下，自制力非常重要。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "抽象和具体均可",
+        "explanation": "既可指心理克制，也可指物理约束手段。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘restringere’，意为捆绑、限制，引申为心理和物理约束。",
+      "explanation_english": "From Latin ‘restringere’, meaning to bind or limit; extended to mental and physical control."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "appropriate",
+    "pronunciation": {
+      "british": "/əˈprəʊpriət/ 🇬🇧",
+      "american": "/əˈproʊpriət/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb 多义词",
+    "usage": "非常常用 👍：形容词表示合适，动词表示拨款或占用。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "合适的；恰当的",
+          "english": "Suitable or proper in the circumstances."
+        },
+        "examples": [
+          {
+            "sentence": "Please wear appropriate clothing for the event.",
+            "translation": "请穿着适合该活动的衣服。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "拨款；占用",
+          "english": "To set aside for a specific purpose; to take something for one’s own use."
+        },
+        "examples": [
+          {
+            "sentence": "The government appropriated funds for the project.",
+            "translation": "政府为该项目拨款。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "suitable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "适合的",
+          "english": "Right or appropriate for a particular person, purpose, or situation."
+        },
+        "examples": [
+          {
+            "sentence": "This book is suitable for beginners.",
+            "translation": "这本书适合初学者。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "形容词和动词意义不同",
+        "explanation": "需根据上下文判断是 ‘合适的’ 还是 ‘拨款/占用’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘appropriare’，意为‘使属于’，由此引申为‘合适’和‘拨款/占用’。",
+      "explanation_english": "From Latin ‘appropriare’, meaning ‘to make one’s own’; extended to ‘suitable’ and ‘to set aside/take’."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上，动词用法在官方文件和法律文书中更常见。"
+    }
   }
 ]
 
