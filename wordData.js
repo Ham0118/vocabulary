@@ -44037,7 +44037,471 @@ const wordData = [
       "british": "用法一致。",
       "american": "同上，动词用法在官方文件和法律文书中更常见。"
     }
-  }
+  },
+  {
+    "word": "stingy",
+    "pronunciation": {
+      "british": "/ˈstɪn.dʒi/ 🇬🇧",
+      "american": "/ˈstɪn.dʒi/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：形容人吝啬、小气、不愿意分享或花钱。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "吝啬的，小气的",
+          "english": "Unwilling to give or spend; not generous."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t be so stingy—buy your friends a drink!",
+            "translation": "别那么小气——请朋友喝一杯吧！"
+          },
+          {
+            "sentence": "He’s too stingy to tip the waiter.",
+            "translation": "他太抠门了，连服务生都不给小费。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "miserly",
+        "type": "adjective",
+        "definition": {
+          "chinese": "吝啬的（带轻蔑意味）",
+          "english": "Extremely unwilling to spend money; often used more negatively than 'stingy'."
+        },
+        "examples": [
+          {
+            "sentence": "He lived a miserly life despite his wealth.",
+            "translation": "尽管他很富有，却过着非常吝啬的生活。"
+          }
+        ]
+      },
+      {
+        "word": "cheap",
+        "type": "adjective",
+        "definition": {
+          "chinese": "小气的（口语）",
+          "english": "Informally used to mean unwilling to spend money or lacking generosity."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t be cheap—it's just a few dollars.",
+            "translation": "别那么抠——这才几块钱而已。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气偏轻微",
+        "explanation": "‘stingy’ 比 ‘miserly’ 更口语化，语气也较轻，通常用于日常场合。"
+      },
+      {
+        "point": "反义词",
+        "explanation": "常见反义词包括 ‘generous’（慷慨的）或 ‘open-handed’（大方的）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘stingy’ 源自 ‘sting’（刺痛），暗含让人“被小气刺痛”的感觉，因此引申为吝啬的性格。",
+      "explanation_english": "Derived from ‘sting’ (to prick or hurt), implying someone whose tight-fistedness ‘stings’ others, hence the meaning ‘ungenerous’."
+    },
+    "variation_between_british_american": {
+      "british": "‘mean’ 也常用于表示小气，如 ‘He’s so mean with money.’",
+      "american": "‘stingy’ 是最自然的表达，小气还可说 ‘cheap’。"
+    }
+  },
+  {
+    "word": "impair",
+    "pronunciation": {
+      "british": "/ɪmˈpeər/ 🇬🇧",
+      "american": "/ɪmˈper/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用 👍：表示损害、削弱、降低功能。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "损害；削弱；降低",
+          "english": "To weaken or damage something, especially in function or quality."
+        },
+        "examples": [
+          {
+            "sentence": "Smoking can impair your health.",
+            "translation": "吸烟会损害你的健康。"
+          },
+          {
+            "sentence": "The illness impaired his ability to work.",
+            "translation": "疾病削弱了他的工作能力。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "damage",
+        "type": "verb",
+        "definition": {
+          "chinese": "破坏；损害",
+          "english": "To harm or reduce the value, quality, or function of something."
+        },
+        "examples": [
+          {
+            "sentence": "The storm damaged several houses.",
+            "translation": "暴风雨破坏了几所房子。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用词",
+        "explanation": "常用于医学、法律或官方文本中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘impairare’，意为‘减少、损害’，意义单一。",
+      "explanation_english": "From Latin ‘impairare’, meaning ‘to make worse or diminish’; generally one core meaning."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "disqualified",
+    "pronunciation": {
+      "british": "/dɪsˈkwɒlɪfaɪd/ 🇬🇧",
+      "american": "/dɪsˈkwɑːlɪfaɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb (past participle)",
+    "usage": "常用 👍：表示被取消资格或不适合某职位或比赛。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "被取消资格的",
+          "english": "Declared ineligible to participate or continue in a contest, job, or activity."
+        },
+        "examples": [
+          {
+            "sentence": "He was disqualified from the race for cheating.",
+            "translation": "他因作弊被取消了比赛资格。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "barred",
+        "type": "adjective",
+        "definition": {
+          "chinese": "禁止的",
+          "english": "Prevented from doing something."
+        },
+        "examples": [
+          {
+            "sentence": "He is barred from entering the competition.",
+            "translation": "他被禁止参加比赛。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多用于比赛、考试、职务",
+        "explanation": "强调资格或条件不符导致被排除。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘qualify’（符合条件）加否定前缀 ‘dis-’，含义直接衍生。",
+      "explanation_english": "From ‘qualify’ (to meet conditions) with negative prefix ‘dis-’; meaning derived straightforwardly."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "caption",
+    "pronunciation": {
+      "british": "/ˈkæp.ʃən/ 🇬🇧",
+      "american": "/ˈkæp.ʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍：可指文字说明或标题，也可作动词添加说明文字。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "标题；说明文字",
+          "english": "A brief explanation or title accompanying an illustration, photo, or diagram."
+        },
+        "examples": [
+          {
+            "sentence": "The photo had a funny caption.",
+            "translation": "照片配了一个有趣的说明文字。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "为…加标题或说明文字",
+          "english": "To provide a title or explanatory text for a picture or illustration."
+        },
+        "examples": [
+          {
+            "sentence": "The editor captioned all the images in the article.",
+            "translation": "编辑为文章中的所有图片加了说明文字。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "subtitle",
+        "type": "noun",
+        "definition": {
+          "chinese": "字幕；副标题",
+          "english": "Text displayed at the bottom of a screen to explain dialogue or content."
+        },
+        "examples": [
+          {
+            "sentence": "Turn on subtitles to understand the movie better.",
+            "translation": "打开字幕可以更好地理解电影内容。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "名词与动词用法均常见",
+        "explanation": "尤其在新闻、社交媒体和出版物中使用频繁。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘capitium’，意为‘头、标题’，由此衍生名词和动词用法。",
+      "explanation_english": "From Latin ‘capitium’, meaning ‘head or title’, extended to noun and verb uses."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "accessory",
+    "pronunciation": {
+      "british": "/əkˈses.ər.i/ 🇬🇧",
+      "american": "/əkˈses.ər.i/ 🇺🇸"
+    },
+    "phrase_type": "noun/adjective 多义词",
+    "usage": "非常常用 👍：可指附属物、配件，也可指共犯（法律），形容词表示附加的。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "配件；附属物",
+          "english": "An item that complements or enhances something else."
+        },
+        "examples": [
+          {
+            "sentence": "She bought new accessories for her car.",
+            "translation": "她为自己的车买了新配件。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "共犯",
+          "english": "Someone who helps another person commit a crime, but is not the main actor."
+        },
+        "examples": [
+          {
+            "sentence": "He was charged as an accessory to the robbery.",
+            "translation": "他被控为抢劫的从犯。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "附属的；辅助的",
+          "english": "Supplementary or additional."
+        },
+        "examples": [
+          {
+            "sentence": "Accessory equipment is provided for safety.",
+            "translation": "提供了辅助设备以保障安全。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "addition",
+        "type": "noun",
+        "definition": {
+          "chinese": "附加物",
+          "english": "Something added to enhance or complement."
+        },
+        "examples": [
+          {
+            "sentence": "New additions were made to the collection.",
+            "translation": "收藏中增加了新物品。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "法律与日常用法差异大",
+        "explanation": "在法律中强调共犯，在日常生活中多指配件或附加物。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘accessorius’，意为‘附属’，引申出日常和法律意义。",
+      "explanation_english": "From Latin ‘accessorius’, meaning ‘additional or supplementary’, extended to legal and everyday senses."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "provisional",
+    "pronunciation": {
+      "british": "/prəˈvɪʒ.ən.əl/ 🇬🇧",
+      "american": "/proʊˈvɪʒ.ən.əl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：表示临时的、暂定的、试用的。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "临时的；暂定的",
+          "english": "Temporary; subject to change; not final."
+        },
+        "examples": [
+          {
+            "sentence": "He received a provisional driving license.",
+            "translation": "他拿到了临时驾照。"
+          },
+          {
+            "sentence": "Provisional arrangements were made for the event.",
+            "translation": "活动做了临时安排。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "temporary",
+        "type": "adjective",
+        "definition": {
+          "chinese": "暂时的",
+          "english": "Lasting for only a limited period."
+        },
+        "examples": [
+          {
+            "sentence": "He has a temporary job in the city.",
+            "translation": "他在城市里有一份临时工作。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用词",
+        "explanation": "常用于证件、合同、安排等官方或正式场合。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘provisio’，意为‘预先准备’，引申为暂时或试用。",
+      "explanation_english": "From Latin ‘provisio’, meaning ‘provision or preparation in advance’, extended to temporary or trial use."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
+  {
+    "word": "suspended",
+    "pronunciation": {
+      "british": "/səˈspɛndɪd/ 🇬🇧",
+      "american": "/səˈspɛndɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb (past participle)",
+    "usage": "非常常用 👍：表示暂停、中止或悬挂状态。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "暂停的；中止的；悬挂的",
+          "english": "Temporarily stopped, postponed, or hanging."
+        },
+        "examples": [
+          {
+            "sentence": "His driving license was suspended for speeding.",
+            "translation": "他的驾照因超速而被吊销。"
+          },
+          {
+            "sentence": "The lamp was suspended from the ceiling.",
+            "translation": "灯从天花板上悬挂着。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "暂停；中止；悬挂",
+          "english": "To temporarily stop something or hang something from above."
+        },
+        "examples": [
+          {
+            "sentence": "The school suspended classes due to snow.",
+            "translation": "由于下雪，学校暂停上课。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hang",
+        "type": "verb",
+        "definition": {
+          "chinese": "悬挂",
+          "english": "To attach or be attached from above so as to swing freely."
+        },
+        "examples": [
+          {
+            "sentence": "The painting hangs on the wall.",
+            "translation": "画挂在墙上。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "动词和形容词意义相关",
+        "explanation": "形容词多用于描述状态，动词用于动作或过程。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘suspendere’，意为‘悬挂’，由此衍生暂停、中止等抽象意义。",
+      "explanation_english": "From Latin ‘suspendere’, meaning ‘to hang’, extended metaphorically to pause or temporary stop."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "同上。"
+    }
+  },
 ]
 
 
