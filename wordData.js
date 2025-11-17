@@ -44502,6 +44502,163 @@ const wordData = [
       "american": "同上。"
     }
   },
+  {
+    "word": "shower drain",
+    "pronunciation": {
+      "british": "/ˈʃaʊə dreɪn/ 🇬🇧",
+      "american": "/ˈʃaʊər dreɪn/ 🇺🇸"
+    },
+    "phrase_type": "noun（固定搭配）",
+    "usage": "常用 👍：指淋浴间地面的排水口。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "淋浴间的排水口",
+          "english": "The drain in a shower area that allows water to flow out."
+        },
+        "examples": [
+          {
+            "sentence": "Hair often gets stuck in the shower drain.",
+            "translation": "头发经常卡在淋浴排水口里。"
+          },
+          {
+            "sentence": "Make sure the shower drain is not blocked before you turn on the water.",
+            "translation": "打开淋浴前，确保排水口没有堵住。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "drain",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "排水口；排水",
+          "english": "A pipe or channel that carries off liquid; to cause liquid to flow away."
+        },
+        "examples": [
+          {
+            "sentence": "The kitchen sink drain is clogged.",
+            "translation": "厨房水槽的下水道堵了。"
+          }
+        ]
+      },
+      {
+        "word": "shower head",
+        "type": "noun",
+        "definition": {
+          "chinese": "淋浴喷头",
+          "english": "The device from which water sprays in a shower."
+        },
+        "examples": [
+          {
+            "sentence": "The shower head needs to be cleaned.",
+            "translation": "淋浴喷头需要清洁。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "固定搭配",
+        "explanation": "‘shower drain’ 是名词短语，几乎总是用来指淋浴区地上的排水口，不会改成其他顺序。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "这是一个组合词，不存在多义问题。“shower”=淋浴，“drain”=排水口，直接组合形成字面意义。",
+      "explanation_english": "A compound phrase with literal meaning: ‘shower’ + ‘drain’. No extended senses involved."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，也可说 ‘shower plughole’，更口语。",
+      "american": "通常只说 ‘shower drain’，最自然。"
+    }
+  },
+  {
+    "word": "fitness",
+    "pronunciation": {
+      "british": "/ˈfɪtnəs/ 🇬🇧",
+      "american": "/ˈfɪtnəs/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：表示身体健康、体能，也可指适合或合适。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "身体健康；体能",
+          "english": "The condition of being physically healthy, strong, and able to perform exercises or tasks."
+        },
+        "examples": [
+          {
+            "sentence": "Regular exercise is important for fitness.",
+            "translation": "定期锻炼对身体健康很重要。"
+          },
+          {
+            "sentence": "He joined a fitness club to improve his stamina.",
+            "translation": "他加入了健身俱乐部来提高耐力。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "适合；适宜",
+          "english": "The quality of being suitable or appropriate for a particular purpose."
+        },
+        "examples": [
+          {
+            "sentence": "The fitness of the candidate for the role was questioned.",
+            "translation": "有人质疑该候选人是否适合这个职位。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "health",
+        "type": "noun",
+        "definition": {
+          "chinese": "健康",
+          "english": "The state of being free from illness or injury."
+        },
+        "examples": [
+          {
+            "sentence": "Good nutrition contributes to overall health.",
+            "translation": "良好的营养有助于整体健康。"
+          }
+        ]
+      },
+      {
+        "word": "suitability",
+        "type": "noun",
+        "definition": {
+          "chinese": "适合性",
+          "english": "The quality of being appropriate or acceptable for a particular person, purpose, or situation."
+        },
+        "examples": [
+          {
+            "sentence": "They assessed the fitness of the plan before implementation.",
+            "translation": "他们在实施前评估了计划的适宜性。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "可指身体或条件",
+        "explanation": "‘fitness’ 可指体能健康，也可用于抽象意义如适合、资格。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘fit’（适合），由此衍生出身体健康和适宜性两种用法。",
+      "explanation_english": "From Latin ‘fit’ (suitable), extended to mean physical health and suitability."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，常用于体育和健康文献。",
+      "american": "同上，‘fitness center’ 是常见表达。"
+    }
+  },
 ]
 
 
