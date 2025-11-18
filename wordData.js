@@ -44659,6 +44659,197 @@ const wordData = [
       "american": "同上，‘fitness center’ 是常见表达。"
     }
   },
+  {
+    "word": "be possessed by",
+    "pronunciation": {
+      "british": "/bi pəˈzest baɪ/ 🇬🇧",
+      "american": "/bi pəˈzest baɪ/ 🇺🇸"
+    },
+    "phrase_type": "verb phrase（被动短语）",
+    "usage": "常用 👍：用于描述某人“被……占据、控制”，可指情绪、冲动、想法，也可指超自然含义。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "被……控制（情绪/冲动/想法）",
+          "english": "To be strongly influenced or overtaken by an emotion, impulse, or idea."
+        },
+        "examples": [
+          {
+            "sentence": "She was suddenly possessed by the urge to clean the entire house.",
+            "translation": "她突然被一种想把整间房子打扫干净的冲动所控制。"
+          },
+          {
+            "sentence": "He seemed possessed by anger.",
+            "translation": "他似乎被愤怒操控着。"
+          }
+        ]
+      },
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "被附身（超自然意义）",
+          "english": "To be controlled by a spirit or supernatural force."
+        },
+        "examples": [
+          {
+            "sentence": "They believed the boy was possessed by an evil spirit.",
+            "translation": "他们认为那个男孩被恶灵附身了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "be overwhelmed by",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "被……压倒（多指情绪）",
+          "english": "To be deeply affected by an emotion."
+        },
+        "examples": [
+          {
+            "sentence": "She was overwhelmed by sadness.",
+            "translation": "她被悲伤压垮。"
+          }
+        ]
+      },
+      {
+        "word": "be taken over by",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "被……占据或控制",
+          "english": "To be overtaken or controlled by a feeling or force."
+        },
+        "examples": [
+          {
+            "sentence": "He was taken over by panic.",
+            "translation": "他被恐慌占据。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "含义取决于语境",
+        "explanation": "可表示情绪的强烈控制（常见），也可指字面意义的“被附身”（较少见但清晰）。"
+      },
+      {
+        "point": "常与情绪名词连用",
+        "explanation": "如 anger, fear, desire, curiosity 等。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原始含义来自“possess＝占有、控制”，后来从“被控制”自然延伸到“被情绪支配”，再被用于宗教语境的“附身”。",
+      "explanation_english": "Originally from ‘possess’ meaning ‘to own or control’; extended metaphorically to emotions controlling someone, and later used in religious/supernatural contexts for being ‘possessed’. "
+    },
+    "variation_between_british_american": {
+      "british": "两种含义都常用，尤其在文学中较常见。",
+      "american": "在日常口语中更常用于“被强烈情绪/冲动控制”；超自然意义也普遍。"
+    }
+  },
+  {
+    "word": "possess",
+    "pronunciation": {
+      "british": "/pəˈzes/ 🇬🇧",
+      "american": "/pəˈzɛs/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用 👍：表示“拥有”或“具备某种品质/能力”，也可指超自然语境“控制、附身”。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "拥有（物品、资源、品质）",
+          "english": "To have or own something, including objects, qualities, or abilities."
+        },
+        "examples": [
+          {
+            "sentence": "She possesses great musical talent.",
+            "translation": "她拥有极高的音乐天赋。"
+          },
+          {
+            "sentence": "He possesses several rare books.",
+            "translation": "他拥有几本珍贵的书。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "控制、支配（抽象）",
+          "english": "To control or dominate someone’s mind or feelings."
+        },
+        "examples": [
+          {
+            "sentence": "Fear possessed him as he entered the dark room.",
+            "translation": "当他进入黑暗房间时，恐惧支配了他。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（超自然）附身",
+          "english": "To take control of someone’s body or mind, especially referring to spirits or supernatural forces."
+        },
+        "examples": [
+          {
+            "sentence": "They believed the girl was possessed by a demon.",
+            "translation": "他们认为那个女孩被恶魔附身。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "own",
+        "type": "verb",
+        "definition": {
+          "chinese": "拥有（物品）",
+          "english": "To have something as your property."
+        },
+        "examples": [
+          {
+            "sentence": "He owns a small apartment in the city.",
+            "translation": "他在城市里拥有一套小公寓。"
+          }
+        ]
+      },
+      {
+        "word": "have",
+        "type": "verb",
+        "definition": {
+          "chinese": "有（最广泛）",
+          "english": "The most general verb for possessing or experiencing something."
+        },
+        "examples": [
+          {
+            "sentence": "She has a calm personality.",
+            "translation": "她有着平静的性格。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "书面语氛围较强",
+        "explanation": "‘possess’ 比 ‘have’ 或 ‘own’ 更正式，多用于书面表达、描述品质或能力。"
+      },
+      {
+        "point": "抽象意义常在文学中使用",
+        "explanation": "如 “be possessed by anger/fear/desire”，用于描写强烈情绪支配状态。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 *possessus*，意为“占据、控制”。最初指实际占有（物品），后来延伸到抽象占有（品质、情绪），再进一步发展为“附身”的超自然意义。",
+      "explanation_english": "From Latin *possessus* meaning ‘to occupy or control’. Originally referred to owning physical things, later extended to abstract ownership of qualities or emotions, and eventually to supernatural possession."
+    },
+    "variation_between_british_american": {
+      "british": "日常生活中较少用来指“拥有物品”，更偏正式。",
+      "american": "也略偏正式；“possess” 常用于法律、官方文件，如 “possess weapons”。"
+    }
+  },
 ]
 
 
