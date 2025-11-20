@@ -44850,6 +44850,214 @@ const wordData = [
       "american": "也略偏正式；“possess” 常用于法律、官方文件，如 “possess weapons”。"
     }
   },
+  {
+    "word": "spontaneous cartwheel",
+    "pronunciation": {
+      "british": "/spɒnˈteɪ.ni.əs ˈkɑːt.wiːl/ 🇬🇧",
+      "american": "/spɑːnˈteɪ.ni.əs ˈkɑːrt.wiːl/ 🇺🇸"
+    },
+    "phrase_type": "adjective + noun phrase",
+    "usage": "常用于描述某人突然、毫无预备地做了一个侧手翻，带强烈的“自然冲动”“兴奋爆发”的语气。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "突然做出的侧手翻（毫无准备/自然的动作）",
+          "english": "A cartwheel performed suddenly, without planning, often from excitement or impulse."
+        },
+        "examples": [
+          {
+            "sentence": "She did a spontaneous cartwheel when she heard the good news.",
+            "translation": "她听到好消息后突然做了一个侧手翻。"
+          },
+          {
+            "sentence": "Kids often break into spontaneous cartwheels on the playground.",
+            "translation": "孩子们在操场上经常突然来一个侧手翻。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "spur-of-the-moment",
+        "type": "phrase",
+        "definition": {
+          "chinese": "一时冲动的",
+          "english": "Done suddenly without planning."
+        },
+        "examples": [
+          {
+            "sentence": "It was a spur-of-the-moment decision.",
+            "translation": "那是一个一时冲动的决定。"
+          }
+        ]
+      },
+      {
+        "word": "cartwheel",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "侧手翻；做侧手翻",
+          "english": "A sideways handspring with legs and arms extended."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气轻松活泼",
+        "explanation": "母语人士用于描述兴奋到忍不住做出小孩般的动作。"
+      },
+      {
+        "point": "spontaneous 的语感",
+        "explanation": "表示完全自然、无计划、因情绪触发。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "“spontaneous” 原意为“自然发生的”，后来引申为“情绪驱动的、冲动的”；“cartwheel” 本意是体操动作，两者组合没有特别多义扩展。",
+      "explanation_english": "“Spontaneous” evolved from meaning 'naturally occurring' to also mean 'emotionally impulsive'. Combined with 'cartwheel', it forms a descriptive phrase without complex polysemy."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，但在英式英语里出现频率略低。",
+      "american": "更常见于口语场景，尤其是描述孩子、庆祝场景。"
+    }
+  },
+  {
+    "word": "if anything",
+    "pronunciation": {
+      "british": "/ɪf ˈen.i.θɪŋ/ 🇬🇧",
+      "american": "/ɪf ˈen.iˌθɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adverbial phrase（副词短语）",
+    "usage": "常用于表达“相反地”“甚至更……一些”，用来轻微纠正前一句或强调变化并不大。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "（实际上）更……一些；如果有什么的话；甚至相反",
+          "english": "Used to suggest the opposite is true, or to downplay a previous statement."
+        },
+        "examples": [
+          {
+            "sentence": "The test wasn’t hard—if anything, it was easier than last year.",
+            "translation": "考试一点也不难——如果说有什么的话，它比去年更容易。"
+          },
+          {
+            "sentence": "He isn’t rude—if anything, he’s a bit shy.",
+            "translation": "他并不粗鲁——如果说有什么的话，他有点害羞。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "on the contrary",
+        "type": "phrase",
+        "definition": {
+          "chinese": "相反",
+          "english": "Used to contradict a previous statement more strongly."
+        },
+        "examples": [
+          {
+            "sentence": "I’m not tired. On the contrary, I feel energetic.",
+            "translation": "我不累。相反，我感觉很有精神。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气较委婉",
+        "explanation": "比直接否定更柔和，常用于社交中表达小的纠正。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "该短语由 if（如果）+ anything（任何事情）构成，本意是“如果有的话”，后来语义被弱化，用来表示“甚至相反”或“顶多……”。属于自然语义弱化与口语化演变。",
+      "explanation_english": "Originally meant “if there is anything to comment on,” later weakened semantically to mean “if at all” or “if something, the opposite.”"
+    },
+    "variation_between_british_american": {
+      "british": "英美用法完全一致。",
+      "american": "用法相同，均用于委婉提出轻微相反的观点。"
+    }
+  },
+  {
+    "word": "flatter",
+    "pronunciation": {
+      "british": "/ˈflæt.ə/ 🇬🇧",
+      "american": "/ˈflætər/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "非常常用：可表示真诚的称赞，也可指过度恭维。另有“使显得更好看”等延伸义。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "恭维，奉承",
+          "english": "To praise someone in a way that is not fully sincere."
+        },
+        "examples": [
+          {
+            "sentence": "He was just flattering her to get a favor.",
+            "translation": "他只是奉承她以获得好处。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使显得更好看，使……更有优势",
+          "english": "To make someone or something look better than they really are."
+        },
+        "examples": [
+          {
+            "sentence": "That color really flatters your skin tone.",
+            "translation": "那个颜色真的让你的肤色更好看。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "感到荣幸（常用于被动语态 be flattered）",
+          "english": "To make someone feel honored or pleased by attention."
+        },
+        "examples": [
+          {
+            "sentence": "I'm flattered you asked me for advice.",
+            "translation": "你来问我意见，我很荣幸。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "compliment",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "称赞（更真诚）",
+          "english": "To express genuine praise."
+        },
+        "examples": [
+          {
+            "sentence": "She complimented his cooking.",
+            "translation": "她称赞了他的厨艺。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气差异",
+        "explanation": "flatter 可真可假，但常带‘为了讨好’的暗示；compliment 更真诚。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语 flater，原意是“轻抚、安抚”，后来比喻为“用好听的话抚慰别人”，再进一步引申为显得更好看或让人感到荣幸。",
+      "explanation_english": "From Old French ‘flater’ meaning to stroke or soothe, later metaphorically became verbal soothing (praise), then extended to meanings like enhancing appearance."
+    },
+    "variation_between_british_american": {
+      "british": "英式中 be flattered 用法更常见于正式场合。",
+      "american": "美式中 flatter 有更强的“make look better”的视觉引申义。"
+    }
+  }
 ]
 
 
