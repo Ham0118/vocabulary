@@ -45057,7 +45057,1604 @@ const wordData = [
       "british": "英式中 be flattered 用法更常见于正式场合。",
       "american": "美式中 flatter 有更强的“make look better”的视觉引申义。"
     }
+  },
+  {
+  "word": "daffodils",
+  "pronunciation": {
+    "british": "/ˈdæf.ə.dɪlz/ 🇬🇧",
+    "american": "/ˈdæf.ə.dɪlz/ 🇺🇸"
+  },
+  "phrase_type": "noun（名词，复数）",
+  "usage": "常见于文学作品，尤其因华兹华斯《I Wandered Lonely as a Cloud》而闻名。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "水仙花（复数）",
+        "english": "Bright yellow spring flowers with a trumpet-shaped center."
+      },
+      "examples": [
+        {
+          "sentence": "The field was full of daffodils.",
+          "translation": "那片田野里满是水仙花。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "narcissus",
+      "type": "noun",
+      "definition": {
+        "chinese": "水仙（学名，更正式）",
+        "english": "The scientific name for the daffodil family."
+      },
+      "examples": [
+        {
+          "sentence": "Narcissus flowers bloom in early spring.",
+          "translation": "水仙花早春开放。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "文学色彩浓厚",
+      "explanation": "常与意象如‘spring, hope, brightness’联系在一起。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "没有明显多义，来自古荷兰语‘affodil’，指一种春季花。",
+    "explanation_english": "Not strongly polysemous; from Dutch ‘affodil’, referring to the flower."
+  },
+  "variation_between_british_american": {
+    "british": "非常常见的庭院花。",
+    "american": "较常见，但文化关联较弱。"
   }
+},
+{
+  "word": "sprightly",
+  "pronunciation": {
+    "british": "/ˈspraɪt.li/ 🇬🇧",
+    "american": "/ˈspraɪt.li/ 🇺🇸"
+  },
+  "phrase_type": "adjective（形容词）",
+  "usage": "偏文学与正式语域，描述人或动作轻快、有活力。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "轻快的，活泼的，有精神的",
+        "english": "Lively, full of energy and spirit."
+      },
+      "examples": [
+        {
+          "sentence": "The old man walked with a sprightly step.",
+          "translation": "那位老人步伐轻快。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "lively",
+      "type": "adjective",
+      "definition": {
+        "chinese": "活泼的，有活力的（更口语）",
+        "english": "Full of life and energy."
+      },
+      "examples": [
+        {
+          "sentence": "She is a lively child.",
+          "translation": "她是个活泼的孩子。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "常含正面情绪",
+      "explanation": "多用于赞美老人‘精神矍铄’，或写作中的轻快动作。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "无明显多义，源自 sprite（精灵，灵巧的小生物），引申为灵动活泼。",
+    "explanation_english": "From ‘sprite’, meaning an elf-like spirit, suggesting light, lively movement."
+  },
+  "variation_between_british_american": {
+    "british": "更常见于文学与日常描述。",
+    "american": "较少使用，听起来更正式或古典。"
+  }
+},
+{
+  "word": "toss",
+  "pronunciation": {
+    "british": "/tɒs/ 🇬🇧",
+    "american": "/tɔːs/ 🇺🇸"
+  },
+  "phrase_type": "verb/noun 多义词",
+  "usage": "非常常用：可指随意丢、轻抛、翻动食材、抛硬币、辗转反侧等。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "轻轻扔，抛",
+        "english": "To throw something lightly or casually."
+      },
+      "examples": [
+        {
+          "sentence": "He tossed the keys onto the table.",
+          "translation": "他把钥匙随手扔在桌上。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "翻动（食物）",
+        "english": "To mix or turn food lightly."
+      },
+      "examples": [
+        {
+          "sentence": "Toss the salad with some olive oil.",
+          "translation": "用橄榄油轻轻拌一下沙拉。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "抛硬币决定",
+        "english": "To throw a coin in the air to decide something."
+      },
+      "examples": [
+        {
+          "sentence": "Let's toss a coin to decide.",
+          "translation": "我们抛个硬币决定吧。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "辗转反侧（常用：toss and turn）",
+        "english": "To move around restlessly in bed."
+      },
+      "examples": [
+        {
+          "sentence": "I tossed and turned all night.",
+          "translation": "我一夜都辗转反侧。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "抛掷；抛硬币",
+        "english": "An act of throwing or a coin toss."
+      },
+      "examples": [
+        {
+          "sentence": "He won the toss and chose to go first.",
+          "translation": "他在抛硬币中赢了，选择先走。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "flip",
+      "type": "verb",
+      "definition": {
+        "chinese": "轻轻翻转，甩动",
+        "english": "To make something turn over quickly."
+      },
+      "examples": [
+        {
+          "sentence": "Flip the pancake carefully.",
+          "translation": "小心地翻一下煎饼。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "语气轻松",
+      "explanation": "toss 通常表示动作随意、不费力，比 throw 更轻、随手。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "动词本义是“轻抛”，随后自然扩展到“翻动食物”“抛硬币”“翻身”等，都与“轻轻抬起+落下”的动作特征有关。",
+    "explanation_english": "Originally meant ‘to throw lightly’. Extended to related motions like mixing food, flipping a coin, or restless turning in bed."
+  },
+  "variation_between_british_american": {
+    "british": "英式更常见于体育语境中的 coin toss。",
+    "american": "美式中 toss 作“拌沙拉”非常常见，如 tossed salad。"
+  }
+},
+{
+  "word": "glee",
+  "pronunciation": {
+    "british": "/ɡliː/ 🇬🇧",
+      "american": "/ɡliː/ 🇺🇸"
+  },
+  "phrase_type": "noun",
+  "usage": "偏文学或正式语体，用于表达强烈的愉快、喜悦，常带一种轻快或顽皮的色彩。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "欢欣，欢乐",
+        "english": "Great delight or joy, often with a lively or playful nuance."
+      },
+      "examples": [
+        {
+          "sentence": "She opened the gift with glee.",
+          "translation": "她欣喜地打开礼物。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "delight",
+      "type": "noun",
+      "definition": {
+        "chinese": "喜悦，高兴（更中性）",
+        "english": "A feeling of great pleasure."
+      },
+      "examples": [
+        {
+          "sentence": "The children shouted with delight.",
+          "translation": "孩子们兴奋地叫了起来。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "常见于文学或较书面表达",
+      "explanation": "比 joy 更富表现力，也带一丝活泼或顽皮感。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "无明显多义，来自古英语 gléo，意为“娱乐、音乐、欢乐”。",
+    "explanation_english": "Not strongly polysemous; from Old English ‘gléo’, meaning entertainment or joy."
+  },
+  "variation_between_british_american": {
+    "british": "文学用法稍更常见。",
+    "american": "在美式中常因电视剧《Glee》被认出，但日常使用频率不高。"
+  }
+},
+{
+  "word": "gaze",
+  "pronunciation": {
+    "british": "/ɡeɪz/ 🇬🇧",
+    "american": "/ɡeɪz/ 🇺🇸"
+  },
+  "phrase_type": "verb/noun 多义词",
+  "usage": "非常常用：多指“深情地、专注地凝视”。比 stare 更温和、更带情绪。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "凝视，注视（带情感或沉思）",
+        "english": "To look steadily and intently, often with admiration or deep thought."
+      },
+      "examples": [
+        {
+          "sentence": "She gazed at the stars in silence.",
+          "translation": "她静静地凝视着星空。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "凝视，注视",
+        "english": "A steady and intent look."
+      },
+      "examples": [
+        {
+          "sentence": "His gaze was fixed on the horizon.",
+          "translation": "他的目光定在地平线上。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "stare",
+      "type": "verb",
+      "definition": {
+        "chinese": "盯着看（更强烈，可能不礼貌）",
+        "english": "To look at something or someone in a fixed, often rude way."
+      },
+      "examples": [
+        {
+          "sentence": "It’s rude to stare at people.",
+          "translation": "盯着别人看是不礼貌的。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "语气柔和",
+      "explanation": "gaze 带有情绪或美感，不像 stare 那么直接。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "本义是“注视”，名词义由动词义自然演变而来。",
+    "explanation_english": "Originally a verb meaning “to look intently,” with the noun sense derived naturally."
+  },
+  "variation_between_british_american": {
+    "british": "英美用法基本一致。",
+    "american": "常用于文学、电影或描述情感场景。"
+  }
+},
+{
+  "word": "jocund",
+  "pronunciation": {
+    "british": "/ˈdʒɒ.kənd/ 🇬🇧",
+    "american": "/ˈdʒɑː.kənd/ 🇺🇸"
+  },
+  "phrase_type": "adjective（文学词）",
+  "usage": "较文言、诗意的形容词，意为‘愉快的、轻松快活的’，常见于文学或诗歌，例如华兹华斯。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "愉快的，欢乐的，快活的（文学用）",
+        "english": "Cheerful and lighthearted; literary in tone."
+      },
+      "examples": [
+        {
+          "sentence": "They danced with jocund spirits.",
+          "translation": "他们快活地跳着舞。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "cheerful",
+      "type": "adjective",
+      "definition": {
+        "chinese": "开朗的",
+        "english": "Happy and optimistic."
+      },
+      "examples": [
+        {
+          "sentence": "She is always cheerful.",
+          "translation": "她总是很开朗。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "文学色彩",
+      "explanation": "多见于诗歌中，如 Wordsworth 使用过。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "无明显多义，来自拉丁语 jocundus，意为‘令人愉快的’。",
+    "explanation_english": "Single-meaning adjective; from Latin ‘jocundus’, meaning pleasant or delightful."
+  },
+  "variation_between_british_american": {
+    "british": "用于文学与诗歌。",
+    "american": "日常几乎不用，主要出现于文学课程或诗歌分析。"
+  }
+},
+{
+  "word": "flutter",
+  "pronunciation": {
+    "british": "/ˈflʌt.ə/ 🇬🇧",
+    "american": "/ˈflʌtər/ 🇺🇸"
+  },
+  "phrase_type": "verb/noun 多义词",
+  "usage": "常用词：可指‘拍动（翅膀）’‘飘动’‘紧张心跳’ 等，也可作名词。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "拍动（翅膀）；振翅",
+        "english": "To wave or flap quickly and lightly."
+      },
+      "examples": [
+        {
+          "sentence": "The birds fluttered their wings.",
+          "translation": "鸟儿拍动着翅膀。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "飘动，轻轻摆动",
+        "english": "To move lightly and quickly, as in the wind."
+      },
+      "examples": [
+        {
+          "sentence": "The curtains fluttered in the breeze.",
+          "translation": "窗帘在微风中轻轻飘动。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "心跳加快；心里一颤",
+        "english": "To beat rapidly or irregularly, often due to excitement or nervousness."
+      },
+      "examples": [
+        {
+          "sentence": "Her heart fluttered when she saw him.",
+          "translation": "看到他时，她心里一颤。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "悸动；小骚动；拍动",
+        "english": "A quick, light movement or feeling."
+      },
+      "examples": [
+        {
+          "sentence": "She felt a flutter of excitement.",
+          "translation": "她感到一阵兴奋的悸动。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "flap",
+      "type": "verb",
+      "definition": {
+        "chinese": "拍打（力度更大）",
+        "english": "To move something up and down strongly."
+      },
+      "examples": [
+        {
+          "sentence": "The bird flapped its wings.",
+          "translation": "那只鸟用力拍动着翅膀。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "动作轻盈",
+      "explanation": "flutter 强调轻、快、柔，与 flap 的力度不同。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "核心动作是“快速轻动”，自然延伸到翅膀、布帘、心跳等所有具有相似特征的事物。",
+    "explanation_english": "Core sense is “quick, light movement,” which extends metaphorically to wings, fabric, and heartbeat."
+  },
+  "variation_between_british_american": {
+    "british": "有俚语义（a flutter = 小赌一下）。",
+    "american": "更常指动作或心跳。"
+  }
+},
+{
+  "word": "inward eye",
+  "pronunciation": {
+    "british": "/ˈɪn.wəd aɪ/ 🇬🇧",
+    "american": "/ˈɪn.wɚd aɪ/ 🇺🇸"
+  },
+  "phrase_type": "noun phrase（名词短语）",
+  "usage": "多用于文学中，尤其是诗歌，指内心的视觉、心灵之眼、想象力。",
+  "meanings": [
+    {
+      "type": "noun phrase",
+      "definition": {
+        "chinese": "内心之眼；心灵的视觉；想象中的画面",
+        "english": "The mind’s eye; the inner vision or imagination that recalls or creates images."
+      },
+      "examples": [
+        {
+          "sentence": "The memory appeared vividly in her inward eye.",
+          "translation": "那段记忆在她的心灵之眼中栩栩如生地浮现。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "mind’s eye",
+      "type": "noun phrase",
+      "definition": {
+        "chinese": "心眼；脑海中的画面",
+        "english": "The ability to visualize things in the mind."
+      },
+      "examples": [
+        {
+          "sentence": "He pictured the scene in his mind’s eye.",
+          "translation": "他在脑海中描绘着那个场景。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "文学色彩强",
+      "explanation": "最著名用法来自 Wordsworth 的诗歌。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "短语无明显多义，由 inward（内在的）+ eye（眼睛）构成，象征想象力。",
+    "explanation_english": "Not a polysemous term; metaphorical combination of inward + eye to refer to inner vision."
+  },
+  "variation_between_british_american": {
+    "british": "文学中更常引用。",
+    "american": "基本理解一致，但使用频率更低。"
+  }
+},
+{
+  "word": "vacant",
+  "pronunciation": {
+    "british": "/ˈveɪ.kənt/ 🇬🇧",
+    "american": "/ˈveɪ.kənt/ 🇺🇸"
+  },
+  "phrase_type": "adjective 多义词",
+  "usage": "常用，既可以指“空的、无人使用”，也可形容人表情‘呆滞、空洞’。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "空的，无人使用的",
+        "english": "Not occupied; empty."
+      },
+      "examples": [
+        {
+          "sentence": "There is a vacant room upstairs.",
+          "translation": "楼上有一个空房间。"
+        }
+      ]
+    },
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "空洞的，茫然的（表情）",
+        "english": "Showing no intelligence or interest; blank."
+      },
+      "examples": [
+        {
+          "sentence": "He gave me a vacant stare.",
+          "translation": "他茫然地看着我。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "empty",
+      "type": "adjective",
+      "definition": {
+        "chinese": "空的",
+        "english": "Containing nothing."
+      },
+      "examples": [
+        {
+          "sentence": "The box is empty.",
+          "translation": "盒子是空的。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "比 empty 多了一些“供使用”的语感",
+      "explanation": "vacant 常用于职位、房间等。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "最初表示‘空的’，后来自然延伸为‘思想空白’、‘表情空洞’。",
+    "explanation_english": "Originally meant ‘empty’; metaphorically extended to describe an empty or blank expression."
+  },
+  "variation_between_british_american": {
+    "british": "常用于房产、厕所指示等（Vacant/Engaged）。",
+    "american": "也常用，但在公共场合看到的标识更多是 Vacant/Occupied。"
+  }
+},
+{
+  "word": "pensive mood",
+  "pronunciation": {
+    "british": "/ˈpen.sɪv muːd/ 🇬🇧",
+    "american": "/ˈpen.sɪv muːd/ 🇺🇸"
+  },
+  "phrase_type": "noun phrase",
+  "usage": "多用于文学与正式表达，指一种‘沉思、忧思’的心情。",
+  "meanings": [
+    {
+      "type": "noun phrase",
+      "definition": {
+        "chinese": "沉思的情绪；若有所思的心境",
+        "english": "A state of deep or serious thought."
+      },
+      "examples": [
+        {
+          "sentence": "She sat by the window in a pensive mood.",
+          "translation": "她坐在窗边，陷入沉思。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "thoughtful",
+      "type": "adjective",
+      "definition": {
+        "chinese": "沉思的；深思的",
+        "english": "Absorbed in thought."
+      },
+      "examples": [
+        {
+          "sentence": "He looked thoughtful for a moment.",
+          "translation": "他沉思了片刻。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "带轻微忧郁色彩",
+      "explanation": "pensive 常含一点柔和的 sadness 或 quietness。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "pensive 来自‘思考’，无明显多义。",
+    "explanation_english": "Not polysemous; comes from Latin meaning ‘to think, consider’."
+  },
+  "variation_between_british_american": {
+    "british": "文学中略更常见。",
+    "american": "用法一致，但频率略低。"
+  }
+},
+{
+  "word": "simile",
+  "pronunciation": {
+    "british": "/ˈsɪm.ɪ.li/ 🇬🇧",
+    "american": "/ˈsɪm.ə.li/ 🇺🇸"
+  },
+  "phrase_type": "noun",
+  "usage": "文学术语，指比喻（使用 like 或 as), 与 metaphor 区分。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "明喻，比喻（使用 like 或 as）",
+        "english": "A figure of speech comparing two things using ‘like’ or ‘as’."
+      },
+      "examples": [
+        {
+          "sentence": "She is as brave as a lion — a classic simile.",
+          "translation": "她像狮子一样勇敢——典型的明喻。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "metaphor",
+      "type": "noun",
+      "definition": {
+        "chinese": "暗喻；隐喻",
+        "english": "A comparison without using like or as."
+      },
+      "examples": [
+        {
+          "sentence": "Time is a thief.",
+          "translation": "时间是小偷。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "与 metaphor 的关键差异是是否使用 like/as。",
+      "explanation": "simile 明喻，metaphor 隐喻。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "无明显多义，源自拉丁语 similis（相似的）。",
+    "explanation_english": "Not polysemous; from Latin ‘similis’, meaning similar."
+  },
+  "variation_between_british_american": {
+    "british": "教学内容一致。",
+    "american": "在英语写作课中非常常见。"
+  }
+},
+{
+  "word": "bliss",
+  "pronunciation": {
+    "british": "/blɪs/ 🇬🇧",
+    "american": "/blɪs/ 🇺🇸"
+  },
+  "phrase_type": "noun",
+  "usage": "常指极度幸福、纯粹的喜悦，带宗教或诗意意味。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "极乐；至福；非常幸福的状态",
+        "english": "Perfect happiness; pure joy."
+      },
+      "examples": [
+        {
+          "sentence": "They lived in perfect bliss.",
+          "translation": "他们生活在极度幸福中。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "ecstasy",
+      "type": "noun",
+      "definition": {
+        "chinese": "狂喜；极度的欢乐",
+        "english": "Intense joy or delight."
+      },
+      "examples": [
+        {
+          "sentence": "She cried in ecstasy.",
+          "translation": "她欣喜若狂地哭了。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "带有宗教色彩",
+      "explanation": "在基督教中常指‘天国的幸福’。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "无显著多义，源自古英语 blīths（快乐）。",
+    "explanation_english": "Not polysemous; from Old English meaning joy or gladness."
+  },
+  "variation_between_british_american": {
+    "british": "常听到口语表达 ‘blissful holiday’。",
+    "american": "常说 ‘wedded bliss’（婚后幸福）。"
+  }
+},
+{
+  "word": "solitude",
+  "pronunciation": {
+    "british": "/ˈsɒl.ɪ.tjuːd/ 🇬🇧",
+    "american": "/ˈsɑː.lə.tuːd/ 🇺🇸"
+  },
+  "phrase_type": "noun",
+  "usage": "文学与正式用语，强调‘自愿的独处’，不同于 loneliness（寂寞）。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "独处（积极的、宁静的）",
+        "english": "The state of being alone, often peacefully or intentionally."
+      },
+      "examples": [
+        {
+          "sentence": "He enjoyed the peace of solitude.",
+          "translation": "他享受独处的宁静。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "loneliness",
+      "type": "noun",
+      "definition": {
+        "chinese": "孤独（消极）",
+        "english": "A feeling of sadness from being alone."
+      },
+      "examples": [
+        {
+          "sentence": "Loneliness can be difficult to bear.",
+          "translation": "孤独有时难以承受。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "强调宁静与积极感",
+      "explanation": "solitude ≠ loneliness。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "表示“独处”，无明显多义，词源与“孤立”相关。",
+    "explanation_english": "Not polysemous; from Latin solitudo, meaning being alone."
+  },
+  "variation_between_british_american": {
+    "british": "文学作品常出现。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "breeze",
+  "pronunciation": {
+    "british": "/briːz/ 🇬🇧",
+    "american": "/briːz/ 🇺🇸"
+  },
+  "phrase_type": "noun/verb 多义词",
+  "usage": "非常常用。主要指微风，也引申为‘轻松完成的事’（美式）。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "微风，和风",
+        "english": "A gentle wind."
+      },
+      "examples": [
+        {
+          "sentence": "A soft breeze blew across the lake.",
+          "translation": "微风吹过湖面。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "轻而易举的事（美式口语）",
+        "english": "Something very easy to do."
+      },
+      "examples": [
+        {
+          "sentence": "The test was a breeze.",
+          "translation": "这次考试轻松得不得了。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "轻快地走；轻松地做",
+        "english": "To move quickly and lightly; to do something easily."
+      },
+      "examples": [
+        {
+          "sentence": "She breezed into the room.",
+          "translation": "她轻快地走进房间。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "gust",
+      "type": "noun",
+      "definition": {
+        "chinese": "一阵狂风",
+        "english": "A sudden strong wind."
+      },
+      "examples": [
+        {
+          "sentence": "A gust of wind slammed the door shut.",
+          "translation": "一阵狂风把门猛地关上了。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "比 wind 温柔得多",
+      "explanation": "breeze 强调轻柔与愉悦。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "原指‘微风’，后因微风轻松愉悦，引申为‘轻松完成’。",
+    "explanation_english": "Originally meant gentle wind; metaphorically extended to “something easy,” inspired by the lightness of a breeze."
+  },
+  "variation_between_british_american": {
+    "british": "主要用于字面意义‘微风’。",
+    "american": "“easy as a breeze” 的比喻更常用。"
+  }
+},
+{
+  "word": "metaphor",
+  "pronunciation": {
+    "british": "/ˈmet.ə.fɔː/ 🇬🇧",
+    "american": "/ˈmet̬.ə.fɔːr/ 🇺🇸"
+  },
+  "phrase_type": "noun",
+  "usage": "常用文学术语，用于表达比喻，不使用 like 或 as，将一种事物直接比作另一种事物。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "隐喻，暗喻",
+        "english": "A figure of speech in which a thing is described as being another thing, without using ‘like’ or ‘as’."
+      },
+      "examples": [
+        {
+          "sentence": "Time is a thief is a famous metaphor.",
+          "translation": "“时间是小偷”是一个著名的隐喻。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "simile",
+      "type": "noun",
+      "definition": {
+        "chinese": "明喻，比喻（使用 like 或 as）",
+        "english": "A comparison between two things using ‘like’ or ‘as’."
+      },
+      "examples": [
+        {
+          "sentence": "She is as brave as a lion — a classic simile.",
+          "translation": "她像狮子一样勇敢——典型的明喻。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "与 simile 区别",
+      "explanation": "metaphor 不使用 like/as，通常更文学化；simile 用 like/as，口语和文学皆可。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "该词无明显多义，源自希腊语 metaphora（转移、转喻），核心概念是把一个意义转移到另一个事物上。",
+    "explanation_english": "Not polysemous; from Greek ‘metaphora’ meaning transfer or carrying over, referring to transferring meaning from one thing to another."
+  },
+  "variation_between_british_american": {
+    "british": "文学教学中常见用法。",
+    "american": "同样常用，尤其在写作课程和文学分析中。"
+  }
+},
+{
+  "word": "protective",
+  "pronunciation": {
+    "british": "/prəˈtek.tɪv/ 🇬🇧",
+    "american": "/prəˈtek.tɪv/ 🇺🇸"
+  },
+  "phrase_type": "adjective",
+  "usage": "常用，描述人、行为或物品具有保护、防护的特性。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "保护的，防护的",
+        "english": "Intended or suitable for protecting someone or something."
+      },
+      "examples": [
+        {
+          "sentence": "She wore a protective helmet while cycling.",
+          "translation": "她骑车时戴着防护头盔。"
+        }
+      ]
+    },
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "护短的，过度保护的（对人）",
+        "english": "Tending to guard or shield someone excessively, often emotionally."
+      },
+      "examples": [
+        {
+          "sentence": "He is very protective of his younger sister.",
+          "translation": "他对妹妹非常护短。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "defensive",
+      "type": "adjective",
+      "definition": {
+        "chinese": "防御的，戒备的",
+        "english": "Intended to defend or protect."
+      },
+      "examples": [
+        {
+          "sentence": "He became defensive when criticized.",
+          "translation": "他受到批评时变得防御心强。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "语境区分",
+      "explanation": "描述物品通常指物理防护，描述人多指情感上的保护。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "本义是‘保护’，后延伸出对人的情感保护。",
+    "explanation_english": "Originally means ‘providing protection’; extended metaphorically to emotional guarding of people."
+  },
+  "variation_between_british_american": {
+    "british": "用法完全一致。",
+    "american": "用法完全一致。"
+  }
+},
+{
+  "word": "possessive",
+  "pronunciation": {
+    "british": "/pəˈzes.ɪv/ 🇬🇧",
+    "american": "/pəˈzes.ɪv/ 🇺🇸"
+  },
+  "phrase_type": "adjective/noun 多义词",
+  "usage": "常用：可描述语法，也可描述人过分占有、依附的情绪。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "占有的，占有欲强的",
+        "english": "Having or showing a desire to own or control someone or something."
+      },
+      "examples": [
+        {
+          "sentence": "He is very possessive about his car.",
+          "translation": "他对自己的车非常占有欲强。"
+        }
+      ]
+    },
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "所有格的（语法）",
+        "english": "Relating to the form of a noun or pronoun that shows ownership."
+      },
+      "examples": [
+        {
+          "sentence": "‘John’s book’ uses the possessive form.",
+          "translation": "‘John’s book’ 使用了所有格形式。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "所有格（语法术语）",
+        "english": "The grammatical form that shows ownership."
+      },
+      "examples": [
+        {
+          "sentence": "The possessive of ‘he’ is ‘his’.",
+          "translation": "‘he’ 的所有格是 ‘his’。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "ownership",
+      "type": "noun",
+      "definition": {
+        "chinese": "所有权",
+        "english": "The state of owning something."
+      },
+      "examples": [
+        {
+          "sentence": "She has full ownership of the house.",
+          "translation": "她完全拥有这所房子。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "情感 vs 语法区分",
+      "explanation": "描述人时指占有欲，语法中指所有格形式。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "原本表示‘属于’或‘占有’，由此发展出语法意义和心理占有感。",
+    "explanation_english": "Originally meant ‘to have or own’; extended to grammatical sense and emotional possessiveness."
+  },
+  "variation_between_british_american": {
+    "british": "语法和心理用法一致。",
+    "american": "语法和心理用法一致。"
+  }
+},
+{
+  "word": "provisional",
+  "pronunciation": {
+    "british": "/prəˈvɪʒ.ən.əl/ 🇬🇧",
+    "american": "/prəˈvɪʒ.ən.əl/ 🇺🇸"
+  },
+  "phrase_type": "adjective",
+  "usage": "常用，指暂时的、临时的安排或决定。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "临时的，暂时的",
+        "english": "Intended to be temporary or conditional."
+      },
+      "examples": [
+        {
+          "sentence": "The provisional schedule will be confirmed later.",
+          "translation": "临时日程稍后会确认。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "temporary",
+      "type": "adjective",
+      "definition": {
+        "chinese": "短期的，暂时的",
+        "english": "Lasting for only a limited period."
+      },
+      "examples": [
+        {
+          "sentence": "She found a temporary job for the summer.",
+          "translation": "她找了一个暑期临时工作。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "正式书面用语",
+      "explanation": "多用于合同、安排或官方文件中。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "单义词，来自拉丁语 provisio（提供、预备）。",
+    "explanation_english": "Single-meaning adjective; from Latin ‘provisio’ meaning preparation or provision."
+  },
+  "variation_between_british_american": {
+    "british": "常用于官方、法律或行政文件。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "drive up",
+  "pronunciation": {
+    "british": "/draɪv ʌp/ 🇬🇧",
+    "american": "/draɪv ʌp/ 🇺🇸"
+  },
+  "phrase_type": "phrasal verb",
+  "usage": "常用短语动词，可指开车到某处或使某物上升（价格、水平等）。",
+  "meanings": [
+    {
+      "type": "phrasal verb",
+      "definition": {
+        "chinese": "开车驶近某地",
+        "english": "To arrive somewhere in a vehicle."
+      },
+      "examples": [
+        {
+          "sentence": "They drove up to the house in the evening.",
+          "translation": "他们晚上开车来到房子前。"
+        }
+      ]
+    },
+    {
+      "type": "phrasal verb",
+      "definition": {
+        "chinese": "抬高，使上升（价格、数量）",
+        "english": "To increase something, such as price or level."
+      },
+      "examples": [
+        {
+          "sentence": "High demand drove up the prices.",
+          "translation": "高需求使价格上涨。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "pull up",
+      "type": "phrasal verb",
+      "definition": {
+        "chinese": "开车停下",
+        "english": "To stop a vehicle."
+      },
+      "examples": [
+        {
+          "sentence": "He pulled up outside the shop.",
+          "translation": "他在商店外停下车。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "上下文决定含义",
+      "explanation": "drive up 可指动作或抽象增加，需结合语境。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "短语动词本义‘向上开’，引申出‘提高’的抽象意义。",
+    "explanation_english": "Originally means ‘drive upward’; metaphorically extended to raising prices or levels."
+  },
+  "variation_between_british_american": {
+    "british": "常用，含义一致。",
+    "american": "同样使用，尤其在商业或交通场景。"
+  }
+},
+{
+  "word": "It happened to be",
+  "pronunciation": {
+    "british": "/ɪt ˈhæp.ənd tuː bi/ 🇬🇧",
+    "american": "/ɪt ˈhæp.ənd tuː bi/ 🇺🇸"
+  },
+  "phrase_type": "fixed expression",
+  "usage": "口语或书面中常用，表示‘碰巧是……’，引出意外或偶然的事实。",
+  "meanings": [
+    {
+      "type": "phrase",
+      "definition": {
+        "chinese": "碰巧是……",
+        "english": "By chance or coincidence, it was the case that..."
+      },
+      "examples": [
+        {
+          "sentence": "It happened to be raining when we arrived.",
+          "translation": "我们到的时候碰巧下雨了。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "by chance",
+      "type": "phrase",
+      "definition": {
+        "chinese": "偶然，碰巧",
+        "english": "Without planning; accidentally."
+      },
+      "examples": [
+        {
+          "sentence": "We met by chance at the café.",
+          "translation": "我们在咖啡馆偶然遇见。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "语气偏书面或叙事口语",
+      "explanation": "强调偶然性，比 simply ‘was’ 更生动。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "固定短语，无多义。",
+    "explanation_english": "Fixed expression; not polysemous."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致，书面语稍多。",
+    "american": "日常口语和书面语均可使用。"
+  }
+},
+{
+  "word": "behind the wheel",
+  "pronunciation": {
+    "british": "/bɪˈhaɪnd ðə wiːl/ 🇬🇧",
+    "american": "/bɪˈhaɪnd ðə wil/ 🇺🇸"
+  },
+  "phrase_type": "idiom",
+  "usage": "常用短语，表示‘开车’，也可引申为掌控局面。",
+  "meanings": [
+    {
+      "type": "idiom",
+      "definition": {
+        "chinese": "开车，驾驶",
+        "english": "To be driving a car."
+      },
+      "examples": [
+        {
+          "sentence": "She has been behind the wheel for ten years.",
+          "translation": "她已经开车十年了。"
+        }
+      ]
+    },
+    {
+      "type": "idiom",
+      "definition": {
+        "chinese": "掌控，主导",
+        "english": "To be in control of a situation."
+      },
+      "examples": [
+        {
+          "sentence": "He is behind the wheel of the company’s strategy.",
+          "translation": "他掌控着公司的战略。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "driving",
+      "type": "noun/verb",
+      "definition": {
+        "chinese": "驾驶；驱动",
+        "english": "The act of operating a vehicle or propelling something forward."
+      },
+      "examples": [
+        {
+          "sentence": "He enjoys driving on long trips.",
+          "translation": "他喜欢长途开车。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "比 literal driving 更有习语色彩",
+      "explanation": "可用于引申意义，如掌控局面。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "字面是‘在方向盘后’，引申为‘掌控局面’。",
+    "explanation_english": "Literally means ‘sitting at the steering wheel’, metaphorically extended to controlling a situation."
+  },
+  "variation_between_british_american": {
+    "british": "常用于口语或新闻报道。",
+    "american": "日常口语和文学表达均可。"
+  }
+},
+{
+  "word": "get on",
+  "pronunciation": {
+    "british": "/ɡet ɒn/ 🇬🇧",
+    "american": "/ɡet ɑːn/ 🇺🇸"
+  },
+  "phrase_type": "phrasal verb 多义词",
+  "usage": "常用短语动词，有多种意思，需要结合上下文。",
+  "meanings": [
+    {
+      "type": "phrasal verb",
+      "definition": {
+        "chinese": "上车、上船、上飞机等",
+        "english": "To board a vehicle."
+      },
+      "examples": [
+        {
+          "sentence": "We got on the bus at the next stop.",
+          "translation": "我们在下一站上了公交车。"
+        }
+      ]
+    },
+    {
+      "type": "phrasal verb",
+      "definition": {
+        "chinese": "进展，继续进行",
+        "english": "To make progress or continue with something."
+      },
+      "examples": [
+        {
+          "sentence": "How are you getting on with your homework?",
+          "translation": "你的作业做得怎么样了？"
+        }
+      ]
+    },
+    {
+      "type": "phrasal verb",
+      "definition": {
+        "chinese": "相处融洽",
+        "english": "To have a good relationship with someone."
+      },
+      "examples": [
+        {
+          "sentence": "She gets on well with her colleagues.",
+          "translation": "她与同事相处得很好。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "board",
+      "type": "verb",
+      "definition": {
+        "chinese": "登上（交通工具）",
+        "english": "To get onto a ship, plane, or bus."
+      },
+      "examples": [
+        {
+          "sentence": "Passengers boarded the train.",
+          "translation": "乘客登上了火车。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "多义，根据语境理解",
+      "explanation": "交通工具、进展、关系等含义均有。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "原意是‘登上’，引申为‘进展’和‘相处’。",
+    "explanation_english": "Originally meant ‘to get onto’, extended metaphorically to progress and interpersonal relations."
+  },
+  "variation_between_british_american": {
+    "british": "常用于口语，多义使用频繁。",
+    "american": "含义一致，但‘相处’用法略少见。"
+  }
+},
+{
+  "word": "left-hand bend",
+  "pronunciation": {
+    "british": "/left hænd bend/ 🇬🇧",
+    "american": "/left hænd bend/ 🇺🇸"
+  },
+  "phrase_type": "noun phrase",
+  "usage": "常用于驾驶和交通指示，指左转弯的弯道。",
+  "meanings": [
+    {
+      "type": "noun phrase",
+      "definition": {
+        "chinese": "左转弯，向左弯的道路",
+        "english": "A curve or bend in the road turning to the left."
+      },
+      "examples": [
+        {
+          "sentence": "Reduce speed before the left-hand bend.",
+          "translation": "在左转弯前减速。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "right-hand bend",
+      "type": "noun phrase",
+      "definition": {
+        "chinese": "右转弯",
+        "english": "A curve or bend in the road turning to the right."
+      },
+      "examples": [
+        {
+          "sentence": "Be careful on the right-hand bend.",
+          "translation": "右转弯要小心。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "交通用语",
+      "explanation": "通常出现在驾驶手册或路标说明中。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "单义词，字面指左手方向的弯。",
+    "explanation_english": "Single-meaning; literally refers to a bend to the left."
+  },
+  "variation_between_british_american": {
+    "british": "左侧驾驶国家常见路标术语。",
+    "american": "用法相同，但通常右侧驾驶为常规。"
+  }
+},
+{
+  "word": "trauma",
+  "pronunciation": {
+    "british": "/ˈtrɔː.mə/ 🇬🇧",
+    "american": "/ˈtrɑː.mə/ 🇺🇸"
+  },
+  "phrase_type": "noun 多义词",
+  "usage": "非常常用，可指心理创伤或身体外伤。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "身体创伤",
+        "english": "A physical injury or wound."
+      },
+      "examples": [
+        {
+          "sentence": "He suffered a severe trauma in the accident.",
+          "translation": "他在事故中受了重伤。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "心理创伤",
+        "english": "A deeply distressing or disturbing experience affecting the mind."
+      },
+      "examples": [
+        {
+          "sentence": "The loss of his friend caused him emotional trauma.",
+          "translation": "朋友的去世给他带来了心理创伤。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "injury",
+      "type": "noun",
+      "definition": {
+        "chinese": "受伤",
+        "english": "Physical harm or damage."
+      },
+      "examples": [
+        {
+          "sentence": "He recovered quickly from his injury.",
+          "translation": "他很快从伤病中恢复了。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "身体 vs 心理",
+      "explanation": "需根据上下文判断 trauma 是身体创伤还是心理创伤。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "原指物理伤害，后引申到心理创伤。",
+    "explanation_english": "Originally meant physical injury; extended metaphorically to mental or emotional injury."
+  },
+  "variation_between_british_american": {
+    "british": "使用相同。",
+    "american": "同样使用，相较美国更强调心理创伤的讨论。"
+  }
+},
+{
+  "word": "aquaplaned",
+  "pronunciation": {
+    "british": "/ˈæ.kwə.pleɪnd/ 🇬🇧",
+    "american": "/ˈæ.kwə.pleɪnd/ 🇺🇸"
+  },
+  "phrase_type": "verb (past tense)",
+  "usage": "驾驶用语，指车辆在湿滑路面打滑，失去抓地力。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "打水漂，车辆在湿路上失控打滑",
+        "english": "When a vehicle slides uncontrollably on a wet surface due to water between tires and road."
+      },
+      "examples": [
+        {
+          "sentence": "The car aquaplaned on the wet road and nearly crashed.",
+          "translation": "汽车在湿路上打滑，差点撞车。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "skid",
+      "type": "verb",
+      "definition": {
+        "chinese": "打滑",
+        "english": "To slide uncontrollably on a surface."
+      },
+      "examples": [
+        {
+          "sentence": "The truck skidded on the ice.",
+          "translation": "卡车在冰面上打滑。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "驾驶安全用语",
+      "explanation": "主要用于汽车驾驶描述，强调因水打滑。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "单义，源自 aqua（水）+ plane（滑行）。",
+    "explanation_english": "Single-meaning; from aqua (water) + plane (slide), describing hydroplaning."
+  },
+  "variation_between_british_american": {
+    "british": "常用于交通报道和驾驶说明。",
+    "american": "同样使用，常称 hydroplane。"
+  }
+},
 ]
 
 
