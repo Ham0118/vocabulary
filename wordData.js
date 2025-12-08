@@ -51003,6 +51003,1734 @@ const wordData = [
       "british": "用法一致。",
       "american": "用法一致。"
     }
+  },
+  {
+    "word": "grieve",
+    "pronunciation": {
+      "british": "/ɡriːv/ 🇬🇧",
+      "american": "/ɡriːv/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "用于描述因失去某人或某物而感到悲痛。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "悲痛，哀悼",
+          "english": "To feel deep sorrow, especially for someone who has died."
+        },
+        "examples": [
+          {
+            "sentence": "She grieved for her lost friend.",
+            "translation": "她为失去的朋友感到悲痛。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "mourn",
+        "definition": {
+          "chinese": "哀悼",
+          "english": "To express sorrow or grief, especially for a death."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古英语 'griefan' = 感到痛苦 → 仅有悲痛意义。",
+      "explanation_english": "From Old English 'griefan' meaning to feel pain; primary meaning = sorrow."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "reel",
+    "pronunciation": {
+      "british": "/riːl/ 🇬🇧",
+      "american": "/riːl/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb 多义词",
+    "usage": "可指卷轴、旋转舞蹈，也可作动词表示眩晕或踉跄。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "卷轴",
+          "english": "A cylinder on which film, wire, thread, or other flexible materials can be wound."
+        },
+        "examples": [
+          {
+            "sentence": "The fishing line was on a reel.",
+            "translation": "钓鱼线缠在卷轴上。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "旋转舞蹈",
+          "english": "A lively dance of Scottish or Irish origin."
+        },
+        "examples": [
+          {
+            "sentence": "They performed a traditional reel at the festival.",
+            "translation": "他们在节日上表演了传统的旋转舞。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "眩晕，踉跄",
+          "english": "To stagger, sway, or feel dizzy."
+        },
+        "examples": [
+          {
+            "sentence": "He reeled from the shock.",
+            "translation": "他因震惊而踉跄。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "需结合上下文",
+        "explanation": "reel 作动词与名词含义差异较大。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意卷轴 → 引申出旋转、眩晕和舞蹈等概念。",
+      "explanation_english": "Originally a reel (cylinder), extended metaphorically to spinning, dizziness, and dance."
+    },
+    "variation_between_british_american": {
+      "british": "舞蹈含义更常见。",
+      "american": "卷轴和眩晕含义更常见。"
+    }
+  },
+  {
+    "word": "fairyland",
+    "pronunciation": {
+      "british": "/ˈfeəri.lænd/ 🇬🇧",
+      "american": "/ˈfɛri.lænd/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "指童话世界或幻想中的美丽地方。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "仙境，童话世界",
+          "english": "A magical or enchanted place, like in fairy tales."
+        },
+        "examples": [
+          {
+            "sentence": "The garden looked like a fairyland.",
+            "translation": "那个花园看起来像仙境。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "enchanted land",
+        "definition": {
+          "chinese": "魔法世界",
+          "english": "A place under a magical spell."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "fairy + land → 原义为仙女的世界 → 扩展为任何美丽奇幻的地方。",
+      "explanation_english": "Fairy + land = realm of fairies; metaphorically extended to magical places."
+    },
+    "variation_between_british_american": {
+      "british": "常用于文学和童话。",
+      "american": "同。"
+    }
+  },
+  {
+    "word": "crepe",
+    "pronunciation": {
+      "british": "/kreɪp/ 🇬🇧",
+      "american": "/krɛp/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "可指薄煎饼，也可指皱纹状纺织品。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "薄煎饼",
+          "english": "A very thin pancake, typically rolled or folded with filling."
+        },
+        "examples": [
+          {
+            "sentence": "I had chocolate crepes for breakfast.",
+            "translation": "我早餐吃了巧克力薄煎饼。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "绉纱，皱纹状织物",
+          "english": "A fabric with a crinkled or wrinkled texture."
+        },
+        "examples": [
+          {
+            "sentence": "Her dress was made of black crepe.",
+            "translation": "她的裙子是黑色绉纱制成的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "食品 vs 纺织品",
+        "explanation": "读音略有不同，需根据上下文判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语 'crêpe' → 食物和织物同源于“薄/褶”。",
+      "explanation_english": "From French 'crêpe'; both meanings share notion of thinness or crinkling."
+    },
+    "variation_between_british_american": {
+      "british": "食品和织物都常用。",
+      "american": "食品更常见，织物多用于正式场合。"
+    }
+  },
+  {
+    "word": "copper",
+    "pronunciation": {
+      "british": "/ˈkɒp.ər/ 🇬🇧",
+      "american": "/ˈkɑː.pɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun / adjective 多义词",
+    "usage": "指金属铜，也作形容词描述铜制的，俚语可指警察。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "铜（金属）",
+          "english": "A reddish-brown metal used in wires, coins, and pipes."
+        },
+        "examples": [
+          {
+            "sentence": "The roof was made of copper.",
+            "translation": "屋顶是铜制的。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "铜制的",
+          "english": "Made of copper."
+        },
+        "examples": [
+          {
+            "sentence": "He wore a copper bracelet.",
+            "translation": "他戴了一条铜手镯。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "警察（俚语）",
+          "english": "Informal term for a police officer."
+        },
+        "examples": [
+          {
+            "sentence": "The coppers caught the thief.",
+            "translation": "警察抓住了小偷。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "俚语用法",
+        "explanation": "‘copper’作警察是英式俚语，美国也能理解但较少用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意金属 → 铜制品 → 警察制服多为铜扣 → 引申为警察。",
+      "explanation_english": "Originally metal → copper items → police uniform often had copper buttons → slang for police."
+    },
+    "variation_between_british_american": {
+      "british": "俚语警察用得更多。",
+      "american": "主要指金属或铜色，俚语较少。"
+    }
+  },
+  {
+    "word": "slip lane",
+    "pronunciation": {
+      "british": "/ˈslɪp leɪn/ 🇬🇧",
+      "american": "/ˈslɪp leɪn/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "道路术语，表示车辆从主路驶出或进入的车道。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "匝道；驶入/驶出车道",
+          "english": "A short lane allowing vehicles to leave or join a main road."
+        },
+        "examples": [
+          {
+            "sentence": "Take the slip lane to exit the highway.",
+            "translation": "从匝道驶出高速公路。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "exit ramp",
+        "definition": {
+          "chinese": "高速公路出口匝道",
+          "english": "A ramp for leaving a highway."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "英式道路用语",
+        "explanation": "英国常用 slip lane，美国通常称 exit or entrance lane。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "slip = 滑 → 车辆滑出/滑入主路 → slip lane。",
+      "explanation_english": "From 'slip' meaning move smoothly; lane that lets vehicles slip off/on main road."
+    },
+    "variation_between_british_american": {
+      "british": "常用 slip lane。",
+      "american": "一般说 exit lane 或 entrance lane。"
+    }
+  },
+  {
+    "word": "walk out",
+    "pronunciation": {
+      "british": "/wɔːk aʊt/ 🇬🇧",
+      "american": "/wɔːk aʊt/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "可指离开（尤其突然离开）或罢工。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "突然离开，退出",
+          "english": "To leave a place abruptly or in protest."
+        },
+        "examples": [
+          {
+            "sentence": "He walked out during the meeting.",
+            "translation": "他在会议中突然离开。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "罢工",
+          "english": "To stop working as a form of protest."
+        },
+        "examples": [
+          {
+            "sentence": "The workers walked out for better pay.",
+            "translation": "工人罢工要求更高工资。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "strike",
+        "definition": {
+          "chinese": "罢工",
+          "english": "Work stoppage to demand better conditions or pay."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "动词短语",
+        "explanation": "需结合上下文判断是‘离开’还是‘罢工’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意 ‘走出去’ → 延伸为突然离开或罢工。",
+      "explanation_english": "Originally 'walk out' = leave; extended metaphorically to strike/protest."
+    },
+    "variation_between_british_american": {
+      "british": "walk out 可指罢工，也常用离开场景。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "precincts",
+    "pronunciation": {
+      "british": "/ˈpriː.sɪŋkts/ 🇬🇧",
+      "american": "/ˈpriː.sɪŋkts/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "主要指行政区、警区或围栏区域。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（行政或警察）辖区",
+          "english": "An area within the boundary of a city or police jurisdiction."
+        },
+        "examples": [
+          {
+            "sentence": "The suspect was last seen in the precincts of the station.",
+            "translation": "嫌疑人最后一次被看到在警局辖区内。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "围起来的区域",
+          "english": "An enclosed area around a building or complex."
+        },
+        "examples": [
+          {
+            "sentence": "No unauthorized persons are allowed in the precincts.",
+            "translation": "未经授权的人不得进入该区域。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "district",
+        "definition": {
+          "chinese": "区，行政区",
+          "english": "A defined area within a city or region."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 'praecinctum' = 围栏 → 引申为辖区和区域。",
+      "explanation_english": "From Latin 'praecinctum' meaning enclosure; extended to district or precinct area."
+    },
+    "variation_between_british_american": {
+      "british": "常指选区或警区。",
+      "american": "多指警察辖区或市区。"
+    }
+  },
+  {
+    "word": "hedges",
+    "pronunciation": {
+      "british": "/hedʒɪz/ 🇬🇧",
+      "american": "/hedʒɪz/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb 多义词",
+    "usage": "可指灌木篱笆，也可作动词表示避免直接回答或防范风险。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "树篱，篱笆",
+          "english": "A fence or boundary formed by closely growing bushes or shrubs."
+        },
+        "examples": [
+          {
+            "sentence": "The garden was surrounded by tall hedges.",
+            "translation": "花园被高大的树篱围住。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "规避，回避（问题或风险）",
+          "english": "To avoid giving a direct answer or to protect against risk."
+        },
+        "examples": [
+          {
+            "sentence": "He hedged when asked about his plans.",
+            "translation": "有人问及他的计划时，他含糊其辞。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "shrub",
+        "definition": {
+          "chinese": "灌木",
+          "english": "A woody plant smaller than a tree."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "名词 vs 动词",
+        "explanation": "动词用法多出现在金融或谈话中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "hedge 原意灌木篱 → 延伸为防护、回避。",
+      "explanation_english": "Originally a fence of shrubs; extended metaphorically to protection or evasion."
+    },
+    "variation_between_british_american": {
+      "british": "动词用法常见于政治和金融。",
+      "american": "动词用法同样使用。"
+    }
+  },
+  {
+    "word": "dismount",
+    "pronunciation": {
+      "british": "/dɪsˈmaʊnt/ 🇬🇧",
+      "american": "/dɪsˈmaʊnt/ 🇺🇸"
+    },
+    "phrase_type": "verb / noun 多义词",
+    "usage": "可作动词表示下马、下车，也可作名词表示下马动作。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "下马/下车",
+          "english": "To get off a horse, bicycle, or vehicle."
+        },
+        "examples": [
+          {
+            "sentence": "He dismounted from his horse carefully.",
+            "translation": "他小心地从马上下来。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "下马动作",
+          "english": "The act of getting down from a horse, bicycle, or vehicle."
+        },
+        "examples": [
+          {
+            "sentence": "The rider performed a smooth dismount.",
+            "translation": "骑手做了一个平稳的下马动作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "mount",
+        "definition": {
+          "chinese": "上马/骑上",
+          "english": "To get on a horse or vehicle."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "mount = 上马 → dismount = 下马 → 引申为动作名词。",
+      "explanation_english": "From 'mount' (to get on), 'dismount' = to get off; noun form = action itself."
+    },
+    "variation_between_british_american": {
+      "british": "常用于骑马或自行车语境。",
+      "american": "同。"
+    }
+  },
+  {
+    "word": "startle",
+    "pronunciation": {
+      "british": "/ˈstɑː.təl/ 🇬🇧",
+      "american": "/ˈstɑːr.təl/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "指突然惊吓，使人受惊。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使吃惊，惊吓",
+          "english": "To cause a sudden shock or surprise."
+        },
+        "examples": [
+          {
+            "sentence": "The loud noise startled her.",
+            "translation": "巨大的响声把她吓了一跳。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "surprise",
+        "definition": {
+          "chinese": "惊讶，意外",
+          "english": "To affect with sudden wonder or astonishment."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意为突然惊吓 → 用法单一。",
+      "explanation_english": "Originally meaning to shock or alarm; single primary sense."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "lane filtering",
+    "pronunciation": {
+      "british": "/leɪn ˈfɪl.tər.ɪŋ/ 🇬🇧",
+      "american": "/leɪn ˈfɪl.tɚ.ɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "交通术语，指摩托车或自行车在车辆之间穿行。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "车道穿行",
+          "english": "The practice of riding a motorcycle or bicycle between lanes of slow-moving or stopped traffic."
+        },
+        "examples": [
+          {
+            "sentence": "Lane filtering is legal for motorcycles in some countries.",
+            "translation": "在一些国家，摩托车合法穿行车道。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "splitting lanes",
+        "definition": {
+          "chinese": "分车道行驶",
+          "english": "Another term for lane filtering."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "交通法规相关",
+        "explanation": "不同国家规定不同，注意安全。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "lane + filtering → 按字面理解为“在车道间筛选” → 引申为穿行。",
+      "explanation_english": "Lane + filtering = moving through lanes; literal → traffic practice."
+    },
+    "variation_between_british_american": {
+      "british": "常用 lane filtering。",
+      "american": "常用 lane splitting。"
+    }
+  },
+  {
+    "word": "edge filtering",
+    "pronunciation": {
+      "british": "/edʒ ˈfɪl.tər.ɪŋ/ 🇬🇧",
+      "american": "/edʒ ˈfɪl.tɚ.ɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "交通术语，指在车道边缘小心行驶以穿行车流。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "车道边缘穿行",
+          "english": "The act of riding or moving along the edge of lanes to filter through traffic safely."
+        },
+        "examples": [
+          {
+            "sentence": "Edge filtering requires careful attention to surrounding vehicles.",
+            "translation": "车道边缘穿行需要小心注意周围车辆。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "lane filtering",
+        "definition": {
+          "chinese": "车道穿行",
+          "english": "Riding or driving between lanes of slow-moving or stopped traffic."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "术语专用",
+        "explanation": "通常出现在摩托车或自行车交通规则中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "edge = 边缘 + filtering = 穿行 → 组合形成专用交通术语。",
+      "explanation_english": "Edge + filtering = moving along lane edges; coined as traffic term."
+    },
+    "variation_between_british_american": {
+      "british": "可理解为摩托车术语。",
+      "american": "不常用，通常称 lane splitting。"
+    }
+  },
+  {
+    "word": "courteous",
+    "pronunciation": {
+      "british": "/ˈkɜː.ti.əs/ 🇬🇧",
+      "american": "/ˈkɝː.ti.əs/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "指行为礼貌、尊重他人。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "有礼貌的，谦恭的",
+          "english": "Polite, respectful, or considerate in manner."
+        },
+        "examples": [
+          {
+            "sentence": "She was courteous to everyone she met.",
+            "translation": "她对遇到的每个人都很有礼貌。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "polite",
+        "definition": {
+          "chinese": "有礼貌的",
+          "english": "Showing good manners toward others."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "courtesy = 礼貌 → courteous = 有礼貌的 → 含义单一。",
+      "explanation_english": "From 'courtesy' = polite behavior; single primary sense."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "tailgate",
+    "pronunciation": {
+      "british": "/ˈteɪl.ɡeɪt/ 🇬🇧",
+      "american": "/ˈteɪl.ɡeɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb 多义词",
+    "usage": "可指汽车紧跟前车，也可指后车门，另有派对用法。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "紧跟前车",
+          "english": "To drive too closely behind another vehicle."
+        },
+        "examples": [
+          {
+            "sentence": "Don't tailgate the car in front of you.",
+            "translation": "不要紧跟前面的车太近。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "后车门 / 车尾派对",
+          "english": "The back door of a vehicle; or a social event at the back of a car."
+        },
+        "examples": [
+          {
+            "sentence": "We had a tailgate party before the game.",
+            "translation": "比赛前我们在车尾举行了派对。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "需结合上下文",
+        "explanation": "动词表示危险驾驶，名词表示车尾或派对。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "tail = 尾部 + gate = 门 → 动词从车尾紧跟 → 名词衍生派对。",
+      "explanation_english": "Tail + gate = back of vehicle; verb = follow closely; noun = party at vehicle's tail."
+    },
+    "variation_between_british_american": {
+      "british": "多指车尾或紧跟车辆。",
+      "american": "也可指尾部派对。"
+    }
+  },
+  {
+    "word": "in time",
+    "pronunciation": {
+      "british": "/ɪn taɪm/ 🇬🇧",
+      "american": "/ɪn taɪm/ 🇺🇸"
+    },
+    "phrase_type": "phrase",
+    "usage": "可表示准时或最终发生，需根据上下文区分。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "及时，准时",
+          "english": "At the correct or expected time; not late."
+        },
+        "examples": [
+          {
+            "sentence": "We arrived in time for the movie.",
+            "translation": "我们准时赶上了电影。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "最终，随着时间推移",
+          "english": "Eventually; after a period of time."
+        },
+        "examples": [
+          {
+            "sentence": "In time, she learned to trust him.",
+            "translation": "最终，她学会了信任他。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "on time",
+        "definition": {
+          "chinese": "准时",
+          "english": "Exactly at the scheduled or expected time."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "需上下文判断含义",
+        "explanation": "in time 强调“在某时间之前”，也可表示“随着时间发展”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意“在时间里” → 引申为及时和最终发生两种用法。",
+      "explanation_english": "Originally 'within time'; extended metaphorically to timely and eventual meanings."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "curb",
+    "pronunciation": {
+      "british": "/kɜːb/ 🇬🇧",
+      "american": "/kɝːb/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb 多义词",
+    "usage": "可指路缘，也可作动词表示控制、限制。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "路缘，马路牙子",
+          "english": "The edge of a raised path or road, usually made of stone or concrete."
+        },
+        "examples": [
+          {
+            "sentence": "Park your car close to the curb.",
+            "translation": "把车停靠近路缘。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "控制，限制",
+          "english": "To restrain or keep in check."
+        },
+        "examples": [
+          {
+            "sentence": "He tried to curb his anger.",
+            "translation": "他试图控制自己的愤怒。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "restrain",
+        "definition": {
+          "chinese": "抑制，约束",
+          "english": "To hold back or control."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "名词 vs 动词",
+        "explanation": "名词指道路边缘，动词强调抑制或限制。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意指路缘 → 引申为控制、约束。",
+      "explanation_english": "Originally the edge of the road; metaphorically extended to restrain or check."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "cross hatching",
+    "pronunciation": {
+      "british": "/krɒs ˈhætʃ.ɪŋ/ 🇬🇧",
+      "american": "/krɔːs ˈhætʃ.ɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "绘画或设计术语，用于表现阴影或纹理。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "交叉阴影线",
+          "english": "A drawing technique using intersecting sets of parallel lines to create shading or texture."
+        },
+        "examples": [
+          {
+            "sentence": "The artist used cross hatching to shade the portrait.",
+            "translation": "画家用交叉阴影线为肖像添加阴影。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hatching",
+        "definition": {
+          "chinese": "阴影线",
+          "english": "Parallel lines used to create shading in drawing."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "hatch = 划线 → cross hatching = 交叉划线 → 用于绘画技术。",
+      "explanation_english": "Hatch = make lines; cross hatching = intersecting lines for shading."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "sanctions",
+    "pronunciation": {
+      "british": "/ˈsæŋk.ʃənz/ 🇬🇧",
+      "american": "/ˈsæŋk.ʃənz/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "可指惩罚措施，也可指批准或认可（古义）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "制裁，处罚措施",
+          "english": "Measures taken by authorities to enforce laws or punish wrongdoing, often economic."
+        },
+        "examples": [
+          {
+            "sentence": "The country faced international sanctions.",
+            "translation": "该国面临国际制裁。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "批准，认可（旧用法）",
+          "english": "Official approval or permission."
+        },
+        "examples": [
+          {
+            "sentence": "The plan received the sanction of the committee.",
+            "translation": "该计划获得委员会的批准。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "penalties",
+        "definition": {
+          "chinese": "处罚",
+          "english": "Punishments for breaking rules or laws."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "现代常指制裁",
+        "explanation": "古义‘批准’现在使用较少。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘sancire’ = 制定法律 → 可指批准也可指处罚。",
+      "explanation_english": "From Latin 'sancire' = enact; originally approval, extended to penalties."
+    },
+    "variation_between_british_american": {
+      "british": "制裁用法普遍。",
+      "american": "同。"
+    }
+  },
+  {
+    "word": "plates",
+    "pronunciation": {
+      "british": "/pleɪts/ 🇬🇧",
+      "american": "/pleɪts/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "可指餐盘、车牌、印刷板或地质板块。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "餐盘",
+          "english": "Flat dish from which food is eaten."
+        },
+        "examples": [
+          {
+            "sentence": "Wash the plates after dinner.",
+            "translation": "晚饭后洗盘子。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "车牌",
+          "english": "Metal or plastic sign displaying a vehicle registration number."
+        },
+        "examples": [
+          {
+            "sentence": "The car has new plates.",
+            "translation": "汽车换了新车牌。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "地质板块",
+          "english": "Large rigid sections of the Earth's crust."
+        },
+        "examples": [
+          {
+            "sentence": "The Pacific Plate is moving slowly.",
+            "translation": "太平洋板块缓慢移动。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "dish",
+        "definition": {
+          "chinese": "盘子",
+          "english": "A shallow container for food."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义词",
+        "explanation": "需根据语境判断餐具、车牌或地质板块。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "plate = 扁平物 → 衍生出餐盘、金属牌和地质板块。",
+      "explanation_english": "Plate = flat object; extended to dish, metal sign, and tectonic plates."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "along with",
+    "pronunciation": {
+      "british": "/əˈlɒŋ wɪð/ 🇬🇧",
+      "american": "/əˈlɔːŋ wɪð/ 🇺🇸"
+    },
+    "phrase_type": "prepositional phrase",
+    "usage": "表示‘和…一起’或‘以及’。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "和…一起；以及",
+          "english": "Together with someone or something; in addition to."
+        },
+        "examples": [
+          {
+            "sentence": "She came along with her friend.",
+            "translation": "她和朋友一起来的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "together with",
+        "definition": {
+          "chinese": "与…一起",
+          "english": "In the company of someone or something."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面理解‘沿着…’ → 引申为‘与…一起’。",
+      "explanation_english": "Literally 'along with'; extended to mean 'together with' or 'in addition to'."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "impound",
+    "pronunciation": {
+      "british": "/ɪmˈpaʊnd/ 🇬🇧",
+      "american": "/ɪmˈpaʊnd/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "指依法扣押或收缴车辆、财物等。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "扣押，收缴",
+          "english": "To seize and take legal custody of something."
+        },
+        "examples": [
+          {
+            "sentence": "The police impounded his car for illegal parking.",
+            "translation": "警方因非法停车扣押了他的车。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "seize",
+        "definition": {
+          "chinese": "查封，扣押",
+          "english": "To take possession of something by legal authority."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 'impoundere' = 投入围栏 → 引申为收缴、扣押。",
+      "explanation_english": "From Latin 'impoundere' = put into enclosure; extended to confiscate or seize legally."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "immobilised",
+    "pronunciation": {
+      "british": "/ɪˈməʊ.bɪ.laɪzd/ 🇬🇧",
+      "american": "/ɪˈmoʊ.bɪ.laɪzd/ 🇺🇸"
+    },
+    "phrase_type": "verb (past participle) / adjective",
+    "usage": "指使无法移动或行动，常用于车辆或身体。",
+    "meanings": [
+      {
+        "type": "verb/adjective",
+        "definition": {
+          "chinese": "使固定，使无法移动",
+          "english": "To make something or someone unable to move."
+        },
+        "examples": [
+          {
+            "sentence": "The accident immobilised several cars on the road.",
+            "translation": "事故导致路上几辆车无法移动。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "paralyse",
+        "definition": {
+          "chinese": "使瘫痪",
+          "english": "To make powerless or immobile."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "immobilise = in- + mobile → 使不动 → 含义单一。",
+      "explanation_english": "immobilise = in- + mobile; make unable to move; single meaning."
+    },
+    "variation_between_british_american": {
+      "british": "拼写为 immobilised。",
+      "american": "拼写为 immobilized。"
+    }
+  },
+  {
+    "word": "confiscated",
+    "pronunciation": {
+      "british": "/ˈkɒn.fɪ.skeɪ.tɪd/ 🇬🇧",
+      "american": "/ˈkɑːn.fɪ.skeɪ.tɪd/ 🇺🇸"
+    },
+    "phrase_type": "verb (past participle)",
+    "usage": "指依法没收或扣押财物。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "没收，充公",
+          "english": "To take something away from someone legally or by authority."
+        },
+        "examples": [
+          {
+            "sentence": "The authorities confiscated his illegal goods.",
+            "translation": "当局没收了他的非法物品。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "seize",
+        "definition": {
+          "chinese": "查封，扣押",
+          "english": "To take possession of something by legal authority."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 'confiscare' → 法律收缴 → 含义单一。",
+      "explanation_english": "From Latin 'confiscare' = take into state treasury; single primary sense."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "hooning",
+    "pronunciation": {
+      "british": "/ˈhuː.nɪŋ/ 🇬🇧",
+      "american": "/ˈhuː.nɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb (slang)",
+    "usage": "俚语，指危险或鲁莽驾驶，尤指高速飙车。",
+    "meanings": [
+      {
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "鲁莽驾驶，飙车",
+          "english": "Reckless or dangerous driving, often involving stunts or high speeds."
+        },
+        "examples": [
+          {
+            "sentence": "The car was impounded for hooning.",
+            "translation": "因鲁莽驾驶，这辆车被扣押。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "street racing",
+        "definition": {
+          "chinese": "街头赛车",
+          "english": "Illegal racing on public roads."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "俚语",
+        "explanation": "主要在澳大利亚、新西兰等地使用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "hoon 原意指无赖 → 引申为鲁莽驾驶。",
+      "explanation_english": "'Hoon' originally meant rogue or lout; extended to reckless driving."
+    },
+    "variation_between_british_american": {
+      "british": "较少使用，澳洲、新西兰常用。",
+      "american": "通常不用该词，称 reckless driving 或 street racing。"
+    },
+
+  },
+  {
+    "word": "accumulate",
+    "pronunciation": {
+      "british": "/əˈkjuː.mjʊ.leɪt/ 🇬🇧",
+      "american": "/əˈkjuː.mjə.leɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "指逐渐增加或积累数量。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "积累，累积",
+          "english": "To gather or build up over time."
+        },
+        "examples": [
+          {
+            "sentence": "Over the years, dust accumulated on the shelves.",
+            "translation": "多年来，灰尘积在了架子上。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "pile up",
+        "definition": {
+          "chinese": "堆积",
+          "english": "To gather into a heap or accumulate."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 'accumulare' = 堆积 → 含义单一。",
+      "explanation_english": "From Latin 'accumulare' = heap up; primary meaning = gather gradually."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "saliva",
+    "pronunciation": {
+      "british": "/səˈlaɪ.və/ 🇬🇧",
+      "american": "/səˈlaɪ.və/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "指口腔分泌的唾液，常用于生物学或医学语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "唾液",
+          "english": "The watery fluid secreted into the mouth by salivary glands."
+        },
+        "examples": [
+          {
+            "sentence": "Saliva helps in the digestion of food.",
+            "translation": "唾液有助于食物消化。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "spit",
+        "definition": {
+          "chinese": "口水，吐唾液",
+          "english": "Liquid expelled from the mouth."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意单一，源自拉丁语 'saliva'。",
+      "explanation_english": "Single meaning; from Latin 'saliva' = saliva."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "detained",
+    "pronunciation": {
+      "british": "/dɪˈteɪnd/ 🇬🇧",
+      "american": "/dɪˈteɪnd/ 🇺🇸"
+    },
+    "phrase_type": "verb (past participle)",
+    "usage": "指被依法或官方短暂扣留、拘留。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "扣留，拘留",
+          "english": "To keep someone in official custody, usually temporarily."
+        },
+        "examples": [
+          {
+            "sentence": "The suspect was detained for questioning.",
+            "translation": "嫌疑人被扣留以供讯问。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "arrested",
+        "definition": {
+          "chinese": "逮捕",
+          "english": "Taken into custody by the police."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "detain = delay, hold back → 引申为官方拘留，含义单一。",
+      "explanation_english": "From Latin 'detinere' = hold back; primarily used as official custody."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "specimen",
+    "pronunciation": {
+      "british": "/ˈspes.ɪ.mɪn/ 🇬🇧",
+      "american": "/ˈspes.ə.mən/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用于生物学、医学或科学语境，指样本或标本。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "样本，标本",
+          "english": "An individual item or part taken as representative of a whole, often for study."
+        },
+        "examples": [
+          {
+            "sentence": "A blood specimen was sent to the lab.",
+            "translation": "一份血液样本被送到实验室。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sample",
+        "definition": {
+          "chinese": "样品",
+          "english": "A small portion of something intended to represent the whole."
+        }
+      }
+    ],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 'specere' = 看 → 指观察样品 → 含义单一。",
+      "explanation_english": "From Latin 'specere' = to look; used as representative example; single meaning."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "stern",
+    "pronunciation": {
+      "british": "/stɜːn/ 🇬🇧",
+      "american": "/stɝːn/ 🇺🇸"
+    },
+    "phrase_type": "adjective / noun 多义词",
+    "usage": "形容人严厉，也可指船尾。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "严厉的，严格的",
+          "english": "Serious and unrelenting in discipline or attitude."
+        },
+        "examples": [
+          {
+            "sentence": "The teacher gave us a stern warning.",
+            "translation": "老师严厉地警告了我们。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "船尾",
+          "english": "The rear part of a ship or boat."
+        },
+        "examples": [
+          {
+            "sentence": "The lifeboats were stored at the stern.",
+            "translation": "救生艇存放在船尾。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "rear",
+        "definition": {
+          "chinese": "后部",
+          "english": "The back part of something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "上下文判断含义",
+        "explanation": "形容词指人，名词指船。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "stern = 严肃的 → 形容人；船尾亦源古英语 'stern'，含义独立。",
+      "explanation_english": "Adjective 'stern' = strict; noun 'stern' = rear of ship; meanings from Old English but independent."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "confiscated",
+    "pronunciation": {
+      "british": "/ˈkɒn.fɪ.skeɪ.tɪd/ 🇬🇧",
+      "american": "/ˈkɑːn.fɪ.skeɪ.tɪd/ 🇺🇸"
+    },
+    "phrase_type": "verb (past participle)",
+    "usage": "依法没收财物。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "没收，充公",
+          "english": "To take property away by authority."
+        },
+        "examples": [
+          {
+            "sentence": "His illegal weapons were confiscated by the police.",
+            "translation": "他的非法武器被警方没收。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "convicted",
+    "pronunciation": {
+      "british": "/kənˈvɪktɪd/ 🇬🇧",
+      "american": "/kənˈvɪktɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb",
+    "usage": "常用 👍：多用于法律和犯罪相关语境。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "被判有罪的",
+          "english": "Declared guilty of a crime by a court."
+        },
+        "examples": [
+          {
+            "sentence": "He is a convicted criminal.",
+            "translation": "他是一个被判有罪的罪犯。"
+          }
+        ]
+      },
+      {
+        "type": "verb (past tense of 'convict')",
+        "definition": {
+          "chinese": "判定…有罪",
+          "english": "To declare someone guilty of a crime."
+        },
+        "examples": [
+          {
+            "sentence": "The jury convicted him of theft.",
+            "translation": "陪审团判定他犯有盗窃罪。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "criminal",
+        "type": "noun/adjective",
+        "definition": {
+          "chinese": "罪犯；犯罪的",
+          "english": "A person who commits a crime; relating to crime."
+        },
+        "examples": [
+          {
+            "sentence": "He has a long criminal record.",
+            "translation": "他有长期犯罪记录。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "法律专用词",
+        "explanation": "一般用于正式法律文件或报道中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘convictus’，意为‘证明有罪’，由动词延伸出形容词。",
+      "explanation_english": "From Latin ‘convictus’ meaning 'proved guilty'; verb meaning extended to adjective form."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同，多出现在法律语境。",
+      "american": "用法相同，但口语中更常用‘found guilty’代替。"
+    }
+  },
+  {
+    "word": "hefty",
+    "pronunciation": {
+      "british": "/ˈhefti/ 🇬🇧",
+      "american": "/ˈhefti/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：可形容物体重、大，也可形容数额大。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "重的，结实的",
+          "english": "Large in weight or size; solid."
+        },
+        "examples": [
+          {
+            "sentence": "He lifted a hefty bag of groceries.",
+            "translation": "他提起一个很重的购物袋。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "（数量、金额）大的",
+          "english": "Large in amount or extent."
+        },
+        "examples": [
+          {
+            "sentence": "They faced a hefty fine for speeding.",
+            "translation": "他们因超速而面临高额罚款。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "substantial",
+        "type": "adjective",
+        "definition": {
+          "chinese": "大量的，实质性的",
+          "english": "Of considerable importance, size, or worth."
+        },
+        "examples": [
+          {
+            "sentence": "She made a substantial donation to charity.",
+            "translation": "她向慈善机构捐赠了一大笔钱。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式词",
+        "explanation": "口语中常用，正式场合可用‘large’或‘considerable’替代。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原义指‘重的’，后人引申为‘数量大’。",
+      "explanation_english": "Originally meant 'heavy', later extended metaphorically to large amounts."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同，口语更常用。"
+    }
+  },
+  {
+    "word": "carry out",
+    "pronunciation": {
+      "british": "/ˌkæri ˈaʊt/ 🇬🇧",
+      "american": "/ˌkæri ˈaʊt/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "非常常用 👍：可指执行任务、完成计划、实现实验等。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "执行，实施",
+          "english": "To perform or complete a task, order, or plan."
+        },
+        "examples": [
+          {
+            "sentence": "The scientists carried out an important experiment.",
+            "translation": "科学家们进行了一项重要实验。"
+          },
+          {
+            "sentence": "The police carried out the search warrant.",
+            "translation": "警察执行了搜查令。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "execute",
+        "type": "verb",
+        "definition": {
+          "chinese": "执行，实施",
+          "english": "To carry out or put into effect."
+        },
+        "examples": [
+          {
+            "sentence": "They executed the plan successfully.",
+            "translation": "他们成功地执行了计划。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用动词短语",
+        "explanation": "比单纯‘do’更正式或具体。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "短语动词，由‘carry’（携带、带走）+‘out’（向外）组合而成，表示‘将任务带出去完成’。",
+      "explanation_english": "Phrasal verb from ‘carry’ (to bring) + ‘out’ (outside), meaning 'to bring a task to completion'."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
   }
 ]
 
