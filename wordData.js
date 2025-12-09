@@ -54286,6 +54286,175 @@ const wordData = [
       "british": "英国也使用，但有些城市用‘parking pay-and-display’。",
       "american": "普遍使用‘parking meter’。"
     }
+  },
+  {
+    "word": "initiate",
+    "pronunciation": {
+      "british": "/ɪˈnɪʃ.i.eɪt/ 🇬🇧",
+      "american": "/ɪˈnɪʃ.i.eɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb / noun",
+    "usage": "常用 👍：表示“开始、发起”，也可作名词表示“新加入的人（新手）”。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "开始，发起",
+          "english": "To cause something to begin or to start something officially."
+        },
+        "examples": [
+          {
+            "sentence": "The company initiated a new training program.",
+            "translation": "公司启动了一个新的培训项目。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "新加入者，新手",
+          "english": "A person who has recently joined a group or activity."
+        },
+        "examples": [
+          {
+            "sentence": "The initiates attended an orientation session.",
+            "translation": "新成员参加了入门培训。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "launch",
+        "type": "verb",
+        "definition": {
+          "chinese": "启动，推出",
+          "english": "To begin something such as a project or campaign."
+        },
+        "examples": [
+          {
+            "sentence": "They launched a new product.",
+            "translation": "他们推出了新产品。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式语气",
+        "explanation": "通常用于正式、书面场景，如项目、计划、流程的启动。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 initiare，意为“进入、开始”，后来引申为“让某人加入团体”。",
+      "explanation_english": "From Latin 'initiare', meaning to begin or enter, extended to mean admitting someone into a group."
+    },
+    "variation_between_british_american": {
+      "british": "使用频率略低，多用 'start' 或 'commence'。",
+      "american": "商务和官方场景中更常用 initiate。"
+    }
+  },
+  {
+    "word": "everlasting",
+    "pronunciation": {
+      "british": "/ˌev.əˈlɑːs.tɪŋ/ 🇬🇧",
+      "american": "/ˌev.ɚˈlæstɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用：强调“永恒、永无止境”，有时带夸张语气。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "永恒的，永无止境的",
+          "english": "Lasting forever or for an extremely long time."
+        },
+        "examples": [
+          {
+            "sentence": "They promised each other everlasting love.",
+            "translation": "他们互相许下永恒的爱。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "eternal",
+        "type": "adjective",
+        "definition": {
+          "chinese": "永恒的",
+          "english": "Without beginning or end; everlasting."
+        },
+        "examples": [
+          {
+            "sentence": "The universe feels eternal.",
+            "translation": "宇宙让人感觉永恒。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "可用于夸张表达",
+        "explanation": "如 'everlasting arguments'（没完没了的争吵）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词意没有太多延伸，'ever' + 'lasting' 就是“永远持续”的字面意思。",
+      "explanation_english": "Formed from 'ever' + 'lasting', the meaning is literal, not metaphorically extended."
+    },
+    "variation_between_british_american": {
+      "british": "常用于文学语气。",
+      "american": "日常讲话中也会用于夸张，如 'This is taking an everlasting amount of time.'"
+    }
+  },
+  {
+    "word": "take forever",
+    "pronunciation": {
+      "british": "/teɪk fəˈrev.ə/ 🇬🇧",
+      "american": "/teɪk fərˈev.ɚ/ 🇺🇸"
+    },
+    "phrase_type": "phrase / idiom",
+    "usage": "很常用 👍：表示“耗时非常久、感觉像永远一样”。常带抱怨语气。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "花很久的时间",
+          "english": "To take an extremely long time."
+        },
+        "examples": [
+          {
+            "sentence": "This download is taking forever.",
+            "translation": "这个下载花了超久时间。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "drag on",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "拖很久",
+          "english": "To last longer than expected in a boring or annoying way."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "夸张表达",
+        "explanation": "并不是字面“永远”，只是“久到烦人”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "属于夸张习语，用 forever 表强调。",
+      "explanation_english": "An exaggeration using 'forever' to express impatience."
+    },
+    "variation_between_british_american": {
+      "british": "语气更礼貌一点，常用 'It's taking ages.'",
+      "american": "更常用 'take forever'。"
+    }
   }
 ]
 
