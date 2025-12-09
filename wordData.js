@@ -52731,6 +52731,1561 @@ const wordData = [
       "british": "用法相同。",
       "american": "用法相同。"
     }
+  },
+  {
+    "word": "morgue",
+    "pronunciation": {
+      "british": "/mɔːɡ/ 🇬🇧",
+      "american": "/mɔːrɡ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：主要用于新闻报道、警方和医院语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "停尸间",
+          "english": "A place where dead bodies are kept, especially for identification or autopsy."
+        },
+        "examples": [
+          {
+            "sentence": "The body was taken to the morgue for examination.",
+            "translation": "尸体被送往停尸间进行检查。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "mortuary",
+        "type": "noun",
+        "definition": {
+          "chinese": "停尸间",
+          "english": "Another term for a place where dead bodies are kept."
+        },
+        "examples": [
+          {
+            "sentence": "The mortuary is located next to the hospital.",
+            "translation": "停尸间位于医院旁边。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "新闻/法律专用",
+        "explanation": "在日常生活中不常用，通常出现在正式报道或警方语境。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自法语‘morgue’，指城市官方存放尸体的地方。",
+      "explanation_english": "From French 'morgue', referring to a municipal place for keeping dead bodies."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "fortress",
+    "pronunciation": {
+      "british": "/ˈfɔːtrəs/ 🇬🇧",
+      "american": "/ˈfɔːrtrəs/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指军事建筑，也可比喻坚固的防御。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "要塞，堡垒",
+          "english": "A strong building or group of buildings used for defense in war."
+        },
+        "examples": [
+          {
+            "sentence": "The army retreated to the fortress.",
+            "translation": "军队撤退到要塞。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "citadel",
+        "type": "noun",
+        "definition": {
+          "chinese": "城堡，要塞",
+          "english": "A fortress, typically on high ground, protecting a city."
+        },
+        "examples": [
+          {
+            "sentence": "The citadel overlooks the city.",
+            "translation": "这座要塞俯瞰整个城市。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "可比喻",
+        "explanation": "也可形容思想或组织上坚固不可攻破。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指军事堡垒，引申比喻意义。",
+      "explanation_english": "Originally a military fortress, later extended metaphorically to strongholds in general."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "incompetent",
+    "pronunciation": {
+      "british": "/ɪnˈkɒmpɪtənt/ 🇬🇧",
+      "american": "/ɪnˈkɑːmpɪtənt/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：形容人或组织能力不足。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "无能力的，不称职的",
+          "english": "Not having the necessary skills or ability to do something."
+        },
+        "examples": [
+          {
+            "sentence": "He was an incompetent manager who caused many problems.",
+            "translation": "他是一个不称职的经理，造成了许多问题。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "inept",
+        "type": "adjective",
+        "definition": {
+          "chinese": "不称职的，无能的",
+          "english": "Having or showing no skill; clumsy."
+        },
+        "examples": [
+          {
+            "sentence": "Her inept handling of the situation made things worse.",
+            "translation": "她处理这种情况的无能让事情更糟。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "评价性强",
+        "explanation": "多用于批评或正式描述能力不足。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "in-（不）+competent（有能力的），词义清晰，未扩展。",
+      "explanation_english": "in- (not) + competent (having ability); meaning is literal, not extended."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "diva",
+    "pronunciation": {
+      "british": "/ˈdiːvə/ 🇬🇧",
+      "american": "/ˈdiːvə/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指歌剧女主角或极具个性的人。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "歌剧女主角，顶尖女歌手；个性张扬的人",
+          "english": "A celebrated female singer or a person (often female) who is demanding or temperamental."
+        },
+        "examples": [
+          {
+            "sentence": "She behaved like a diva during the performance.",
+            "translation": "她在表演中表现得像个歌剧女主角。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "primadonna",
+        "type": "noun",
+        "definition": {
+          "chinese": "（歌剧）女主角；任性的女人",
+          "english": "A principal female singer in an opera; a temperamental person."
+        },
+        "examples": [
+          {
+            "sentence": "The primadonna refused to sing the second act.",
+            "translation": "女主角拒绝演唱第二幕。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "含贬义/褒义皆可",
+        "explanation": "可指才华横溢，也可形容任性、难以相处的人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "意大利语原指歌剧女主角，引申为任性、张扬的人。",
+      "explanation_english": "From Italian meaning opera star; later extended metaphorically to demanding or temperamental persons."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同，口语中常用指明星或名人。"
+    }
+  },
+  {
+    "word": "each one more ... than the last",
+    "pronunciation": {
+      "british": "/iːtʃ wʌn mɔː ... ðən ðə lɑːst/ 🇬🇧",
+      "american": "/iːtʃ wʌn mɔːr ... ðən ðə læst/ 🇺🇸"
+    },
+    "phrase_type": "phrase",
+    "usage": "常用 👍：描述事物逐渐增强或递增的情况。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "每一个比前一个更…",
+          "english": "Each item in a sequence is more [adjective] than the previous one."
+        },
+        "examples": [
+          {
+            "sentence": "The jokes got each one more funny than the last.",
+            "translation": "笑话一个比一个更好笑。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "progressively",
+        "type": "adverb",
+        "definition": {
+          "chinese": "逐渐地",
+          "english": "Increasingly or step by step."
+        },
+        "examples": [
+          {
+            "sentence": "The tasks became progressively harder.",
+            "translation": "任务逐渐变得更难。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "描述递增",
+        "explanation": "多用于书面或口语强调变化趋势。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "短语组合，逻辑直接，无历史多义。",
+      "explanation_english": "Phrase combination; meaning literal, no historical multiple senses."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "status update",
+    "pronunciation": {
+      "british": "/ˈsteɪtəs ˈʌpdeɪt/ 🇬🇧",
+      "american": "/ˈsteɪtəs ˈʌpdeɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：在工作、社交媒体或项目管理中使用。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "状态更新，进展报告",
+          "english": "Information about the current state or progress of something."
+        },
+        "examples": [
+          {
+            "sentence": "Please send a status update on the project.",
+            "translation": "请发送项目的进展报告。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "progress report",
+        "type": "noun",
+        "definition": {
+          "chinese": "进度报告",
+          "english": "A report detailing the progress of a project or task."
+        },
+        "examples": [
+          {
+            "sentence": "The manager requested a progress report.",
+            "translation": "经理要求提交进度报告。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "现代用法",
+        "explanation": "在企业、科技和社交媒体中非常常见。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "组合短语，无多义来源。",
+      "explanation_english": "Compound phrase; no multiple senses historically."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "hamper",
+    "pronunciation": {
+      "british": "/ˈhæmpə/ 🇬🇧",
+      "american": "/ˈhæmpər/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：动词表示阻碍，名词指篮子。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "阻碍，妨碍",
+          "english": "To make something difficult to do or progress."
+        },
+        "examples": [
+          {
+            "sentence": "Heavy traffic hampered our journey.",
+            "translation": "严重的交通阻碍了我们的行程。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "篮子，通常带盖",
+          "english": "A basket, often with a lid, for laundry or food."
+        },
+        "examples": [
+          {
+            "sentence": "She put the laundry in a hamper.",
+            "translation": "她把洗好的衣服放进篮子里。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "obstruct",
+        "type": "verb",
+        "definition": {
+          "chinese": "阻挡",
+          "english": "To block or hinder progress."
+        },
+        "examples": [
+          {
+            "sentence": "The fallen tree obstructed the road.",
+            "translation": "倒下的树挡住了道路。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "需结合上下文",
+        "explanation": "名词和动词含义完全不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "动词和名词来源不同：动词源自古法语‘hamper’，名词用于盛物。",
+      "explanation_english": "Verb and noun have different origins: verb from Old French 'hamper' (hinder), noun for container."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "irritable",
+    "pronunciation": {
+      "british": "/ˈɪrɪtəbl/ 🇬🇧",
+      "american": "/ˈɪrɪtəbl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：形容人情绪易怒。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "易怒的，急躁的",
+          "english": "Easily annoyed or made angry."
+        },
+        "examples": [
+          {
+            "sentence": "He becomes irritable when he’s tired.",
+            "translation": "他疲倦时会变得急躁。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "grumpy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "脾气坏的",
+          "english": "Bad-tempered or irritable."
+        },
+        "examples": [
+          {
+            "sentence": "The grumpy old man shouted at the kids.",
+            "translation": "那个脾气坏的老人对孩子们大喊。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "心理或生理因素",
+        "explanation": "常用来描述情绪状态，尤其是因疲劳或压力而易怒。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "词义清晰，由‘irritate’派生。",
+      "explanation_english": "Meaning literal, derived from 'irritate'."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "bastard",
+    "pronunciation": {
+      "british": "/ˈbɑːstəd/ 🇬🇧",
+      "american": "/ˈbæstərd/ 🇺🇸"
+    },
+    "phrase_type": "noun/adjective 多义词",
+    "usage": "常用 👍：贬义词，形容人，也有历史法理意义。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "私生子；混蛋（贬义）",
+          "english": "A person born out of wedlock; also used insultingly."
+        },
+        "examples": [
+          {
+            "sentence": "He called him a bastard after the argument.",
+            "translation": "争吵后他骂他是混蛋。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "私生的；令人讨厌的",
+          "english": "Of illegitimate birth; unpleasant or cruel."
+        },
+        "examples": [
+          {
+            "sentence": "The bastard child had no legal rights.",
+            "translation": "这个私生子没有合法权利。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "illegitimate",
+        "type": "adjective",
+        "definition": {
+          "chinese": "非法的；私生的",
+          "english": "Not authorized by law; born out of wedlock."
+        },
+        "examples": [
+          {
+            "sentence": "He is an illegitimate son of the king.",
+            "translation": "他是国王的私生子。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "含贬义",
+        "explanation": "现代主要用作侮辱词。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语‘bastard’，原指私生子，后引申为骂人。",
+      "explanation_english": "From Old French 'bastard', originally illegitimate child, later used as insult."
+    },
+    "variation_between_british_american": {
+      "british": "口语中更常用作侮辱。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "obstruction",
+    "pronunciation": {
+      "british": "/əbˈstrʌkʃən/ 🇬🇧",
+      "american": "/əbˈstrʌkʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：多用于交通、法律或医疗场景。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "阻碍，妨碍",
+          "english": "Something that blocks or prevents progress."
+        },
+        "examples": [
+          {
+            "sentence": "The fallen tree caused an obstruction on the road.",
+            "translation": "倒下的树挡住了道路。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "blockage",
+        "type": "noun",
+        "definition": {
+          "chinese": "堵塞",
+          "english": "An obstruction that stops movement or flow."
+        },
+        "examples": [
+          {
+            "sentence": "There is a blockage in the drain.",
+            "translation": "排水管里有堵塞。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式词",
+        "explanation": "常用于新闻报道、官方文件或医学场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘obstruere’，意为‘堆积、阻挡’。",
+      "explanation_english": "From Latin 'obstruere' meaning 'to pile up, block'."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "congestion",
+    "pronunciation": {
+      "british": "/kənˈdʒestʃən/ 🇬🇧",
+      "american": "/kənˈdʒestʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：可指交通拥堵或身体充血。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "拥堵，堵塞",
+          "english": "A state of being crowded or blocked; often traffic."
+        },
+        "examples": [
+          {
+            "sentence": "There is heavy congestion on the highway.",
+            "translation": "高速公路上交通严重拥堵。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（身体）充血，堵塞",
+          "english": "Excessive accumulation in a part of the body, e.g., nasal congestion."
+        },
+        "examples": [
+          {
+            "sentence": "The cold caused nasal congestion.",
+            "translation": "感冒引起了鼻塞。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "blockage",
+        "type": "noun",
+        "definition": {
+          "chinese": "堵塞",
+          "english": "An obstruction that stops movement."
+        },
+        "examples": [
+          {
+            "sentence": "A blockage in the artery can be dangerous.",
+            "translation": "动脉堵塞可能很危险。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "交通或医学用",
+        "explanation": "根据上下文判断是道路还是身体堵塞。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘congerere’，意为‘堆积’，引申为交通或身体堵塞。",
+      "explanation_english": "From Latin 'congerere', meaning 'to pile up', extended to traffic or bodily congestion."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "exemptions",
+    "pronunciation": {
+      "british": "/ɪɡˈzɛm(p)ʃənz/ 🇬🇧",
+      "american": "/ɪɡˈzɛm(p)ʃənz/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指免除义务或责任的情况。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "豁免，免除",
+          "english": "Official permission to not do or pay something required."
+        },
+        "examples": [
+          {
+            "sentence": "Students may apply for exemptions from certain fees.",
+            "translation": "学生可以申请免除某些费用。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "waiver",
+        "type": "noun",
+        "definition": {
+          "chinese": "放弃权利",
+          "english": "An official document stating that a rule or fee does not apply."
+        },
+        "examples": [
+          {
+            "sentence": "He signed a waiver to skip the course requirement.",
+            "translation": "他签署了一份放弃文件，以免修这门课程。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用语",
+        "explanation": "常出现在法律、教育或税务文档中。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语‘eximere’，意为‘拿出、免除’。",
+      "explanation_english": "From Latin 'eximere', meaning 'take out, free from'."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "misuse",
+    "pronunciation": {
+      "british": "/ˌmɪsˈjuːz/ 🇬🇧",
+      "american": "/ˌmɪsˈjuːz/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：指错误或滥用。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "滥用，误用",
+          "english": "To use something in the wrong or harmful way."
+        },
+        "examples": [
+          {
+            "sentence": "He misused company funds for personal expenses.",
+            "translation": "他挪用公司资金用于个人开支。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "滥用，误用行为",
+          "english": "The act of using something wrongly or inappropriately."
+        },
+        "examples": [
+          {
+            "sentence": "Misuse of medication can be dangerous.",
+            "translation": "误用药物可能很危险。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "abuse",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "滥用；虐待",
+          "english": "Use wrongly or improperly; cruel treatment."
+        },
+        "examples": [
+          {
+            "sentence": "He was accused of abusing his power.",
+            "translation": "他被指控滥用权力。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "可作动词或名词",
+        "explanation": "需根据句子判断词性。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由前缀‘mis-’加‘use’组成，表示使用错误，词义直接。",
+      "explanation_english": "Formed from prefix 'mis-' + 'use', literally meaning incorrect use."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "slam",
+    "pronunciation": {
+      "british": "/slæm/ 🇬🇧",
+      "american": "/slæm/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：动作猛烈或批评尖锐。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "猛力关上；猛烈抨击",
+          "english": "To shut with force or criticize harshly."
+        },
+        "examples": [
+          {
+            "sentence": "She slammed the door and left.",
+            "translation": "她猛地关上门离开了。"
+          },
+          {
+            "sentence": "The article slammed the government policy.",
+            "translation": "文章严厉抨击了政府政策。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "猛击；抨击",
+          "english": "A forceful impact or a strong criticism."
+        },
+        "examples": [
+          {
+            "sentence": "The car door closed with a slam.",
+            "translation": "车门“砰”地一声关上了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bang",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "砰地一声；猛撞",
+          "english": "Make a loud noise; hit forcefully."
+        },
+        "examples": [
+          {
+            "sentence": "He banged the table in frustration.",
+            "translation": "他气愤地砰地敲桌子。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义词",
+        "explanation": "动词/名词皆可，语境决定是否指动作或批评。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "拟声词原指砰的一声，引申为猛烈批评。",
+      "explanation_english": "Onomatopoeic originally for a loud noise, later extended metaphorically to harsh criticism."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "winding",
+    "pronunciation": {
+      "british": "/ˈwaɪndɪŋ/ 🇬🇧",
+      "american": "/ˈwaɪndɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb 多义词",
+    "usage": "常用 👍：描述道路或动作曲折、缠绕。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "蜿蜒的，曲折的",
+          "english": "Having many twists and turns."
+        },
+        "examples": [
+          {
+            "sentence": "We drove along a winding road through the mountains.",
+            "translation": "我们沿着蜿蜒的山路行驶。"
+          }
+        ]
+      },
+      {
+        "type": "verb (present participle of 'wind')",
+        "definition": {
+          "chinese": "缠绕，绕行",
+          "english": "Moving in a twisting or spiral course; wrapping."
+        },
+        "examples": [
+          {
+            "sentence": "The path winds through the forest.",
+            "translation": "小径蜿蜒穿过森林。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "meandering",
+        "type": "adjective/verb",
+        "definition": {
+          "chinese": "曲折的，蜿蜒的",
+          "english": "Following a winding or indirect course."
+        },
+        "examples": [
+          {
+            "sentence": "We followed the meandering river.",
+            "translation": "我们沿着蜿蜒的河流前行。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "需根据上下文判断",
+        "explanation": "可指道路、河流或动作的曲折。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "动词‘wind’延伸为形容词‘winding’，表示曲折或缠绕。",
+      "explanation_english": "From verb 'wind' (to twist) extended to adjective 'winding', describing twists or turns."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "curves",
+    "pronunciation": {
+      "british": "/kɜːvz/ 🇬🇧",
+      "american": "/kɜːrvz/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：可指形状曲线或道路弯道。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "曲线；弯道",
+          "english": "A smoothly flowing, continuous line or bend."
+        },
+        "examples": [
+          {
+            "sentence": "The road ahead has many sharp curves.",
+            "translation": "前方道路有很多急弯。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "身材曲线",
+          "english": "The rounded shape of a person’s body, especially a woman’s."
+        },
+        "examples": [
+          {
+            "sentence": "She has elegant curves.",
+            "translation": "她的身材曲线优美。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bend",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "弯曲",
+          "english": "A curve in something or to make something curve."
+        },
+        "examples": [
+          {
+            "sentence": "The river bends sharply to the left.",
+            "translation": "河流急转向左。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义词",
+        "explanation": "可指道路/形状或人体曲线，根据上下文判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘curvus’，意为弯曲，引申到身体或道路形状。",
+      "explanation_english": "From Latin 'curvus' meaning bent, extended to shapes and roads."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "interpret",
+    "pronunciation": {
+      "british": "/ɪnˈtɜːprɪt/ 🇬🇧",
+      "american": "/ɪnˈtɜːrprɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "非常常用 👍：可指翻译或理解意义。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "解释，理解；口译",
+          "english": "To explain the meaning of something; to translate orally."
+        },
+        "examples": [
+          {
+            "sentence": "She interpreted the poem in a unique way.",
+            "translation": "她以独特的方式解释了这首诗。"
+          },
+          {
+            "sentence": "He interprets for tourists at the museum.",
+            "translation": "他在博物馆为游客做口译。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "translate",
+        "type": "verb",
+        "definition": {
+          "chinese": "翻译",
+          "english": "Express the meaning of words in another language."
+        },
+        "examples": [
+          {
+            "sentence": "She translates documents from French to English.",
+            "translation": "她将文件从法语翻译成英语。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "含义广泛",
+        "explanation": "可指解释、理解或口译，需要根据语境判断。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘interpretari’，意为‘解释’或‘说明’。",
+      "explanation_english": "From Latin 'interpretari', meaning 'to explain or clarify', later extended to oral translation."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "downgrade",
+    "pronunciation": {
+      "british": "/ˌdaʊnˈɡreɪd/ 🇬🇧",
+      "american": "/ˌdaʊnˈɡreɪd/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：可指降低等级、评价或性能。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "降低（等级、职位、评价）",
+          "english": "To reduce the status, rank, or quality of something."
+        },
+        "examples": [
+          {
+            "sentence": "The airline downgraded his seat to economy.",
+            "translation": "航空公司将他的座位降到了经济舱。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "降级",
+          "english": "An instance of being downgraded."
+        },
+        "examples": [
+          {
+            "sentence": "The company announced a downgrade in its credit rating.",
+            "translation": "公司宣布其信用评级被下调。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "demote",
+        "type": "verb",
+        "definition": {
+          "chinese": "降职",
+          "english": "To lower someone in rank or position."
+        },
+        "examples": [
+          {
+            "sentence": "He was demoted for poor performance.",
+            "translation": "他因表现不佳被降职。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用语",
+        "explanation": "常用于工作、金融或评级场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由‘down’ + ‘grade’组成，词义直接，延伸应用到职位和评价。",
+      "explanation_english": "Formed from 'down' + 'grade'; literal meaning, extended to rank, position, or rating."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "descent",
+    "pronunciation": {
+      "british": "/dɪˈsent/ 🇬🇧",
+      "american": "/dɪˈsent/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：可指下降或血统。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "下降，下坡",
+          "english": "The act of moving downwards."
+        },
+        "examples": [
+          {
+            "sentence": "The plane began its descent into the airport.",
+            "translation": "飞机开始下降，准备降落机场。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "血统，世系",
+          "english": "The origin or ancestry of a person."
+        },
+        "examples": [
+          {
+            "sentence": "He is of French descent.",
+            "translation": "他有法国血统。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "ancestry",
+        "type": "noun",
+        "definition": {
+          "chinese": "祖先，血统",
+          "english": "Family lineage or heritage."
+        },
+        "examples": [
+          {
+            "sentence": "She traced her ancestry back to the 18th century.",
+            "translation": "她追溯自己的祖先到18世纪。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义词",
+        "explanation": "根据上下文可指动作或血统。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘descendere’，意为‘向下’，引申为血统（源自家族线）。",
+      "explanation_english": "From Latin 'descendere', meaning 'to go down', extended metaphorically to ancestry."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "closure",
+    "pronunciation": {
+      "british": "/ˈkləʊʒə/ 🇬🇧",
+      "american": "/ˈkloʊʒər/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：可指关闭或结束。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "关闭，停业",
+          "english": "The act of closing something, such as a road or business."
+        },
+        "examples": [
+          {
+            "sentence": "The road closure caused traffic jams.",
+            "translation": "道路封闭导致交通堵塞。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "结束，终结",
+          "english": "A feeling of resolution or completion."
+        },
+        "examples": [
+          {
+            "sentence": "The meeting provided closure on the project issues.",
+            "translation": "会议为项目问题提供了结束感。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "shutdown",
+        "type": "noun",
+        "definition": {
+          "chinese": "停工，关闭",
+          "english": "A temporary or permanent closure of an operation."
+        },
+        "examples": [
+          {
+            "sentence": "The factory faced a temporary shutdown.",
+            "translation": "工厂面临临时停工。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用语",
+        "explanation": "常用于交通、公司或心理学上下文。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘claudere’，意为‘关闭’，引申为心理上的终结感。",
+      "explanation_english": "From Latin 'claudere', meaning 'to close', extended metaphorically to emotional resolution."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "overrule",
+    "pronunciation": {
+      "british": "/ˌəʊvəˈruːl/ 🇬🇧",
+      "american": "/ˌoʊvərˈruːl/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "正式用 👍：多用于法律或权威场景。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "驳回，否决",
+          "english": "To reject or reverse a decision made by someone in authority."
+        },
+        "examples": [
+          {
+            "sentence": "The judge overruled the objection.",
+            "translation": "法官驳回了反对意见。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "override",
+        "type": "verb",
+        "definition": {
+          "chinese": "推翻，优先于",
+          "english": "To use authority to reject or cancel a decision or rule."
+        },
+        "examples": [
+          {
+            "sentence": "The manager can override the system settings.",
+            "translation": "经理可以覆盖系统设置。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多用于法律和管理",
+        "explanation": "强调权威对先前决定的否定。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由‘over’ + ‘rule’组成，表示超越规则或权威。",
+      "explanation_english": "Formed from 'over' + 'rule', literally meaning to rule over or cancel a previous decision."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "rev",
+    "pronunciation": {
+      "british": "/rev/ 🇬🇧",
+      "american": "/rev/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：多用于汽车相关场景。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "加速（发动机转速）",
+          "english": "To increase the engine speed."
+        },
+        "examples": [
+          {
+            "sentence": "He revved the car engine before the race.",
+            "translation": "比赛前他加快了汽车引擎转速。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "发动机转速",
+          "english": "The rate at which an engine runs, measured in revolutions per minute."
+        },
+        "examples": [
+          {
+            "sentence": "Keep the revs below 3000 rpm.",
+            "translation": "保持转速低于3000转/分钟。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "accelerate",
+        "type": "verb",
+        "definition": {
+          "chinese": "加速",
+          "english": "To increase speed."
+        },
+        "examples": [
+          {
+            "sentence": "The car accelerated quickly.",
+            "translation": "汽车迅速加速。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语常用",
+        "explanation": "可作动词或名词，多用于车辆或引擎相关场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自‘revolutions per minute’，引申为加速发动机或指发动机转速。",
+      "explanation_english": "From 'revolutions per minute', extended to mean increasing engine speed or the speed itself."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "onto",
+    "pronunciation": {
+      "british": "/ˈɒntə/ 🇬🇧",
+      "american": "/ˈɑːntoʊ/ 🇺🇸"
+    },
+    "phrase_type": "preposition",
+    "usage": "非常常用 👍：表示方向或位置。",
+    "meanings": [
+      {
+        "type": "preposition",
+        "definition": {
+          "chinese": "到…上面，进入",
+          "english": "Moving to a position on the surface of something."
+        },
+        "examples": [
+          {
+            "sentence": "She climbed onto the roof.",
+            "translation": "她爬上了屋顶。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "on",
+        "type": "preposition",
+        "definition": {
+          "chinese": "在…上",
+          "english": "Located on the surface of something."
+        },
+        "examples": [
+          {
+            "sentence": "The book is on the table.",
+            "translation": "书在桌子上。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "方向感",
+        "explanation": "强调从下方到表面或位置的移动。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由‘on’ + ‘to’组合，表示向上移动的方向。",
+      "explanation_english": "From combination of 'on' + 'to', indicating movement onto a surface."
+    },
+    "variation_between_british_american": {
+      "british": "发音 /ˈɒntə/ 较常用口语。",
+      "american": "发音 /ˈɑːntoʊ/，书面口语皆可。"
+    }
+  },
+  {
+    "word": "on-ramp",
+    "pronunciation": {
+      "british": "/ˈɒn ræmp/ 🇬🇧",
+      "american": "/ˈɑːn ræmp/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：高速入口。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "高速公路入口匝道",
+          "english": "A ramp allowing vehicles to enter a highway."
+        },
+        "examples": [
+          {
+            "sentence": "Take the on-ramp to merge onto the freeway.",
+            "translation": "走入口匝道进入高速公路。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "off-ramp",
+        "type": "noun",
+        "definition": {
+          "chinese": "高速出口匝道",
+          "english": "A ramp allowing vehicles to exit a highway."
+        },
+        "examples": [
+          {
+            "sentence": "Take the next off-ramp to exit the highway.",
+            "translation": "走下一个出口匝道离开高速公路。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "交通用语",
+        "explanation": "常用于高速公路驾驶说明。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "组合词‘on’ + ‘ramp’，直接表示进入匝道。",
+      "explanation_english": "Compound of 'on' + 'ramp', directly referring to highway entry ramp."
+    },
+    "variation_between_british_american": {
+      "british": "在英国高速路也可用，但更常用 ‘slip road’。",
+      "american": "常用 ‘on-ramp’，标准用法。"
+    }
+  },
+  {
+    "word": "dual",
+    "pronunciation": {
+      "british": "/ˈdjuːəl/ 🇬🇧",
+      "american": "/ˈduːəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：表示两个或双重。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "双的，双重的",
+          "english": "Having two parts, elements, or functions."
+        },
+        "examples": [
+          {
+            "sentence": "The car has a dual exhaust system.",
+            "translation": "汽车配备了双排气系统。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "double",
+        "type": "adjective",
+        "definition": {
+          "chinese": "两倍的，双的",
+          "english": "Consisting of two equal, similar, or identical parts."
+        },
+        "examples": [
+          {
+            "sentence": "She ordered a double espresso.",
+            "translation": "她点了一杯双份浓缩咖啡。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用语",
+        "explanation": "多用于技术、工程或正式说明。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语‘dualis’，意为‘二’。",
+      "explanation_english": "From Latin 'dualis', meaning 'of two'."
+    },
+    "variation_between_british_american": {
+      "british": "发音 /ˈdjuːəl/ 较正式。",
+      "american": "发音 /ˈduːəl/，常用。"
+    }
+  },
+  {
+    "word": "a parking meter",
+    "pronunciation": {
+      "british": "/ə ˈpɑːkɪŋ ˈmiːtə/ 🇬🇧",
+      "american": "/ə ˈpɑːrkɪŋ ˈmiːtər/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：指计时停车收费装置。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "停车计时器",
+          "english": "A device used to collect fees for parking in a spot for a limited time."
+        },
+        "examples": [
+          {
+            "sentence": "I need to feed the parking meter before it expires.",
+            "translation": "我得在停车计时器到期前投币。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "parking ticket",
+        "type": "noun",
+        "definition": {
+          "chinese": "停车罚单",
+          "english": "A fine issued for illegal parking or exceeding time limit."
+        },
+        "examples": [
+          {
+            "sentence": "He got a parking ticket for not paying the meter.",
+            "translation": "他因为没缴停车费而被开罚单。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "交通常用",
+        "explanation": "用于城市停车和交通管理。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "组合词，‘parking’ + ‘meter’，意义直白。",
+      "explanation_english": "Compound of 'parking' + 'meter', literal meaning, no扩展。"
+    },
+    "variation_between_british_american": {
+      "british": "英国也使用，但有些城市用‘parking pay-and-display’。",
+      "american": "普遍使用‘parking meter’。"
+    }
   }
 ]
 
