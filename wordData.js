@@ -54455,6 +54455,939 @@ const wordData = [
       "british": "语气更礼貌一点，常用 'It's taking ages.'",
       "american": "更常用 'take forever'。"
     }
+  },
+  {
+    "word": "puncture",
+    "pronunciation": {
+      "british": "/ˈpʌŋk.tʃər/ 🇬🇧",
+      "american": "/ˈpʌŋk.tʃɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：可指刺破、扎孔或轮胎爆胎。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "刺孔，穿孔",
+          "english": "A small hole made by a sharp object."
+        },
+        "examples": [
+          {
+            "sentence": "There was a puncture in the tyre.",
+            "translation": "轮胎上有个小孔。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "刺穿，扎破",
+          "english": "To make a hole in something with a sharp object."
+        },
+        "examples": [
+          {
+            "sentence": "The needle punctured his skin.",
+            "translation": "针刺穿了他的皮肤。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "perforate",
+        "type": "verb",
+        "definition": {
+          "chinese": "打孔",
+          "english": "To make a series of holes in something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "可用于物理刺穿或比喻",
+        "explanation": "如 'puncture someone’s pride'（伤自尊）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 punctura，意为刺、点，原意即刺穿，引申为小孔或爆胎。",
+      "explanation_english": "From Latin 'punctura', meaning a point or prick; extended to small holes and tyre punctures."
+    },
+    "variation_between_british_american": {
+      "british": "用于轮胎、医疗场景。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "courtesy",
+    "pronunciation": {
+      "british": "/ˈkɜː.tə.si/ 🇬🇧",
+      "american": "/ˈkɝː.t̬ə.si/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：表示礼貌、恩惠。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "礼貌，客气",
+          "english": "Polite behavior or gestures."
+        },
+        "examples": [
+          {
+            "sentence": "He thanked me out of courtesy.",
+            "translation": "他出于礼貌向我道谢。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "恩惠，免费提供",
+          "english": "Something done as a favor or free of charge."
+        },
+        "examples": [
+          {
+            "sentence": "The drinks are provided as a courtesy of the hotel.",
+            "translation": "这些饮料是酒店提供的免费服务。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "politeness",
+        "type": "noun",
+        "definition": {
+          "chinese": "礼貌",
+          "english": "Behavior that is respectful and considerate."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见词",
+        "explanation": "既可指态度，也可指具体的恩惠或免费服务。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘curtesia’，原指绅士的礼貌，后引申到免费或友善提供的东西。",
+      "explanation_english": "From Latin 'curtesia', originally meaning gentlemanly behavior, later extended to favors or free services."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "resort",
+    "pronunciation": {
+      "british": "/rɪˈzɔːt/ 🇬🇧",
+      "american": "/rɪˈzɔːrt/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：可指度假地，也可指手段或依赖。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "度假胜地",
+          "english": "A place where people go for vacation and relaxation."
+        },
+        "examples": [
+          {
+            "sentence": "They stayed at a beach resort.",
+            "translation": "他们住在一个海滨度假村。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "手段，依赖",
+          "english": "A strategy or option used when others fail."
+        },
+        "examples": [
+          {
+            "sentence": "As a last resort, call the police.",
+            "translation": "最后手段，叫警察。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "诉诸于，求助于",
+          "english": "To turn to or rely on something."
+        },
+        "examples": [
+          {
+            "sentence": "They resorted to borrowing money.",
+            "translation": "他们不得不求助于借钱。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "retreat",
+        "type": "noun",
+        "definition": {
+          "chinese": "度假地，休养地",
+          "english": "A quiet or private place for rest or relaxation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义词",
+        "explanation": "可指地点，也可比喻依赖或求助。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 ‘resortare’ 意为“反复出现”，后引申为“求助于”“去度假地”。",
+      "explanation_english": "From Latin 'resortare', meaning 'to go back repeatedly', extended to mean both seeking help and going to a vacation place."
+    },
+    "variation_between_british_american": {
+      "british": "用作度假村常用。",
+      "american": "用作‘手段’/‘依赖’也常见。"
+    }
+  },
+  {
+    "word": "ever since",
+    "pronunciation": {
+      "british": "/ˈev.ə sɪns/ 🇬🇧",
+      "american": "/ˈev.ɚ sɪns/ 🇺🇸"
+    },
+    "phrase_type": "adverb/conjunction 短语",
+    "usage": "非常常用 👍：表示“从那时起一直到现在”。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "从那时起",
+          "english": "From that time until now."
+        },
+        "examples": [
+          {
+            "sentence": "I met him in 2010, and we've been friends ever since.",
+            "translation": "我在 2010 年认识他，从那时起我们一直是朋友。"
+          }
+        ]
+      },
+      {
+        "type": "conjunction",
+        "definition": {
+          "chinese": "自从……",
+          "english": "Since the time when something happened."
+        },
+        "examples": [
+          {
+            "sentence": "Ever since he moved out, the house has been quiet.",
+            "translation": "自从他搬走后，这房子一直很安静。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "since",
+        "type": "adverb/conjunction",
+        "definition": {
+          "chinese": "自从，从那以后",
+          "english": "From a time in the past until now."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "和 since 的区别",
+        "explanation": "ever since 比 since 更强调持续性，更口语化。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ever（始终）+ since（自从）组合，本身结构带来“持续到现在”的意思，并在语法上兼有副词和连词用法。",
+      "explanation_english": "Formed from 'ever' + 'since', naturally expressing continuity; used as both adverb and conjunction."
+    },
+    "variation_between_british_american": {
+      "british": "用法完全一致。",
+      "american": "用法完全一致。"
+    }
+  },
+  {
+    "word": "ends up",
+    "pronunciation": {
+      "british": "/endz ʌp/ 🇬🇧",
+      "american": "/endz ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "非常常用 👍：表示意想不到的最终结果。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "最终变成；最后处于",
+          "english": "To eventually reach a particular state or situation."
+        },
+        "examples": [
+          {
+            "sentence": "He ended up buying a cheaper car.",
+            "translation": "他最后买了一辆更便宜的车。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "wind up",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "最终变成",
+          "english": "To eventually be in a particular situation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "句尾常用",
+        "explanation": "often used at the end of sentences."
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "end + up 的组合，本身表示“结束时向上/完成”，引申为“最后结果是……”。",
+      "explanation_english": "From combining 'end' + 'up', literally meaning to finish upward, later meaning a final state."
+    },
+    "variation_between_british_american": {
+      "british": "极常用。",
+      "american": "同样常用。"
+    }
+  },
+  {
+    "word": "inseparable",
+    "pronunciation": {
+      "british": "/ɪnˈsep.rə.bəl/ 🇬🇧",
+      "american": "/ɪnˈsep.rə.bəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：指“形影不离；分不开”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "形影不离的，密不可分的",
+          "english": "Unable to be separated; always together."
+        },
+        "examples": [
+          {
+            "sentence": "We were inseparable during college.",
+            "translation": "我们上大学时几乎形影不离。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "intimate",
+        "type": "adjective",
+        "definition": {
+          "chinese": "亲密的",
+          "english": "Very close or friendly."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "可用于物或人",
+        "explanation": "'The two issues are inseparable.'（两个问题分不开）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 in-（否定）+ separable（可分离的），完全按字面意思。",
+      "explanation_english": "From in- (not) + separable (able to separate)."
+    },
+    "variation_between_british_american": {
+      "british": "发音略不同。",
+      "american": "拼写相同。"
+    }
+  },
+  {
+    "word": "nemesis",
+    "pronunciation": {
+      "british": "/ˈnem.ə.sɪs/ 🇬🇧",
+      "american": "/ˈnem.ə.sɪs/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用：文学和口语中表示“宿敌；死对头”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "宿敌，克星，报应",
+          "english": "A long-standing rival or an agent of retribution."
+        },
+        "examples": [
+          {
+            "sentence": "He finally defeated his childhood nemesis.",
+            "translation": "他终于打败了他童年的宿敌。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "archenemy",
+        "type": "noun",
+        "definition": {
+          "chinese": "死对头",
+          "english": "A main enemy; a deeply opposed rival."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式但常见",
+        "explanation": "也可指“让你失败的事物”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊复仇女神 Nemesis，象征报应 → 引申为宿敌。",
+      "explanation_english": "From Greek goddess Nemesis, goddess of retribution; extended to mean an unbeatable opponent."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "marijuana",
+    "pronunciation": {
+      "british": "/ˌmær.ɪˈwɑː.nə/ 🇬🇧",
+      "american": "/ˌmær.əˈwɑː.nə/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用（尤其在法律、医疗、新闻中）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大麻",
+          "english": "A drug made from the dried leaves and flowers of the cannabis plant."
+        },
+        "examples": [
+          {
+            "sentence": "Marijuana is legal in some states.",
+            "translation": "大麻在一些州是合法的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cannabis",
+        "type": "noun",
+        "definition": {
+          "chinese": "大麻植物；医用大麻",
+          "english": "The plant from which marijuana is produced."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语更常用 weed",
+        "explanation": "尤其在年轻人和非正式场合。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自墨西哥西班牙语 marihuana，表示大麻植物。",
+      "explanation_english": "Borrowed from Mexican Spanish 'marihuana'."
+    },
+    "variation_between_british_american": {
+      "british": "marijuana/ cannabis 均常用。",
+      "american": "marijuana 更常见，weed 口语化。"
+    }
+  },
+  {
+    "word": "capricious",
+    "pronunciation": {
+      "british": "/kəˈprɪʃ.əs/ 🇬🇧",
+      "american": "/kəˈprɪʃ.əs/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "正式但常见：表示反复无常、情绪多变。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "反复无常的，善变的",
+          "english": "Likely to change suddenly and without reason."
+        },
+        "examples": [
+          {
+            "sentence": "The weather here is capricious.",
+            "translation": "这里的天气反复无常。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "unpredictable",
+        "type": "adjective",
+        "definition": {
+          "chinese": "不可预测的",
+          "english": "Not able to be foreseen."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气偏正式",
+        "explanation": "常用于描述性格、天气或行为。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自意大利语 capriccio，意思是“突发奇想、怪念头”。",
+      "explanation_english": "From Italian 'capriccio', meaning whim or sudden fancy."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "rehab",
+    "pronunciation": {
+      "british": "/ˈriː.hæb/ 🇬🇧",
+      "american": "/ˈriː.hæb/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词（缩写）",
+    "usage": "日常用语常见 👍：指戒毒/戒酒治疗或康复治疗。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "康复中心；戒毒/戒酒治疗",
+          "english": "A place or program for rehabilitation, especially for drug or alcohol addiction."
+        },
+        "examples": [
+          {
+            "sentence": "He checked into rehab last month.",
+            "translation": "他上个月入住康复中心。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "让…接受康复治疗",
+          "english": "To send someone to rehabilitation."
+        },
+        "examples": [
+          {
+            "sentence": "They tried to rehab him after his relapse.",
+            "translation": "他复发后，他们试图让他重新接受康复治疗。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "rehabilitation",
+        "type": "noun",
+        "definition": {
+          "chinese": "康复，复健",
+          "english": "The process of restoring someone to health."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语缩写",
+        "explanation": "rehab = rehabilitation。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "rehab 是 rehabilitation 的缩写，原指“恢复、复健”，在现代语境更多用于戒毒戒酒。",
+      "explanation_english": "Short for 'rehabilitation'; extended from general recovery to addiction treatment."
+    },
+    "variation_between_british_american": {
+      "british": "也常用，但稍更正式。",
+      "american": "非常常用，尤其在新闻/娱乐圈报道。"
+    }
+  },
+  {
+    "word": "footage",
+    "pronunciation": {
+      "british": "/ˈfʊtɪdʒ/ 🇬🇧",
+      "american": "/ˈfʊtɪdʒ/ 🇺🇸"
+    },
+    "phrase_type": "noun（不可数）",
+    "usage": "非常常用 👍：多用于新闻、影视，指录像或视频素材。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "录像资料，视频素材",
+          "english": "Recorded video material, especially for news or films."
+        },
+        "examples": [
+          {
+            "sentence": "Police released security camera footage.",
+            "translation": "警方公布了监控录像。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "英尺数（长度）",
+          "english": "The length of something measured in feet."
+        },
+        "examples": [
+          {
+            "sentence": "The total footage of cable needed is 200 feet.",
+            "translation": "所需电缆的总长度是 200 英尺。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "clip",
+        "type": "noun",
+        "definition": {
+          "chinese": "短视频片段",
+          "english": "A short piece of video."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "不可数名词",
+        "explanation": "不能说 *a footage*，要说 *a piece of footage*。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初来自 foot（英尺），表示胶片长度；后来随着影视发展，引申为“录像内容”。",
+      "explanation_english": "Originally referred to film length measured in feet, later extended to mean video content itself."
+    },
+    "variation_between_british_american": {
+      "british": "新闻和纪录片中非常常见。",
+      "american": "影视、社交媒体语境中使用频率更高。"
+    }
+  },
+  {
+    "word": "cognitive",
+    "pronunciation": {
+      "british": "/ˈkɒɡ.nɪ.tɪv/ 🇬🇧",
+      "american": "/ˈkɑːɡ.nə.tɪv/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用（学术/心理/医学）：与思考、认知有关。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "认知的，思维的",
+          "english": "Related to thinking, understanding, learning, and memory."
+        },
+        "examples": [
+          {
+            "sentence": "Cognitive skills decline with age.",
+            "translation": "认知能力会随着年龄下降。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cognition",
+        "type": "noun",
+        "definition": {
+          "chinese": "认知",
+          "english": "The mental action of acquiring knowledge."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见搭配",
+        "explanation": "cognitive ability / cognitive function / cognitive decline"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 cognoscere（知道、认识），词义本身非常稳定，没有口语化延伸。",
+      "explanation_english": "From Latin 'cognoscere' meaning 'to know'; meaning has remained technical and stable."
+    },
+    "variation_between_british_american": {
+      "british": "更偏学术语境。",
+      "american": "在心理学、医疗和媒体中都很常见。"
+    }
+  },
+  {
+    "word": "detoxes",
+    "pronunciation": {
+      "british": "/ˈdiː.tɒksɪz/ 🇬🇧",
+      "american": "/ˈdiː.tɑːksɪz/ 🇺🇸"
+    },
+    "phrase_type": "noun plural / verb",
+    "usage": "常用 👍：与健康、戒毒、身体或心理“清除”有关。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "排毒疗程；戒断过程",
+          "english": "Processes intended to remove toxins or harmful substances."
+        },
+        "examples": [
+          {
+            "sentence": "Juice detoxes are popular online.",
+            "translation": "果汁排毒在网上很流行。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "排毒；戒断",
+          "english": "To remove toxic substances or addictive influences."
+        },
+        "examples": [
+          {
+            "sentence": "The clinic detoxes patients safely.",
+            "translation": "这家诊所安全地帮助病人戒断。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cleanse",
+        "type": "verb",
+        "definition": {
+          "chinese": "净化，清理",
+          "english": "To purify or remove impurities."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "医学 vs 流行用法",
+        "explanation": "医学上是真正戒断；流行语中常指“身体/社交媒体排毒”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "detox 是 detoxification 的缩写，最初是医学术语，后来被广泛用于健康和生活方式领域。",
+      "explanation_english": "Short for 'detoxification'; originally medical, later extended to lifestyle and wellness contexts."
+    },
+    "variation_between_british_american": {
+      "british": "更偏医学和正式语境。",
+      "american": "生活方式、健身、社交媒体中非常常见。"
+    }
+  },
+  {
+    "word": "plan out",
+    "pronunciation": {
+      "british": "/plæn aʊt/ 🇬🇧",
+      "american": "/plæn aʊt/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "非常常用 👍：强调把计划“想清楚、规划完整”。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "详细规划；事先安排好",
+          "english": "To carefully plan something in detail."
+        },
+        "examples": [
+          {
+            "sentence": "We planned out every step of the trip.",
+            "translation": "我们把这次旅行的每一步都详细规划好了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "map out",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "勾画出；规划",
+          "english": "To plan something carefully."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "out 的作用",
+        "explanation": "out 表示“彻底、完整”，不是方向。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "plan 本义是“计划”，out 作为强调副词加强“想清楚、做到位”的含义。",
+      "explanation_english": "The verb 'plan' is intensified by 'out', meaning fully or thoroughly."
+    },
+    "variation_between_british_american": {
+      "british": "使用频率略低于 map out。",
+      "american": "非常常用，偏口语。"
+    }
+  },
+  {
+    "word": "cannon",
+    "pronunciation": {
+      "british": "/ˈkæn.ən/ 🇬🇧",
+      "american": "/ˈkæn.ən/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用：军事、体育、比喻表达中出现。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大炮",
+          "english": "A large, heavy gun fired using explosives."
+        },
+        "examples": [
+          {
+            "sentence": "The old fortress still has iron cannons.",
+            "translation": "那座古堡里仍然有铁制大炮。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "猛撞；高速冲撞",
+          "english": "To collide forcefully or move at great speed."
+        },
+        "examples": [
+          {
+            "sentence": "He cannoned into the crowd.",
+            "translation": "他猛地撞进了人群。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "artillery",
+        "type": "noun",
+        "definition": {
+          "chinese": "火炮",
+          "english": "Large-caliber guns used in warfare."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "易混词",
+        "explanation": "❌ cannon ≠ canon（法则、经典）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意是武器，后来因“冲击力巨大”被引申为动词用法。",
+      "explanation_english": "Originally a weapon; verb sense developed metaphorically from its forceful impact."
+    },
+    "variation_between_british_american": {
+      "british": "体育评论中常见动词用法。",
+      "american": "名词用法更常见。"
+    }
+  },
+  {
+    "word": "harass",
+    "pronunciation": {
+      "british": "/ˈhær.əs/ 🇬🇧",
+      "american": "/həˈræs/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "非常常用（正式/法律/职场）：表示持续骚扰。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "骚扰；不断烦扰",
+          "english": "To repeatedly disturb, threaten, or pressure someone."
+        },
+        "examples": [
+          {
+            "sentence": "She was harassed by anonymous messages.",
+            "translation": "她不断受到匿名消息的骚扰。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bully",
+        "type": "verb",
+        "definition": {
+          "chinese": "霸凌",
+          "english": "To harm or intimidate someone weaker."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "法律敏感词",
+        "explanation": "常用于 sexual harassment / workplace harassment。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语 harasser，意为“疲惫、消耗”，后演变为精神和行为上的骚扰。",
+      "explanation_english": "From French 'harasser', meaning to exhaust or wear down, later extended to harassment."
+    },
+    "variation_between_british_american": {
+      "british": "重音在前。",
+      "american": "重音在后（ha-RASS）。"
+    }
+  },
+  {
+    "word": "hokey",
+    "pronunciation": {
+      "british": "/ˈhəʊ.ki/ 🇬🇧",
+      "american": "/ˈhoʊ.ki/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "口语常用 👍：带轻微贬义，表示“假、尬、老套”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "俗套的；做作的；尴尬的",
+          "english": "Too sentimental, fake, or old-fashioned in an embarrassing way."
+        },
+        "examples": [
+          {
+            "sentence": "The movie was sweet but kind of hokey.",
+            "translation": "这部电影很甜，但有点做作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cheesy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "俗气的",
+          "english": "Overly sentimental or clichéd."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气判断",
+        "explanation": "通常是轻微吐槽，不是严重批评。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "20 世纪美国俚语，原意不明确，逐渐演变为“不真诚、老掉牙”。",
+      "explanation_english": "An American slang term from the early 20th century, evolving to mean fake or corny."
+    },
+    "variation_between_british_american": {
+      "british": "使用频率略低。",
+      "american": "非常常见的口语评价词。"
+    }
   }
 ]
 
