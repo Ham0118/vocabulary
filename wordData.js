@@ -55388,6 +55388,641 @@ const wordData = [
       "british": "使用频率略低。",
       "american": "非常常见的口语评价词。"
     }
+  },
+  {
+    "word": "nudity",
+    "pronunciation": {
+      "british": "/ˈnjuː.dɪ.ti/ 🇬🇧",
+      "american": "/ˈnuː.də.t̬i/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常见于艺术、电影分级、法律语境；中性偏正式。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "裸体；裸露状态",
+          "english": "The state of being naked."
+        },
+        "examples": [
+          {
+            "sentence": "The film contains brief nudity.",
+            "translation": "这部电影含有短暂的裸露画面。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 nūdus（裸），意义稳定。",
+      "explanation_english": "From Latin 'nudus' meaning naked; meaning is stable."
+    },
+    "variation_between_british_american": {
+      "british": "常见于分级说明。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "busted",
+    "pronunciation": {
+      "british": "/ˈbʌs.tɪd/ 🇬🇧",
+      "american": "/ˈbʌs.tɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb 多义词",
+    "usage": "非常口语 👍：被抓、坏了、没钱。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "被抓到的",
+          "english": "Caught doing something wrong."
+        },
+        "examples": [
+          {
+            "sentence": "We got busted by the teacher.",
+            "translation": "我们被老师抓到了。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "坏了的",
+          "english": "Broken or not working."
+        },
+        "examples": [
+          {
+            "sentence": "The TV is busted.",
+            "translation": "电视坏了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由“打碎”引申为“被查获”。",
+      "explanation_english": "Extended from 'break' to 'caught'."
+    },
+    "variation_between_british_american": {
+      "british": "口语使用。",
+      "american": "非常常见口语。"
+    }
+  },
+  {
+    "word": "tenure",
+    "pronunciation": {
+      "british": "/ˈten.jʊə/ 🇬🇧",
+      "american": "/ˈten.jɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "正式 👍：学术、职位稳定期。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "终身教职；任期",
+          "english": "A permanent academic position or period of holding a job."
+        },
+        "examples": [
+          {
+            "sentence": "She was granted tenure.",
+            "translation": "她获得了终身教职。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "拉丁语 tenere（持有）。",
+      "explanation_english": "From Latin 'tenere' meaning to hold."
+    },
+    "variation_between_british_american": {
+      "british": "也指土地占有。",
+      "american": "多指学术终身制。"
+    }
+  },
+  {
+    "word": "muddy",
+    "pronunciation": {
+      "british": "/ˈmʌd.i/ 🇬🇧",
+      "american": "/ˈmʌd.i/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用：字面+比喻。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "泥泞的；不清楚的",
+          "english": "Covered in mud or unclear/confusing."
+        },
+        "examples": [
+          {
+            "sentence": "His explanation was muddy.",
+            "translation": "他的解释不清楚。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“脏乱”引申为“思路不清”。",
+      "explanation_english": "Metaphorical extension from dirty to unclear."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "puddle",
+    "pronunciation": {
+      "british": "/ˈpʌd.əl/ 🇬🇧",
+      "american": "/ˈpʌd.əl/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "日常用词 👍。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "小水坑",
+          "english": "A small pool of liquid."
+        },
+        "examples": [
+          {
+            "sentence": "Kids jumped in puddles.",
+            "translation": "孩子们在水坑里跳。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本义稳定。",
+      "explanation_english": "Stable meaning."
+    },
+    "variation_between_british_american": {
+      "british": "常见。",
+      "american": "常见。"
+    }
+  },
+  {
+    "word": "run along",
+    "pronunciation": {
+      "british": "/rʌn əˈlɒŋ/ 🇬🇧",
+      "american": "/rʌn əˈlɔːŋ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "口语：温和地让人离开。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "走开吧",
+          "english": "Go away, usually said gently."
+        },
+        "examples": [
+          {
+            "sentence": "Run along now.",
+            "translation": "好了，走开吧。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由“向前跑”引申为礼貌告别。",
+      "explanation_english": "Extended to a polite dismissal."
+    },
+    "variation_between_british_american": {
+      "british": "常对孩子说。",
+      "american": "语气更随意。"
+    }
+  },
+  {
+    "word": "supper time",
+    "pronunciation": {
+      "british": "/ˈsʌp.ə taɪm/ 🇬🇧",
+      "american": "/ˈsʌp.ɚ taɪm/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "偏英式/家庭用语。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "晚餐时间",
+          "english": "The time when supper is eaten."
+        },
+        "examples": [
+          {
+            "sentence": "It's supper time!",
+            "translation": "该吃晚饭了！"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "supper 为传统英式晚餐。",
+      "explanation_english": "Traditional British usage."
+    },
+    "variation_between_british_american": {
+      "british": "常用。",
+      "american": "更常说 dinner time。"
+    }
+  },
+  {
+    "word": "tuck up",
+    "pronunciation": {
+      "british": "/tʌk ʌp/ 🇬🇧",
+      "american": "/tʌk ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb",
+    "usage": "温馨口语 👍。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "给…盖好被子",
+          "english": "To make someone comfortable in bed."
+        },
+        "examples": [
+          {
+            "sentence": "She tucked the kids up.",
+            "translation": "她给孩子们盖好被子。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "tuck（塞）+ up（完成）。",
+      "explanation_english": "Tuck plus 'up' meaning completed."
+    },
+    "variation_between_british_american": {
+      "british": "常见。",
+      "american": "常见。"
+    }
+  },
+  {
+    "word": "draught",
+    "pronunciation": {
+      "british": "/drɑːft/ 🇬🇧",
+      "american": "/dræft/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "正式/英式。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "穿堂风；通风",
+          "english": "A current of air in a room."
+        },
+        "examples": [
+          {
+            "sentence": "There's a cold draught.",
+            "translation": "有冷风。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "拼写差异",
+        "explanation": "美式多写 draft。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "古英语“拉、引”。",
+      "explanation_english": "From Old English meaning draw."
+    },
+    "variation_between_british_american": {
+      "british": "draught。",
+      "american": "draft。"
+    }
+  },
+  {
+    "word": "veto",
+    "pronunciation": {
+      "british": "/ˈviː.təʊ/ 🇬🇧",
+      "american": "/ˈviː.toʊ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb",
+    "usage": "政治/制度用语。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "否决",
+          "english": "To reject a decision officially."
+        },
+        "examples": [
+          {
+            "sentence": "The president vetoed the bill.",
+            "translation": "总统否决了法案。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "拉丁语“我禁止”。",
+      "explanation_english": "From Latin meaning 'I forbid'."
+    },
+    "variation_between_british_american": {
+      "british": "用法相同。",
+      "american": "用法相同。"
+    }
+  },
+  {
+    "word": "retract",
+    "pronunciation": {
+      "british": "/rɪˈtrækt/ 🇬🇧",
+      "american": "/rɪˈtrækt/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "正式：声明、言论。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "撤回；收回",
+          "english": "To withdraw a statement."
+        },
+        "examples": [
+          {
+            "sentence": "He retracted his comment.",
+            "translation": "他撤回了评论。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "拉回之意。",
+      "explanation_english": "Literally to pull back."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "ginger ale",
+    "pronunciation": {
+      "british": "/ˈdʒɪn.dʒə eɪl/ 🇬🇧",
+      "american": "/ˈdʒɪn.dʒɚ eɪl/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常见饮料。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "姜汁汽水",
+          "english": "A sweet carbonated drink flavored with ginger."
+        },
+        "examples": [
+          {
+            "sentence": "He ordered a ginger ale.",
+            "translation": "他点了一杯姜汁汽水。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "拼写纠正",
+        "explanation": "常被误写为 giner ale（错误）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "ale 为历史用词。",
+      "explanation_english": "Named historically with 'ale'."
+    },
+    "variation_between_british_american": {
+      "british": "较少见。",
+      "american": "非常常见。"
+    }
+  },
+  {
+    "word": "portrait",
+    "pronunciation": {
+      "british": "/ˈpɔː.trɪt/ 🇬🇧",
+      "american": "/ˈpɔːr.trɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "艺术/摄影。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "肖像",
+          "english": "A picture of a person."
+        },
+        "examples": [
+          {
+            "sentence": "She painted a portrait.",
+            "translation": "她画了一幅肖像。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自描绘。",
+      "explanation_english": "From portray."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "bartender",
+    "pronunciation": {
+      "british": "/ˈbɑːˌten.dər/ 🇬🇧",
+      "american": "/ˈbɑːrˌten.dɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "日常职业词。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "酒保",
+          "english": "A person who serves drinks at a bar."
+        },
+        "examples": [
+          {
+            "sentence": "The bartender mixed cocktails.",
+            "translation": "酒保调制鸡尾酒。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "bar + tender。",
+      "explanation_english": "One who tends a bar."
+    },
+    "variation_between_british_american": {
+      "british": "bar staff 也常用。",
+      "american": "bartender 标准说法。"
+    }
+  },
+  {
+    "word": "curler",
+    "pronunciation": {
+      "british": "/ˈkɜː.lər/ 🇬🇧",
+      "american": "/ˈkɝː.lɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "美容/运动。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "卷发器；睫毛夹",
+          "english": "A tool used to curl hair or eyelashes."
+        },
+        "examples": [
+          {
+            "sentence": "She used an eyelash curler.",
+            "translation": "她用了睫毛夹。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从 curl（卷）派生。",
+      "explanation_english": "Derived from 'curl'."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "mascara",
+    "pronunciation": {
+      "british": "/mæˈskɑː.rə/ 🇬🇧",
+      "american": "/mæˈsker.ə/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "化妆品。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "睫毛膏",
+          "english": "A cosmetic for darkening eyelashes."
+        },
+        "examples": [
+          {
+            "sentence": "She applied mascara.",
+            "translation": "她涂了睫毛膏。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自意大利语。",
+      "explanation_english": "From Italian."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "eyeliner",
+    "pronunciation": {
+      "british": "/ˈaɪ.laɪ.nər/ 🇬🇧",
+      "american": "/ˈaɪ.laɪ.nɚ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "化妆品。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "眼线",
+          "english": "A cosmetic applied around the eyes."
+        },
+        "examples": [
+          {
+            "sentence": "She wears black eyeliner.",
+            "translation": "她画黑色眼线。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "line（画线）。",
+      "explanation_english": "From 'line'."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "lipstick",
+    "pronunciation": {
+      "british": "/ˈlɪp.stɪk/ 🇬🇧",
+      "american": "/ˈlɪp.stɪk/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "基础化妆品。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "口红",
+          "english": "A cosmetic applied to the lips."
+        },
+        "examples": [
+          {
+            "sentence": "Her lipstick is red.",
+            "translation": "她的口红是红色的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "lip + stick。",
+      "explanation_english": "Compound noun."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
   }
 ]
 
