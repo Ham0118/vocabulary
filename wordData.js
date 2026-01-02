@@ -56023,7 +56023,609 @@ const wordData = [
       "british": "一致。",
       "american": "一致。"
     }
+  },
+  {
+    "word": "obsess",
+    "pronunciation": {
+      "british": "/əbˈses/ 🇬🇧",
+      "american": "/əbˈses/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用但偏情绪化 👍：指过度关注。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "过分迷恋；纠结",
+          "english": "To think about something constantly and excessively."
+        },
+        "examples": [
+          {
+            "sentence": "He obsesses over small details.",
+            "translation": "他对小细节过度纠结。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语“占据心智”。",
+      "explanation_english": "From Latin meaning to occupy the mind."
+    },
+    "variation_between_british_american": {
+      "british": "常见。",
+      "american": "常见。"
+    }
+  },
+  {
+    "word": "jackpot",
+    "pronunciation": {
+      "british": "/ˈdʒæk.pɒt/ 🇬🇧",
+      "american": "/ˈdʒæk.pɑːt/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "口语 👍：中大奖或意外成功。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "头奖；巨大成功",
+          "english": "A large prize or big success."
+        },
+        "examples": [
+          {
+            "sentence": "He hit the jackpot.",
+            "translation": "他中了大奖。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自扑克牌术语。",
+      "explanation_english": "Originally from poker terminology."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "trade",
+    "pronunciation": {
+      "british": "/treɪd/ 🇬🇧",
+      "american": "/treɪd/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "贸易；行业",
+          "english": "The activity of buying and selling goods."
+        },
+        "examples": [
+          {
+            "sentence": "International trade is growing.",
+            "translation": "国际贸易在增长。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "交换",
+          "english": "To exchange something."
+        },
+        "examples": [
+          {
+            "sentence": "They traded seats.",
+            "translation": "他们交换了座位。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“路径”引申为“交换行为”。",
+      "explanation_english": "Extended from path/track to exchange."
+    },
+    "variation_between_british_american": {
+      "british": "trade school 常用。",
+      "american": "同样使用。"
+    }
+  },
+  {
+    "word": "distilled",
+    "pronunciation": {
+      "british": "/dɪˈstɪld/ 🇬🇧",
+      "american": "/dɪˈstɪld/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb",
+    "usage": "正式/技术用语。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "蒸馏的；提炼的",
+          "english": "Purified by heating and cooling."
+        },
+        "examples": [
+          {
+            "sentence": "Distilled water is used in labs.",
+            "translation": "实验室使用蒸馏水。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意义，后引申为“精华”。",
+      "explanation_english": "Literal meaning extended to essence."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "devious",
+    "pronunciation": {
+      "british": "/ˈdiː.vi.əs/ 🇬🇧",
+      "american": "/ˈdiː.vi.əs/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "偏负面 👍。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "狡猾的；不正直的",
+          "english": "Using dishonest or indirect methods."
+        },
+        "examples": [
+          {
+            "sentence": "He has a devious plan.",
+            "translation": "他有个狡猾的计划。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自“偏离正道”。",
+      "explanation_english": "From deviating from a straight path."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "tie the knot",
+    "pronunciation": {
+      "british": "/taɪ ðə nɒt/ 🇬🇧",
+      "american": "/taɪ ðə nɑːt/ 🇺🇸"
+    },
+    "phrase_type": "idiom",
+    "usage": "非常常用 👍：结婚。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "结婚",
+          "english": "To get married."
+        },
+        "examples": [
+          {
+            "sentence": "They tied the knot last year.",
+            "translation": "他们去年结婚了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "古代婚礼绑结象征。",
+      "explanation_english": "From symbolic wedding knots."
+    },
+    "variation_between_british_american": {
+      "british": "常见。",
+      "american": "常见。"
+    }
+  },
+  {
+    "word": "bouquet",
+    "pronunciation": {
+      "british": "/buːˈkeɪ/ 🇬🇧",
+      "american": "/buːˈkeɪ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "婚礼/正式。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "花束",
+          "english": "An arranged bunch of flowers."
+        },
+        "examples": [
+          {
+            "sentence": "She threw her bouquet.",
+            "translation": "她抛了捧花。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "法语来源。",
+      "explanation_english": "From French."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "jump the broom",
+    "pronunciation": {
+      "british": "/dʒʌmp ðə bruːm/ 🇬🇧",
+      "american": "/dʒʌmp ðə bruːm/ 🇺🇸"
+    },
+    "phrase_type": "idiom",
+    "usage": "文化特定表达。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "举行传统婚礼（非正式）",
+          "english": "To get married, traditionally in African-American culture."
+        },
+        "examples": [
+          {
+            "sentence": "They jumped the broom.",
+            "translation": "他们举行了婚礼。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "文化背景",
+        "explanation": "与非裔美国人历史相关。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于历史习俗。",
+      "explanation_english": "From historical wedding customs."
+    },
+    "variation_between_british_american": {
+      "british": "较少见。",
+      "american": "更常见。"
+    }
+  },
+  {
+    "word": "shoelace",
+    "pronunciation": {
+      "british": "/ˈʃuː.leɪs/ 🇬🇧",
+      "american": "/ˈʃuː.leɪs/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "日常。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "鞋带",
+          "english": "A lace used to fasten shoes."
+        },
+        "examples": [
+          {
+            "sentence": "Your shoelace is loose.",
+            "translation": "你的鞋带松了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "复合词。",
+      "explanation_english": "Compound noun."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "groomsman",
+    "pronunciation": {
+      "british": "/ˈɡruːmz.mən/ 🇬🇧",
+      "american": "/ˈɡruːmz.mən/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "婚礼用语。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "伴郎",
+          "english": "A man who assists the groom at a wedding."
+        },
+        "examples": [
+          {
+            "sentence": "He was a groomsman.",
+            "translation": "他是伴郎。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "拼写纠正",
+        "explanation": "正确拼写为 groomsman（非 groomman）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "groom + man。",
+      "explanation_english": "Man attending the groom."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "bridesmaid",
+    "pronunciation": {
+      "british": "/ˈbraɪdz.meɪd/ 🇬🇧",
+      "american": "/ˈbraɪdz.meɪd/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "婚礼用语。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "伴娘",
+          "english": "A woman who assists the bride at a wedding."
+        },
+        "examples": [
+          {
+            "sentence": "She was a bridesmaid.",
+            "translation": "她是伴娘。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "bride + maid。",
+      "explanation_english": "Maid attending the bride."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "spur of the moment",
+    "pronunciation": {
+      "british": "/spɜːr əv ðə ˈməʊ.mənt/ 🇬🇧",
+      "american": "/spɝːr əv ðə ˈmoʊ.mənt/ 🇺🇸"
+    },
+    "phrase_type": "idiom",
+    "usage": "非常常用 👍。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "一时冲动",
+          "english": "Done without planning."
+        },
+        "examples": [
+          {
+            "sentence": "It was a spur-of-the-moment decision.",
+            "translation": "这是个冲动的决定。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "spur 原指马刺。",
+      "explanation_english": "From spurring a horse suddenly."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "unite",
+    "pronunciation": {
+      "british": "/juːˈnaɪt/ 🇬🇧",
+      "american": "/juːˈnaɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "正式/中性。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "联合；团结",
+          "english": "To join together."
+        },
+        "examples": [
+          {
+            "sentence": "The event united people.",
+            "translation": "活动让人们团结在一起。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 unit。",
+      "explanation_english": "From unit."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "hostility",
+    "pronunciation": {
+      "british": "/hɒˈstɪl.ɪ.ti/ 🇬🇧",
+      "american": "/hɑːˈstɪl.ə.t̬i/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "正式/新闻。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "敌意；敌对行为",
+          "english": "Hostile behavior or feelings."
+        },
+        "examples": [
+          {
+            "sentence": "There was open hostility.",
+            "translation": "存在公开敌意。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "拉丁语“敌人”。",
+      "explanation_english": "From Latin hostis."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "aquarium",
+    "pronunciation": {
+      "british": "/əˈkweə.ri.əm/ 🇬🇧",
+      "american": "/əˈkwer.i.əm/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "日常/场所。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "水族馆；鱼缸",
+          "english": "A place or tank for aquatic animals."
+        },
+        "examples": [
+          {
+            "sentence": "We visited the aquarium.",
+            "translation": "我们去了水族馆。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "拉丁语 aqua（水）。",
+      "explanation_english": "From Latin aqua."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "dried up",
+    "pronunciation": {
+      "british": "/draɪd ʌp/ 🇬🇧",
+      "american": "/draɪd ʌp/ 🇺🇸"
+    },
+    "phrase_type": "adjective/phrasal verb",
+    "usage": "字面+比喻 👍。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "干涸的；枯竭的",
+          "english": "No longer having liquid or supply."
+        },
+        "examples": [
+          {
+            "sentence": "The river dried up.",
+            "translation": "河流干涸了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面→资源/灵感枯竭。",
+      "explanation_english": "Literal to metaphorical extension."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
+  },
+  {
+    "word": "freckle",
+    "pronunciation": {
+      "british": "/ˈfrek.əl/ 🇬🇧",
+      "american": "/ˈfrek.əl/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "日常。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "雀斑",
+          "english": "A small brown spot on the skin."
+        },
+        "examples": [
+          {
+            "sentence": "She has freckles.",
+            "translation": "她有雀斑。"
+          }
+        ]
+      }
+    ],
+    "related_words": [],
+    "notes": [],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语。",
+      "explanation_english": "From Old English."
+    },
+    "variation_between_british_american": {
+      "british": "一致。",
+      "american": "一致。"
+    }
   }
+
 ]
 
 
