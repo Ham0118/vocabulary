@@ -56624,8 +56624,396 @@ const wordData = [
       "british": "一致。",
       "american": "一致。"
     }
+  },
+  {
+    "word": "console",
+    "pronunciation": {
+      "british": "/kənˈsəʊl/ 🇬🇧",
+      "american": "/kənˈsoʊl/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：既可指“控制台/游戏机”，也可作动词表示“安慰”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "控制台；操作台",
+          "english": "A panel or unit for controlling electronic or mechanical equipment."
+        },
+        "examples": [
+          {
+            "sentence": "The technician fixed the system from the console.",
+            "translation": "技术员在控制台上修复了系统。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "游戏机",
+          "english": "A device used for playing video games."
+        },
+        "examples": [
+          {
+            "sentence": "He bought a new gaming console.",
+            "translation": "他买了一台新的游戏机。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "安慰，抚慰",
+          "english": "To comfort someone in a time of grief or disappointment."
+        },
+        "examples": [
+          {
+            "sentence": "She tried to console her friend after the loss.",
+            "translation": "她在朋友失去亲人后安慰了她。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "comfort",
+        "type": "verb",
+        "definition": {
+          "chinese": "安慰",
+          "english": "To ease someone’s sadness or pain."
+        },
+        "examples": [
+          {
+            "sentence": "He comforted the child.",
+            "translation": "他安慰了那个孩子。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "名词和动词意义差异大",
+        "explanation": "名词多与设备相关，动词完全转向情感领域。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语“consolari”（安慰），动词意义是本义；名词“控制台”是后来因形状像“支撑结构”而产生的技术延伸。",
+      "explanation_english": "From Latin ‘consolari’ (to comfort). The verb sense is original; the noun sense for equipment came later by metaphorical extension."
+    },
+    "variation_between_british_american": {
+      "british": "两种用法都常见。",
+      "american": "“console”作游戏机用法更频繁。"
+    }
+  },
+  {
+    "word": "meltdown",
+    "pronunciation": {
+      "british": "/ˈmeltdaʊn/ 🇬🇧",
+      "american": "/ˈmeltdaʊn/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "常用 👍：既可指“核反应堆熔毁”，也常用于形容“情绪崩溃”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "熔毁（核事故）",
+          "english": "A severe nuclear reactor accident caused by overheating."
+        },
+        "examples": [
+          {
+            "sentence": "The plant narrowly avoided a meltdown.",
+            "translation": "该核电站险些发生熔毁事故。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "情绪崩溃",
+          "english": "A sudden loss of emotional control."
+        },
+        "examples": [
+          {
+            "sentence": "He had a meltdown at work.",
+            "translation": "他在工作中情绪彻底崩溃了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "breakdown",
+        "type": "noun",
+        "definition": {
+          "chinese": "精神崩溃",
+          "english": "A mental or emotional collapse."
+        },
+        "examples": [
+          {
+            "sentence": "She suffered a nervous breakdown.",
+            "translation": "她经历了一次精神崩溃。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法很口语",
+        "explanation": "在日常英语中多指情绪失控。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指物理意义上的“熔化崩塌”，后被比喻用来描述心理状态的“彻底失控”。",
+      "explanation_english": "Originally literal (physical melting), later metaphorically extended to emotional collapse."
+    },
+    "variation_between_british_american": {
+      "british": "正式语境更偏向技术含义。",
+      "american": "口语中更常用作情绪崩溃。"
+    }
+  },
+  {
+    "word": "exclusion",
+    "pronunciation": {
+      "british": "/ɪkˈskluːʒn/ 🇬🇧",
+      "american": "/ɪkˈskluːʒn/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "较正式 📘：常用于社会、法律、保险语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "排除；不包括",
+          "english": "The act of leaving someone or something out."
+        },
+        "examples": [
+          {
+            "sentence": "The exclusion of certain groups caused controversy.",
+            "translation": "某些群体被排除在外引发了争议。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "除外条款",
+          "english": "A clause that specifies what is not covered."
+        },
+        "examples": [
+          {
+            "sentence": "Check the policy for exclusions.",
+            "translation": "查看保单中的除外条款。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "exclude",
+        "type": "verb",
+        "definition": {
+          "chinese": "排除",
+          "english": "To deliberately leave out."
+        },
+        "examples": [
+          {
+            "sentence": "They excluded him from the team.",
+            "translation": "他们把他排除在团队之外。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式书面语",
+        "explanation": "日常口语更常用 exclude 而不是 exclusion。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "核心意义始终是“排除”，法律和保险中的含义属于专业语境的细化，而非真正的新义。",
+      "explanation_english": "The core meaning ‘to leave out’ remains; legal and insurance senses are specialized extensions."
+    },
+    "variation_between_british_american": {
+      "british": "法律和教育语境常见。",
+      "american": "保险文件中使用频率更高。"
+    }
+  },
+  {
+    "word": "hairy",
+    "pronunciation": {
+      "british": "/ˈheəri/ 🇬🇧",
+      "american": "/ˈheri/ 🇺🇸"
+    },
+    "phrase_type": "adjective 多义词",
+    "usage": "常用 👍：既可指“多毛的”，也可形容“棘手的”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "多毛的",
+          "english": "Covered with hair."
+        },
+        "examples": [
+          {
+            "sentence": "He has hairy arms.",
+            "translation": "他胳膊很多毛。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "棘手的；吓人的",
+          "english": "Difficult, risky, or frightening."
+        },
+        "examples": [
+          {
+            "sentence": "That was a hairy situation.",
+            "translation": "那是个很棘手的情况。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "tricky",
+        "type": "adjective",
+        "definition": {
+          "chinese": "棘手的",
+          "english": "Difficult to deal with."
+        },
+        "examples": [
+          {
+            "sentence": "It’s a tricky problem.",
+            "translation": "这是个棘手的问题。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻义很口语",
+        "explanation": "描述危险或复杂情况时很自然。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本义是“多毛的”，后因“让人起鸡皮疙瘩”而引申为“可怕或危险”。",
+      "explanation_english": "Literal sense is ‘covered with hair’; figurative sense arose from the idea of something that makes your hair stand on end."
+    },
+    "variation_between_british_american": {
+      "british": "两种用法都自然。",
+      "american": "比喻用法在口语中非常常见。"
+    }
+  },
+  {
+    "word": "puberty",
+    "pronunciation": {
+      "british": "/ˈpjuːbəti/ 🇬🇧",
+      "american": "/ˈpjuːbərti/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：多用于生理和教育语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "青春期",
+          "english": "The stage of life when a child develops into an adult physically."
+        },
+        "examples": [
+          {
+            "sentence": "He entered puberty early.",
+            "translation": "他很早进入了青春期。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "adolescence",
+        "type": "noun",
+        "definition": {
+          "chinese": "青少年期",
+          "english": "The period of development from childhood to adulthood."
+        },
+        "examples": [
+          {
+            "sentence": "Adolescence can be challenging.",
+            "translation": "青少年期可能充满挑战。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "不是多义词",
+        "explanation": "意义稳定，语义非常具体。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "该词意义自拉丁语时期就固定为“成熟阶段”，几乎没有语义延伸。",
+      "explanation_english": "From Latin ‘pubertas’ meaning maturity; the sense has remained stable with little semantic extension."
+    },
+    "variation_between_british_american": {
+      "british": "发音重音稍偏前。",
+      "american": "发音在中间音节更清晰。"
+    }
+  },
+  {
+    "word": "figuratively",
+    "pronunciation": {
+      "british": "/ˈfɪɡjərətɪvli/ 🇬🇧",
+      "american": "/ˈfɪɡjərətɪvli/ 🇺🇸"
+    },
+    "phrase_type": "adverb",
+    "usage": "非常常用 👍：用于提醒听者“这是比喻说法，不是字面意思”。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "比喻地；形象地说",
+          "english": "In a way that uses metaphor rather than literal meaning."
+        },
+        "examples": [
+          {
+            "sentence": "He was figuratively drowning in work.",
+            "translation": "他工作多到快被淹没了（比喻）。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "literally",
+        "type": "adverb",
+        "definition": {
+          "chinese": "字面地",
+          "english": "In a literal, exact sense."
+        },
+        "examples": [
+          {
+            "sentence": "I literally fell asleep.",
+            "translation": "我真的睡着了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用于澄清语义",
+        "explanation": "说话人用它来避免误解。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "该词不是多义词，本身就是从“figure（形象、图像）”引申而来，用于说明表达方式而非内容。",
+      "explanation_english": "Not truly polysemous; derived from ‘figure’ and used to mark metaphorical expression rather than add new meanings."
+    },
+    "variation_between_british_american": {
+      "british": "使用场景一致。",
+      "american": "口语和写作中都非常常见。"
+    }
   }
-
 ]
 
 
