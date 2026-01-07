@@ -57013,6 +57013,449 @@ const wordData = [
       "british": "使用场景一致。",
       "american": "口语和写作中都非常常见。"
     }
+  },
+  {
+    "word": "nacho",
+    "pronunciation": {
+      "british": "/ˈnætʃəʊ/ 🇬🇧",
+      "american": "/ˈnɑːtʃoʊ/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：多指一种墨西哥风味小吃。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "玉米片（配芝士等）",
+          "english": "A tortilla chip often topped with cheese or other ingredients."
+        },
+        "examples": [
+          {
+            "sentence": "We shared a plate of nachos.",
+            "translation": "我们分享了一盘玉米片。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "tortilla chip",
+        "type": "noun",
+        "definition": {
+          "chinese": "玉米脆片",
+          "english": "A thin, crispy chip made from corn tortilla."
+        },
+        "examples": [
+          {
+            "sentence": "Tortilla chips go well with salsa.",
+            "translation": "玉米脆片配莎莎酱很好吃。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多用于复数",
+        "explanation": "日常中更常说 ‘nachos’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自人名昵称“Nacho”，本义就是食物名，没有明显多义演变。",
+      "explanation_english": "From the nickname ‘Nacho’; the word mainly keeps its original food meaning."
+    },
+    "variation_between_british_american": {
+      "british": "餐厅语境常见。",
+      "american": "非常常见的酒吧和零食文化用语。"
+    }
+  },
+  {
+    "word": "toner",
+    "pronunciation": {
+      "british": "/ˈtəʊnə/ 🇬🇧",
+      "american": "/ˈtoʊnər/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "常用 👍：既可指护肤品，也可指打印机墨粉。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "爽肤水",
+          "english": "A liquid used to clean and prepare the skin."
+        },
+        "examples": [
+          {
+            "sentence": "She uses toner every night.",
+            "translation": "她每天晚上都会用爽肤水。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "碳粉；墨粉",
+          "english": "Powder used in laser printers and photocopiers."
+        },
+        "examples": [
+          {
+            "sentence": "The printer is out of toner.",
+            "translation": "打印机没墨粉了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "ink",
+        "type": "noun",
+        "definition": {
+          "chinese": "墨水",
+          "english": "Liquid used for writing or printing."
+        },
+        "examples": [
+          {
+            "sentence": "This printer uses ink cartridges.",
+            "translation": "这台打印机用的是墨盒。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语境区分",
+        "explanation": "美妆与办公场景含义完全不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自“tone（调色/调节）”，护肤品和打印粉都被视为“调整外观”的工具，因此产生两种用法。",
+      "explanation_english": "From ‘tone’; both skincare and printing uses relate to adjusting appearance, leading to parallel meanings."
+    },
+    "variation_between_british_american": {
+      "british": "两种含义都常见。",
+      "american": "护肤语境中更常听到。"
+    }
+  },
+  {
+    "word": "detention",
+    "pronunciation": {
+      "british": "/dɪˈtenʃn/ 🇬🇧",
+      "american": "/dɪˈtenʃn/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：在学校和法律语境都很常见。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "课后留校",
+          "english": "A punishment in which a student is kept after school."
+        },
+        "examples": [
+          {
+            "sentence": "He got detention for being late.",
+            "translation": "他因为迟到被留校。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "拘留",
+          "english": "The act of holding someone in custody."
+        },
+        "examples": [
+          {
+            "sentence": "The suspect is in detention.",
+            "translation": "嫌疑人被拘留了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "punishment",
+        "type": "noun",
+        "definition": {
+          "chinese": "惩罚",
+          "english": "A penalty for wrongdoing."
+        },
+        "examples": [
+          {
+            "sentence": "Detention is a common punishment.",
+            "translation": "留校是常见的惩罚方式。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语域差异",
+        "explanation": "学校是轻度惩罚，法律语境更严肃。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语“detinere（留住）”，核心意义是“扣留”，在不同场景下自然分化出不同用法。",
+      "explanation_english": "From Latin ‘detinere’ (to hold back); the core idea of keeping someone led to different contextual uses."
+    },
+    "variation_between_british_american": {
+      "british": "学校语境非常常见。",
+      "american": "学校和移民/法律语境都常用。"
+    }
+  },
+  {
+    "word": "goose bumps",
+    "pronunciation": {
+      "british": "/ˈɡuːs bʌmps/ 🇬🇧",
+      "american": "/ˈɡuːs bʌmps/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase 多义表达",
+    "usage": "非常常用 👍：既指生理反应，也常作情绪反应的比喻。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "鸡皮疙瘩（生理）",
+          "english": "Small raised bumps on the skin caused by cold or fear."
+        },
+        "examples": [
+          {
+            "sentence": "I got goose bumps from the cold.",
+            "translation": "我被冻得起了鸡皮疙瘩。"
+          }
+        ]
+      },
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "激动、感动到起鸡皮疙瘩",
+          "english": "A feeling of excitement or strong emotion."
+        },
+        "examples": [
+          {
+            "sentence": "That song gives me goose bumps.",
+            "translation": "那首歌让我起鸡皮疙瘩（被感动）。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "chills",
+        "type": "noun",
+        "definition": {
+          "chinese": "寒颤；激动感",
+          "english": "A sudden feeling of cold or excitement."
+        },
+        "examples": [
+          {
+            "sentence": "I got chills watching that scene.",
+            "translation": "看那一幕我起了一身鸡皮疙瘩。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻义很口语",
+        "explanation": "常用来形容音乐、演讲带来的强烈情绪。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本义是皮肤状态，后因强烈情绪也会引发同样反应而产生比喻义。",
+      "explanation_english": "Literal skin reaction came first; emotional meaning developed by metaphor."
+    },
+    "variation_between_british_american": {
+      "british": "也说 ‘goose pimples’。",
+      "american": "‘goose bumps’ 最常见。"
+    }
+  },
+  {
+    "word": "waterproof",
+    "pronunciation": {
+      "british": "/ˈwɔːtəpruːf/ 🇬🇧",
+      "american": "/ˈwɔːtərpruːf/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb",
+    "usage": "常用 👍：描述物品防水性能，也可作动词。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "防水的",
+          "english": "Resistant to the penetration of water."
+        },
+        "examples": [
+          {
+            "sentence": "This jacket is waterproof.",
+            "translation": "这件外套是防水的。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使防水",
+          "english": "To make something resistant to water."
+        },
+        "examples": [
+          {
+            "sentence": "They waterproofed the tent.",
+            "translation": "他们把帐篷做了防水处理。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "water-resistant",
+        "type": "adjective",
+        "definition": {
+          "chinese": "防水（不完全）",
+          "english": "Able to resist some water but not fully waterproof."
+        },
+        "examples": [
+          {
+            "sentence": "The watch is water-resistant, not waterproof.",
+            "translation": "这块表是防水但不是完全防水。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "程度差异",
+        "explanation": "waterproof 比 water-resistant 更强。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "先是形容词，后因需要表达“让某物变防水”而发展出动词用法。",
+      "explanation_english": "Adjective came first; verb developed by functional extension."
+    },
+    "variation_between_british_american": {
+      "british": "两种用法一致。",
+      "american": "商业广告中非常常见。"
+    }
+  },
+  {
+    "word": "permanent",
+    "pronunciation": {
+      "british": "/ˈpɜːmənənt/ 🇬🇧",
+      "american": "/ˈpɜːrmənənt/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：描述“长期不变的”状态。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "永久的；长期的",
+          "english": "Lasting for a long time or forever."
+        },
+        "examples": [
+          {
+            "sentence": "She has a permanent job.",
+            "translation": "她有一份长期稳定的工作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "temporary",
+        "type": "adjective",
+        "definition": {
+          "chinese": "临时的",
+          "english": "Lasting for a short time."
+        },
+        "examples": [
+          {
+            "sentence": "This is just a temporary solution.",
+            "translation": "这只是一个临时方案。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见拼写错误",
+        "explanation": "常被误拼为 ‘permanet’，正确拼写是 ‘permanent’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语‘permanere（持续）’，意义一直稳定，没有明显多义发展。",
+      "explanation_english": "From Latin ‘permanere’ (to remain); the meaning has stayed stable."
+    },
+    "variation_between_british_american": {
+      "british": "发音稍偏长元音。",
+      "american": "r 音更明显。"
+    }
+  },
+  {
+    "word": "Milky Way galaxy",
+    "pronunciation": {
+      "british": "/ˌmɪlki ˈweɪ ˈɡæləksi/ 🇬🇧",
+      "american": "/ˌmɪlki ˈweɪ ˈɡæləksi/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase",
+    "usage": "常用 👍：天文学基本词汇，也用于科普和比喻。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "银河系",
+          "english": "The galaxy that contains our solar system."
+        },
+        "examples": [
+          {
+            "sentence": "Earth is in the Milky Way galaxy.",
+            "translation": "地球位于银河系中。"
+          }
+        ]
+      },
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "银河（天空中的光带）",
+          "english": "The bright band of stars seen in the night sky."
+        },
+        "examples": [
+          {
+            "sentence": "You can see the Milky Way on clear nights.",
+            "translation": "在晴朗的夜晚你能看到银河。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "galaxy",
+        "type": "noun",
+        "definition": {
+          "chinese": "星系",
+          "english": "A system of millions or billions of stars."
+        },
+        "examples": [
+          {
+            "sentence": "There are billions of galaxies in the universe.",
+            "translation": "宇宙中有数十亿个星系。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "科学与日常用法并存",
+        "explanation": "既是正式天文学术语，也用于日常描述星空。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指夜空中的‘乳白色光带’，后来随着天文学发展，明确为我们所在的星系名称。",
+      "explanation_english": "Originally named for the milky band in the sky; later scientifically defined as our home galaxy."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
   }
 ]
 
