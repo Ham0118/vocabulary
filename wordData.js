@@ -57456,6 +57456,1188 @@ const wordData = [
       "british": "用法一致。",
       "american": "用法一致。"
     }
+  },
+  {
+    "word": "free pass",
+    "pronunciation": {
+      "british": "/ˌfriː ˈpɑːs/ 🇬🇧",
+      "american": "/ˌfriː ˈpæs/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase 多义表达",
+    "usage": "常用 👍：字面与比喻都常见。",
+    "meanings": [
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "免费通行证",
+          "english": "Permission to enter or do something for free."
+        },
+        "examples": [
+          {
+            "sentence": "Kids get a free pass.",
+            "translation": "孩子们有免费通行资格。"
+          }
+        ]
+      },
+      {
+        "type": "noun phrase",
+        "definition": {
+          "chinese": "被原谅；不受惩罚",
+          "english": "Being allowed to do something without consequences."
+        },
+        "examples": [
+          {
+            "sentence": "Being young is not a free pass to be rude.",
+            "translation": "年轻不是无礼的借口。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "get away with",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "逃避惩罚",
+          "english": "To avoid punishment."
+        },
+        "examples": [
+          {
+            "sentence": "He got away with it.",
+            "translation": "他逃过惩罚了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻义很常见",
+        "explanation": "多用于道德和规则讨论。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从字面“通行证”引申为“被允许不受后果”。",
+      "explanation_english": "Literal permission extended metaphorically."
+    },
+    "variation_between_british_american": {
+      "british": "两种用法都自然。",
+      "american": "比喻用法更口语。"
+    }
+  },
+  {
+    "word": "dreadful",
+    "pronunciation": {
+      "british": "/ˈdredfʊl/ 🇬🇧",
+      "american": "/ˈdredfʊl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 多义词",
+    "usage": "常用 👍：既可严肃也可夸张。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "可怕的",
+          "english": "Causing fear or suffering."
+        },
+        "examples": [
+          {
+            "sentence": "It was a dreadful accident.",
+            "translation": "那是场可怕的事故。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "非常糟糕的",
+          "english": "Extremely bad."
+        },
+        "examples": [
+          {
+            "sentence": "The food was dreadful.",
+            "translation": "食物太糟了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "terrible",
+        "type": "adjective",
+        "definition": {
+          "chinese": "糟糕的；可怕的",
+          "english": "Very bad."
+        },
+        "examples": [
+          {
+            "sentence": "That’s terrible.",
+            "translation": "太糟了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "强烈语气",
+        "explanation": "比 bad 强得多。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本义是“令人恐惧”，后泛化为“非常糟”。",
+      "explanation_english": "Fear sense first, generalized to bad quality."
+    },
+    "variation_between_british_american": {
+      "british": "评价天气、服务常用。",
+      "american": "口语中也很常见。"
+    }
+  },
+  {
+    "word": "harrowing",
+    "pronunciation": {
+      "british": "/ˈhærəʊɪŋ/ 🇬🇧",
+      "american": "/ˈhærəʊɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 📘：形容情感冲击极强。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "令人痛苦的；折磨人的",
+          "english": "Extremely distressing."
+        },
+        "examples": [
+          {
+            "sentence": "It was a harrowing experience.",
+            "translation": "那是一次令人痛苦的经历。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "traumatic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "创伤性的",
+          "english": "Causing trauma."
+        },
+        "examples": [
+          {
+            "sentence": "A traumatic event.",
+            "translation": "一次创伤性事件。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气很重",
+        "explanation": "比 sad 强得多。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自“harrow（折磨）”，意义稳定。",
+      "explanation_english": "From ‘harrow’; meaning stable."
+    },
+    "variation_between_british_american": {
+      "british": "新闻报道常见。",
+      "american": "文学写作中常见。"
+    }
+  },
+  {
+    "word": "nasty",
+    "pronunciation": {
+      "british": "/ˈnɑːsti/ 🇬🇧",
+      "american": "/ˈnæsti/ 🇺🇸"
+    },
+    "phrase_type": "adjective 多义词",
+    "usage": "非常常用 👍：语气视语境而定。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "令人不快的",
+          "english": "Very unpleasant."
+        },
+        "examples": [
+          {
+            "sentence": "The weather is nasty.",
+            "translation": "天气很糟。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "刻薄的；恶意的",
+          "english": "Unkind or mean."
+        },
+        "examples": [
+          {
+            "sentence": "That was a nasty comment.",
+            "translation": "那是句刻薄的话。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "mean",
+        "type": "adjective",
+        "definition": {
+          "chinese": "刻薄的",
+          "english": "Unkind."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t be mean.",
+            "translation": "别这么刻薄。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语高频词",
+        "explanation": "语气强，需注意场合。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“令人讨厌”扩展到“品行不好”。",
+      "explanation_english": "Unpleasant first, then moral judgment."
+    },
+    "variation_between_british_american": {
+      "british": "常形容天气。",
+      "american": "常形容人。"
+    }
+  },
+  {
+    "word": "dopey",
+    "pronunciation": {
+      "british": "/ˈdəʊpi/ 🇬🇧",
+      "american": "/ˈdoʊpi/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：口语化，语气偏轻。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "傻乎乎的",
+          "english": "Silly or slow to understand."
+        },
+        "examples": [
+          {
+            "sentence": "I felt dopey today.",
+            "translation": "我今天有点犯傻。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "silly",
+        "type": "adjective",
+        "definition": {
+          "chinese": "傻的",
+          "english": "Lacking sense."
+        },
+        "examples": [
+          {
+            "sentence": "That was silly.",
+            "translation": "那很傻。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气较温和",
+        "explanation": "不像 stupid 那么重。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自 dope（迟钝），意义稳定。",
+      "explanation_english": "From ‘dope’; stable meaning."
+    },
+    "variation_between_british_american": {
+      "british": "多半玩笑语气。",
+      "american": "同样偏轻松。"
+    }
+  },
+  {
+    "word": "hasty",
+    "pronunciation": {
+      "british": "/ˈheɪsti/ 🇬🇧",
+      "american": "/ˈheɪsti/ 🇺🇸"
+    },
+    "phrase_type": "adjective",
+    "usage": "常用 👍：多用于提醒不要冲动。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "仓促的；草率的",
+          "english": "Done too quickly."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t make a hasty decision.",
+            "translation": "别做草率决定。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "rash",
+        "type": "adjective",
+        "definition": {
+          "chinese": "鲁莽的",
+          "english": "Reckless."
+        },
+        "examples": [
+          {
+            "sentence": "That was rash.",
+            "translation": "那太鲁莽了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "带负面评价",
+        "explanation": "不是单纯的 fast。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指“快速”，后来加上“不够谨慎”的评价。",
+      "explanation_english": "Speed sense first, then judgment added."
+    },
+    "variation_between_british_american": {
+      "british": "常见于劝告语境。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "hold your horses",
+    "pronunciation": {
+      "british": "/həʊld jɔː ˈhɔːsɪz/ 🇬🇧",
+      "american": "/hoʊld jʊr ˈhɔːrsɪz/ 🇺🇸"
+    },
+    "phrase_type": "idiom",
+    "usage": "非常常用 👍：让别人别着急。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "别急；慢一点",
+          "english": "Used to tell someone to wait or slow down."
+        },
+        "examples": [
+          {
+            "sentence": "Hold your horses! Let me finish.",
+            "translation": "别急！让我说完。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "slow down",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "慢点",
+          "english": "To reduce speed."
+        },
+        "examples": [
+          {
+            "sentence": "Slow down a bit.",
+            "translation": "慢点。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "固定表达",
+        "explanation": "你写的 ‘hold your houses’ 正确说法是 ‘hold your horses’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自骑马时代，字面“拉住马”引申为“控制冲动”。",
+      "explanation_english": "From horse riding; metaphorical extension."
+    },
+    "variation_between_british_american": {
+      "british": "很常用。",
+      "american": "同样常见。"
+    }
+  },
+  {
+    "word": "boasting",
+    "pronunciation": {
+      "british": "/ˈbəʊstɪŋ/ 🇬🇧",
+      "american": "/ˈboʊstɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun",
+    "usage": "常用 👍：描述炫耀行为。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "吹嘘；炫耀",
+          "english": "Talking with pride about achievements."
+        },
+        "examples": [
+          {
+            "sentence": "He kept boasting about his car.",
+            "translation": "他不停炫耀他的车。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "brag",
+        "type": "verb",
+        "definition": {
+          "chinese": "吹牛",
+          "english": "To boast."
+        },
+        "examples": [
+          {
+            "sentence": "Stop bragging.",
+            "translation": "别吹了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "多带负面色彩",
+        "explanation": "暗示不谦虚。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "意义稳定，没有明显多义发展。",
+      "explanation_english": "Stable meaning."
+    },
+    "variation_between_british_american": {
+      "british": "更常用 boast。",
+      "american": "brag 更口语。"
+    }
+  },
+  {
+    "word": "premiere",
+    "pronunciation": {
+      "british": "/ˈpremɪeə/ 🇬🇧",
+      "american": "/prɪˈmɪr/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "常用 👍：娱乐行业高频词。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "首映；首演",
+          "english": "The first public performance of a film or show."
+        },
+        "examples": [
+          {
+            "sentence": "The movie’s premiere is tonight.",
+            "translation": "电影今晚首映。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "首次上映",
+          "english": "To be shown for the first time."
+        },
+        "examples": [
+          {
+            "sentence": "The show premieres tomorrow.",
+            "translation": "节目明天首播。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "debut",
+        "type": "noun",
+        "definition": {
+          "chinese": "首次亮相",
+          "english": "First appearance."
+        },
+        "examples": [
+          {
+            "sentence": "Her debut was amazing.",
+            "translation": "她的首次亮相很惊艳。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "英美发音差异大",
+        "explanation": "拼写相同，读法不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语，名词先出现，后发展为动词。",
+      "explanation_english": "Noun first, verb later."
+    },
+    "variation_between_british_american": {
+      "british": "重音在前。",
+      "american": "重音在后。"
+    }
+  },
+  {
+    "word": "hysterical",
+    "pronunciation": {
+      "british": "/hɪˈsterɪkl/ 🇬🇧",
+      "american": "/hɪˈsterɪkl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 多义词",
+    "usage": "常用 👍：情绪相关高频词。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "歇斯底里的",
+          "english": "Showing extreme emotion."
+        },
+        "examples": [
+          {
+            "sentence": "She was hysterical with fear.",
+            "translation": "她吓得歇斯底里。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "极其好笑的",
+          "english": "Extremely funny."
+        },
+        "examples": [
+          {
+            "sentence": "That movie was hysterical.",
+            "translation": "那部电影笑死我了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "dramatic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "情绪夸张的",
+          "english": "Overly emotional."
+        },
+        "examples": [
+          {
+            "sentence": "Stop being dramatic.",
+            "translation": "别太夸张。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正负义并存",
+        "explanation": "既可严重也可搞笑。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指情绪失控，后在口语中反转为“非常好笑”。",
+      "explanation_english": "Negative sense first, humorous sense later."
+    },
+    "variation_between_british_american": {
+      "british": "两义都用。",
+      "american": "好笑义更常见。"
+    }
+  },
+  {
+    "word": "cadet",
+    "pronunciation": {
+      "british": "/kəˈdet/ 🇬🇧",
+      "american": "/kəˈdet/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 📘：军事或制服机构语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "军校学员",
+          "english": "A student training to be an officer."
+        },
+        "examples": [
+          {
+            "sentence": "He is a police cadet.",
+            "translation": "他是警校学员。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "recruit",
+        "type": "noun",
+        "definition": {
+          "chinese": "新兵",
+          "english": "A new member of the army."
+        },
+        "examples": [
+          {
+            "sentence": "New recruits arrived.",
+            "translation": "新兵到了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式用语",
+        "explanation": "多见于机构或训练体系。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语，意义稳定。",
+      "explanation_english": "From French; stable meaning."
+    },
+    "variation_between_british_american": {
+      "british": "军校常用。",
+      "american": "警校也常用。"
+    }
+  },
+  {
+    "word": "sentimental",
+    "pronunciation": {
+      "british": "/ˌsentɪˈmentl/ 🇬🇧",
+      "american": "/ˌsentɪˈmentl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 多义词",
+    "usage": "常用 👍：描述情感倾向。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "多愁善感的",
+          "english": "Easily affected by emotions."
+        },
+        "examples": [
+          {
+            "sentence": "She gets sentimental about old photos.",
+            "translation": "她看老照片就容易感伤。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "感情用事的",
+          "english": "Based more on emotion than reason."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t be too sentimental.",
+            "translation": "别太感情用事。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "emotional",
+        "type": "adjective",
+        "definition": {
+          "chinese": "情绪化的",
+          "english": "Driven by emotion."
+        },
+        "examples": [
+          {
+            "sentence": "He’s very emotional.",
+            "translation": "他很情绪化。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "中性偏感性",
+        "explanation": "不一定是贬义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“情感”扩展到“缺乏理性判断”。",
+      "explanation_english": "Emotion sense extended to judgment."
+    },
+    "variation_between_british_american": {
+      "british": "偏描述性。",
+      "american": "批评意味稍多。"
+    }
+  },
+  {
+    "word": "mess up",
+    "pronunciation": {
+      "british": "/mes ʌp/ 🇬🇧",
+      "american": "/mes ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义词",
+    "usage": "非常常用 👍：口语高频。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "搞砸",
+          "english": "To do something badly."
+        },
+        "examples": [
+          {
+            "sentence": "I messed up the test.",
+            "translation": "我考试搞砸了。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "弄乱",
+          "english": "To make untidy."
+        },
+        "examples": [
+          {
+            "sentence": "You messed up my room.",
+            "translation": "你把我房间弄乱了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "screw up",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "搞砸",
+          "english": "To make a mistake."
+        },
+        "examples": [
+          {
+            "sentence": "I screwed up.",
+            "translation": "我搞砸了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语化",
+        "explanation": "正式场合少用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“弄乱”延伸到“事情做不好”。",
+      "explanation_english": "Untidy sense extended to mistakes."
+    },
+    "variation_between_british_american": {
+      "british": "很常见。",
+      "american": "更常用 screw up。"
+    }
+  },
+  {
+    "word": "mess with",
+    "pronunciation": {
+      "british": "/mes wɪð/ 🇬🇧",
+      "american": "/mes wɪθ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义词",
+    "usage": "非常常用 👍：语气随语境变化。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "胡乱摆弄",
+          "english": "To interfere with."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t mess with the settings.",
+            "translation": "别乱动设置。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "招惹；找麻烦",
+          "english": "To cause trouble with."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t mess with him.",
+            "translation": "别招惹他。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "interfere with",
+        "type": "verb",
+        "definition": {
+          "chinese": "干涉",
+          "english": "To intervene."
+        },
+        "examples": [
+          {
+            "sentence": "Don’t interfere.",
+            "translation": "别干涉。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气可轻可重",
+        "explanation": "对人用时更严厉。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“弄乱”延伸为“惹麻烦”。",
+      "explanation_english": "From disorder to trouble."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "poised",
+    "pronunciation": {
+      "british": "/pɔɪzd/ 🇬🇧",
+      "american": "/pɔɪzd/ 🇺🇸"
+    },
+    "phrase_type": "adjective 多义词",
+    "usage": "常用 👍：描述状态或准备。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "镇定优雅的",
+          "english": "Calm and confident."
+        },
+        "examples": [
+          {
+            "sentence": "She remained poised.",
+            "translation": "她保持镇定。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "蓄势待发的",
+          "english": "Ready to do something."
+        },
+        "examples": [
+          {
+            "sentence": "The team is poised to win.",
+            "translation": "球队蓄势待发。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "ready",
+        "type": "adjective",
+        "definition": {
+          "chinese": "准备好的",
+          "english": "Prepared."
+        },
+        "examples": [
+          {
+            "sentence": "I’m ready.",
+            "translation": "我准备好了。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "正面评价",
+        "explanation": "常用于正式场合。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本义是“保持平衡”，引申为“镇定”和“准备好”。",
+      "explanation_english": "Balance sense extended to calmness and readiness."
+    },
+    "variation_between_british_american": {
+      "british": "描述气质多。",
+      "american": "描述状态多。"
+    }
+  },
+  {
+    "word": "light up",
+    "pronunciation": {
+      "british": "/laɪt ʌp/ 🇬🇧",
+      "american": "/laɪt ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义词",
+    "usage": "非常常用 👍：物理与情绪两用。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "点亮",
+          "english": "To make bright."
+        },
+        "examples": [
+          {
+            "sentence": "The room lit up.",
+            "translation": "房间亮了。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "露出喜色",
+          "english": "To suddenly look happy."
+        },
+        "examples": [
+          {
+            "sentence": "Her face lit up.",
+            "translation": "她脸上露出喜色。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "brighten",
+        "type": "verb",
+        "definition": {
+          "chinese": "使高兴",
+          "english": "To make happier."
+        },
+        "examples": [
+          {
+            "sentence": "You brightened my day.",
+            "translation": "你让我开心。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻自然",
+        "explanation": "情绪用法非常地道。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“光亮”引申为“情绪明亮”。",
+      "explanation_english": "Light sense extended to emotion."
+    },
+    "variation_between_british_american": {
+      "british": "常见。",
+      "american": "常见。"
+    }
+  },
+  {
+    "word": "flamethrower",
+    "pronunciation": {
+      "british": "/ˈfleɪmθrəʊə/ 🇬🇧",
+      "american": "/ˈfleɪmθroʊər/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "较少用 📘：军事或比喻语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "喷火器",
+          "english": "A weapon that shoots flames."
+        },
+        "examples": [
+          {
+            "sentence": "The soldier carried a flamethrower.",
+            "translation": "士兵携带喷火器。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "weapon",
+        "type": "noun",
+        "definition": {
+          "chinese": "武器",
+          "english": "An instrument of attack."
+        },
+        "examples": [
+          {
+            "sentence": "Dangerous weapons.",
+            "translation": "危险武器。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "可比喻",
+        "explanation": "形容言辞猛烈的人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面武器先出现，比喻义后来产生。",
+      "explanation_english": "Literal first, metaphor later."
+    },
+    "variation_between_british_american": {
+      "british": "较正式。",
+      "american": "科技新闻中偶见。"
+    }
+  },
+  {
+    "word": "fluid",
+    "pronunciation": {
+      "british": "/ˈfluːɪd/ 🇬🇧",
+      "american": "/ˈfluːɪd/ 🇺🇸"
+    },
+    "phrase_type": "noun/adjective 多义词",
+    "usage": "常用 👍：科学与比喻两用。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "液体",
+          "english": "A substance that flows."
+        },
+        "examples": [
+          {
+            "sentence": "Drink plenty of fluids.",
+            "translation": "多喝液体。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "灵活的",
+          "english": "Able to change easily."
+        },
+        "examples": [
+          {
+            "sentence": "The plan is fluid.",
+            "translation": "计划是灵活的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "flexible",
+        "type": "adjective",
+        "definition": {
+          "chinese": "灵活的",
+          "english": "Easily changed."
+        },
+        "examples": [
+          {
+            "sentence": "Flexible schedule.",
+            "translation": "灵活的时间表。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻常见",
+        "explanation": "抽象概念常用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从物理“流动”引申为抽象“变化”。",
+      "explanation_english": "Physical flow extended to abstract change."
+    },
+    "variation_between_british_american": {
+      "british": "科学语境常见。",
+      "american": "商务语境常见。"
+    }
+  },
+  {
+    "word": "mojo",
+    "pronunciation": {
+      "british": "/ˈməʊdʒəʊ/ 🇬🇧",
+      "american": "/ˈmoʊdʒoʊ/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "非常常用 👍：口语高频。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "魅力；能量",
+          "english": "A special quality that attracts people."
+        },
+        "examples": [
+          {
+            "sentence": "He’s got his mojo back.",
+            "translation": "他找回状态了。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "自信；状态",
+          "english": "Confidence or drive."
+        },
+        "examples": [
+          {
+            "sentence": "I lost my mojo.",
+            "translation": "我没状态了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "confidence",
+        "type": "noun",
+        "definition": {
+          "chinese": "自信",
+          "english": "Belief in yourself."
+        },
+        "examples": [
+          {
+            "sentence": "She has confidence.",
+            "translation": "她很自信。"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语感强",
+        "explanation": "多见于美式英语。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原指魔力护符，后在现代英语中泛化为“魅力与状态”。",
+      "explanation_english": "Originally magical power, now generalized to charm and energy."
+    },
+    "variation_between_british_american": {
+      "british": "使用频率较低。",
+      "american": "非常常见的口语词。"
+    }
   }
 ]
 
