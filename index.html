@@ -156,16 +156,13 @@
   <div id="app"></div>
   <script src="./wordData.js"></script>
   <script>
-
-
     const app = document.getElementById("app");
     const word_literal = document.getElementById("word_literal");
-    const selectedWord = wordData[Math.floor(Math.random() * wordData.length)];
-    [selectedWord].forEach(word => {
-      word_literal.innerHTML = `${word.word}`
+
+    // 渲染单词卡片的通用函数
+    function renderWordCard(word) {
       const card = document.createElement("div");
       card.className = "word-card";
-
       card.innerHTML = `
         <h2>${word.word}</h2>
         <div class="pronunciation">
@@ -200,7 +197,6 @@
             `).join('')}
           `).join('')}
         </div>
-  
 
         <div class="section">
           <div class="section-title">Notes</div>
@@ -220,11 +216,48 @@
           <div class="pair-line">🇺🇸 ${word.variation_between_british_american.american}</div>
         </div>
       `;
-      app.appendChild(card);
-    });
+      return card;
+    }
+
+    // 渲染单词列表
+    function renderWords(words) {
+      app.innerHTML = '';
+      word_literal.innerHTML = words.map(w => w.word).join(', ');
+      words.forEach(word => {
+        app.appendChild(renderWordCard(word));
+      });
+    }
+
+    // 初始化：随机显示一个单词
+    const selectedWord = wordData[Math.floor(Math.random() * wordData.length)];
+    renderWords([selectedWord]);
+
     function refreshPage() {
       location.reload();
     }
+
+    // 搜索按钮点击事件
+    document.getElementById('seach_btn').addEventListener('click', function() {
+      const keyword = document.getElementById('seach').value.trim().toLowerCase();
+
+      if (!keyword) {
+        alert('请输入搜索关键词');
+        return;
+      }
+
+      // 过滤匹配的单词
+      const results = wordData.filter(word =>
+        word.word.toLowerCase().includes(keyword)
+      );
+
+      if (results.length === 0) {
+        app.innerHTML = '<div class="word-card"><h2>未找到匹配的单词</h2></div>';
+        word_literal.innerHTML = '';
+        return;
+      }
+
+      renderWords(results);
+    });
   </script>
 
 </body>
