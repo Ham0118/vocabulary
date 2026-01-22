@@ -68773,7 +68773,7 @@ const wordData = [
       "british": "常见。",
       "american": "常见。"
     }
-  }，
+  },
   {
     "word": "intimidate",
     "pronunciation": {
