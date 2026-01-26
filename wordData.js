@@ -70236,5 +70236,1351 @@ const wordData = [
       "british": "常用 ‘come off’ 表示成功。",
       "american": "‘come off as’（给人印象）在美式英语中极度常用。"
     }
+  },
+  {
+    "word": "skinny",
+    "pronunciation": {
+      "british": "/ˈskɪni/ 🇬🇧",
+      "american": "/ˈskɪni/ 🇺🇸"
+    },
+    "phrase_type": "adj/noun 多义词",
+    "usage": "非常常用 👍：形容词指“极瘦的”，名词（带the）指“内部消息/内幕”。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "极瘦的，皮包骨的",
+          "english": "Extremely thin, often in a way that is unattractive."
+        },
+        "examples": [
+          {
+            "sentence": "He was a skinny kid with big glasses.",
+            "translation": "他是个戴着大眼镜的瘦弱小孩。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "内幕，真实情况 (the skinny)",
+          "english": "The real facts or confidential information about something."
+        },
+        "examples": [
+          {
+            "sentence": "Give me the skinny on the new boss.",
+            "translation": "跟我说说新老板的内幕消息。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "thin",
+        "type": "adjective",
+        "definition": {
+          "chinese": "瘦的",
+          "english": "Having little flesh or fat."
+        }
+      },
+      {
+        "word": "low-down",
+        "type": "noun",
+        "definition": {
+          "chinese": "实情",
+          "english": "The true facts about a situation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "情感色彩",
+        "explanation": "形容人瘦时，'skinny' 往往带有一点贬义；而 'slim' 或 'slender' 则是褒义的“苗条”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "形容词源于“skin（皮肤）”，指只剩皮。名词“the skinny”源于二战时期，当时官方信息印在薄纸（skinny paper）上，或引申为剥开外表看“皮下”的真相。",
+      "explanation_english": "The adjective comes from 'skin' (only skin left). The noun 'the skinny' originated in WWII from info printed on thin paper, or the idea of getting under the 'skin' to find the core truth."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "名词用法 'the skinny' 在美式俚语中极度常用。"
+    }
+  },
+  {
+    "word": "tightwad",
+    "pronunciation": {
+      "british": "/ˈtaɪtwɒd/ 🇬🇧",
+      "american": "/ˈtaɪtwɑːd/ 🇺🇸"
+    },
+    "phrase_type": "noun 俚语/形容人",
+    "usage": "常用 👍：贬义词，形容一个人非常吝啬、铁公鸡。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "吝啬鬼，守财奴",
+          "english": "A person who is unwilling to spend money; a stingy person."
+        },
+        "examples": [
+          {
+            "sentence": "Stop being such a tightwad and buy us a round of drinks!",
+            "translation": "别这么抠门了，请我们喝一轮吧！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cheapskate",
+        "type": "noun",
+        "definition": {
+          "chinese": "小气鬼",
+          "english": "A stingy person."
+        }
+      },
+      {
+        "word": "miser",
+        "type": "noun",
+        "definition": {
+          "chinese": "守财奴",
+          "english": "A person who hoards wealth and spends as little as possible."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式",
+        "explanation": "这属于非正式口语，朋友间开玩笑或背后吐槽常用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 'tight'（紧）和 'wad'（一叠钞票）组成。字面意思是一个人把手里那叠钱攥得紧紧的，舍不得松手。",
+      "explanation_english": "A compound of 'tight' and 'wad' (a roll of paper money). It literally describes someone who keeps their roll of cash squeezed tight and refuses to spend it."
+    },
+    "variation_between_british_american": {
+      "british": "常用，但有时也用 'scrooge' 或 'stinge'。",
+      "american": "非常典型且常用的美式表达。"
+    }
+  },
+  {
+    "word": "hex driver",
+    "pronunciation": {
+      "british": "/heks ˈdraɪvə/ 🇬🇧",
+      "american": "/heks ˈdraɪvər/ 🇺🇸"
+    },
+    "phrase_type": "noun 工具名词",
+    "usage": "专业/生活常用 🛠️：指用来拧六角螺丝的工具（也叫内六角扳手）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "内六角螺丝刀/扳手",
+          "english": "A tool used to drive bolts and screws with a hexagonal socket in their heads."
+        },
+        "examples": [
+          {
+            "sentence": "You'll need a 5mm hex driver to assemble this IKEA chair.",
+            "translation": "你需要一个5毫米的内六角螺丝刀来组装这把宜家椅子。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "Allen key",
+        "type": "noun",
+        "definition": {
+          "chinese": "内六角扳手 (L型的)",
+          "english": "An L-shaped hex tool."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "同义词",
+        "explanation": "在口语中，很多人直接叫它 'hex key' 或 'Allen wrench'。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "'Hex' 是 'hexagonal（六角形）' 的缩写。这是一个单一功能的描述性词汇。",
+      "explanation_english": "'Hex' is short for 'hexagonal.' It is a literal descriptive term for the tool's shape."
+    },
+    "variation_between_british_american": {
+      "british": "更倾向于叫 'Allen key'。",
+      "american": "常说 'hex driver' 或 'Allen wrench'。"
+    }
+  },
+  {
+    "word": "vomit",
+    "pronunciation": {
+      "british": "/ˈvɒmɪt/ 🇬🇧",
+      "american": "/ˈvɑːmɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 动词/名词",
+    "usage": "非常常用 👍：呕吐的正式用语。口语中更常用 'throw up'。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "呕吐",
+          "english": "To eject matter from the stomach through the mouth."
+        },
+        "examples": [
+          {
+            "sentence": "The smell made him want to vomit.",
+            "translation": "那个味道让他想呕吐。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "呕吐物",
+          "english": "Matter that has been vomited from the stomach."
+        },
+        "examples": [
+          {
+            "sentence": "There was vomit all over the floor.",
+            "translation": "地板上到处都是呕吐物。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "throw up",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "吐 (口语)",
+          "english": "To vomit."
+        }
+      },
+      {
+        "word": "nausea",
+        "type": "noun",
+        "definition": {
+          "chinese": "恶心",
+          "english": "A feeling of sickness with an inclination to vomit."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语体",
+        "explanation": "在医生办公室或正式场合用 'vomit'，在派对或日常生活中用 'throw up' 或 'puke'。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 'vomitare'，意思始终一致，指“排泄、喷涌”。后延伸出形容极其讨厌的事物。",
+      "explanation_english": "From Latin 'vomitare'. The meaning has remained stable, referring to the physical act of ejecting stomach contents."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "straight-up",
+    "pronunciation": {
+      "british": "/ˌstreɪt ˈʌp/ 🇬🇧",
+      "american": "/ˌstreɪt ˈʌp/ 🇺🇸"
+    },
+    "phrase_type": "adj/adv/idiom 多义词",
+    "usage": "非常常用 👍：既可以指调酒（不加冰），也可以指“真的、诚实、纯粹”。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "真的，没骗你",
+          "english": "Honestly; seriously; without lying."
+        },
+        "examples": [
+          {
+            "sentence": "Straight-up, that was the best pizza I've ever had.",
+            "translation": "讲真，那是我吃过最好吃的比萨。"
+          }
+        ]
+      },
+      {
+        "type": "adjective/adverb",
+        "definition": {
+          "chinese": "（调酒）不加冰且摇匀的",
+          "english": "Shaken or stirred with ice and then strained and served without ice."
+        },
+        "examples": [
+          {
+            "sentence": "I'll have a martini, straight-up.",
+            "translation": "我要一杯马提尼，不加冰。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "纯粹的，完全的",
+          "english": "Pure; total; absolute."
+        },
+        "examples": [
+          {
+            "sentence": "That is straight-up crazy.",
+            "translation": "那简直是彻头彻尾的疯狂。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "honestly",
+        "type": "adverb",
+        "definition": {
+          "chinese": "诚实地",
+          "english": "In an honest way."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语趋势",
+        "explanation": "在年轻人中常用来作为语气助词，表示强调。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原本指酒水“纯粹、不稀释”。后来延伸到抽象意义，指说话“纯粹、不稀释（即诚实、直接）”。",
+      "explanation_english": "Originally a bartending term for undiluted spirits. It evolved metaphorically to mean speech or situations that are 'undiluted' or honest and direct."
+    },
+    "variation_between_british_american": {
+      "british": "调酒用法通用，口语强调用法受美国影响较大。",
+      "american": "在非正式谈话（尤其是嘻哈文化中）极其流行。"
+    }
+  },
+  {
+    "word": "drop the ball",
+    "pronunciation": {
+      "british": "/drɒp ðə bɔːl/ 🇬🇧",
+      "american": "/drɑːp ðə bɔːl/ 🇺🇸"
+    },
+    "phrase_type": "idiom 习语",
+    "usage": "非常常用 👍：指在关键时刻犯错，或者没能履行职责。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "失职，搞砸，掉链子",
+          "english": "To make a mistake, especially by failing to do something you were responsible for."
+        },
+        "examples": [
+          {
+            "sentence": "I really dropped the ball by forgetting to call the client back.",
+            "translation": "我忘了给客户回电话，真是掉链子了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "screw up",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "搞砸",
+          "english": "To handle something badly."
+        }
+      },
+      {
+        "word": "fumble",
+        "type": "verb",
+        "definition": {
+          "chinese": "笨拙地拿；（体育）失球",
+          "english": "To drop a ball or handle something clumsily."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语境",
+        "explanation": "常用于职场，当某事没有按计划进行且某人需要负责时。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于体育运动（如橄榄球或棒球）。当球传给你但你没接住，掉在了地上，就会导致整个团队失利。",
+      "explanation_english": "Originates from sports like football or baseball. If a ball is passed to you and you drop it, the play fails and your team loses the advantage."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "使用频率极高，几乎是职场日常词汇。"
+    }
+  },
+  {
+    "word": "delightful",
+    "pronunciation": {
+      "british": "/dɪˈlaɪtf(ə)l/ 🇬🇧",
+      "american": "/dɪˈlaɪtf(ə)l/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "非常常用 👍：比 'nice' 或 'good' 更有高级感，形容令人愉悦、赏心悦目的事物。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "令人愉快的，可爱的，讨人喜欢的",
+          "english": "Very pleasant, attractive, or enjoyable."
+        },
+        "examples": [
+          {
+            "sentence": "We had a delightful evening in the garden.",
+            "translation": "我们在花园里度过了一个愉快的夜晚。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "charming",
+        "type": "adjective",
+        "definition": {
+          "chinese": "迷人的",
+          "english": "Very pleasant or attractive."
+        }
+      },
+      {
+        "word": "lovely",
+        "type": "adjective",
+        "definition": {
+          "chinese": "可爱的，美好的",
+          "english": "Exquisitely beautiful; very pleasant."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "礼貌用语",
+        "explanation": "在社交场合（如晚宴）用来赞美对方的招待或谈话，显得非常有教养。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 ‘delit’ (快乐)。它通常只有“愉悦”这一个核心意思，没有复杂的引申，主要通过添加后缀 ‘-ful’ 强调“充满快乐的”。",
+      "explanation_english": "From Old French ‘delit’ (pleasure). It has a stable, single core meaning focused on providing joy; the suffix ‘-ful’ simply intensifies it as ‘full of delight’."
+    },
+    "variation_between_british_american": {
+      "british": "在英式英语中，‘delightful’ 听起来带有一种绅士或淑女般的客气。",
+      "american": "用法一致，但频率略低于英式英语。"
+    }
+  },
+  {
+    "word": "anecdote",
+    "pronunciation": {
+      "british": "/ˈænɪkdəʊt/ 🇬🇧",
+      "american": "/ˈænɪkdoʊt/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指关于真人真事的短小趣闻，常用于演讲或聊天中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "轶事，趣闻",
+          "english": "A short and amusing or interesting story about a real incident or person."
+        },
+        "examples": [
+          {
+            "sentence": "He told a funny anecdote about his first day at work.",
+            "translation": "他讲了一个关于他第一天上班的趣事。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "tale",
+        "type": "noun",
+        "definition": {
+          "chinese": "故事",
+          "english": "A story, sometimes imaginary."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式证据",
+        "explanation": "‘Anecdotal evidence’ 指基于传闻而非科学分析的证据，通常带有一定的贬义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘anekdota’，意为“未出版的事”。最初指那些没被正式载入史册的私人小故事，后来延伸为任何短小、非正式的叙述。",
+      "explanation_english": "From Greek ‘anekdota’, meaning ‘things unpublished’. Originally referred to private stories not included in official histories, now it means any short, informal narrative."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "sneak",
+    "pronunciation": {
+      "british": "/sniːk/ 🇬🇧",
+      "american": "/sniːk/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：指悄悄移动，或（作为名词）指一个鬼鬼祟祟、爱打小报告的人。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "溜，悄悄地走",
+          "english": "To go or move in a stealthy or furtive manner."
+        },
+        "examples": [
+          {
+            "sentence": "I managed to sneak out of the house at midnight.",
+            "translation": "我设法在半夜溜出了家门。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "鬼鬼祟祟的人，打小报告的人",
+          "english": "A person who is furtive or a person who tells tales (chiefly British kids' slang)."
+        },
+        "examples": [
+          {
+            "sentence": "Don't be such a sneak!",
+            "translation": "别当那种爱打小报告的人！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sneakers",
+        "type": "noun",
+        "definition": {
+          "chinese": "运动鞋",
+          "english": "Shoes that allow you to walk quietly."
+        }
+      },
+      {
+        "word": "sneaky",
+        "type": "adjective",
+        "definition": {
+          "chinese": "鬼鬼祟祟的",
+          "english": "Furtive; underhanded."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词组搭配",
+        "explanation": "‘Sneak peek’ 指（电影或产品的）预览、抢先看。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "可能源自古英语或古诺斯语，最初指“爬行”。后来因为这种移动方式带有的秘密性，延伸到了形容行为不端或爱告密的人（因为告密通常是背地里进行的）。",
+      "explanation_english": "Likely from Old English/Norse, originally meaning ‘to creep’. The secrecy of the movement later extended to describe deceitful people or tell-tales who act behind others' backs."
+    },
+    "variation_between_british_american": {
+      "british": "作为名词常指“爱打小报告的孩子”。",
+      "american": "名词指“卑鄙小人”；‘sneakers’ 是鞋子的标准称呼。"
+    }
+  },
+  {
+    "word": "swing by",
+    "pronunciation": {
+      "british": "/swɪŋ baɪ/ 🇬🇧",
+      "american": "/swɪŋ baɪ/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：非正式地指顺道拜访某地或某人，通常时间很短。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "顺便去，路过拜访",
+          "english": "To visit a place or person for a short time while on the way to somewhere else."
+        },
+        "examples": [
+          {
+            "sentence": "I'll swing by your office this afternoon to drop off the files.",
+            "translation": "我今天下午会顺便去你办公室把文件放下。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "stop by",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "顺道拜访",
+          "english": "Similar meaning to swing by."
+        }
+      },
+      {
+        "word": "drop in",
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "不期而至，顺便走访",
+          "english": "Visit without an appointment."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "轻松感",
+        "explanation": "这个词暗示你不需要专门预约或久坐，非常随意。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Swing’ 本意是摆动。想象你在路线上稍微“拐个弯”（像摆动一下），然后迅速回来。这是人们通过动作比喻延伸出的口语词。",
+      "explanation_english": "‘Swing’ implies a curved or rapid movement. Metaphorically, you are ‘swinging’ off your main path to a location and then back again, hence the casual visit sense."
+    },
+    "variation_between_british_american": {
+      "british": "常用，但英式也常用 ‘pop in’。",
+      "american": "美式口语中极度流行，尤其是朋友和同事之间。"
+    }
+  },
+  {
+    "word": "tattle",
+    "pronunciation": {
+      "british": "/ˈtætl/ 🇬🇧",
+      "american": "/ˈtætl/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 动词/名词",
+    "usage": "常用 👍：主要用于指小孩子打小报告，或者闲聊、说长道短。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "打小报告，闲聊",
+          "english": "To report another's wrongdoing; to gossip."
+        },
+        "examples": [
+          {
+            "sentence": "Don't tattle on your brother just because he took your toy.",
+            "translation": "别仅仅因为你哥哥拿了你的玩具就去告状。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "tattletale",
+        "type": "noun",
+        "definition": {
+          "chinese": "爱告密的孩子",
+          "english": "A person, especially a child, who tells on others."
+        }
+      },
+      {
+        "word": "gossip",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "八卦，闲聊",
+          "english": "Idle talk or rumors about others."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "受众",
+        "explanation": "如果成年人说这个词，通常带有指责对方像小孩子一样幼稚的意思。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中古荷兰语 ‘tatelen’，模仿喋喋不休的声音。最初指“口齿不清地说话”或“闲聊”，后来逐渐固定为指责性的“告密”。",
+      "explanation_english": "From Middle Dutch ‘tatelen’, mimicking the sound of babbling. Originally meant ‘stuttering’ or ‘idle talk,’ it eventually specialized into the accusatory ‘reporting wrongdoing’."
+    },
+    "variation_between_british_american": {
+      "british": "常说 ‘tell tales’。",
+      "american": "极常用 ‘tattle’ 或 ‘tattletale’。"
+    }
+  },
+  {
+    "word": "presume",
+    "pronunciation": {
+      "british": "/prɪˈzjuːm/ 🇬🇧",
+      "american": "/prɪˈzuːm/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "非常常用 👍：指基于可能性（而非确凿证据）的假设，或者指冒昧地做某事。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "假定，假设",
+          "english": "To suppose that something is the case on the basis of probability."
+        },
+        "examples": [
+          {
+            "sentence": "I presume you're tired after the long flight.",
+            "translation": "我想你长途飞行后一定很累了。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "冒昧，擅自行事",
+          "english": "To take the liberty of doing something without permission."
+        },
+        "examples": [
+          {
+            "sentence": "I wouldn't presume to tell you how to do your job.",
+            "translation": "我可不敢冒昧地教你怎么做你的工作。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "assume",
+        "type": "verb",
+        "definition": {
+          "chinese": "假设 (比 presume 更随意)",
+          "english": "To suppose without proof."
+        }
+      },
+      {
+        "word": "presumptuous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "冒失的，放肆的",
+          "english": "Failing to observe the limits of what is permitted or appropriate."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "法律短语",
+        "explanation": "‘Presumed innocent until proven guilty’ (未经证实有罪前，假定无罪)。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘praesumere’，意为“预先拿走”。“预先拿走结论”引申为“假设”；“预先拿走权利/自由”引申为“冒昧、自作主张”。",
+      "explanation_english": "From Latin ‘praesumere’ (to take beforehand). ‘Taking a conclusion before proof’ led to ‘suppose’; ‘taking a liberty before permission’ led to ‘dare’ or ‘be bold’."
+    },
+    "variation_between_british_american": {
+      "british": "发音中常用 /zjuːm/。",
+      "american": "发音中常用 /zuːm/。"
+    }
+  },
+  {
+    "word": "fall asleep",
+    "pronunciation": {
+      "british": "/fɔːl əˈsliːp/ 🇬🇧",
+      "american": "/fɔːl əˈsliːp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：指进入睡眠状态的过程。注意它和 sleep（处于睡眠中）的区别。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "入睡，睡着",
+          "english": "To start sleeping; to pass into a state of slumber."
+        },
+        "examples": [
+          {
+            "sentence": "I fell asleep during the movie.",
+            "translation": "我在看电影的时候睡着了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "doze off",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "打瞌睡，不知不觉睡着",
+          "english": "To fall asleep unintentionally."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法陷阱",
+        "explanation": "不能说 'I fell sleep'，必须加字母 'a' 构成形容词/副词性的 'asleep'。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Fall’ 在这里指代一种状态的无意识切换，就像“跌入”某种状态一样。并没有延伸出其他复杂含义。",
+      "explanation_english": "The verb 'fall' describes an involuntary transition into a state, similar to 'fall ill' or 'fall in love.' The meaning is literal in its metaphor."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "fall asleep",
+    "pronunciation": {
+      "british": "/fɔːl əˈsliːp/ 🇬🇧",
+      "american": "/fɔːl əˈsliːp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：指进入睡眠状态的过程。注意它和 sleep（处于睡眠中）的区别。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "入睡，睡着",
+          "english": "To start sleeping; to pass into a state of slumber."
+        },
+        "examples": [
+          {
+            "sentence": "I fell asleep during the movie.",
+            "translation": "我在看电影的时候睡着了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "doze off",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "打瞌睡，不知不觉睡着",
+          "english": "To fall asleep unintentionally."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语法陷阱",
+        "explanation": "不能说 'I fell sleep'，必须加字母 'a' 构成形容词/副词性的 'asleep'。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Fall’ 在这里指代一种状态的无意识切换，就像“跌入”某种状态一样。并没有延伸出其他复杂含义。",
+      "explanation_english": "The verb 'fall' describes an involuntary transition into a state, similar to 'fall ill' or 'fall in love.' The meaning is literal in its metaphor."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "dreadful",
+    "pronunciation": {
+      "british": "/ˈdredfl/ 🇬🇧",
+      "american": "/ˈdredfl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "非常常用 👍：形容非常糟糕、可怕或令人不快的事物。语气比 'bad' 强很多。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "糟糕透顶的，可怕的",
+          "english": "Extremely disagreeable, bad, or causing great fear/suffering."
+        },
+        "examples": [
+          {
+            "sentence": "The weather was absolutely dreadful.",
+            "translation": "天气简直糟透了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "terrible",
+        "type": "adjective",
+        "definition": {
+          "chinese": "可怕的，极坏的",
+          "english": "Extremely bad or serious."
+        }
+      },
+      {
+        "word": "awful",
+        "type": "adjective",
+        "definition": {
+          "chinese": "极坏的",
+          "english": "Very bad or unpleasant."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "加强语气",
+        "explanation": "常用于夸张，比如 'dreadful mistake'（极大的错误）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘dread’（恐惧）和 ‘ful’（充满）组成。原本指“令人恐惧的”，后来在日常口语中弱化为指代任何“极度不愉快”的事物。",
+      "explanation_english": "A combination of 'dread' and '-ful.' Originally meant 'causing dread' (terror), it has since broadened into a general intensifier for anything very bad or annoying."
+    },
+    "variation_between_british_american": {
+      "british": "在英式口语中非常典型，常用来礼貌地抱怨琐事。",
+      "american": "用法一致，但美国人可能更倾向于用 'terrible' 或 'horrible'。"
+    }
+  },
+  {
+    "word": "hemorrhoid",
+    "pronunciation": {
+      "british": "/ˈhemərɔɪd/ 🇬🇧",
+      "american": "/ˈhemərɔɪd/ 🇺🇸"
+    },
+    "phrase_type": "noun 医学术语",
+    "usage": "常用 🏥：指由于直肠静脉肿胀引起的痔疮。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "痔疮",
+          "english": "A swollen vein or group of veins in the region of the anus."
+        },
+        "examples": [
+          {
+            "sentence": "He needed surgery to remove a painful hemorrhoid.",
+            "translation": "他需要手术切除痛苦的痔疮。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "piles",
+        "type": "noun (informal)",
+        "definition": {
+          "chinese": "痔疮 (俗称)",
+          "english": "The common, informal name for hemorrhoids."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写差异",
+        "explanation": "这是一个典型的英美拼写差异词。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘haimorrhoides’，由 ‘haima’（血）和 ‘rhoos’（流动）组成。最初指任何形式的出血，后来专门指代痔疮。",
+      "explanation_english": "From Greek 'haimorrhoides' (flowing with blood), from 'haima' (blood) and 'rhoos' (stream). It originally referred to any discharge of blood before specializing into the current medical definition."
+    },
+    "variation_between_british_american": {
+      "british": "通常拼写为 ‘haemorrhoid’。",
+      "american": "通常拼写为 ‘hemorrhoid’。"
+    }
+  },
+  {
+    "word": "enrage",
+    "pronunciation": {
+      "british": "/ɪnˈreɪdʒ/ 🇬🇧",
+      "american": "/ɪnˈreɪdʒ/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：指使某人处于极度愤怒（狂怒）的状态。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "激怒，使狂怒",
+          "english": "To make someone very angry or furious."
+        },
+        "examples": [
+          {
+            "sentence": "The unfair decision enraged the crowd.",
+            "translation": "这个不公平的决定激怒了人群。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "infuriate",
+        "type": "verb",
+        "definition": {
+          "chinese": "使大怒",
+          "english": "To make someone extremely angry."
+        }
+      },
+      {
+        "word": "fury",
+        "type": "noun",
+        "definition": {
+          "chinese": "狂怒",
+          "english": "Wild or violent anger."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "程度",
+        "explanation": "比 ‘annoy’ 或 ‘anger’ 程度深得多，带有“失去控制”的感觉。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "前缀 ‘en-’（进入）加上 ‘rage’（狂怒）。字面意思就是“使进入狂怒状态”。含义稳定。",
+      "explanation_english": "The prefix 'en-' (in/into) added to 'rage.' It literally means to put into a state of rage. The meaning has not shifted since its origin."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "leash",
+    "pronunciation": {
+      "british": "/liːʃ/ 🇬🇧",
+      "american": "/liːʃ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍：指牵狗的绳子，也可指控制、约束。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "皮带，牵狗绳",
+          "english": "A strap or cord for restraining and guiding a dog or other animal."
+        },
+        "examples": [
+          {
+            "sentence": "Keep your dog on a leash in the park.",
+            "translation": "在公园里请给你的狗系上牵引绳。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "用皮带系住，约束",
+          "english": "To put a leash on an animal; metaphorically, to control or restrain."
+        },
+        "examples": [
+          {
+            "sentence": "He struggled to leash his temper.",
+            "translation": "他努力克制住自己的脾气。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "unleash",
+        "type": "verb",
+        "definition": {
+          "chinese": "释放，发泄",
+          "english": "To release from a leash; to set free a strong force."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用搭配",
+        "explanation": "‘Off the leash’ 意为“摆脱束缚，自由了”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 ‘lesse’。最初指一种松散的绳子（为了让狗跑但仍受控）。后延伸到比喻层面的“情绪或权力的约束”。",
+      "explanation_english": "From Old French 'lesse,' meaning a loose cord. The physical item used for control naturally extended to the abstract concept of restraining one's impulses or power."
+    },
+    "variation_between_british_american": {
+      "british": "有时也用 ‘lead’ 来指代牵狗绳。",
+      "american": "几乎只使用 ‘leash’。"
+    }
+  },
+  {
+    "word": "mansion",
+    "pronunciation": {
+      "british": "/ˈmænʃn/ 🇬🇧",
+      "american": "/ˈmænʃn/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指非常大、豪华且宏伟的私人住宅。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大厦，豪宅",
+          "english": "A large, impressive house."
+        },
+        "examples": [
+          {
+            "sentence": "The movie star lives in a hilltop mansion.",
+            "translation": "那位影星住在一座山顶豪宅里。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "estate",
+        "type": "noun",
+        "definition": {
+          "chinese": "庄园",
+          "english": "An extensive area of land in the country, usually with a large house."
+        }
+      },
+      {
+        "word": "villa",
+        "type": "noun",
+        "definition": {
+          "chinese": "别墅",
+          "english": "A large and luxurious country house in its own grounds."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "社会地位",
+        "explanation": "‘Mansion’ 暗示的房子通常比普通的 ‘big house’ 还要大得多，通常有许多房间和广阔的院子。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘mansio’，意为“停留、居住的地方”。最初只是指一个居所，但由于贵族居住的地方通常更持久且宏伟，这个词逐渐固定指代“豪宅”。",
+      "explanation_english": "From Latin 'mansio' (a staying or dwelling place). Originally, it meant any house, but it gradually specialized to mean a grand residence belonging to the wealthy who 'stayed' in one grand place."
+    },
+    "variation_between_british_american": {
+      "british": "有时指大型公寓楼（Mansions）。",
+      "american": "专门指豪华私人住宅。"
+    }
+  },
+  {
+    "word": "perpetual",
+    "pronunciation": {
+      "british": "/pəˈpetʃuəl/ 🇬🇧",
+      "american": "/pərˈpetʃuəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 正式词汇",
+    "usage": "常用 👍：指永久的、不断的，或让人厌烦的长久重复。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "永久的，不间断的",
+          "english": "Never ending or changing; occurring repeatedly."
+        },
+        "examples": [
+          {
+            "sentence": "He lived in a state of perpetual fear.",
+            "translation": "他生活在永恒的恐惧之中。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "everlasting",
+        "type": "adjective",
+        "definition": {
+          "chinese": "永恒的",
+          "english": "Lasting forever or a very long time."
+        }
+      },
+      {
+        "word": "continuous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "连续的",
+          "english": "Forming an unbroken whole."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "科学词汇",
+        "explanation": "‘Perpetual motion’（永动机）是科学中的常见短语。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘perpetualis’，意为“通用的、不间断的”。含义非常稳定，指代时间或动作的无限延伸。",
+      "explanation_english": "From Latin 'perpetualis' (universal, continuous). Its core meaning has remained focused on the idea of something that does not stop."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "infiltrate",
+    "pronunciation": {
+      "british": "/ˈɪnfɪltreɪt/ 🇬🇧",
+      "american": "/ˈɪnfɪltreɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：指秘密潜入组织，或（在科学中）液体渗入物体。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "潜入，渗透 (组织)",
+          "english": "To secretly become part of a group in order to get information or influence it."
+        },
+        "examples": [
+          {
+            "sentence": "The spy managed to infiltrate the terrorist cell.",
+            "translation": "间谍成功潜入了恐怖组织小组。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "渗入，过滤 (液体等)",
+          "english": "To pass into or through something by filtering."
+        },
+        "examples": [
+          {
+            "sentence": "Rainwater infiltrates the soil.",
+            "translation": "雨水渗入土壤。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "penetrate",
+        "type": "verb",
+        "definition": {
+          "chinese": "穿透",
+          "english": "To go into or through something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "动作特征",
+        "explanation": "强调这种进入是“缓慢而秘密”的，而不是强行突破。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由前缀 ‘in-’（进入）和 ‘filtrate’（过滤）组成。最初指物理上的过滤，19世纪后被引申用于间谍或政治潜入，形容这种行动像水渗透一样悄无声息。",
+      "explanation_english": "A combination of 'in-' and 'filter.' Originally purely physical (liquid through a filter). In the 19th century, it was metaphorically adopted for military or espionage use to describe moving quietly into enemy lines."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "snug",
+    "pronunciation": {
+      "british": "/snʌɡ/ 🇬🇧",
+      "american": "/snʌɡ/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb 多义词",
+    "usage": "非常常用 👍：形容温暖舒适，或衣服紧凑合身。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "温暖舒适的",
+          "english": "Comfortable, warm, and cozy."
+        },
+        "examples": [
+          {
+            "sentence": "It’s nice and snug in here by the fireplace.",
+            "translation": "在壁炉旁这儿真是温暖又舒服。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "紧身的，合身的",
+          "english": "Fitting closely but comfortably."
+        },
+        "examples": [
+          {
+            "sentence": "The gloves are a bit snug, but they fit.",
+            "translation": "手套有点紧，但还算合适。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cozy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "温馨的",
+          "english": "Giving a feeling of comfort, warmth, and relaxation."
+        }
+      },
+      {
+        "word": "tight",
+        "type": "adjective",
+        "definition": {
+          "chinese": "紧的",
+          "english": "Fixed in place; opposite of loose."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "短语搭配",
+        "explanation": "‘Snug as a bug in a rug’ 意为“极其舒适自在”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "可能源自低地德语或荷兰语。最初是航海术语，指船只“准备充分、紧凑稳固”以应对风暴。后演变为形容空间紧凑带来的“温暖舒适感”。",
+      "explanation_english": "Likely from Low German or Dutch. Originally a nautical term meaning a ship was 'well-prepared and tight' for a storm. This sense of being 'tightly packed' evolved into the cozy domestic meaning we use today."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "big time",
+    "pronunciation": {
+      "british": "/ˌbɪɡ ˈtaɪm/ 🇬🇧",
+      "american": "/ˌbɪɡ ˈtaɪm/ 🇺🇸"
+    },
+    "phrase_type": "adverb/noun 俚语",
+    "usage": "非常常用 👍：用来强调程度极其大，或者指某个领域的最高层（成名）。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "极其，程度很深地",
+          "english": "To a very great degree or extent."
+        },
+        "examples": [
+          {
+            "sentence": "You messed up big time!",
+            "translation": "你这次搞砸得可真严重！"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "一流，顶级地位",
+          "english": "The highest or most successful level in a profession, especially entertainment."
+        },
+        "examples": [
+          {
+            "sentence": "He finally hit the big time with his new album.",
+            "translation": "他终于凭借新专辑功成名就了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "majorly",
+        "type": "adverb",
+        "definition": {
+          "chinese": "极其 (口语)",
+          "english": "Extremely."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式",
+        "explanation": "这是一种非常口语化的表达方式，不适合正式写作。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于20世纪初的演艺界（杂耍剧院）。‘Small time’ 指小舞台，‘Big time’ 指最好的剧院。后被大众借用，形容任何事情的“大规模”或“成功”。",
+      "explanation_english": "Originates from early 20th-century show business (Vaudeville). 'Big time' referred to the major theater circuits as opposed to 'small time' circuits. It moved from theatrical success to general greatness or scale."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "在美国口语中几乎是万能的加强词。"
+    }
   }
 ];
