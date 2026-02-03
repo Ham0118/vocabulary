@@ -71582,5 +71582,3186 @@ const wordData = [
       "british": "用法一致。",
       "american": "在美国口语中几乎是万能的加强词。"
     }
+  },
+  {
+    "word": "make a scene",
+    "pronunciation": {
+      "british": "/meɪk ə siːn/ 🇬🇧",
+      "american": "/meɪk ə siːn/ 🇺🇸"
+    },
+    "phrase_type": "idiom 习语",
+    "usage": "非常常用 👍：指在公共场合大吵大闹，引人注目（通常是负面的）。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "当众大吵大闹，出洋相",
+          "english": "To behave in a loud, angry, or emotional way in a public place."
+        },
+        "examples": [
+          {
+            "sentence": "Please don't make a scene in the restaurant.",
+            "translation": "请不要在餐厅里大吵大闹。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "spectacle",
+        "type": "noun",
+        "definition": {
+          "chinese": "奇观/洋相",
+          "english": "A visually striking performance or display."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "情感强度",
+        "explanation": "这通常带有尴尬（embarrassment）的意味，对旁观者来说很不舒服。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于戏剧。“Scene（场景）”本指舞台上的一幕。如果一个人在现实生活中表现得像在演戏一样夸张，就被称为“制造了一个场景”。",
+      "explanation_english": "Originates from theater. A 'scene' is a part of a play. If someone acts out with high drama in real life, they are literally 'creating a scene' for others to watch."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "accommodate",
+    "pronunciation": {
+      "british": "/əˈkɒmədeɪt/ 🇬🇧",
+      "american": "/əˈkɑːmədeɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb 多义词",
+    "usage": "非常常用 👍：既指提供住宿，也指顺应、配合他人的需求。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "容纳，提供住宿",
+          "english": "To provide lodging or sufficient space for."
+        },
+        "examples": [
+          {
+            "sentence": "The hotel can accommodate up to 500 guests.",
+            "translation": "这家酒店最多可容纳500名客人。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "顺应，迎合，配合",
+          "english": "To fit in with the wishes or needs of someone."
+        },
+        "examples": [
+          {
+            "sentence": "We will do our best to accommodate your special requests.",
+            "translation": "我们会尽力配合您的特殊要求。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "accommodation",
+        "type": "noun",
+        "definition": {
+          "chinese": "住所/和解",
+          "english": "A room, group of rooms, or building in which someone may live or stay."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写注意",
+        "explanation": "这是英语中最难拼写的词之一，记住是双 C 和双 M (2 Cs, 2 Ms)。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘accommodare’，意为“使适合”。“使空间适合某人居住”引申为容纳；“使自己的行为适合他人的需求”引申为顺应。",
+      "explanation_english": "From Latin 'accommodare' (to make fit). 'Making a space fit for someone' led to lodging; 'making one's actions fit someone's needs' led to helping or adjusting."
+    },
+    "variation_between_british_american": {
+      "british": "名词 'accommodations' 通常用单数形式指住宿。",
+      "american": "常用复数形式 'accommodations' 指酒店住宿。"
+    }
+  },
+  {
+    "word": "dispense",
+    "pronunciation": {
+      "british": "/dɪˈspens/ 🇬🇧",
+      "american": "/dɪˈspens/ 🇺🇸"
+    },
+    "phrase_type": "verb 多义词",
+    "usage": "常用 👍：正式用语，指分发物品，或（搭配 with）免除、不再需要某物。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "分发，提供",
+          "english": "To distribute or provide a service or information."
+        },
+        "examples": [
+          {
+            "sentence": "The machine dispenses coffee.",
+            "translation": "这台机器供应咖啡。"
+          }
+        ]
+      },
+      {
+        "type": "verb (phrasal)",
+        "definition": {
+          "chinese": "免除，省掉 (dispense with)",
+          "english": "To get rid of something; to manage without."
+        },
+        "examples": [
+          {
+            "sentence": "Let's dispense with the formalities and get to work.",
+            "translation": "让我们省掉客套话，开始工作吧。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "dispenser",
+        "type": "noun",
+        "definition": {
+          "chinese": "分发器/自动售货机",
+          "english": "A machine or container that lets you take something out in small amounts."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "药剂学语境",
+        "explanation": "药剂师分发药品也叫 dispense。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘dispensare’，意为“称重分发”。由于分发某物意味着它离开了原位，引申出“dispense with（使其离开/免除）”的意思。",
+      "explanation_english": "From Latin 'dispensare' (to weigh out). Since weighing out portions often meant the remainder was no longer needed or was moving away, it led to the sense of 'getting rid of' or 'managing without' (dispense with)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "drool",
+    "pronunciation": {
+      "british": "/druːl/ 🇬🇧",
+      "american": "/druːl/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：字面意思流口水，比喻极其渴望某物。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "流口水",
+          "english": "To let saliva come out of your mouth."
+        },
+        "examples": [
+          {
+            "sentence": "The baby drooled all over my shirt.",
+            "translation": "宝宝口水流了我一衬衫。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "垂涎三尺，极其渴望",
+          "english": "To show excessive enthusiasm or desire for something."
+        },
+        "examples": [
+          {
+            "sentence": "Car lovers were drooling over the new Ferrari.",
+            "translation": "跑车爱好者们对那台新款法拉利垂涎欲滴。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "saliva",
+        "type": "noun",
+        "definition": {
+          "chinese": "唾液 (正式)",
+          "english": "Watery liquid secreted into the mouth by glands."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式",
+        "explanation": "比喻用法非常不正式，常用于口语。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "16世纪出现的词，可能是模仿流口水的声音。从“生理性流口水”自然延伸到“看到好东西时极度渴望的样子”。",
+      "explanation_english": "16th-century word, likely imitative of the sound. It naturally extended from the physical reaction to food to a metaphorical reaction to anything highly desirable."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "retoucher",
+    "pronunciation": {
+      "british": "/ˌriːˈtʌtʃə/ 🇬🇧",
+      "american": "/ˌriːˈtʌtʃər/ 🇺🇸"
+    },
+    "phrase_type": "noun 职业名词",
+    "usage": "常用 👍：特指那些通过修图（通常是商业摄影）来完善照片的专业人士。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "修图师，润色师",
+          "english": "A person whose job is to improve the appearance of a photograph or painting by making small changes."
+        },
+        "examples": [
+          {
+            "sentence": "The retoucher removed the blemishes from the model's face.",
+            "translation": "修图师去掉了模特脸上的瑕疵。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "airbrush",
+        "type": "verb",
+        "definition": {
+          "chinese": "用喷枪修饰/美化",
+          "english": "To alter an image using an airbrush or digital software."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "现代语境",
+        "explanation": "现代多指 Photoshop 专家，但在胶片时代，修图师是直接在底片上操作的。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于 ‘re-’（再次）+ ‘touch’（触摸）。字面意思是“再次触碰某物以使其完美”。这是一个单一含义的专业词汇。",
+      "explanation_english": "From 're-' (again) + 'touch'. It literally means to touch something up again to make it perfect. It's a specialized professional term."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "resounding",
+    "pronunciation": {
+      "british": "/rɪˈzaʊndɪŋ/ 🇬🇧",
+      "american": "/rɪˈzaʊndɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective 强调词",
+    "usage": "常用 👍：既指声音响亮有力，也用于强调巨大的成功或彻底的失败。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "响亮的，洪亮的",
+          "english": "Enormous; (of a sound) loud enough to reverberate."
+        },
+        "examples": [
+          {
+            "sentence": "He gave a resounding speech.",
+            "translation": "他做了一场铿锵有力的演讲。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "彻底的，巨大的 (常接 success/failure)",
+          "english": "Unmistakable; emphatic."
+        },
+        "examples": [
+          {
+            "sentence": "The film was a resounding success.",
+            "translation": "这部电影取得了巨大的成功。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "echoing",
+        "type": "adjective",
+        "definition": {
+          "chinese": "回响的",
+          "english": "Repeating a sound by reflection."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "搭配词",
+        "explanation": "最常和 success, victory, failure 连用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 ‘resound’（回响）。从“声音大到能产生回音”引申为“某件事的影响力巨大，像回声一样传得很远”。",
+      "explanation_english": "From the verb 'resound' (to echo). It shifted from physical sound intensity to metaphorical impact, meaning something so clear or big it 'echoes' in importance."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "suffocate",
+    "pronunciation": {
+      "british": "/ˈsʌfəkeɪt/ 🇬🇧",
+      "american": "/ˈsʌfəkeɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb 多义词",
+    "usage": "非常常用 👍：指物理上的窒息，也常指感情或环境让人感到压抑、喘不过气。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（使）窒息，闷死",
+          "english": "To die or cause to die from lack of air or inability to breathe."
+        },
+        "examples": [
+          {
+            "sentence": "The thick smoke threatened to suffocate the firefighters.",
+            "translation": "浓烟威胁着要让消防员窒息。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "感到压抑，受阻碍",
+          "english": "To feel trapped or oppressed in a relationship or situation."
+        },
+        "examples": [
+          {
+            "sentence": "She felt suffocated by her parents' constant attention.",
+            "translation": "父母无微不至的关注让她感到喘不过气来。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "smother",
+        "type": "verb",
+        "definition": {
+          "chinese": "使窒息/覆盖",
+          "english": "To kill by covering the nose and mouth."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "抽象用法",
+        "explanation": "在文学中常用来形容过度保护或严密监管。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘suffocare’，意为“掐住脖子”。原本是单纯的生理描述，后来延伸到比喻由于过度压力导致精神上的“无法呼吸”。",
+      "explanation_english": "From Latin 'suffocare' (to throttle/choke). Originally a purely physical description, it evolved to describe the psychological feeling of being 'choked' by stress or control."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "fleet",
+    "pronunciation": {
+      "british": "/fliːt/ 🇬🇧",
+      "american": "/fliːt/ 🇺🇸"
+    },
+    "phrase_type": "noun/adj 多义词",
+    "usage": "非常常用 👍：名词指车队、船队；形容词指快速、敏捷的。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "船队，机群，车队",
+          "english": "A group of ships, cars, or aircraft moving together or under one owner."
+        },
+        "examples": [
+          {
+            "sentence": "The company owns a large fleet of delivery trucks.",
+            "translation": "这家公司拥有一支庞大的快递货车车队。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "快速的，敏捷的",
+          "english": "Fast and nimble in movement."
+        },
+        "examples": [
+          {
+            "sentence": "He was fleet of foot and won the race easily.",
+            "translation": "他脚下生风（跑得飞快），轻松赢得了比赛。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fleeting",
+        "type": "adjective",
+        "definition": {
+          "chinese": "转瞬即逝的",
+          "english": "Lasting for a very short time."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "商业语境",
+        "explanation": "‘Fleet management’（车队管理）是物流行业的常用术语。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "名词源自古英语 ‘fleot’（浮在水上的船）。形容词则源自古诺斯语，意为“会飞的、敏捷的”。这两个意思虽拼写相同，但来源路径略有不同。",
+      "explanation_english": "The noun comes from Old English 'fleot' (a ship/floating thing). The adjective stems from Old Norse meanings for 'flying' or 'swift.' They are homonyms that merged in spelling."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "chicken out",
+    "pronunciation": {
+      "british": "/ˈtʃɪkɪn aʊt/ 🇬🇧",
+      "american": "/ˈtʃɪkɪn aʊt/ 🇺🇸"
+    },
+    "phrase_type": "idiom 习语",
+    "usage": "非常常用 👍：口语，指因为害怕而在最后一刻退缩、临阵脱逃。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "临阵退缩，因胆怯而放弃",
+          "english": "To decide not to do something because one is afraid."
+        },
+        "examples": [
+          {
+            "sentence": "He was going to bungee jump, but he chickened out at the last minute.",
+            "translation": "他本打算去蹦极，但最后一刻因为害怕退缩了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "coward",
+        "type": "noun",
+        "definition": {
+          "chinese": "懦夫",
+          "english": "A person who lacks courage."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "侮辱性",
+        "explanation": "带有嘲笑意味，最好不要对不熟的人使用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于英语文化中将“鸡”视为胆小怕事动物的偏见。‘Out’ 表示退出的动作。这个用法是20世纪后才流行起来的延伸义。",
+      "explanation_english": "Derived from the cultural association of chickens with cowardice. Using 'chicken' as a verb with 'out' describes the action of exiting a situation due to fear."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "noggin",
+    "pronunciation": {
+      "british": "/ˈnɒɡɪn/ 🇬🇧",
+      "american": "/ˈnɑːɡɪn/ 🇺🇸"
+    },
+    "phrase_type": "noun 非正式俚语",
+    "usage": "常用 👍：幽默或非正式地指人的“脑袋”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "脑瓜，脑袋",
+          "english": "A person's head."
+        },
+        "examples": [
+          {
+            "sentence": "Watch your noggin when you get into the car.",
+            "translation": "上车的时候小心别碰到头。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "head",
+        "type": "noun",
+        "definition": {
+          "chinese": "头",
+          "english": "The upper part of the body."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语化",
+        "explanation": "常用于长辈对晚辈说话，或者在开玩笑时使用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "17世纪时，noggin 指的是一种“小杯子”或“小杯酒”。可能因为脑袋的形状像个杯子，或者与‘knock’（敲击）的声音相似，后来演变成了脑袋的代称。",
+      "explanation_english": "Originally meant a 'small mug' in the 17th century. It likely shifted to meaning 'head' because of the visual similarity between a mug and a skull, or through association with the sound of a knock."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "allegedly",
+    "pronunciation": {
+      "british": "/əˈledʒɪdli/ 🇬🇧",
+      "american": "/əˈledʒɪdli/ 🇺🇸"
+    },
+    "phrase_type": "adverb 正式/法律词汇",
+    "usage": "非常常用 👍：用于描述未经证实的说法，避免直接指控，常出现在新闻报道中。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "据称，依其申述",
+          "english": "Used to convey that something is claimed to be the case although there is no proof."
+        },
+        "examples": [
+          {
+            "sentence": "He allegedly stole the money from the safe.",
+            "translation": "据称他从保险箱里偷了钱（尚未法律定罪）。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "supposedly",
+        "type": "adverb",
+        "definition": {
+          "chinese": "据说",
+          "english": "According to what is generally assumed."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "媒体常用",
+        "explanation": "为了避免诽谤官司（libel），记者在正式定罪前必须使用这个词。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 ‘allege’（宣称）。这是一个单一意思的词，核心在于强调结论尚未被事实最终证实。",
+      "explanation_english": "Derived from the verb 'allege' (to claim without proof). It maintains a singular focus on indicating that a statement is a claim rather than an established fact."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "mitzvah",
+    "pronunciation": {
+      "british": "/ˈmɪtsvə/ 🇬🇧",
+      "american": "/ˈmɪtsvə/ 🇺🇸"
+    },
+    "phrase_type": "noun 文化词汇",
+    "usage": "常用 👍：源自犹太文化，既指宗教戒律，也广泛指任何善行或乐事。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "善行，好事",
+          "english": "A good deed done out of duty; a favor."
+        },
+        "examples": [
+          {
+            "sentence": "Helping the old lady carry her bags was a real mitzvah.",
+            "translation": "帮那位老太太拎包真是一桩善事。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（犹太教）诫律",
+          "english": "A religious duty or commandment in Judaism."
+        },
+        "examples": [
+          {
+            "sentence": "He is preparing for his Bar Mitzvah.",
+            "translation": "他正在为他的受戒礼（成年礼）做准备。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "blessing",
+        "type": "noun",
+        "definition": {
+          "chinese": "恩赐/祝福",
+          "english": "God's favor and protection."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "生活化用法",
+        "explanation": "在纽约等犹太文化影响深的城市，普通人也会用这个词来赞扬别人的善举。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希伯来语 ‘mitzwāh’（诫律）。在宗教语境下，遵守诫律就是做好事，因此意思逐渐延伸到指代任何世俗意义上的“善行”。",
+      "explanation_english": "From Hebrew 'mitzwāh' (commandment). In Judaism, performing a commandment is inherently a good deed, so the word expanded into secular English to mean any act of kindness."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "在美式英语（尤其是东海岸）中使用频率极高。"
+    }
+  },
+  {
+    "word": "hairpiece",
+    "pronunciation": {
+      "british": "/ˈheəpiːs/ 🇬🇧",
+      "american": "/ˈherpiːs/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：指假发片或男用假发（tupee），通常用来遮盖秃顶。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "假发片，假发",
+          "english": "A patch of false hair used to cover a bald spot or augment one's natural hair."
+        },
+        "examples": [
+          {
+            "sentence": "He’s been wearing a hairpiece for years, but nobody noticed.",
+            "translation": "他戴假发片很多年了，但没人注意到。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "toupee",
+        "type": "noun",
+        "definition": {
+          "chinese": "男用小假发",
+          "english": "A small hairpiece for men."
+        }
+      },
+      {
+        "word": "wig",
+        "type": "noun",
+        "definition": {
+          "chinese": "全头假发",
+          "english": "A covering for the whole head made of real or artificial hair."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "区别",
+        "explanation": "‘Hairpiece’ 强调是补丁式的或局部的一块，而 ‘wig’ 通常指覆盖全头的假发。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘hair’（头发）+ ‘piece’（一块）组合而成。意思非常直观，专指一小块假发。属于现代描述性词汇。",
+      "explanation_english": "A simple compound of 'hair' and 'piece.' It describes exactly what it is: a singular piece of hair, usually false, used as an addition to natural hair."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "deduce",
+    "pronunciation": {
+      "british": "/dɪˈdjuːs/ 🇬🇧",
+      "american": "/dɪˈduːs/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "正式/逻辑用语 👍：指通过已知的事实或前提，合乎逻辑地推导出结论。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "推断，演绎",
+          "english": "To arrive at a fact or a conclusion by reasoning; to draw a logical inference."
+        },
+        "examples": [
+          {
+            "sentence": "From the footprints, the detective could deduce that the suspect was tall.",
+            "translation": "从脚印中，侦探可以推断出嫌疑人身材高大。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "deduction",
+        "type": "noun",
+        "definition": {
+          "chinese": "推论/演绎法",
+          "english": "The process of reaching a decision or answer by thinking about the known facts."
+        }
+      },
+      {
+        "word": "infer",
+        "type": "verb",
+        "definition": {
+          "chinese": "推断 (更偏向暗示)",
+          "english": "To deduce or conclude information from evidence and reasoning rather than from explicit statements."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "文学关联",
+        "explanation": "福尔摩斯最著名的技能就是 'Deduction'（演绎法）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘deducere’，意为“引导下来”。在逻辑学中，指从普遍原理“引导”出具体的结论。含义非常纯粹，没有延伸出其他非逻辑义。",
+      "explanation_english": "From Latin 'deducere' (to lead down). In logic, it means 'leading' a specific conclusion down from general premises. The meaning has remained strictly tied to reasoning."
+    },
+    "variation_between_british_american": {
+      "british": "发音中常用 /djuːs/。",
+      "american": "发音中常用 /duːs/。"
+    }
+  },
+  {
+    "word": "call off",
+    "pronunciation": {
+      "british": "/kɔːl ɒf/ 🇬🇧",
+      "american": "/kɔːl ɔːf/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：最常指取消已经安排好的活动，或者命令动物/人停止攻击。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "取消 (活动、计划等)",
+          "english": "To cancel an event or agreement that has been previously arranged."
+        },
+        "examples": [
+          {
+            "sentence": "They had to call off the football match because of the rain.",
+            "translation": "因为下雨，他们不得不取消了足球比赛。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "叫停，制止 (攻击/搜寻)",
+          "english": "To order a person or animal to stop attacking or searching for someone."
+        },
+        "examples": [
+          {
+            "sentence": "Call off your dog! It’s trying to bite me!",
+            "translation": "快把你的狗叫开！它要咬我！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cancel",
+        "type": "verb",
+        "definition": {
+          "chinese": "取消",
+          "english": "To decide that a planned event will not happen."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用场景",
+        "explanation": "常用于取消婚礼、罢工或搜救行动。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思是“大声叫走”。原指通过呼喊让某人（或狗）离开正在做的事。后来引申为让一个原本要发生的计划“离开”议程，即取消。",
+      "explanation_english": "Literally 'to call someone away.' Originally used to call a person or animal away from a task or pursuit. This naturally extended to calling a 'plan' away from the schedule, effectively canceling it."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "explosions",
+    "pronunciation": {
+      "british": "/ɪkˈspləʊʒnz/ 🇬🇧",
+      "american": "/ɪkˈsploʊʒnz/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词 (复数)",
+    "usage": "非常常用 👍：指物理爆炸，也可比喻情绪的爆发或数量的激增。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "爆炸，爆破",
+          "english": "A violent and destructive shattering or blowing apart of something."
+        },
+        "examples": [
+          {
+            "sentence": "Several explosions were heard in the city center.",
+            "translation": "市中心传来了几声爆炸声。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（感情的）爆发，（数量的）激增",
+          "english": "A sudden, loud, or rapid increase or release of something (like anger or population)."
+        },
+        "examples": [
+          {
+            "sentence": "An explosion of anger followed the news.",
+            "translation": "消息传出后，引发了一阵怒火的爆发。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "blast",
+        "type": "noun",
+        "definition": {
+          "chinese": "爆炸/冲击波",
+          "english": "A destructive wave of highly compressed air."
+        }
+      },
+      {
+        "word": "detonate",
+        "type": "verb",
+        "definition": {
+          "chinese": "引爆",
+          "english": "To cause something to explode."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "‘Population explosion’（人口爆炸）是描述社会问题的常用词。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘explodere’。有趣的是，它最初指“通过鼓掌把演员轰下台”。后来演变为“发出巨大声响并驱逐”，最终定格为现代意义上的物理或情绪爆炸。",
+      "explanation_english": "From Latin 'explodere,' which originally meant 'to drive an actor off the stage by clapping.' It evolved to mean 'to drive out with a loud noise,' and eventually to the physical or emotional shattering we mean today."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "bizarre",
+    "pronunciation": {
+      "british": "/bɪˈzɑː(r)/ 🇬🇧",
+      "american": "/bɪˈzɑːr/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "非常常用 👍：形容非常怪异、荒诞或不寻常的事物。语气比 'strange' 重。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "古怪的，荒诞的",
+          "english": "Very strange or unusual, especially so as to cause interest or amusement."
+        },
+        "examples": [
+          {
+            "sentence": "She wore a bizarre outfit to the party.",
+            "translation": "她穿了一身极其古怪的装扮去参加派对。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "weird",
+        "type": "adjective",
+        "definition": {
+          "chinese": "诡异的",
+          "english": "Suggesting something supernatural; uncanny."
+        }
+      },
+      {
+        "word": "eccentric",
+        "type": "adjective",
+        "definition": {
+          "chinese": "（人）古怪的/特立独行的",
+          "english": "Unconventional and slightly strange (usually of a person)."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写陷阱",
+        "explanation": "注意结尾是 -rre，不要和 'bazaar'（集市）搞混。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "起源有争议。法语词，可能源自巴斯克语 ‘bizar’（胡须），在西班牙语中意为“勇敢的/英俊的”。后来传到法语中，意思变成了“奇特的”，并最终被英语吸收。",
+      "explanation_english": "A French word of debated origin. It may stem from Basque 'bizar' (beard) or Spanish 'bizarro' (brave/handsome). In French, it shifted to mean 'odd' or 'fantastic,' which is the meaning English adopted."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "hunchback",
+    "pronunciation": {
+      "british": "/ˈhʌntʃbæk/ 🇬🇧",
+      "american": "/ˈhʌntʃbæk/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "慎用 ⚠️：描述性词汇，由于带有历史上的贬义和歧视色彩，现代日常对话中应避免直接形容人。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "驼背者",
+          "english": "A person with a back that is curved because of a problem with the spine."
+        },
+        "examples": [
+          {
+            "sentence": "The Hunchback of Notre Dame is a famous novel.",
+            "translation": "《巴黎圣母院》（直译：诺特丹的驼背人）是一部著名小说。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "kyphosis",
+        "type": "noun (medical)",
+        "definition": {
+          "chinese": "脊柱后凸 (医学术语)",
+          "english": "Forward rounding of the back."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "政治正确",
+        "explanation": "在现代英语中，直接称呼某人为 'hunchback' 是非常无礼的，应使用医学术语或委婉说法。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘hunch’（凸起/肉瘤）+ ‘back’（背部）组成。意思非常直接且固定，指背部有隆起的人。",
+      "explanation_english": "A descriptive compound of 'hunch' (a hump or swell) and 'back.' It has a singular, literal meaning describing a physical deformity."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "cleanse",
+    "pronunciation": {
+      "british": "/klenz/ 🇬🇧",
+      "american": "/klenz/ 🇺🇸"
+    },
+    "phrase_type": "verb 多义词",
+    "usage": "非常常用 👍：比 clean 更正式，常用于指深层清洁、仪式性净化或排毒。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "清洗，使清洁 (常指深层)",
+          "english": "To make something thoroughly clean."
+        },
+        "examples": [
+          {
+            "sentence": "This soap will cleanse your pores.",
+            "translation": "这款肥皂会清洁你的毛孔。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "净化 (灵魂、罪孽等)",
+          "english": "To rid someone of something unpleasant or unwanted, especially guilt or sin."
+        },
+        "examples": [
+          {
+            "sentence": "He felt cleansed of his sins after the confession.",
+            "translation": "忏悔之后，他觉得自己的罪孽得到了洗净。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "purify",
+        "type": "verb",
+        "definition": {
+          "chinese": "净化",
+          "english": "To remove contaminants from."
+        }
+      },
+      {
+        "word": "cleanser",
+        "type": "noun",
+        "definition": {
+          "chinese": "洗面奶/清洁剂",
+          "english": "A cosmetic for cleaning the skin."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音注意",
+        "explanation": "动词发音是 /klenz/ (短e)，而形容词 clean 是 /kliːn/ (长e)。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘clænsian’。最初就是“使干净”。后来随着宗教和现代美容学的发展，延伸到了精神净化和深层排毒的含义。",
+      "explanation_english": "From Old English ‘clænsian,’ meaning ‘to make clean.’ Over time, religious contexts added spiritual purification, and modern wellness added the 'detox' sense."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "在健康饮食（juice cleanse）语境下使用频率极高。"
+    }
+  },
+  {
+    "word": "consort",
+    "pronunciation": {
+      "british": "/kənˈsɔːt/ 🇬🇧",
+      "american": "/kənˈsɔːrt/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 正式词汇",
+    "usage": "常用 👍：动词常带贬义（与坏人混在一起），名词常用于皇室（配偶）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（常指与坏人）结交，混在一起",
+          "english": "To habitually associate with someone, typically with the disapproval of others."
+        },
+        "examples": [
+          {
+            "sentence": "He was known to consort with known criminals.",
+            "translation": "众所周知，他与已知的犯罪分子混在一起。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（君主的）配偶",
+          "english": "A wife, husband, or companion of a reigning monarch."
+        },
+        "examples": [
+          {
+            "sentence": "Prince Philip was the Queen's consort.",
+            "translation": "菲利普亲王是女王的配偶。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "associate",
+        "type": "verb",
+        "definition": {
+          "chinese": "交往",
+          "english": "To connect someone with something else in one's mind."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "搭配词",
+        "explanation": "动词用法几乎总是搭配介词 ‘with’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘consors’，意为“分享命运的人”。“分享命运的人”成了“配偶”；而由于“分享命运”暗示了极深的关系，在普通语境下若跟坏人分享命运，就带上了贬义。",
+      "explanation_english": "From Latin ‘consors’ (sharer of fate). A fate-sharer became a 'spouse' (monarch context); however, associating deeply (sharing fate) with the wrong crowd naturally took on a negative tone."
+    },
+    "variation_between_british_american": {
+      "british": "在英国，由于王室的存在，名词用法更广为人知。",
+      "american": "动词用法（结交）在法律或正式语境中更常见。"
+    }
+  },
+  {
+    "word": "confront",
+    "pronunciation": {
+      "british": "/kənˈfrʌnt/ 🇬🇧",
+      "american": "/kənˈfrʌnt/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "非常常用 👍：指直面问题、挑战，或当面对质。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "面对，对抗",
+          "english": "To face up to and deal with a problem or difficult situation."
+        },
+        "examples": [
+          {
+            "sentence": "We must confront the issue of climate change.",
+            "translation": "我们必须直面气候变化问题。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "当面对质",
+          "english": "To face someone in order to accuse them or argue with them."
+        },
+        "examples": [
+          {
+            "sentence": "She decided to confront him about his lies.",
+            "translation": "她决定当面戳穿他的谎言。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "confrontation",
+        "type": "noun",
+        "definition": {
+          "chinese": "对峙，冲突",
+          "english": "A hostile or argumentative meeting."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "这个词通常带有一定的张力（tension）或敌对感。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘con-’（一起）+ ‘frons’（前额）。字面意思就是“额头对着额头”，自然演变成了直面问题或当面争执。",
+      "explanation_english": "From Latin ‘con-’ (together) + ‘frons’ (forehead). It literally means ‘forehead to forehead,’ which naturally evolved into facing something or someone head-on."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "fixate",
+    "pronunciation": {
+      "british": "/fɪkˈseɪt/ 🇬🇧",
+      "american": "/ˈfɪkseɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb 心理学/日常词汇",
+    "usage": "常用 👍：指对某人或某事产生强迫性的、过度的关注。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "注视，（心理上）固着/迷恋",
+          "english": "To cause someone to develop an obsessive attachment to someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "He tends to fixate on small details.",
+            "translation": "他倾向于死磕一些小细节。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "obsession",
+        "type": "noun",
+        "definition": {
+          "chinese": "痴迷",
+          "english": "An idea or thought that continually preoccupies or intrudes on a person's mind."
+        }
+      },
+      {
+        "word": "fixated",
+        "type": "adjective",
+        "definition": {
+          "chinese": "执着的",
+          "english": "Obsessively focused on something."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "搭配",
+        "explanation": "最常用的固定搭配是 ‘fixate on’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自 ‘fix’（固定）。在心理学上，指一个人的精神能量“固定”在某个阶段或物体上。后来进入日常用语，指任何形式的钻牛角尖。",
+      "explanation_english": "From ‘fix.’ In psychology, it refers to psychic energy becoming ‘fixed’ at a certain stage or object. In common use, it means being obsessively stuck on an idea."
+    },
+    "variation_between_british_american": {
+      "british": "重音通常在第二个音节。",
+      "american": "重音通常在第一个音节。"
+    }
+  },
+  {
+    "word": "grief",
+    "pronunciation": {
+      "british": "/ɡriːf/ 🇬🇧",
+      "american": "/ɡriːf/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "非常常用 👍：本意是极度的悲伤，口语中常指“麻烦”或“指责”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（尤指因亲友离世导致的）深切哀痛",
+          "english": "Deep sorrow, especially that caused by someone's death."
+        },
+        "examples": [
+          {
+            "sentence": "She was overcome with grief after her dog died.",
+            "translation": "她的狗死后，她陷入了深深的悲痛中。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "麻烦，指责，烦恼 (口语)",
+          "english": "Trouble or annoyance; criticism (informal)."
+        },
+        "examples": [
+          {
+            "sentence": "My boss gave me a lot of grief for being late.",
+            "translation": "我老板因为我迟到狠狠地训了我一顿。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sorrow",
+        "type": "noun",
+        "definition": {
+          "chinese": "悲哀",
+          "english": "A feeling of deep distress caused by loss."
+        }
+      },
+      {
+        "word": "grievance",
+        "type": "noun",
+        "definition": {
+          "chinese": "委屈/不满",
+          "english": "A real or imagined wrong or other cause for complaint or protest."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用搭配",
+        "explanation": "‘Good grief!’ 是一句感叹词，意为“天哪！”或“哎呀！”"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 ‘grever’（沉重、压迫）。原本指心灵的沉重。后来口语中把“让人心情沉重”的人或事也称为 ‘grief’，即麻烦。",
+      "explanation_english": "From Old French ‘grever’ (to burden/oppress). Originally referred to spiritual heaviness. In slang, it shifted to describe anyone or anything that ‘burdens’ you with criticism or trouble."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "‘Gives me grief’ 在美式口语中非常地道且常用。"
+    }
+  },
+  {
+    "word": "compromise",
+    "pronunciation": {
+      "british": "/ˈkɒmprəmaɪz/ 🇬🇧",
+      "american": "/ˈkɑːmprəmaɪz/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：既可以指和谐的妥协，也可以指危险的危害/泄露。",
+    "meanings": [
+      {
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "妥协，折中",
+          "english": "An agreement or settlement of a dispute that is reached by each side making concessions."
+        },
+        "examples": [
+          {
+            "sentence": "In a marriage, you have to learn to compromise.",
+            "translation": "在婚姻中，你必须学会妥协。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "连累，损害，泄露 (尤其是名誉或安全)",
+          "english": "To bring into danger or under suspicion by foolish or negligent behavior."
+        },
+        "examples": [
+          {
+            "sentence": "Our security system has been compromised.",
+            "translation": "我们的安保系统已经遭到了破坏（或泄露）。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "negotiate",
+        "type": "verb",
+        "definition": {
+          "chinese": "谈判",
+          "english": "To try to reach an agreement or compromise by discussion."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "安全语境",
+        "explanation": "在网络安全中，‘compromised’ 特指被黑客入侵。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘compromissum’（相互承诺）。最初指双方共同承诺接受仲裁（妥协）。后来由于“相互让步”可能导致原则受损，延伸出了“损害、使陷入危险”的负面含义。",
+      "explanation_english": "From Latin ‘compromissum’ (mutual promise). Originally meant a mutual promise to abide by an arbiter’s decision (positive). Later, because giving ground can mean exposing weaknesses, it evolved to mean 'to endanger' or 'to expose' (negative)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "prom",
+    "pronunciation": {
+      "british": "/prɒm/ 🇬🇧",
+      "american": "/prɑːm/ 🇺🇸"
+    },
+    "phrase_type": "noun 校园文化词汇",
+    "usage": "非常常用 👍：特指高中毕业前的正式舞会，是美国青少年文化中的重大事件。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（高中举办的）正式舞会",
+          "english": "A formal dance held by a high school at the end of the academic year."
+        },
+        "examples": [
+          {
+            "sentence": "He asked her to be his date for the prom.",
+            "translation": "他邀请她做他毕业舞会的舞伴。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "promenade",
+        "type": "noun",
+        "definition": {
+          "chinese": "散步/舞会全程",
+          "english": "A leisurely walk; the full name of prom."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化重要性",
+        "explanation": "在美国，prom 被视为成年的重要仪式，学生通常会租豪华轿车（limo）并穿礼服参加。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自 ‘promenade’（散步/长廊）。19世纪美国大学模仿上流社会的排场，让学生排成队列“散步”入场，后来这一形式演变成了现代的舞会。",
+      "explanation_english": "Short for ‘promenade.’ In 19th-century US colleges, it referred to the formal grand march of guests at the beginning of a ball. It eventually shortened to ‘prom’ and shifted to high schools."
+    },
+    "variation_between_british_american": {
+      "british": "传统上叫 ‘school leavers' ball’，但在美剧影响下，现在也常说 ‘prom’。",
+      "american": "最核心的词汇，生活重心之一。"
+    }
+  },
+  {
+    "word": "drift apart",
+    "pronunciation": {
+      "british": "/drɪft əˈpɑːt/ 🇬🇧",
+      "american": "/drɪft əˈpɑːrt/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：形容人际关系（朋友或恋人）由于联系减少而逐渐变得疏远。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "（关系）逐渐疏远",
+          "english": "To gradually become less friendly and eventually stop a relationship."
+        },
+        "examples": [
+          {
+            "sentence": "Over the years, the two friends drifted apart.",
+            "translation": "这些年来，这两位朋友逐渐疏远了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "estrange",
+        "type": "verb",
+        "definition": {
+          "chinese": "使疏远 (更正式)",
+          "english": "To cause someone to be no longer close or affectionate."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "这个词强调的是一种“自然而然、非争吵导致”的慢慢变淡。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自航海比喻。‘Drift’ 指物体随波逐流。想象两艘没有系在一起的船，随着波浪慢慢漂向不同的方向，关系亦然。",
+      "explanation_english": "A nautical metaphor. Just as two unanchored boats naturally float away from each other on the water, people’s lives move in different directions without active maintenance."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "deed",
+    "pronunciation": {
+      "british": "/diːd/ 🇬🇧",
+      "american": "/diːd/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "常用 👍：既可以指具体的行为（文学/道德感强），也可以指房产契约（法律用语）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "行为，行动 (常指显著的好事或坏事)",
+          "english": "An action that is performed intentionally or consciously."
+        },
+        "examples": [
+          {
+            "sentence": "A good deed never goes unrewarded.",
+            "translation": "善有善报。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（房屋/土地）契约，证照",
+          "english": "A legal document that is signed and delivered, especially one regarding the ownership of property."
+        },
+        "examples": [
+          {
+            "sentence": "The deed to the house is in the safe.",
+            "translation": "房子的房契在保险箱里。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "act",
+        "type": "noun",
+        "definition": {
+          "chinese": "行为 (中性)",
+          "english": "A thing done."
+        }
+      },
+      {
+        "word": "title",
+        "type": "noun",
+        "definition": {
+          "chinese": "所有权/产权",
+          "english": "The legal right to ownership."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用短语",
+        "explanation": "‘Indeed’（确实）最初的意思就是“在事实/行为中”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘dæd’（做过的事）。法律上的契约之所以被称为 ‘deed’，是因为它是某种转让行为的“正式记录或证明”。",
+      "explanation_english": "From Old English ‘dæd,’ related to ‘do.’ The legal sense arose because the document is the formal ‘done thing’ or ‘evidence of the act’ of transferring property."
+    },
+    "variation_between_british_american": {
+      "british": "法律语境中依然常用，但日常口语更多用 ‘act’。",
+      "american": "房产交易中 ‘house deed’ 是标准词汇。"
+    }
+  },
+  {
+    "word": "therapist",
+    "pronunciation": {
+      "british": "/ˈθerəpɪst/ 🇬🇧",
+      "american": "/ˈθerəpɪst/ 🇺🇸"
+    },
+    "phrase_type": "noun 职业名词",
+    "usage": "非常常用 👍：泛指各种治疗师，但在口语中如果不加修饰，多指心理咨询师。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "治疗师，心理咨询师",
+          "english": "A person skilled in a particular kind of therapy."
+        },
+        "examples": [
+          {
+            "sentence": "I've been seeing a therapist for my anxiety.",
+            "translation": "我一直因为焦虑症去看心理医生。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "counselor",
+        "type": "noun",
+        "definition": {
+          "chinese": "顾问/辅导员",
+          "english": "A person trained to give guidance on personal or psychological problems."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "区别",
+        "explanation": "不同于 Psychiatrist（精神科医生，可开药），Therapist 主要通过谈话（Talk therapy）辅助治疗。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘therapeutes’（照料者）。原本指任何照料病患的人，20世纪随着心理治疗的兴起，该词逐渐成为了该领域的代名词。",
+      "explanation_english": "From Greek ‘therapeutes’ (attendant/servant). It originally meant anyone who attended to the sick, but in the 20th century, it specialized as the primary term for mental health professionals."
+    },
+    "variation_between_british_american": {
+      "british": "也常使用 ‘psychotherapist’ 或 ‘counselor’。",
+      "american": "极其常用，去看心理咨询在北美被视为非常正常的生活方式。"
+    }
+  },
+  {
+    "word": "empty-handed",
+    "pronunciation": {
+      "british": "/ˌempti ˈhændɪd/ 🇬🇧",
+      "american": "/ˌempti ˈhændɪd/ 🇺🇸"
+    },
+    "phrase_type": "adj/adv 常用短语",
+    "usage": "非常常用 👍：指空手而归，没带礼物或没能带回预期的成果。",
+    "meanings": [
+      {
+        "type": "adjective/adverb",
+        "definition": {
+          "chinese": "空手的，一无所获的",
+          "english": "Having failed to obtain or achieve what was wanted; without bringing a gift."
+        },
+        "examples": [
+          {
+            "sentence": "I don't want to show up at the party empty-handed.",
+            "translation": "我不想空着手去参加派对。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fruitless",
+        "type": "adjective",
+        "definition": {
+          "chinese": "无果的",
+          "english": "Failing to achieve the desired results."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "社交礼仪",
+        "explanation": "在西方文化中，去别人家做客带上一瓶酒或一束花被视为‘不空手（not empty-handed）’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思组合。由于手是人类获取和携带物品的最直接工具，“空手”直观地表达了“没有获得”或“没有贡献”的含义。",
+      "explanation_english": "A literal compound. Since hands are the primary human tools for grasping and carrying, having 'empty' ones naturally signifies a lack of results or gifts."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "dune",
+    "pronunciation": {
+      "british": "/djuːn/ 🇬🇧",
+      "american": "/duːn/ 🇺🇸"
+    },
+    "phrase_type": "noun 地理名词",
+    "usage": "常用 👍：指沙漠或海滩上的沙丘。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "沙丘",
+          "english": "A mound or ridge of sand or other loose sediment formed by the wind."
+        },
+        "examples": [
+          {
+            "sentence": "We watched the sunset from the top of a giant dune.",
+            "translation": "我们在一个巨大的沙丘顶上观看了日落。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sandbank",
+        "type": "noun",
+        "definition": {
+          "chinese": "沙洲",
+          "english": "A deposit of sand forming a shallow area in water."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "科幻文化",
+        "explanation": "《Dune》（沙丘）是著名的科幻巨著，背景设定在一个全沙漠的行星上。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自中古荷兰语 ‘dune’。最初指“丘陵”或“沿海的沙堆”。是一个稳定的地理描述词。",
+      "explanation_english": "From Middle Dutch ‘dune.’ It has always referred to a hill of sand or coastal ridge; the meaning has remained stable for centuries."
+    },
+    "variation_between_british_american": {
+      "british": "发音带有 /j/ 音 (d-yune)。",
+      "american": "发音直接是 /u/ 音 (doon)。"
+    }
+  },
+  {
+    "word": "whatsoever",
+    "pronunciation": {
+      "british": "/ˌwɒtsəʊˈevə(r)/ 🇬🇧",
+      "american": "/ˌwɑːtsoʊˈevər/ 🇺🇸"
+    },
+    "phrase_type": "adverb/pronoun 强调副词",
+    "usage": "非常常用 👍：用于否定句后，起到极强的强调作用，相当于“哪怕一点点都没有”。",
+    "meanings": [
+      {
+        "type": "adverb",
+        "definition": {
+          "chinese": "无论如何，丝毫（不）",
+          "english": "At all (used for emphasis after a negative statement)."
+        },
+        "examples": [
+          {
+            "sentence": "I have no interest in that whatsoever.",
+            "translation": "我对那个真的一丁点儿兴趣都没有。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "at all",
+        "type": "adverb",
+        "definition": {
+          "chinese": "根本",
+          "english": "In any way or of any degree."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "位置",
+        "explanation": "它总是放在名词或形容词之后，用来加重语气。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自 ‘whatever’，但在中间插入了 ‘so’ 来增加音节，从而在说话时能通过延长发音来加强语气。其含义一直非常稳定。",
+      "explanation_english": "An emphatic form of ‘whatever.’ The ‘so’ was added in Middle English to give the word more rhythmic weight, allowing the speaker to stress the finality of a negative statement."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "catch on",
+    "pronunciation": {
+      "british": "/kætʃ ɒn/ 🇬🇧",
+      "american": "/kætʃ ɑːn/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义短语",
+    "usage": "非常常用 👍：既可以指理解了某事，也可以指某种事物变得流行。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "理解，明白",
+          "english": "To understand what is meant or how something is done."
+        },
+        "examples": [
+          {
+            "sentence": "It took me a while to catch on to what they were joking about.",
+            "translation": "我花了好一会儿才明白他们在开什么玩笑。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "流行起来",
+          "english": "To become popular or fashionable."
+        },
+        "examples": [
+          {
+            "sentence": "The new hairstyle really caught on among teenagers.",
+            "translation": "这种新发型在青少年中非常流行。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "grasp",
+        "type": "verb",
+        "definition": {
+          "chinese": "领会",
+          "english": "To understand something fully."
+        }
+      },
+      {
+        "word": "trend",
+        "type": "verb",
+        "definition": {
+          "chinese": "趋向/流行",
+          "english": "To change or develop in a general direction."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "搭配",
+        "explanation": "作“理解”讲时，常接介词 ‘to’ (catch on to something)。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思是“抓在上面”。“脑子抓住了信息”即理解；“事物抓住了大众的兴趣点”即流行。这是一种从物理动作到抽象心理的延伸。",
+      "explanation_english": "Literally ‘to catch and hold onto something.’ In a mental sense, catching an idea means understanding. In a social sense, if a product ‘catches on’ to the public, it gains traction and becomes popular."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "more of",
+    "pronunciation": {
+      "british": "/mɔː(r) əv/ 🇬🇧",
+      "american": "/mɔːr əv/ 🇺🇸"
+    },
+    "phrase_type": "phrase 常用短语",
+    "usage": "非常常用 👍：用于比较程度，或者形容某事物“更倾向于”是某种类型。",
+    "meanings": [
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "更多的是...，更像是...",
+          "english": "To a greater extent; used to describe the character of something more accurately."
+        },
+        "examples": [
+          {
+            "sentence": "He's more of a friend than a boss.",
+            "translation": "比起老板，他更像是个朋友。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "rather",
+        "type": "adverb",
+        "definition": {
+          "chinese": "宁愿/相当",
+          "english": "To a certain or significant extent or degree."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "对比结构",
+        "explanation": "常与 ‘than’ 连用，构成 ‘more of A than B’ 的结构。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘more’ 和 ‘of’ 组成，属于功能性的比较结构，表示在特征的占比上，某一方面更多。",
+      "explanation_english": "A grammatical construction using the comparative ‘more’ with the partitive ‘of,’ indicating a higher proportion of a specific characteristic."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "smash",
+    "pronunciation": {
+      "british": "/smæʃ/ 🇬🇧",
+      "american": "/smæʃ/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：物理上指粉碎，流行文化中指巨大的成功。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "粉碎，重击",
+          "english": "To violently break something into many pieces."
+        },
+        "examples": [
+          {
+            "sentence": "The vase smashed into pieces on the floor.",
+            "translation": "花瓶在地上摔得粉碎。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "极大的成功 (smash hit)",
+          "english": "A very successful song, film, or show."
+        },
+        "examples": [
+          {
+            "sentence": "Her new single is a total smash.",
+            "translation": "她的新单曲大获成功。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "shatter",
+        "type": "verb",
+        "definition": {
+          "chinese": "碎裂",
+          "english": "To break or cause to break suddenly and violently into pieces."
+        }
+      },
+      {
+        "word": "hit",
+        "type": "noun",
+        "definition": {
+          "chinese": "热门",
+          "english": "A successful venture."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "体育术语",
+        "explanation": "在网球或羽毛球中指“扣杀”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自模仿撞击的声音。物理上的“粉碎”产生巨大冲击力，引申到商业上指像“重击”一样震撼市场、极具冲击力的成功作品。",
+      "explanation_english": "Onomatopoeic (imitates the sound of a violent impact). The literal sense of breaking with force led to the metaphorical sense of something that ‘hits’ the market with massive impact (a smash hit)."
+    },
+    "variation_between_british_american": {
+      "british": "口语中 ‘smashed’ 有时指“喝得烂醉”。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "get it together",
+    "pronunciation": {
+      "british": "/ɡet ɪt təˈɡeðə(r)/ 🇬🇧",
+      "american": "/ɡet ɪt təˈɡeðər/ 🇺🇸"
+    },
+    "phrase_type": "idiom 习语",
+    "usage": "非常常用 👍：口语中用来提醒某人控制情绪、整理好生活或振作起来。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "振作起来，（把生活或情绪）整理好",
+          "english": "To organize one's life or emotions so that one is able to cope or succeed."
+        },
+        "examples": [
+          {
+            "sentence": "You need to get it together if you want to keep this job.",
+            "translation": "如果你想保住这份工作，你就得振作起来（把事理顺）。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "organize",
+        "type": "verb",
+        "definition": {
+          "chinese": "组织",
+          "english": "Arrange into a structured whole."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "带有一定的催促或批评意味，通常对状态混乱的人说。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思是“把它们（碎片）放到一起”。比喻一个人如果状态不好，就像碎片撒了一地，需要把它们重新聚拢成一个整体。",
+      "explanation_english": "A metaphorical visualization of putting broken or scattered pieces (one's life or mind) back into a single, functional unit."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "walk out on",
+    "pronunciation": {
+      "british": "/wɔːk aʊt ɒn/ 🇬🇧",
+      "american": "/wɔːk aʊt ɑːn/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：指在对方需要时突然抛弃、离开（通常指感情或家庭责任）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "抛弃，（突然）离开某人",
+          "english": "To suddenly leave your husband, wife, partner, or family and stop having a relationship with them."
+        },
+        "examples": [
+          {
+            "sentence": "He walked out on his wife and two kids.",
+            "translation": "他抛弃了他的妻子和两个孩子。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "abandon",
+        "type": "verb",
+        "definition": {
+          "chinese": "遗弃",
+          "english": "To cease to support or look after."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "情感色彩",
+        "explanation": "这是一个带有强烈谴责色彩的词，暗示不负责任的离开。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘walk out’（走出）和 ‘on’（针对某人）组成。字面意思是走出家门，但在那个人身上留下了负面影响（即抛弃）。",
+      "explanation_english": "A combination of ‘walk out’ (physical exit) and ‘on’ (indicating the target affected). It describes the physical act of leaving a home, aimed specifically at the people being left behind."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "inscribe",
+    "pronunciation": {
+      "british": "/ɪnˈskraɪb/ 🇬🇧",
+      "american": "/ɪnˈskraɪb/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：指在物体表面刻字、写字，或者在书上题词。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "题写，刻印",
+          "english": "To write or carve (words or symbols) on something, especially as a formal or permanent record."
+        },
+        "examples": [
+          {
+            "sentence": "His name was inscribed on the trophy.",
+            "translation": "他的名字被刻在了奖杯上。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（在书上）题词",
+          "english": "To write a personal message to someone in a book given as a gift."
+        },
+        "examples": [
+          {
+            "sentence": "The author agreed to inscribe the book for her.",
+            "translation": "作者同意在书上为她题词。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "inscription",
+        "type": "noun",
+        "definition": {
+          "chinese": "铭文，题词",
+          "english": "Words inscribed, as on a monument or in a book."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式度",
+        "explanation": "比普通的 ‘write’ 或 ‘carve’ 听起来更正式，带有某种纪念意义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘in-’（在...上）+ ‘scribere’（写）。最初指物理上的刻写，后来延伸到在书页上题写纪念文字这种行为。",
+      "explanation_english": "From Latin ‘in-’ (upon) + ‘scribere’ (to write). It started with the physical act of carving onto hard surfaces and naturally extended to writing celebratory or personal messages in books."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "come out of",
+    "pronunciation": {
+      "british": "/kʌm aʊt əv/ 🇬🇧",
+      "american": "/kʌm aʊt əv/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：指从某处出来，或者从某种经历中产生结果。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "从...出来",
+          "english": "To exit from a place or container."
+        },
+        "examples": [
+          {
+            "sentence": "He finally came out of the room.",
+            "translation": "他终于从房间里出来了。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "源于，产生于",
+          "english": "To happen as a result of a particular situation or event."
+        },
+        "examples": [
+          {
+            "sentence": "Nothing good will come out of this argument.",
+            "translation": "这场争论不会产生任何好结果。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "emerge",
+        "type": "verb",
+        "definition": {
+          "chinese": "显现，浮现",
+          "english": "To move out of or away from something and become visible."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义判断",
+        "explanation": "根据主语和宾语是具体空间还是抽象事件来判断含义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思是物理上的移出。后来引申到逻辑上，认为一个结果就像是从一个因果容器中“走出来”的一样。",
+      "explanation_english": "Originally a literal movement from inside to outside. It metaphorically expanded to mean results emerging from a situation, as if the situation were a container holding that outcome."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "horny",
+    "pronunciation": {
+      "british": "/ˈhɔːni/ 🇬🇧",
+      "american": "/ˈhɔːrni/ 🇺🇸"
+    },
+    "phrase_type": "adjective 多义词/俚语",
+    "usage": "非常常用（口语）⚠️：注意语境！主要指性冲动，但也指像角质一样硬。",
+    "meanings": [
+      {
+        "type": "adjective (slang)",
+        "definition": {
+          "chinese": "好色的，感到性兴奋的",
+          "english": "Feeling sexually excited."
+        },
+        "examples": [
+          {
+            "sentence": "I'm feeling a bit horny tonight.",
+            "translation": "我今晚有点冲动（性兴奋）。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "角质的，硬如角的",
+          "english": "Hard and rough, like the material that horns are made of."
+        },
+        "examples": [
+          {
+            "sentence": "The farmer had thick, horny hands from years of work.",
+            "translation": "农民因多年的劳动，双手长满了厚厚的硬茧。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "aroused",
+        "type": "adjective",
+        "definition": {
+          "chinese": "激发的，被引起性欲的",
+          "english": "Sexually excited."
+        }
+      },
+      {
+        "word": "callous",
+        "type": "noun",
+        "definition": {
+          "chinese": "老茧",
+          "english": "A thickened and hardened part of the skin."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "社交禁忌",
+        "explanation": "在正式场合或与不熟的人交谈时，避免使用第一种含义，否则会显得非常粗鲁。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "本意指“像角一样硬”。在19世纪末，由于男性生理反应的硬度与“角”相似，演变出了俚语层面的“性兴奋”。",
+      "explanation_english": "Originally meant 'consisting of horn' or 'hard like horn.' In the late 19th century, the slang sense emerged due to the metaphorical association between the hardness of a horn and a male erection, later generalizing to any sexual arousal."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "on a roll",
+    "pronunciation": {
+      "british": "/ɒn ə rəʊl/ 🇬🇧",
+      "american": "/ɑːn ə roʊl/ 🇺🇸"
+    },
+    "phrase_type": "idiom 习语",
+    "usage": "非常常用 👍：形容某人正处于连胜、运气极佳或势头强劲的状态。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "手顺，运气好，势头正盛",
+          "english": "Experiencing a period of success or good luck."
+        },
+        "examples": [
+          {
+            "sentence": "Don't stop me now, I'm on a roll!",
+            "translation": "现在别打断我，我正顺着呢！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "momentum",
+        "type": "noun",
+        "definition": {
+          "chinese": "势头，动力",
+          "english": "The force that keeps something moving."
+        }
+      },
+      {
+        "word": "winning streak",
+        "type": "phrase",
+        "definition": {
+          "chinese": "连胜",
+          "english": "A continuous series of successes."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语感",
+        "explanation": "常用于游戏、职场成功或任何连续取得进展的时刻。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自赌博或体育竞赛。想象一个球滚下坡或骰子连续掷出好结果，这种“滚动”的势头很难停止。",
+      "explanation_english": "Likely originated from gambling (dice) or sports. It visualizes the momentum of a rolling object that is difficult to stop once it gains speed, representing sustained success."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "or else",
+    "pronunciation": {
+      "british": "/ɔː(r) els/ 🇬🇧",
+      "american": "/ɔːr els/ 🇺🇸"
+    },
+    "phrase_type": "conjunction/phrase 短语",
+    "usage": "非常常用 👍：既可以作为选择的连接词，也可以作为未言明的威胁。",
+    "meanings": [
+      {
+        "type": "conjunction",
+        "definition": {
+          "chinese": "否则，要不然",
+          "english": "Used to introduce the second of two alternatives or consequences."
+        },
+        "examples": [
+          {
+            "sentence": "Hurry up, or else we'll be late.",
+            "translation": "快点，否则我们要迟到了。"
+          }
+        ]
+      },
+      {
+        "type": "phrase (threat)",
+        "definition": {
+          "chinese": "（语气强硬）否则有你好看的",
+          "english": "Used as a warning that something bad will happen if instructions are not followed."
+        },
+        "examples": [
+          {
+            "sentence": "Give me the money, or else!",
+            "translation": "把钱给我，不然（有你好看的）！"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "otherwise",
+        "type": "adverb",
+        "definition": {
+          "chinese": "否则",
+          "english": "In different circumstances."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "威胁用法",
+        "explanation": "当单独使用且语气上扬时，它是一种留白，让对方想象最坏的结果。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原本只是简单的逻辑连接。由于这种连接暗示了如果不做前一件事就会有后一件事（通常是不好的），人们开始在口语中隐去后果，形成了一种带有威胁意味的留白。",
+      "explanation_english": "Originally a simple logical connector. Since it introduces a negative consequence, speakers began dropping the specific consequence to create an ominous silence, turning it into a powerful tool for threats."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "take credit",
+    "pronunciation": {
+      "british": "/teɪk ˈkredɪt/ 🇬🇧",
+      "american": "/teɪk ˈkredɪt/ 🇺🇸"
+    },
+    "phrase_type": "phrase 常用短语",
+    "usage": "非常常用 👍：指将功劳归于自己，有时带有“抢功”的贬义。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "归功于自己，邀功",
+          "english": "To allow people to believe that one did something that deserves praise."
+        },
+        "examples": [
+          {
+            "sentence": "I did all the work, but she took all the credit.",
+            "translation": "活全是我干的，功劳全被她抢了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "recognition",
+        "type": "noun",
+        "definition": {
+          "chinese": "认可",
+          "english": "Acknowledgment of something's existence, validity, or legality."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "如果一个人‘rightfully’（理所应当地）take credit，是中性的；如果是抢夺别人的功劳，则是贬义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Credit’ 在这里指“赞誉、信任”。像拿走某种资产一样拿走赞誉。意思非常直白且稳定。",
+      "explanation_english": "‘Credit’ here means belief or trust in someone's merit. To ‘take’ it is to accept the praise as one's own, much like taking possession of a tangible asset."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "在职场政治中是极高频出现的词汇。"
+    }
+  },
+  {
+    "word": "abuse",
+    "pronunciation": {
+      "british": "/əˈbjuːs/ (n) /əˈbjuːz/ (v) 🇬🇧",
+      "american": "/əˈbjuːs/ (n) /əˈbjuːz/ (v) 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍：这是一个语气较重的词，指虐待、谩骂或滥用（权力/药物）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "虐待，伤害",
+          "english": "To treat a person or an animal with cruelty or violence, especially regularly or repeatedly."
+        },
+        "examples": [
+          {
+            "sentence": "He was accused of abusing his position of power.",
+            "translation": "他被指控滥用职权。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "辱骂，谩骂",
+          "english": "Insulting and offensive language in order to criticize someone."
+        },
+        "examples": [
+          {
+            "sentence": "The referee suffered a lot of verbal abuse from the crowd.",
+            "translation": "裁判遭到了观众的大量言语辱骂。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "misuse",
+        "type": "verb",
+        "definition": {
+          "chinese": "错用，滥用",
+          "english": "Use something in the wrong way or for the wrong purpose."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音区别",
+        "explanation": "名词结尾发 /s/ 音，动词结尾发 /z/ 音。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘abusus’，意为“用尽、错用”。从最初的“错误使用”延伸到了“错误对待人（虐待）”以及“错误地使用语言（辱骂）”。",
+      "explanation_english": "From Latin ‘abusus’ (misuse). It evolved from the general sense of ‘wrong use’ to specifically ‘wrong treatment of people’ (maltreatment) and ‘wrong use of language’ (insults)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "在法律语境中，‘substance abuse’ 特指药物/毒品滥用。"
+    }
+  },
+  {
+    "word": "genuine",
+    "pronunciation": {
+      "british": "/ˈdʒenjuɪn/ 🇬🇧",
+      "american": "/ˈdʒenjuɪn/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "非常常用 👍：形容某物是真实的、非伪造的，或某人的感情是真诚的。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "真实的，真正的 (非伪造)",
+          "english": "Truly what something is said to be; authentic."
+        },
+        "examples": [
+          {
+            "sentence": "Is this a genuine leather jacket?",
+            "translation": "这是一件真皮夹克吗？"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "真诚的，诚实的",
+          "english": "Someone who is honest and can be trusted."
+        },
+        "examples": [
+          {
+            "sentence": "He has a genuine interest in helping people.",
+            "translation": "他是真心诚意地想帮助别人。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "authentic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "地道的，真实的",
+          "english": "Of undisputed origin; genuine."
+        }
+      },
+      {
+        "word": "sincere",
+        "type": "adjective",
+        "definition": {
+          "chinese": "真诚的",
+          "english": "Free from pretense or deceit."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音陷阱",
+        "explanation": "结尾的 ‘-ine’ 发音是 /ɪn/，不是像 ‘pine’ 那样的 /aɪn/。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘genuinus’，意为“原生的、天生的”。最初指通过血统证明的“亲生子”，后来延伸到指代任何“天然的、真实的”事物。其多义性源于对“真实”性质的不同应用（物体真实 vs. 情感真实）。",
+      "explanation_english": "From Latin ‘genuinus’ (native/natural). Originally referred to legitimate birth (innate), it later extended to any object or person whose qualities are ‘true’ and not faked."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "口语中常用 ‘genuinely’ 作为强调副词，相当于 ‘really’。"
+    }
+  },
+  {
+    "word": "crash",
+    "pronunciation": {
+      "british": "/kræʃ/ 🇬🇧",
+      "american": "/kræʃ/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：物理撞击、电脑崩溃、睡觉或不请自来。",
+    "meanings": [
+      {
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "碰撞，坠毁",
+          "english": "To collide violently with an obstacle or another vehicle."
+        },
+        "examples": [
+          {
+            "sentence": "I crashed my car into a tree.",
+            "translation": "我不小心把车撞到了树上。"
+          }
+        ]
+      },
+      {
+        "type": "verb (informal)",
+        "definition": {
+          "chinese": "睡觉，（因疲劳）倒头就睡",
+          "english": "To go to sleep very quickly because you are very tired."
+        },
+        "examples": [
+          {
+            "sentence": "Can I crash on your sofa tonight?",
+            "translation": "我今晚能睡在你家沙发上吗？"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（电脑/系统）崩溃",
+          "english": "To stop working suddenly (referring to a computer or system)."
+        },
+        "examples": [
+          {
+            "sentence": "The server crashed just as I was saving.",
+            "translation": "正当我保存的时候，服务器崩溃了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "collide",
+        "type": "verb",
+        "definition": {
+          "chinese": "相撞",
+          "english": "Hit with force when moving."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用短语",
+        "explanation": "‘Party crasher’ 指那些没收到邀请却硬闯进派对的人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "模仿巨大的声响。物理碰撞产生响声。后来比喻延伸：电脑停止工作像“撞车”；人累极了像“坠落”在床上。",
+      "explanation_english": "Onomatopoeic origin mimicking a loud noise. The sense of physical collision led to technological ‘failure’ (systems hitting a wall) and informal exhaustion (falling into sleep like a crash)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "在美式英语中，‘to crash’ 极常指代在别人家借宿一晚。"
+    }
+  },
+  {
+    "word": "live off",
+    "pronunciation": {
+      "british": "/lɪv ɒf/ 🇬🇧",
+      "american": "/lɪv ɔːf/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "常用 👍：指依靠某种来源（通常是他人、储蓄或某种食物）生存，常带贬义。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "依靠...生活，啃（老）",
+          "english": "To rely on someone or something for money or food."
+        },
+        "examples": [
+          {
+            "sentence": "He's 30 and still living off his parents.",
+            "translation": "他30岁了还在啃老。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "depend on",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "依赖",
+          "english": "Be controlled or determined by."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "如果主语是动物，指“以...为食”；如果主语是成年人，常暗示其不独立。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘live’ 和 ‘off’（来源于）组成。意思非常直观：生命力从某个特定的外部源泉中获取。属于逻辑延伸。",
+      "explanation_english": "A literal phrasal verb. ‘Off’ acts as the indicator of the source of sustenance. The metaphorical sense of financial dependency followed the physical sense of food dependency."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "nuclear",
+    "pronunciation": {
+      "british": "/ˈnjuːkliə(r)/ 🇬🇧",
+      "american": "/ˈnuːkliər/ 🇺🇸"
+    },
+    "phrase_type": "adjective 多义词",
+    "usage": "非常常用 👍：指核能、核武器，或（社会学）核心家庭。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "核能的，原子能的",
+          "english": "Relating to the energy released during nuclear fission or fusion."
+        },
+        "examples": [
+          {
+            "sentence": "France relies heavily on nuclear power.",
+            "translation": "法国高度依赖核电。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "核心的 (nuclear family)",
+          "english": "Relating to the core or central part of a group."
+        },
+        "examples": [
+          {
+            "sentence": "The nuclear family consists of parents and children.",
+            "translation": "核心家庭由父母和子女组成。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "atomic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "原子的",
+          "english": "Relating to atoms."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音注意",
+        "explanation": "不要发成常见的错误读音 /'nuːkjələr/ (nucular)。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自 ‘nucleus’（原子核/核心）。科学上指原子中心的部分；社会学上则通过比喻，指家庭中最核心的结构单元。",
+      "explanation_english": "From ‘nucleus’ (kernel/core). Scientific use refers to the center of an atom. In sociology, the term ‘nuclear family’ was coined in the early 20th century to describe the central core of a kinship group."
+    },
+    "variation_between_british_american": {
+      "british": "发音带有 /j/ 音 (n-yucle-ar)。",
+      "american": "发音直接是 /u/ 音 (noo-cle-ar)。"
+    }
+  },
+  {
+    "word": "rave",
+    "pronunciation": {
+      "british": "/reɪv/ 🇬🇧",
+      "american": "/reɪv/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：指极力赞扬、胡言乱语或参加狂欢派对。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "赞不绝口，热烈赞扬",
+          "english": "To talk or write about something with great enthusiasm."
+        },
+        "examples": [
+          {
+            "sentence": "Critics raved about his latest performance.",
+            "translation": "评论界对他的最新表演赞不绝口。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（多指电音）狂欢派对",
+          "english": "A large dance party featuring electronic dance music (EDM)."
+        },
+        "examples": [
+          {
+            "sentence": "We went to an underground rave in the warehouse.",
+            "translation": "我们去仓库参加了一个地下狂欢派对。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "praise",
+        "type": "verb",
+        "definition": {
+          "chinese": "表扬",
+          "english": "Express warm approval of."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用短语",
+        "explanation": "‘Rave review’ 指极高的好评。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 ‘raver’，意为“发疯、胡言乱语”。最初指狂躁的言语，后来延伸出正面含义的“狂热赞美”，20世纪后期则演变为描述“疯狂舞动”的派对。",
+      "explanation_english": "From Old French ‘raver’ (to rave/be mad). It shifted from negative ‘mad talk’ to ‘enthusiastic/passionate talk’ (praise). In the 1980s, it was adopted to describe high-energy dance parties."
+    },
+    "variation_between_british_american": {
+      "british": "‘Rave’ 文化在英国历史上极具影响力。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "rave",
+    "pronunciation": {
+      "british": "/reɪv/ 🇬🇧",
+      "american": "/reɪv/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "常用 👍：指极力赞扬、胡言乱语或参加狂欢派对。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "赞不绝口，热烈赞扬",
+          "english": "To talk or write about something with great enthusiasm."
+        },
+        "examples": [
+          {
+            "sentence": "Critics raved about his latest performance.",
+            "translation": "评论界对他的最新表演赞不绝口。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（多指电音）狂欢派对",
+          "english": "A large dance party featuring electronic dance music (EDM)."
+        },
+        "examples": [
+          {
+            "sentence": "We went to an underground rave in the warehouse.",
+            "translation": "我们去仓库参加了一个地下狂欢派对。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "praise",
+        "type": "verb",
+        "definition": {
+          "chinese": "表扬",
+          "english": "Express warm approval of."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用短语",
+        "explanation": "‘Rave review’ 指极高的好评。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 ‘raver’，意为“发疯、胡言乱语”。最初指狂躁的言语，后来延伸出正面含义的“狂热赞美”，20世纪后期则演变为描述“疯狂舞动”的派对。",
+      "explanation_english": "From Old French ‘raver’ (to rave/be mad). It shifted from negative ‘mad talk’ to ‘enthusiastic/passionate talk’ (praise). In the 1980s, it was adopted to describe high-energy dance parties."
+    },
+    "variation_between_british_american": {
+      "british": "‘Rave’ 文化在英国历史上极具影响力。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "windshield",
+    "pronunciation": {
+      "british": "/ˈwɪndʃiːld/ 🇬🇧",
+      "american": "/ˈwɪndʃiːld/ 🇺🇸"
+    },
+    "phrase_type": "noun 关键差异词",
+    "usage": "非常常用 👍：特指汽车前方的挡风玻璃。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "挡风玻璃",
+          "english": "A glass screen at the front of a motor vehicle."
+        },
+        "examples": [
+          {
+            "sentence": "The stone cracked my windshield.",
+            "translation": "石头震碎了我的挡风玻璃。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "wipers",
+        "type": "noun",
+        "definition": {
+          "chinese": "雨刷",
+          "english": "Mechanical arms that clean the windshield."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "构成",
+        "explanation": "由 ‘wind’（风）+ ‘shield’（盾牌/保护物）组成。意思非常直白。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "单一含义。早期的汽车速度较慢且没有玻璃，随着速度增加需要“盾牌”来挡风，故名。",
+      "explanation_english": "A straightforward compound: a ‘shield’ against the ‘wind.’ It originated as a descriptive term for the early glass panels added to cars."
+    },
+    "variation_between_british_american": {
+      "british": "几乎不使用这个词，英国人称之为 **windscreen**。",
+      "american": "标准用语，每一个美国人都这么说。"
+    }
+  },
+  {
+    "word": "aromatherapy",
+    "pronunciation": {
+      "british": "/əˌrəʊməˈθerəpi/ 🇬🇧",
+      "american": "/əˌroʊməˈθerəpi/ 🇺🇸"
+    },
+    "phrase_type": "noun 复合词",
+    "usage": "常用 👍：指通过天然植物精油的香气来进行的自然疗法。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "芳香疗法",
+          "english": "The use of aromatic plant extracts and essential oils in massage or baths."
+        },
+        "examples": [
+          {
+            "sentence": "She uses aromatherapy to help her sleep.",
+            "translation": "她使用芳香疗法来辅助睡眠。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "essential oil",
+        "type": "noun",
+        "definition": {
+          "chinese": "精油",
+          "english": "Concentrated plant extracts."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写",
+        "explanation": "由 ‘aroma’（香气）+ ‘therapy’（疗法）构成。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "20世纪30年代由法国学者发明，是一个现代科学/康养词汇。含义始终如一。",
+      "explanation_english": "A modern coinage (1930s) by French chemist Gattefossé. It combines the existing words ‘aroma’ and ‘therapy’ to describe a specific holistic treatment."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "hanger",
+    "pronunciation": {
+      "british": "/ˈhæŋə(r)/ 🇬🇧",
+      "american": "/ˈhæŋər/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "非常常用 👍：最常指衣架，也可指悬挂物或（贬义）随从。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "衣架",
+          "english": "A shaped piece of wood, plastic, or wire with a hook at the top, used for hanging clothes."
+        },
+        "examples": [
+          {
+            "sentence": "I need some more hangers for my new coats.",
+            "translation": "我需要更多的衣架来挂我的新大衣。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "挂钩，悬挂物",
+          "english": "A device by which something is hung."
+        },
+        "examples": [
+          {
+            "sentence": "The plant hanger is made of macramé.",
+            "translation": "那个植物挂架是用编织绳做的。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hanger-on",
+        "type": "noun (idiom)",
+        "definition": {
+          "chinese": "跟屁虫，依附者 (贬义)",
+          "english": "A person who associates with a rich or powerful person in order to get benefits."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写易混",
+        "explanation": "不要和 'hangar'（飞机库）搞混，两者发音相同但拼写不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 ‘hang’（悬挂）。最初指任何“悬挂东西的人或工具”。19世纪随着成衣工业的发展，专指“衣架”的用法才普及开来。而 ‘hanger-on’ 则是形象地比喻那些“挂在”成功人士身上不放的寄生者。",
+      "explanation_english": "Derived from the verb 'hang.' Originally, it meant anyone or anything that hangs. The specific 'coat hanger' meaning became common in the 19th century. 'Hanger-on' is a metaphorical extension describing people who 'hang onto' someone successful for their own gain."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "beacon",
+    "pronunciation": {
+      "british": "/ˈbiːkən/ 🇬🇧",
+      "american": "/ˈbiːkən/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "常用 👍：物理上指灯塔、信号灯；比喻意义上指“指路明灯”或希望的源泉。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "烽火，灯塔，信号灯",
+          "english": "A fire or light set up in a high or prominent position as a warning, help, or celebration."
+        },
+        "examples": [
+          {
+            "sentence": "The lighthouse serves as a beacon for ships at sea.",
+            "translation": "灯塔为海上的船只提供指引。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（比喻）指路明灯，希望的象征",
+          "english": "A person or thing that guides or inspires others."
+        },
+        "examples": [
+          {
+            "sentence": "She was a beacon of hope for many during the crisis.",
+            "translation": "在危机期间，她是许多人心中的希望之光。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "lighthouse",
+        "type": "noun",
+        "definition": {
+          "chinese": "灯塔",
+          "english": "A tower containing a strong light to guide ships."
+        }
+      },
+      {
+        "word": "signal",
+        "type": "noun",
+        "definition": {
+          "chinese": "信号",
+          "english": "A gesture, action, or sound that gives information."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "现代用法",
+        "explanation": "在计算机领域，‘beacon’ 也可以指一种持续发送信号的小型无线设备（蓝牙信标）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘beacen’（迹象、信号）。最初指为了传递信息而点燃的火堆。由于这种火光在黑暗中极其显眼且能指引方向，它很自然地被引申为精神上的“指引者”或“希望”。",
+      "explanation_english": "From Old English 'beacen' (sign or signal). Originally referred to a signal fire lit to convey news. Because such a light is unmistakable in the dark, it naturally extended metaphorically to represent a guide or a source of hope."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "end up",
+    "pronunciation": {
+      "british": "/end ʌp/ 🇬🇧",
+      "american": "/end ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：形容最终到达某个地方或处于某种境地（通常是意料之外的）。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "最终，结果是",
+          "english": "To finally be in a particular place or situation."
+        },
+        "examples": [
+          {
+            "sentence": "We got lost and ended up in a small village.",
+            "translation": "我们迷路了，最后到了一个小村庄。"
+          },
+          {
+            "sentence": "If you don't study, you'll end up failing the exam.",
+            "translation": "如果你不学习，最终会考试不及格。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "eventually",
+        "type": "adverb",
+        "definition": {
+          "chinese": "最终",
+          "english": "In the end, especially after a long delay or series of problems."
+        }
+      },
+      {
+        "word": "finish up",
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "结束",
+          "english": "To reach a final state."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见结构",
+        "explanation": "常用结构为：end up + doing something 或 end up + 地点/状态。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "结合了 ‘end’（结束）和表示彻底性的副词 ‘up’。它强调的是一系列动作或事件停止时的那个最终“定格”的状态。这种状态往往带有一种“随遇而安”或“事与愿违”的随机感。",
+      "explanation_english": "Combines 'end' with the aspectual 'up' (signifying completion). It emphasizes the final 'frozen' state when a series of actions or events finally stops. It often carries a sense of an unplanned or unexpected conclusion."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "ulcer",
+    "pronunciation": {
+      "british": "/ˈʌlsə(r)/ 🇬🇧",
+      "american": "/ˈʌlsər/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词/医学术语",
+    "usage": "常用 👍：主要指皮肤或黏膜上难以愈合的“溃疡”，最常用于形容胃部或口腔。也能比喻社会或心理上的“毒瘤”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "溃疡",
+          "english": "A sore on an internal or external surface of the body, caused by a break in the skin or mucous membrane that fails to heal."
+        },
+        "examples": [
+          {
+            "sentence": "He had to change his diet because of a stomach ulcer.",
+            "translation": "因为胃溃疡，他不得不改变饮食习惯。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（比喻）腐蚀性的影响，毒瘤",
+          "english": "A corrupting or destructive influence that is hard to get rid of."
+        },
+        "examples": [
+          {
+            "sentence": "Corruption is an ulcer that eats away at the nation's strength.",
+            "translation": "腐败是一个侵蚀国家力量的毒瘤。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sore",
+        "type": "noun",
+        "definition": {
+          "chinese": "疮，痛处",
+          "english": "A raw or painful place on the body."
+        },
+        "examples": [
+          {
+            "sentence": "I have a cold sore on my lip.",
+            "translation": "我的嘴唇上长了一个疱疹（唇疮）。"
+          }
+        ]
+      },
+      {
+        "word": "canker",
+        "type": "noun",
+        "definition": {
+          "chinese": "溃疡，口疮 (尤指口腔)",
+          "english": "A source of corruption or decay; or a mouth sore."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见固定搭配",
+        "explanation": "Stomach ulcer (胃溃疡), Mouth ulcer (口腔溃疡), Peptic ulcer (消化性溃疡)。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘ulcus’，本意就是“疮、溃疡”。其含义在医学领域始终如一。比喻义是后续延伸出来的，用溃疡那种“从内部慢慢腐蚀、难以愈合”的物理特征来形容社会问题或心理创伤。",
+      "explanation_english": "From Latin ‘ulcus’ (a sore, an ulcer). The meaning has remained stable in medical contexts. The figurative sense is an extension based on the ulcer's physical characteristic of being a deep-seated, persistent problem that slowly ‘eats away’ at a healthy organism."
+    },
+    "variation_between_british_american": {
+      "british": "‘Mouth ulcer’ 是形容口腔内疼痛小点的标准用语。",
+      "american": "在形容口腔溃疡时，美国人更常使用 ‘canker sore’，而 ‘ulcer’ 听起来通常意味着更严重的身体内部问题。"
+    }
   }
 ];
