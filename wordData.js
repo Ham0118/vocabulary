@@ -76239,5 +76239,899 @@ const wordData = [
       "british": "用法一致。",
       "american": "用法一致。"
     }
+  },
+  {
+    "word": "era",
+    "pronunciation": {
+      "british": "/ˈɪərə/ 🇬🇧",
+      "american": "/ˈɪrə/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "非常常用 👍：指一个长久的时间段，通常以某种特征或人物命名。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "时代，纪元",
+          "english": "A long and distinct period of history with a particular feature or characteristic."
+        },
+        "examples": [
+          {
+            "sentence": "We are living in the digital era.",
+            "translation": "我们生活在数字时代。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "epoch",
+        "type": "noun",
+        "definition": {
+          "chinese": "纪元，时代",
+          "english": "A particular period of time in history or a person's life."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "流行文化",
+        "explanation": "现在的年轻人常说 'In my... era' 来形容自己正处于某种状态（比如 'In my fitness era'）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘aera’，最初指“计数用的铜币”，后来引申为“计数的起点”，最终演变为描述一整段具有特定起点的历史时期。",
+      "explanation_english": "From Latin 'aera,' originally meaning 'counters' or 'bronze coins' used for calculation. It shifted to mean a starting point for counting time, and eventually a distinct period of history."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "crow",
+    "pronunciation": {
+      "british": "/krəʊ/ 🇬🇧",
+      "american": "/kroʊ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍：名词是乌鸦，动词则指（像公鸡一样）自鸣得意地夸口。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "乌鸦",
+          "english": "A large perching bird with mostly glossy black plumage and a heavy bill."
+        },
+        "examples": [
+          {
+            "sentence": "A crow was perched on the fence.",
+            "translation": "一只乌鸦停在篱笆上。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（得意洋洋地）夸口，炫耀",
+          "english": "To express great pride or triumph, especially in a tone of scornful satisfaction."
+        },
+        "examples": [
+          {
+            "sentence": "He's always crowing about his success.",
+            "translation": "他总是炫耀他的成功。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "boast",
+        "type": "verb",
+        "definition": {
+          "chinese": "自吹自擂",
+          "english": "To speak with excessive pride about one's achievements."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "习语",
+        "explanation": "‘As the crow flies’ 意为“直线距离”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "名词源自乌鸦叫声的拟声词。动词“夸口”则源于公鸡（cock）清晨打鸣（crowing）时表现出的那种骄傲和响亮，后引申为人自大的表现。",
+      "explanation_english": "The noun is onomatopoeic from the bird's cry. The verb sense comes from the sound a rooster makes (crowing), which sounds proud and loud; humans 'crowing' is a metaphor for acting like a proud rooster."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "floss",
+    "pronunciation": {
+      "british": "/flɒs/ 🇬🇧",
+      "american": "/flɑːs/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍：既指用牙线清洁，也指（俚语）炫耀财富或一种特定的舞蹈动作。",
+    "meanings": [
+      {
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "牙线；用牙线清理",
+          "english": "A soft thread used to clean between the teeth."
+        },
+        "examples": [
+          {
+            "sentence": "Don't forget to floss every night.",
+            "translation": "别忘了每天晚上用牙线清理牙齿。"
+          }
+        ]
+      },
+      {
+        "type": "verb (slang)",
+        "definition": {
+          "chinese": "炫耀（钱财、珠宝等）",
+          "english": "To show off, especially one's wealth, jewelry, or style."
+        },
+        "examples": [
+          {
+            "sentence": "He's just flossing in his new car.",
+            "translation": "他只是在开着新车炫耀。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "show off",
+        "type": "verb",
+        "definition": {
+          "chinese": "炫耀",
+          "english": "To display proudly."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "舞蹈",
+        "explanation": "2017年前后流行的一种甩臂舞蹈动作也叫 ‘The Floss’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原本指蚕丝废料或牙线。俚语中的“炫耀”源于非裔美国人英语（AAVE），意指像牙线一样在人群中穿梭并闪闪发光地展示自己。",
+      "explanation_english": "Originally referring to silk waste or dental thread. The slang sense for 'showing off' emerged from AAVE, implying moving through a crowd or shining with wealth (like the shimmer of silk/floss)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "俚语用法在美国更常见。"
+    }
+  },
+  {
+    "word": "mullet",
+    "pronunciation": {
+      "british": "/ˈmʌlɪt/ 🇬🇧",
+      "american": "/ˈmʌlɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "常用 👍：既是一种鱼，也是一种“前短后长”的发型。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "鲻鱼",
+          "english": "A chiefly marine fish that is widely caught for food."
+        },
+        "examples": [
+          {
+            "sentence": "We had grilled mullet for dinner.",
+            "translation": "我们晚餐吃了烤鲻鱼。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "鲻鱼头（前短后长的发型）",
+          "english": "A hairstyle in which the hair is cut short at the front and sides, but left at the back."
+        },
+        "examples": [
+          {
+            "sentence": "The mullet was very popular in the 1980s.",
+            "translation": "鲻鱼头发型在20世纪80年代非常流行。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hairstyle",
+        "type": "noun",
+        "definition": {
+          "chinese": "发型",
+          "english": "A particular way in which a person's hair is cut or arranged."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口号",
+        "explanation": "关于这个发型有一句名言：'Business in the front, party in the back'。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "鱼的名字历史悠久。发型用此命名则相对较晚，据说是因为渔民常留这种发型以保持后颈温暖，或是因为 Beastie Boys 的歌曲将其固化为发型名称。",
+      "explanation_english": "The fish name is ancient. The hairstyle name is newer; it was supposedly popularized by the Beastie Boys in 1994, possibly referencing the term 'mullet-head' (an old term for a stupid person)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "cardioid",
+    "pronunciation": {
+      "british": "/ˈkɑːdiɔɪd/ 🇬🇧",
+      "american": "/ˈkɑːrdiɔɪd/ 🇺🇸"
+    },
+    "phrase_type": "noun/adj 数学/专业术语",
+    "usage": "专业词汇 📐：指代心形曲线，常用于数学、物理或麦克风拾音范围。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "心形线",
+          "english": "A heart-shaped curve traced by a point on the circumference of a circle as it rolls around another identical circle."
+        },
+        "examples": [
+          {
+            "sentence": "The formula for a cardioid is $r = a(1 - \\cos \\theta)$.",
+            "translation": "心形线的公式是 $r = a(1 - \\cos \\theta)$。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "heart-shaped",
+        "type": "adj",
+        "definition": {
+          "chinese": "心形的",
+          "english": "Shaped like a heart."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "麦克风",
+        "explanation": "‘Cardioid microphone’ 指心形指向麦克风，主要拾取前方声音，屏蔽后方声音。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘kardia’（心脏）和 ‘-oid’（形状）。直接翻译就是“像心脏形状的”，没有延伸义。",
+      "explanation_english": "From Greek 'kardia' (heart) and '-oid' (resembling). It is a literal descriptive term in mathematics and engineering for a heart-shaped pattern."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "hoard",
+    "pronunciation": {
+      "british": "/hɔːd/ 🇬🇧",
+      "american": "/hɔːrd/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：指囤积物品或钱财，通常带有一种“过度、不舍得用”的贬义。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "囤积，积聚",
+          "english": "To accumulate money or valued objects and hide or store them away."
+        },
+        "examples": [
+          {
+            "sentence": "Some people began to hoard supplies during the crisis.",
+            "translation": "危机期间，有些人开始囤积物资。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "stockpile",
+        "type": "verb",
+        "definition": {
+          "chinese": "储备",
+          "english": "To accumulate a large stock of (goods or materials)."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音易混",
+        "explanation": "注意和 ‘horde’（游牧民族，一大群人）发音完全相同，但意思不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘hord’，意为“宝藏、秘密存放的东西”。核心含义一直非常稳定，即为了未来使用而秘密存留。",
+      "explanation_english": "From Old English 'hord,' meaning 'treasure' or 'a secret place.' The core meaning of saving or hiding something for later has remained consistent for centuries."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "chuckle",
+    "pronunciation": {
+      "british": "/ˈtʃʌkl/ 🇬🇧",
+      "american": "/ˈtʃʌkl/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：指轻声地笑，通常是自顾自地笑或感到得意的笑。",
+    "meanings": [
+      {
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "轻声笑，低声咯咯笑",
+          "english": "To laugh quietly or inwardly."
+        },
+        "examples": [
+          {
+            "sentence": "She chuckled at the memory of their trip.",
+            "translation": "想起他们的旅行，她轻声笑了起来。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "giggle",
+        "type": "verb",
+        "definition": {
+          "chinese": "咯咯笑（傻笑）",
+          "english": "Laugh lightly and repeatedly in a silly way."
+        }
+      },
+      {
+        "word": "snicker",
+        "type": "verb",
+        "definition": {
+          "chinese": "窃笑（带贬义）",
+          "english": "A half-suppressed, typically scornful laugh."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "‘Chuckle’ 通常代表一种内心的愉悦，比 ‘laugh’ 音量小，比 ‘smile’ 多了声音。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "拟声词。模仿喉咙里发出的低沉笑声。最初在16世纪可能与“学母鸡叫”有关，后来演变为人类这种特定方式的笑。",
+      "explanation_english": "Onomatopoeic origin, imitating the sound of a low, throaty laugh. In the 16th century, it was likely related to 'chuck' (the clucking of a hen), later specializing into a human quiet laugh."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "mobster",
+    "pronunciation": {
+      "british": "/ˈmɒbstə(r)/ 🇬🇧",
+      "american": "/ˈmɑːbstər/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：特指有组织犯罪集团（黑手党等）的成员。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "黑帮分子，歹徒",
+          "english": "A member of a group of people involved in organized crime."
+        },
+        "examples": [
+          {
+            "sentence": "The movie is about a famous mobster in the 1920s.",
+            "translation": "这部电影讲述的是20世纪20年代一个著名的黑帮分子。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "gangster",
+        "type": "noun",
+        "definition": {
+          "chinese": "强盗，帮派成员",
+          "english": "A member of a gang of violent criminals."
+        }
+      },
+      {
+        "word": "mafioso",
+        "type": "noun",
+        "definition": {
+          "chinese": "黑手党成员",
+          "english": "A member of the Mafia."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "背景",
+        "explanation": "‘Mob’ 在英语中指暴民或黑社会，加上后缀 ‘-ster’ 表示从事某种活动的人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自 ‘mob’。‘Mob’ 缩写自拉丁语 ‘mobile vulgus’（善变的民众）。20世纪初美国禁酒令时期，随着有组织犯罪兴起，‘mobster’ 正式成为黑帮成员的代名词。",
+      "explanation_english": "Derived from 'mob,' which is short for the Latin 'mobile vulgus' (the fickle crowd). During the Prohibition era in the US (early 20th century), as organized crime grew, 'mobster' became the standard term for a professional criminal in a gang."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "在美国，特别是与芝加哥或纽约黑帮文化相关的语境中极其常用。"
+    }
+  },
+  {
+    "word": "coy",
+    "pronunciation": {
+      "british": "/kɔɪ/ 🇬🇧",
+      "american": "/kɔɪ/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "常用 👍：指故作羞涩、扭捏，或者含糊其辞不愿正面回答。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "故作羞涩的，腼腆的",
+          "english": "Making a pretense of shyness or modesty that is intended to be alluring."
+        },
+        "examples": [
+          {
+            "sentence": "She gave him a coy smile over her shoulder.",
+            "translation": "她回过头，对他露出了一个羞答答的微笑。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "（对某事）含糊其辞的",
+          "english": "Reluctant to give details about something regarded as sensitive."
+        },
+        "examples": [
+          {
+            "sentence": "The politician was coy about his plans for the future.",
+            "translation": "这位政治家对未来的计划含糊其辞。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bashful",
+        "type": "adjective",
+        "definition": {
+          "chinese": "害羞的",
+          "english": "Reluctant to draw attention to oneself; shy."
+        }
+      },
+      {
+        "word": "evasive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "回避的",
+          "english": "Tending to avoid commitment or self-revelation."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "隐含意",
+        "explanation": "‘Coy’ 通常暗示这种羞涩是“装出来的”或者带有某种目的性的（比如吸引注意或逃避问题）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 ‘coi’，最初意为“安静的、冷静的”。后来演变为“沉默不语”，再进一步延伸为现代的“羞涩”或“含糊”。",
+      "explanation_english": "From Old French 'coi,' originally meaning 'still, quiet, calm.' It shifted from 'quiet' to 'reserved' and finally to the modern sense of 'pretending to be shy' or 'secretive.'"
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "vocalization",
+    "pronunciation": {
+      "british": "/ˌvəʊkəlaɪˈzeɪʃn/ 🇬🇧",
+      "american": "/ˌvoʊkələˈzeɪʃn/ 🇺🇸"
+    },
+    "phrase_type": "noun 专业术语",
+    "usage": "常用 👍：指通过声带发出的声音，常用于生物学（动物叫声）或语言学。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "发声，发音；（动物的）鸣叫",
+          "english": "The act or process of producing sounds with the voice."
+        },
+        "examples": [
+          {
+            "sentence": "Scientists are studying the vocalizations of whales.",
+            "translation": "科学家们正在研究鲸鱼的发声。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "utterance",
+        "type": "noun",
+        "definition": {
+          "chinese": "言语，说话",
+          "english": "A spoken word, statement, or vocal sound."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "区别",
+        "explanation": "‘Vocalization’ 强调的是“发出声音”这个物理或生物动作，而不一定指有意义的“语言”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘vocalis’（属于声音的）。核心意思始终是“声音的产生”，随学科发展应用于人类语言和动物行为学。",
+      "explanation_english": "From Latin 'vocalis' (sounding, speaking). The term has remained focused on the production of sound, branching into linguistics and animal behavior studies."
+    },
+    "variation_between_british_american": {
+      "british": "拼写也可用 vocalisation。",
+      "american": "通常拼写为 vocalization。"
+    }
+  },
+  {
+    "word": "rigor",
+    "pronunciation": {
+      "british": "/ˈrɪɡə(r)/ 🇬🇧",
+      "american": "/ˈrɪɡər/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "非常常用 👍：学术或法律上指严密、严谨；生理上指僵硬或寒战（rigor mortis）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "严谨，严密",
+          "english": "The quality of being extremely thorough and careful."
+        },
+        "examples": [
+          {
+            "sentence": "Academic rigor is essential for high-quality research.",
+            "translation": "学术严谨性对于高质量的研究至关重要。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（生活）艰苦，严酷",
+          "english": "Demanding, difficult, or extreme conditions."
+        },
+        "examples": [
+          {
+            "sentence": "The soldiers were trained to endure the rigors of winter.",
+            "translation": "士兵们接受过忍受冬日严酷环境的训练。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "rigorous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "严密的，严厉的",
+          "english": "Extremely thorough, exhaustive, or accurate."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "尸僵",
+        "explanation": "‘Rigor mortis’ 是指生物死后肌肉变得僵硬的现象。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘rigor’（僵硬、寒冷）。“僵硬”引申为规则的“死板、严厉”，再进一步演变为正向的“严谨”。",
+      "explanation_english": "From Latin 'rigor' (stiffness, cold). It moved from physical stiffness to the 'stiffness' of rules (severity), and eventually to the professional sense of 'thoroughness' (rigor)."
+    },
+    "variation_between_british_american": {
+      "british": "拼写为 rigour。",
+      "american": "拼写为 rigor。"
+    }
+  },
+  {
+    "word": "cynical",
+    "pronunciation": {
+      "british": "/ˈsɪnɪkl/ 🇬🇧",
+      "american": "/ˈsɪnɪkl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "非常常用 👍：形容一个人愤世嫉俗，认为人性本恶，或者怀疑他人的动机是出于自私。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "愤世嫉俗的，怀疑人性的",
+          "english": "Believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity."
+        },
+        "examples": [
+          {
+            "sentence": "He's grown cynical about politics after years of working in the capital.",
+            "translation": "在首都工作多年后，他对政治变得愤世嫉俗。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "pessimistic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "悲观的",
+          "english": "Tending to see the worst aspect of things or believe that the worst will happen."
+        }
+      },
+      {
+        "word": "skeptical",
+        "type": "adjective",
+        "definition": {
+          "chinese": "怀疑的",
+          "english": "Not easily convinced; having doubts or reservations."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "与怀疑的区别",
+        "explanation": "‘Skeptical’ 只是怀疑真假，而 ‘Cynical’ 往往带有一种“看透了人性阴暗面”的消极态度。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古希腊的“犬儒学派（Cynic）”。最初这些哲学家崇尚简朴，蔑视社会习俗。后来由于他们对他人行为动机的极度怀疑，词义演变成了现代的“愤世嫉俗”。",
+      "explanation_english": "From Ancient Greek 'Kunikos' (dog-like), referring to the Cynic philosophers who lived simply and scorned social conventions. Their skepticism toward human motives led to the modern sense of distrusting sincerity."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "cathedral",
+    "pronunciation": {
+      "british": "/kəˈθiːdrəl/ 🇬🇧",
+      "american": "/kəˈθiːdrəl/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：特指主教座堂，通常是一个教区内最重要、规模最大的教堂。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大教堂，主教座堂",
+          "english": "The principal church of a diocese, containing the bishop's throne."
+        },
+        "examples": [
+          {
+            "sentence": "St. Paul's Cathedral is one of London's most famous landmarks.",
+            "translation": "圣保罗大教堂是伦敦最著名的地标之一。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "church",
+        "type": "noun",
+        "definition": {
+          "chinese": "教堂 (泛指)",
+          "english": "A building used for public Christian worship."
+        }
+      },
+      {
+        "word": "chapel",
+        "type": "noun",
+        "definition": {
+          "chinese": "小教堂",
+          "english": "A small building or room used for Christian worship."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "等级区别",
+        "explanation": "并不是大的教堂都叫 Cathedral，只有设有主教（Bishop）座位的才是真正的 Cathedral。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘kathedra’（座位）。因为这是主教行使职权的“宝座”所在之地，故得名。含义一直非常稳定。",
+      "explanation_english": "From Greek 'kathedra' (seat/throne). It refers specifically to the church that houses the bishop's official 'throne.' The meaning has remained consistent in religious architecture."
+    },
+    "variation_between_british_american": {
+      "british": "由于历史原因，英国有大量中世纪时期的古老 Cathedral。",
+      "american": "用法一致，但美国的 Cathedral 通常较现代。"
+    }
+  },
+  {
+    "word": "dreading",
+    "pronunciation": {
+      "british": "/ˈdredɪŋ/ 🇬🇧",
+      "american": "/ˈdredɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "verb (present participle) 动词",
+    "usage": "非常常用 👍：形容一种对未来即将发生的事感到极度恐惧、忧虑或不情愿的心情。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "畏惧，担心",
+          "english": "Anticipating something with great apprehension or fear."
+        },
+        "examples": [
+          {
+            "sentence": "I'm dreading the dentist appointment tomorrow.",
+            "translation": "我非常害怕明天的牙医预约。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fear",
+        "type": "verb/noun",
+        "definition": {
+          "chinese": "害怕",
+          "english": "Be afraid of someone or something as likely to be dangerous or painful."
+        }
+      },
+      {
+        "word": "apprehensive",
+        "type": "adjective",
+        "definition": {
+          "chinese": "忧虑的",
+          "english": "Anxious or fearful that something bad or unpleasant will happen."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见用法",
+        "explanation": "常用于‘dreading doing something’或者是‘dreading the thought of...’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘drædan’，意为“害怕”。核心意思是预见性的恐惧，即事情还没发生，但想起来就觉得可怕。",
+      "explanation_english": "From Old English 'drædan' (to fear). It specifically describes the anticipatory fear of a future event, rather than the reaction to a present danger."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "stomp",
+    "pronunciation": {
+      "british": "/stɒmp/ 🇬🇧",
+      "american": "/stɑːmp/ 🇺🇸"
+    },
+    "phrase_type": "verb/noun 多义词",
+    "usage": "非常常用 👍：指重重地踩踏，通常是因为生气或为了发出响声。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "重踩，踏步",
+          "english": "To tread heavily and noisily, typically in anger or as a dance."
+        },
+        "examples": [
+          {
+            "sentence": "He stomped out of the room in a huff.",
+            "translation": "他气呼呼地重重踏着步走出了房间。"
+          }
+        ]
+      },
+      {
+        "type": "verb (slang)",
+        "definition": {
+          "chinese": "彻底击败",
+          "english": "To defeat an opponent decisively."
+        },
+        "examples": [
+          {
+            "sentence": "Our team stomped the competition in the finals.",
+            "translation": "我们队在决赛中彻底击溃了对手。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "stamp",
+        "type": "verb",
+        "definition": {
+          "chinese": "跺脚",
+          "english": "Bring down (one's foot) heavily on the ground or on something on the ground."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "发音与拼写",
+        "explanation": "它是 ‘stamp’ 的变体，但在美式英语中 ‘stomp’ 更强调这种动作的粗暴和响亮。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "作为 ‘stamp’ 的变体出现，原本就是拟声词，模仿脚跟撞击地面的沉重响声。后来比喻延伸为“像踩虫子一样把对手踩在脚下”，即彻底击败。",
+      "explanation_english": "A variation of 'stamp.' It is onomatopoeic, mimicking the heavy sound of a foot hitting the floor. Metaphorically, it extended to 'crushing' an opponent like a bug, meaning a decisive victory."
+    },
+    "variation_between_british_american": {
+      "british": "也常使用 'stamp' 来表达同样的意思。",
+      "american": "在日常口语和体育评论中极其高频地使用 'stomp'。"
+    }
+  },
+  {
+    "word": "spill the beans",
+    "pronunciation": {
+      "british": "/spɪl ðə biːnz/ 🇬🇧",
+      "american": "/spɪl ðə biːnz/ 🇺🇸"
+    },
+    "phrase_type": "idiom 习语",
+    "usage": "非常常用 👍：这是一个非常经典的非正式习语，意为泄露秘密。",
+    "meanings": [
+      {
+        "type": "idiom",
+        "definition": {
+          "chinese": "泄露秘密，说漏嘴",
+          "english": "To reveal secret information unintentionally or indiscreetly."
+        },
+        "examples": [
+          {
+            "sentence": "We were planning a surprise party, but my little brother spilled the beans.",
+            "translation": "我们本在策划惊喜派对，但我弟弟把秘密说漏了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "let the cat out of the bag",
+        "type": "idiom",
+        "definition": {
+          "chinese": "泄露秘密",
+          "english": "To reveal a secret unintentionally."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式",
+        "explanation": "这通常用于朋友间的非正式聊天，不适合严肃的商业或法律场合。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "一种有趣的说法是源于古希腊的匿名投票。投票者在罐子里投放不同颜色的豆子。如果有人不小心把罐子打翻，豆子撒了出来（spill），投票结果（秘密）就提前公开了。",
+      "explanation_english": "A popular theory suggests it comes from Ancient Greek secret voting where colored beans were used. If someone accidentally knocked over the jar, the beans would spill out, prematurely revealing the secret vote results."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
   }
 ];
