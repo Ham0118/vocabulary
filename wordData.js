@@ -74763,5 +74763,1481 @@ const wordData = [
       "british": "‘Mouth ulcer’ 是形容口腔内疼痛小点的标准用语。",
       "american": "在形容口腔溃疡时，美国人更常使用 ‘canker sore’，而 ‘ulcer’ 听起来通常意味着更严重的身体内部问题。"
     }
+  },
+  {
+    "word": "virginity",
+    "pronunciation": {
+      "british": "/vɜːˈdʒɪnəti/ 🇬🇧",
+      "american": "/vɜːrˈdʒɪnəti/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "非常常用 👍：既指生理上的初次性行为之前的状态，也引申为某事物的“初次”或“纯净”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "处女身份，童贞",
+          "english": "The state of never having had sexual intercourse."
+        },
+        "examples": [
+          {
+            "sentence": "She decided to wait until marriage to lose her virginity.",
+            "translation": "她决定等到结婚后再交付初夜。"
+          }
+        ]
+      },
+      {
+        "type": "noun (metaphorical)",
+        "definition": {
+          "chinese": "初次状态，纯真",
+          "english": "The state of being naive, innocent, or unused."
+        },
+        "examples": [
+          {
+            "sentence": "The snowy mountain possessed a certain untouched virginity.",
+            "translation": "那座雪山拥有一种未经触碰的纯净。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "virgin",
+        "type": "noun/adj",
+        "definition": {
+          "chinese": "处女/初次的",
+          "english": "A person who has never had sex; or something in its original, pure state."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化用法",
+        "explanation": "‘Virgin territory’ 指从未被探索或开发过的领域。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘virgo’（少女）。最初纯指生理状态，后来人们将其延伸到任何“未被触碰、未被使用”的状态，如处女林（virgin forest）。",
+      "explanation_english": "From Latin 'virgo' (maiden). Originally strictly physiological, it was later extended by speakers to describe any 'untouched' or 'original' state, such as a virgin forest."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "eavesdrop",
+    "pronunciation": {
+      "british": "/ˈiːvzdrɒp/ 🇬🇧",
+      "american": "/ˈiːvzdrɑːp/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "非常常用 👍：指秘密地偷听别人的谈话。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "偷听，窃听",
+          "english": "To secretly listen to a conversation."
+        },
+        "examples": [
+          {
+            "sentence": "I caught him eavesdropping on our meeting.",
+            "translation": "我抓到他偷听我们的会议。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "overhear",
+        "type": "verb",
+        "definition": {
+          "chinese": "偶然听到",
+          "english": "To hear someone's conversation without meaning to."
+        }
+      },
+      {
+        "word": "snoop",
+        "type": "verb",
+        "definition": {
+          "chinese": "窥探，打探",
+          "english": "To look around a place secretly in order to find out information."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "词义微差",
+        "explanation": "‘Eavesdrop’ 是故意的，而 ‘overhear’ 往往是无意的。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原本指站在屋檐（eaves）滴水（drop）的地方，也就是站在窗外偷听。这个词从一个具体的动作演变成了抽象的“偷听”行为。",
+      "explanation_english": "Originally referred to standing in the 'eaves-drip' (where water falls from the roof) to listen to secrets inside the house. The literal physical position evolved into the general action of spying on conversations."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "stew",
+    "pronunciation": {
+      "british": "/stjuː/ 🇬🇧",
+      "american": "/stuː/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍：名词指一种炖菜；动词既指烹饪，也指焦虑不安。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "炖菜，烩菜",
+          "english": "A dish of meat and vegetables cooked slowly in liquid."
+        },
+        "examples": [
+          {
+            "sentence": "She made a delicious beef stew.",
+            "translation": "她做了一道美味的炖牛肉。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "焦虑，烦恼 (口语)",
+          "english": "To worry or be agitated about something."
+        },
+        "examples": [
+          {
+            "sentence": "Leave him to stew in his own juices.",
+            "translation": "让他自食其果/让他自己在那儿愁吧。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "simmer",
+        "type": "verb",
+        "definition": {
+          "chinese": "炖/（情绪）酝酿",
+          "english": "To cook just below boiling; to be filled with suppressed anger."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用短语",
+        "explanation": "‘In a stew’ 意为“陷入困境或焦虑中”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初是指在热水中洗澡或烹饪。后来人们由于内心焦虑时感觉心头“发热、翻滚”，于是将烹饪的动作延伸到了形容焦虑的心理状态。",
+      "explanation_english": "Originally meant a heated bath or to cook in heat. People later applied the 'heat' and 'agitation' of slow-cooking to the internal feeling of anxiety and worry."
+    },
+    "variation_between_british_american": {
+      "british": "发音带有 /j/ 音 (st-yoo)。",
+      "american": "发音直接是 /u/ 音 (stoo)。"
+    }
+  },
+  {
+    "word": "rage",
+    "pronunciation": {
+      "british": "/reɪdʒ/ 🇬🇧",
+      "american": "/reɪdʒ/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 多义词",
+    "usage": "非常常用 👍：指狂怒，也指某种事物在当下极其流行（all the rage）。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "狂怒，盛怒",
+          "english": "Violent, uncontrollable anger."
+        },
+        "examples": [
+          {
+            "sentence": "His face was red with rage.",
+            "translation": "他气得满脸通红。"
+          }
+        ]
+      },
+      {
+        "type": "phrase",
+        "definition": {
+          "chinese": "风靡一时 (all the rage)",
+          "english": "To be very popular or fashionable at a particular time."
+        },
+        "examples": [
+          {
+            "sentence": "Short skirts are all the rage this summer.",
+            "translation": "短裙在这个夏天非常流行。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "（风暴、大火等）肆虐",
+          "english": "To continue with great force or intensity (of a storm or fire)."
+        },
+        "examples": [
+          {
+            "sentence": "The fire raged through the forest.",
+            "translation": "大火在森林中肆虐。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fury",
+        "type": "noun",
+        "definition": {
+          "chinese": "狂怒",
+          "english": "Wild or violent anger."
+        }
+      },
+      {
+        "word": "enrage",
+        "type": "verb",
+        "definition": {
+          "chinese": "激怒",
+          "english": "To make someone very angry."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "路怒症",
+        "explanation": "‘Road rage’ 是形容司机在堵车或被打扰时产生的极度愤怒。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘rabies’（疯狂/狂犬病）。从个人的狂怒，延伸到形容自然力量的不可阻挡（肆虐），再进一步由于“狂热追求”延伸到形容时尚的流行程度。",
+      "explanation_english": "From Latin 'rabies' (madness). It shifted from personal anger to the uncontrollable intensity of nature (a raging storm), and eventually to describe the 'frenzied' popularity of a fashion trend."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "cocky",
+    "pronunciation": {
+      "british": "/ˈkɒki/ 🇬🇧",
+      "american": "/ˈkɑːki/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "非常常用 👍：贬义词，形容一个人过分自信、傲慢自大。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "自大的，骄傲的",
+          "english": "Arrogant; conceited; overconfident in a way that is annoying."
+        },
+        "examples": [
+          {
+            "sentence": "He's a bit too cocky for my liking.",
+            "translation": "他有点太狂妄了，我不喜欢。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "arrogant",
+        "type": "adjective",
+        "definition": {
+          "chinese": "傲慢的",
+          "english": "Having an exaggerated sense of one's own importance."
+        }
+      },
+      {
+        "word": "conceited",
+        "type": "adjective",
+        "definition": {
+          "chinese": "自负的",
+          "english": "Excessively proud of oneself."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "通常用来形容那些有点本事但态度非常嚣张的年轻人。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于 ‘cock’（公鸡）。公鸡以好斗和昂首挺胸的姿态著称，因此人们用这个词来形容那些像公鸡一样趾高气扬的人。",
+      "explanation_english": "Derived from 'cock' (a male bird/rooster). Roosters are known for their aggressive and strutting behavior, leading to the use of 'cocky' for people who display similar arrogance."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "compassionate",
+    "pronunciation": {
+      "british": "/kəmˈpæʃənət/ 🇬🇧",
+      "american": "/kəmˈpæʃənət/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "非常常用 👍：形容一个人富有同情心、怜悯心，愿意理解并减轻他人的痛苦。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "有同情心的，慈悲的",
+          "english": "Feeling or showing sympathy and concern for others."
+        },
+        "examples": [
+          {
+            "sentence": "He is a compassionate leader who cares about his employees.",
+            "translation": "他是一位关心员工、富有同情心的领导者。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sympathetic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "同情的",
+          "english": "Feeling, showing, or expressing sympathy."
+        }
+      },
+      {
+        "word": "empathetic",
+        "type": "adjective",
+        "definition": {
+          "chinese": "感同身受的，有共情能力的",
+          "english": "Showing an ability to understand and share the feelings of another."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用搭配",
+        "explanation": "‘Compassionate leave’ 指的是“丧假”或因家庭紧急情况准予的休假。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘compati’，意为“共同痛苦”。前缀 ‘com-’（共同）+ ‘passio’（痛苦）。这个词的核心意思始终围绕着“与他人共同感受痛苦并施以援手”。",
+      "explanation_english": "From Latin 'compati' (to suffer with). The prefix 'com-' (together) and 'passio' (suffering) merge to describe the act of feeling another's pain and wanting to help."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "consent",
+    "pronunciation": {
+      "british": "/kənˈsent/ 🇬🇧",
+      "american": "/kənˈsent/ 🇺🇸"
+    },
+    "phrase_type": "noun/verb 核心词",
+    "usage": "非常常用 👍：在法律、医疗和社交（尤其是性关系）语境中至关重要，指准许或同意。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "准许，赞成，同意",
+          "english": "Permission for something to happen or agreement to do something."
+        },
+        "examples": [
+          {
+            "sentence": "No surgery can be performed without the patient's consent.",
+            "translation": "没有病人的同意，不能进行任何手术。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "同意，允许",
+          "english": "To give permission for something to happen."
+        },
+        "examples": [
+          {
+            "sentence": "He consented to the search of his car.",
+            "translation": "他同意了对其车辆的搜查。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "agreement",
+        "type": "noun",
+        "definition": {
+          "chinese": "协议，同意",
+          "english": "Harmony or accordance in opinion or feeling."
+        }
+      },
+      {
+        "word": "assent",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "赞成 (更正式)",
+          "english": "The expression of approval or agreement."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "社会语境",
+        "explanation": "在现代语境下，‘Consent is key’ 是强调在任何亲密关系中，必须获得对方明确且自愿的同意。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘consentire’，意为“共同感受”。由 ‘con-’（共同）和 ‘sentire’（感受/思考）组成。意思从“感觉一致”演变为“正式的准许”。",
+      "explanation_english": "From Latin 'consentire' (to feel together). It combines 'con-' (together) and 'sentire' (to feel/think). The meaning evolved from 'feeling the same way' to giving formal permission."
+    },
+    "variation_between_british_american": {
+      "british": "‘Age of consent’ 指法定最低性行为年龄（英国为16岁）。",
+      "american": "用法相同，但不同州的 ‘Age of consent’ 可能不同（通常为16-18岁）。"
+    }
+  },
+  {
+    "word": "misophonia",
+    "pronunciation": {
+      "british": "/ˌmɪsəˈfəʊniə/ 🇬🇧",
+      "american": "/ˌmɪsəˈfoʊniə/ 🇺🇸"
+    },
+    "phrase_type": "noun 医学/心理学术语",
+    "usage": "常用 👍：指对特定声音（如咀嚼声、呼吸声、敲击声）产生极度厌恶或愤怒的心理反应。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "恐音症，厌音症",
+          "english": "A condition in which specific sounds cause emotional or physiological responses that others might deem unreasonable."
+        },
+        "examples": [
+          {
+            "sentence": "His misophonia makes it difficult for him to eat in public because of the chewing sounds.",
+            "translation": "因为有咀嚼声，他的恐音症让他很难在公共场合进食。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sensitivity",
+        "type": "noun",
+        "definition": {
+          "chinese": "敏感度",
+          "english": "The quality or condition of being sensitive."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "非正式描述",
+        "explanation": "这并不是一种单纯的“讨厌噪音”，而是一种强烈的神经反应，患者往往会感到想要逃离或发火。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由希腊语词根组成：‘misos’（仇恨）和 ‘phone’（声音）。这是一个相对现代的医学命名（2000年前后出现），意思非常直观且单一。",
+      "explanation_english": "Coined from Greek roots: 'misos' (hatred) and 'phone' (sound). It is a relatively modern term (coined around 2000) with a literal medical definition."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "mastodon",
+    "pronunciation": {
+      "british": "/ˈmæstədɒn/ 🇬🇧",
+      "american": "/ˈmæstədɑːn/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "常用 👍：原指已灭绝的史前乳齿象，现在也指一种流行的去中心化社交网络平台。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "乳齿象 (史前动物)",
+          "english": "An extinct large elephant-like mammal from the Cenozoic era."
+        },
+        "examples": [
+          {
+            "sentence": "The museum has a complete skeleton of a mastodon.",
+            "translation": "博物馆有一副完整的乳齿象骨架。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "Mastodon (社交平台)",
+          "english": "A free, open-source social media platform."
+        },
+        "examples": [
+          {
+            "sentence": "Many users migrated to Mastodon after the changes on Twitter.",
+            "translation": "在推特发生变革后，许多用户迁移到了 Mastodon。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "mammoth",
+        "type": "noun",
+        "definition": {
+          "chinese": "猛犸象 / 巨大的",
+          "english": "An extinct elephant, or something huge."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "区分",
+        "explanation": "乳齿象（Mastodon）和猛犸象（Mammoth）不同，乳齿象体型稍小，牙齿形状也不同。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自希腊语 ‘mastos’（乳房）+ ‘odous’（牙齿）。因为乳齿象磨牙上的突起形状像乳头，故得名。现代社交平台借用此名，暗示其庞大且去中心化的特性。",
+      "explanation_english": "From Greek 'mastos' (breast) and 'odous' (tooth), named for the nipple-like projections on the crowns of their molars. The modern social platform adopted the name to imply its scale and prehistoric/enduring nature."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "erect",
+    "pronunciation": {
+      "british": "/ɪˈrekt/ 🇬🇧",
+      "american": "/ɪˈrekt/ 🇺🇸"
+    },
+    "phrase_type": "adjective/verb 多义词",
+    "usage": "非常常用 👍：形容垂直、挺直的状态，或作为动词表示建造、竖立。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "直立的，竖直的",
+          "english": "Rigidly upright or straight."
+        },
+        "examples": [
+          {
+            "sentence": "She maintained an erect posture throughout the interview.",
+            "translation": "她在整个面试过程中保持着挺直的坐姿。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "建造，竖立，创立",
+          "english": "To build or put up a structure; to establish."
+        },
+        "examples": [
+          {
+            "sentence": "The city plan to erect a new monument in the park.",
+            "translation": "城市计划在公园里竖立一座新纪念碑。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "upright",
+        "type": "adjective",
+        "definition": {
+          "chinese": "垂直的",
+          "english": "Sitting or standing with the back straight."
+        }
+      },
+      {
+        "word": "erection",
+        "type": "noun",
+        "definition": {
+          "chinese": "建筑物 / 勃起",
+          "english": "A building; or the physiological state of stiffness."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "生理语境",
+        "explanation": "该词在生理学中描述由于充血导致的组织变硬（勃起）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘erectus’，意为“抬起、向上”。从物理上的“垂直”引申为建造（把东西竖起来）以及生理上的硬化状态。",
+      "explanation_english": "From Latin 'erectus' (upright, elevated). The meaning evolved from a simple physical orientation to the act of building (putting things up) and specific physiological states."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "flatness",
+    "pronunciation": {
+      "british": "/ˈflætnəs/ 🇬🇧",
+      "american": "/ˈflætnəs/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "常用 👍：指平坦、单调，或在音乐中指音准偏低。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "平坦，扁平",
+          "english": "The quality or condition of being flat."
+        },
+        "examples": [
+          {
+            "sentence": "The flatness of the landscape made for easy hiking.",
+            "translation": "地势的平坦使得远足变得很容易。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "单调，枯燥 (语气或生活)",
+          "english": "A lack of variety, interest, or emotion."
+        },
+        "examples": [
+          {
+            "sentence": "She noticed a certain flatness in his voice.",
+            "translation": "她注意到他的声音中有一种单调（没精神）。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（音乐）偏低音准",
+          "english": "The state of being below the true pitch."
+        },
+        "examples": [
+          {
+            "sentence": "The singer struggled with the flatness of her high notes.",
+            "translation": "歌手在高音部分的音准偏低。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "monotony",
+        "type": "noun",
+        "definition": {
+          "chinese": "单调",
+          "english": "Lack of variety and interest; tedious repetition."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语引申",
+        "explanation": "如果形容苏打水 ‘flat’，指的是没有气泡了（气跑了）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古诺斯语 ‘flatr’。从地理上的“平整”引申到感觉上的“没起伏”（单调），再到物理声波上的“频率偏低（平）”。",
+      "explanation_english": "From Old Norse 'flatr.' The concept of a level surface extended metaphorically to a lack of emotional 'peaks' (monotony) and acoustically to a frequency that is lower than intended."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "twirly",
+    "pronunciation": {
+      "british": "/ˈtwɜːli/ 🇬🇧",
+      "american": "/ˈtwɜːrli/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "常用 👍：非正式，带有一点可爱的语气。形容螺旋状、弯曲的或旋转的东西。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "旋曲的，螺旋状的；旋转的",
+          "english": "Having a spiraling or twisting shape; characterized by twirling."
+        },
+        "examples": [
+          {
+            "sentence": "She has cute, twirly hair.",
+            "translation": "她有一头可爱的卷发。"
+          },
+          {
+            "sentence": "The little girl wore a twirly skirt and kept spinning around.",
+            "translation": "那个小女孩穿着一条大摆裙（适合旋转的裙子），不停地转圈。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "curly",
+        "type": "adjective",
+        "definition": {
+          "chinese": "卷曲的",
+          "english": "Growing or arranged in curls."
+        }
+      },
+      {
+        "word": "spiral",
+        "type": "adjective",
+        "definition": {
+          "chinese": "螺旋形的",
+          "english": "Winding in a continuous and gradually widening or tightening curve."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "通常用于形容头发、裙摆或者是意面（如 Fusilli）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 ‘twirl’（快速旋转）。从“动作”延伸到“描述具有旋转感的形状”。这是一个基于视觉形象的自然延伸。",
+      "explanation_english": "Derived from the verb ‘twirl’ (to rotate rapidly). It shifted from describing an action to describing a shape that appears as if it was created by twirling."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "thigh",
+    "pronunciation": {
+      "british": "/θaɪ/ 🇬🇧",
+      "american": "/θaɪ/ 🇺🇸"
+    },
+    "phrase_type": "noun 身体部位",
+    "usage": "非常常用 👍：指人体大腿部分，即臀部到膝盖之间的部位。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大腿",
+          "english": "The part of the human leg between the hip and the knee."
+        },
+        "examples": [
+          {
+            "sentence": "He pulled a muscle in his right thigh during the race.",
+            "translation": "他在比赛中右大腿肌肉拉伤了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "thigh-high",
+        "type": "adjective",
+        "definition": {
+          "chinese": "及大腿的",
+          "english": "Reaching up to the thighs (often used for boots or socks)."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "烹饪语境",
+        "explanation": "在买鸡肉时，‘chicken thighs’ 指的是“鸡腿肉（上腿部分）”，通常比鸡胸肉更滑嫩。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘theoh’。其含义在历史上非常稳定，始终指代这个特定的解剖部位。",
+      "explanation_english": "From Old English ‘theoh.’ The meaning has remained stable throughout history, consistently referring to this specific anatomical part."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "famed / renowned",
+    "pronunciation": {
+      "famed": "/feɪmd/",
+      "renowned": "/rɪˈnaʊnd/"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：比 ‘famous’ 更正式，通常用于描述因某种正面特质而广为人知。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "著名的，闻名的",
+          "english": "Known about by many people; famous for something specific."
+        },
+        "examples": [
+          {
+            "sentence": "The city is famed for its historic architecture.",
+            "translation": "这座城市以其历史建筑而闻名。"
+          },
+          {
+            "sentence": "He is a renowned expert in computer science.",
+            "translation": "他是计算机科学领域著名的专家。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "celebrated",
+        "type": "adjective",
+        "definition": {
+          "chinese": "著名的（带赞赏色彩）",
+          "english": "Greatly admired; renowned."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "辨析",
+        "explanation": "‘Renowned’ 通常含有“德高望重、受人尊敬”的意味；‘Famed’ 则更中性，侧重于“被广泛报道”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "‘Famed’ 源自 ‘fame’（传闻/名声）。‘Renowned’ 源自古法语 ‘renommer’（再命名/反复提及），意为由于名声大而被反复提及。",
+      "explanation_english": "‘Famed’ comes from ‘fame’ (report/rumor). ‘Renowned’ comes from Old French ‘renommer’ (re-name), meaning to be spoken of repeatedly due to great merit."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "hold it",
+    "pronunciation": {
+      "british": "/həʊld ɪt/ 🇬🇧",
+      "american": "/hoʊld ɪt/ 🇺🇸"
+    },
+    "phrase_type": "verb phrase/idiom 动词短语",
+    "usage": "非常常用 👍：既是字面上的“拿着它”，也是口语中的指令，意为“停下”或“等一下”。",
+    "meanings": [
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "等一下；别动；停下",
+          "english": "Wait; stop moving; or used to tell someone not to do something."
+        },
+        "examples": [
+          {
+            "sentence": "Hold it! You forgot your umbrella.",
+            "translation": "等一下！你忘带伞了。"
+          }
+        ]
+      },
+      {
+        "type": "verb phrase",
+        "definition": {
+          "chinese": "（生理）憋住",
+          "english": "To wait before going to the toilet."
+        },
+        "examples": [
+          {
+            "sentence": "We're almost at the gas station, can you hold it for five more minutes?",
+            "translation": "我们快到加油站了，你能再憋五分钟吗？"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "hold on",
+        "type": "idiom",
+        "definition": {
+          "chinese": "等一下",
+          "english": "Wait for a short time."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "动作指示",
+        "explanation": "摄影师说 “Hold it!” 是让模特保持动作别动。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思是“握住某个东西使其固定”。引申为“固定住当下的动作（停下）”或者是“固定住体内的排泄物（憋尿）”。",
+      "explanation_english": "Literally means to grasp an object to keep it steady. This extended metaphorically to keeping one's current action steady (stopping) or keeping one's bodily functions steady (waiting to use the restroom)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "hold up",
+    "pronunciation": {
+      "british": "/həʊld ʌp/ 🇬🇧",
+      "american": "/hoʊld ʌp/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义短语",
+    "usage": "非常常用 👍：含义极多，包括举起、延误、抢劫和维持。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "延误，阻碍",
+          "english": "To delay or block the progress of someone or something."
+        },
+        "examples": [
+          {
+            "sentence": "Sorry I'm late, I got held up in traffic.",
+            "translation": "抱歉我迟到了，我被堵在路上了。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "抢劫",
+          "english": "To rob someone or a place using a weapon."
+        },
+        "examples": [
+          {
+            "sentence": "The bank was held up by three masked men.",
+            "translation": "那家银行遭到了三名蒙面男子的抢劫。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "支持，支撑；经受住（考验）",
+          "english": "To support something; to remain strong or successful."
+        },
+        "examples": [
+          {
+            "sentence": "How is she holding up after the funeral?",
+            "translation": "葬礼之后她的状态还好吗（撑得住吗）？"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "delay",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "延迟",
+          "english": "A period of time by which something is late or postponed."
+        }
+      },
+      {
+        "word": "holdup",
+        "type": "noun",
+        "definition": {
+          "chinese": "交通堵塞；抢劫",
+          "english": "A delay; or an armed robbery."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语瞬间",
+        "explanation": "“Hold up!” 在俚语中也常用来表示“等等，刚才发生了什么？”（惊讶时的暂停）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "1. 物理支撑 -> 精神支持。2. 伸出手拦截马车 -> 导致延误。3. 拦截马车时要求乘客‘举起手来’ -> 抢劫。",
+      "explanation_english": "1. Physical support extended to mental strength. 2. The act of stopping a coach (holding it back) led to the sense of 'delay'. 3. Because robbers ordered victims to 'hold up' their hands, the phrase became synonymous with the robbery itself."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "‘Hold up’ 作为抢劫的动词在美式英语中非常高频。"
+    }
+  },
+  {
+    "word": "hold back",
+    "pronunciation": {
+      "british": "/həʊld bæk/ 🇬🇧",
+      "american": "/hoʊld bæk/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义短语",
+    "usage": "非常常用 👍：既可以指抑制情感、也可以指隐瞒信息或阻碍进步。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "克制，抑制（情感、眼泪等）",
+          "english": "To prevent oneself from showing an emotion or doing something."
+        },
+        "examples": [
+          {
+            "sentence": "She struggled to hold back her tears.",
+            "translation": "她努力忍住泪水。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "隐瞒，保留（信息）",
+          "english": "To hesitate to tell or give something."
+        },
+        "examples": [
+          {
+            "sentence": "I feel like he's holding back some important information.",
+            "translation": "我觉得他隐瞒了一些重要信息。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "阻碍...的发展",
+          "english": "To prevent someone or something from making progress."
+        },
+        "examples": [
+          {
+            "sentence": "Fear of failure shouldn't hold you back.",
+            "translation": "对失败的恐惧不应阻碍你前进。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "restrain",
+        "type": "verb",
+        "definition": {
+          "chinese": "抑制",
+          "english": "To keep under control."
+        }
+      },
+      {
+        "word": "withhold",
+        "type": "verb",
+        "definition": {
+          "chinese": "拒给，扣留",
+          "english": "Refuse to give (something that is due to or is desired by another)."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用语",
+        "explanation": "‘Don't hold back!’ 常用来鼓励某人尽情发挥或有话直说。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "字面意思是“往后拉住”。原本是物理上的阻拦，后来自然地延伸到心理上的自我约束（克制情感）和逻辑上的保留（隐瞒信息）。",
+      "explanation_english": "Literally means 'to pull or keep back.' It started as physical restraint and naturally evolved into psychological restraint (emotions) and logical withholding (information)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "hold onto",
+    "pronunciation": {
+      "british": "/həʊld ˈɒntu/ 🇬🇧",
+      "american": "/hoʊld ˈɑːntu/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 多义短语",
+    "usage": "非常常用 👍：指紧紧抓住物理对象，或者保留/坚持某种观点、财产。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "紧紧抓住",
+          "english": "To keep a firm grip on something."
+        },
+        "examples": [
+          {
+            "sentence": "Hold onto the railing, the stairs are slippery.",
+            "translation": "抓紧扶手，楼梯很滑。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "坚持，保留，不卖掉",
+          "english": "To keep something rather than giving it away or selling it."
+        },
+        "examples": [
+          {
+            "sentence": "You should hold onto that classic car; it will be worth more later.",
+            "translation": "你应该留着那辆老爷车，以后会更值钱。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "cling",
+        "type": "verb",
+        "definition": {
+          "chinese": "紧紧依附",
+          "english": "To hold on tightly to something."
+        }
+      },
+      {
+        "word": "retain",
+        "type": "verb",
+        "definition": {
+          "chinese": "保留",
+          "english": "To continue to have something; keep possession of."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "拼写",
+        "explanation": "可以写成 'hold onto' 或 'hold on to'，意思完全一样。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于物理上的抓握。因为抓紧了就不会失去，所以延伸到抽象领域，指保留财产、信念或机会。",
+      "explanation_english": "Originates from physical gripping. Since gripping prevents loss, it metaphorically extended to keeping possession of property, beliefs, or opportunities."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "mess around",
+    "pronunciation": {
+      "british": "/mes əˈraʊnd/ 🇬🇧",
+      "american": "/mes əˈraʊnd/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 俚语/多义词",
+    "usage": "非常常用 👍：这是一个非常口语化的词，可以指胡闹、瞎搞，也可以指非正式的男女关系。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "胡闹，虚度光阴",
+          "english": "To behave in a silly way or to spend time doing nothing useful."
+        },
+        "examples": [
+          {
+            "sentence": "Stop messing around and do your homework!",
+            "translation": "别混日子了，去做功课！"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "摆弄，瞎搞（机器等）",
+          "english": "To use or try to repair something, especially when you do not know how to do it properly."
+        },
+        "examples": [
+          {
+            "sentence": "I spent the afternoon messing around with my computer.",
+            "translation": "我下午一直在瞎捣鼓我的电脑。"
+          }
+        ]
+      },
+      {
+        "type": "verb (informal)",
+        "definition": {
+          "chinese": "（男女关系）乱搞，偷情",
+          "english": "To have a sexual relationship with someone who is not your usual partner."
+        },
+        "examples": [
+          {
+            "sentence": "He was caught messing around with a colleague.",
+            "translation": "他被抓到跟一个同事乱搞。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "fool around",
+        "type": "verb",
+        "definition": {
+          "chinese": "耍闹，瞎弄",
+          "english": "Similar meaning to mess around."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气注意",
+        "explanation": "在指男女关系时语气较轻，不像 'cheat' 那么严重，但依然是贬义。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自 ‘mess’（杂乱）。原本指把东西弄乱。后来延伸到把时间弄乱（胡闹）、把机器弄乱（瞎搞），以及把社会关系弄乱（乱搞）。",
+      "explanation_english": "From 'mess' (disorder). Originally meant making things messy. It extended to 'making time messy' (silly behavior), 'making machines messy' (unskilled tinkering), and 'making relationships messy' (infidelity)."
+    },
+    "variation_between_british_american": {
+      "british": "常说 'mess about'。",
+      "american": "几乎总是用 'mess around'。"
+    }
+  },
+  {
+    "word": "ravaged",
+    "pronunciation": {
+      "british": "/ˈrævɪdʒd/ 🇬🇧",
+      "american": "/ˈrævɪdʒd/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "常用 👍：描述被严重破坏、摧残的状态，语气非常重。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "遭严重破坏的，被蹂躏的",
+          "english": "Severely damaged; devastated."
+        },
+        "examples": [
+          {
+            "sentence": "The country was ravaged by civil war.",
+            "translation": "这个国家被内战摧残得满目疮痍。"
+          }
+        ]
+      },
+      {
+        "type": "adjective (literary)",
+        "definition": {
+          "chinese": "（面容）憔悴的",
+          "english": "Showing the effects of age, illness, or suffering (used for a face)."
+        },
+        "examples": [
+          {
+            "sentence": "Her once beautiful face was now ravaged by time.",
+            "translation": "她那曾经美丽的容颜如今已被岁月摧残。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "devastated",
+        "type": "adjective",
+        "definition": {
+          "chinese": "毁坏的",
+          "english": "Destroyed or ruined."
+        }
+      },
+      {
+        "word": "ruined",
+        "type": "adjective",
+        "definition": {
+          "chinese": "毁掉的",
+          "english": "Damaged beyond repair."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "文学色彩",
+        "explanation": "在新闻报道或严肃文学中常见，形容战争、饥荒或自然灾害。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古法语 ‘ravager’（抢劫、破坏）。原本指军队洗劫城市，后来延伸到指疾病、时间或痛苦对事物或面容的“洗劫”式破坏。",
+      "explanation_english": "From Old French 'ravager' (to plunder/pillage). Originally described armies looting cities, it later extended to the 'pillaging' effects of disease, time, or grief on a thing or a face."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "daring",
+    "pronunciation": {
+      "british": "/ˈdeərɪŋ/ 🇬🇧",
+      "american": "/ˈderɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "adjective/noun 多义词",
+    "usage": "非常常用 👍：形容勇敢、冒险，或者（服装等）大胆新奇。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "大胆的，勇敢的",
+          "english": "Brave and taking risks."
+        },
+        "examples": [
+          {
+            "sentence": "He made a daring rescue in the middle of the storm.",
+            "translation": "他在暴风雨中进行了一场大胆的救援。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "（服装、观点）前卫的，大胆的",
+          "english": "Original and likely to shock people."
+        },
+        "examples": [
+          {
+            "sentence": "She wore a daring dress to the gala.",
+            "translation": "她穿了一件很大胆（露骨或新潮）的礼服去参加晚宴。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "bold",
+        "type": "adjective",
+        "definition": {
+          "chinese": "大胆的",
+          "english": "Showing an ability to take risks; confident and courageous."
+        }
+      },
+      {
+        "word": "adventurous",
+        "type": "adjective",
+        "definition": {
+          "chinese": "爱冒险的",
+          "english": "Willing to take risks or to try out new methods, ideas, or experiences."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "褒义词",
+        "explanation": "通常是正向的评价，强调不仅勇敢而且有创意。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自动词 ‘dare’（敢）。其含义非常稳定，从“敢于冒险”延伸到形容那些“敢于突破常规”的设计或艺术。",
+      "explanation_english": "From the verb 'dare.' The meaning has remained stable, moving from 'venturing into danger' to 'venturing outside social norms' (in fashion or art)."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "emaciated",
+    "pronunciation": {
+      "british": "/ɪˈmeɪsieɪtɪd/ 🇬🇧",
+      "american": "/ɪˈmeɪsieɪtɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "正式/常用 👍：描述人或动物因饥饿或疾病而变得极其消瘦、皮包骨头。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "极其消瘦的，皮包骨头的",
+          "english": "Abnormally thin or weak, especially because of illness or a lack of food."
+        },
+        "examples": [
+          {
+            "sentence": "The rescued dog was emaciated and needed urgent care.",
+            "translation": "那只获救的狗瘦得皮包骨头，需要紧急护理。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "skeletal",
+        "type": "adjective",
+        "definition": {
+          "chinese": "骨瘦如柴的",
+          "english": "Very thin; like a skeleton."
+        }
+      },
+      {
+        "word": "scrawny",
+        "type": "adjective",
+        "definition": {
+          "chinese": "（带贬义）瘦巴巴的",
+          "english": "Unattractively thin and bony."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感区别",
+        "explanation": "这是一个极其严重的词，通常用于医疗、灾荒或虐待动物的情况，不能用于形容模特或正常的‘瘦’。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘emaciare’（使消瘦）。没有复杂的引申义，始终指由于极度匮乏导致的身体虚弱。",
+      "explanation_english": "From Latin 'emaciare' (to make lean). It has a stable, clinical meaning referring to physical wasting due to extreme deprivation."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
+  },
+  {
+    "word": "limb",
+    "pronunciation": {
+      "british": "/lɪm/ 🇬🇧",
+      "american": "/lɪm/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "非常常用 👍：既指人的肢体（胳膊、腿），也指大树的主干分枝。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "肢，臂，腿",
+          "english": "An arm or leg of a person or four-legged animal."
+        },
+        "examples": [
+          {
+            "sentence": "He has very long limbs, which makes him a good swimmer.",
+            "translation": "他四肢修长，这使他成为一名优秀的游泳运动员。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "大树枝",
+          "english": "A large branch of a tree."
+        },
+        "examples": [
+          {
+            "sentence": "The storm broke several heavy limbs off the oak tree.",
+            "translation": "暴风雨折断了橡树上的几根粗大的树枝。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "appendage",
+        "type": "noun",
+        "definition": {
+          "chinese": "附属物（生物学指肢体）",
+          "english": "A thing that is added or attached to something larger or more important."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常用习语",
+        "explanation": "‘Out on a limb’ 意为“处于孤立无援的境地”或“孤注一掷”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘lim’。其核心逻辑是“从主体延伸出的部分”。人体的主体延伸出四肢，树干的主体延伸出大树枝。这种类比非常直观。",
+      "explanation_english": "From Old English 'lim.' The core logic is 'a part extended from a main body.' The human torso extends limbs (arms/legs), and the tree trunk extends limbs (branches). This anatomical-botanical analogy is very direct."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "用法一致。"
+    }
   }
 ];
