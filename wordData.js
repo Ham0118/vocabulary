@@ -8128,53 +8128,6 @@ const wordData = [
     },
   },
   {
-    word: "awakening",
-    pronunciation: { british: "/əˈweɪkənɪŋ/ 🇬🇧", american: "/əˈweɪkənɪŋ/ 🇺🇸" },
-    phrase_type: "noun/verb 名词/动词",
-    usage: "常用 👍：觉醒；唤醒；意识觉醒。",
-    meanings: [
-      {
-        type: "noun",
-        definition: {
-          chinese: "觉醒；觉悟",
-          english:
-            "An act or moment of waking up; becoming aware of something.",
-        },
-        examples: [
-          {
-            sentence: "It was an awakening to social issues.",
-            translation: "这让人开始关注社会问题。",
-          },
-        ],
-      },
-      {
-        type: "verb (awake) continuous",
-        definition: {
-          chinese: "醒来；唤醒",
-          english:
-            "Discover or become aware of something, especially something momentous.",
-        },
-        examples: [
-          {
-            sentence: "He is awakening to the realities of life.",
-            translation: "他开始意识到生活的现实。",
-          },
-        ],
-      },
-    ],
-    related_words: [{ word: "awakening" }],
-    notes: [{ point: "多义", explanation: "名词强调时刻，动词强调过程。" }],
-    origin_of_multiple_meanings: {
-      explanation_chinese: "动词 awake 加 -ning 构成；名词用同形式。",
-      explanation_english:
-        "Present participle 'awakening' used as noun and verb; fixed senses.",
-    },
-    variation_between_british_american: {
-      british: "两地用法一致。",
-      american: "同上。",
-    },
-  },
-  {
     word: "prank",
     pronunciation: { british: "/præŋk/ 🇬🇧", american: "/præŋk/ 🇺🇸" },
     phrase_type: "noun/verb 名词/动词",
@@ -17138,50 +17091,6 @@ const wordData = [
     variation_between_british_american: {
       british: "同样使用 ‘heave’ 表达呕吐。",
       american: "也用 ‘heave’ 作口语中“反胃”。",
-    },
-  },
-  {
-    word: "literacy",
-    pronunciation: {
-      british: "/ˈlɪt.ər.ə.si/ 🇬🇧",
-      american: "/ˈlɪt̬.ɚ.ə.si/ 🇺🇸",
-    },
-    phrase_type: "noun 名词",
-    usage: "用于描述阅读写作或某个领域的基本能力。",
-    meanings: [
-      {
-        type: "noun",
-        definition: {
-          chinese: "读写能力；素养",
-          english:
-            "The ability to read and write; or basic competence in a specific area.",
-        },
-        examples: [
-          {
-            sentence: "Digital literacy is important in the modern world.",
-            translation: "数字素养在现代社会非常重要。",
-          },
-        ],
-      },
-    ],
-    related_words: [
-      {
-        word: "numeracy",
-        type: "noun",
-        definition: {
-          chinese: "计算能力",
-          english: "The ability to work with numbers.",
-        },
-      },
-    ],
-    notes: [],
-    origin_of_multiple_meanings: {
-      explanation_chinese: "由 ‘literate’ 派生，用于描述通识能力。",
-      explanation_english: "From ‘literate’, extended to any competence area.",
-    },
-    variation_between_british_american: {
-      british: "广泛用于教育政策中。",
-      american: "强调包括科技、金融等多种素养。",
     },
   },
   {
@@ -26678,71 +26587,6 @@ const wordData = [
     },
   },
   {
-    word: "literacy",
-    pronunciation: {
-      british: "/ˈlɪt.ər.ə.si/ 🇬🇧",
-      american: "/ˈlɪt̬.ɚ.ə.si/ 🇺🇸",
-    },
-    part_of_speech: "noun",
-    usage: "常用于教育、社会发展和能力描述。",
-    meanings: [
-      {
-        definition: {
-          chinese: "识字能力；读写能力",
-          english: "The ability to read and write.",
-        },
-        examples: [
-          {
-            sentence:
-              "Literacy rates have improved dramatically in recent decades.",
-            translation: "近几十年来，识字率大幅提高。",
-          },
-        ],
-      },
-      {
-        definition: {
-          chinese: "具备某方面知识或能力",
-          english:
-            "Knowledge or competence in a specific area (e.g. digital literacy, financial literacy).",
-        },
-        examples: [
-          {
-            sentence: "Digital literacy is crucial in the modern workplace.",
-            translation: "在现代职场中，数字素养至关重要。",
-          },
-        ],
-      },
-    ],
-    related_words: [
-      {
-        word: "illiteracy",
-        type: "noun",
-        definition: {
-          chinese: "文盲",
-          english: "The inability to read or write.",
-        },
-      },
-      {
-        word: "numeracy",
-        type: "noun",
-        definition: {
-          chinese: "计算能力",
-          english: "The ability to understand and work with numbers.",
-        },
-      },
-    ],
-    origin_of_multiple_meanings: {
-      explanation_chinese:
-        "最初指‘读写能力’，后来被比喻用于描述‘在某领域具备基础能力’。",
-      explanation_english:
-        "Originally referred to reading/writing skills, later extended to competence in various domains (e.g. tech, finance).",
-    },
-    variation_between_british_american: {
-      british: "‘literacy’ 通常用于教育政策话语中。",
-      american: "扩展词组更多，如 ‘media literacy’, ‘health literacy’。",
-    },
-  },
-  {
     word: "cure",
     pronunciation: {
       british: "/kjʊə(r)/ 🇬🇧",
@@ -28611,61 +28455,6 @@ const wordData = [
     },
   },
   {
-    word: "parental leave",
-    pronunciation: {
-      british: "/pəˈren.təl liːv/ 🇬🇧",
-      american: "/pəˈren.t̬əl liːv/ 🇺🇸",
-    },
-    part_of_speech: "noun phrase",
-    usage: "正式场合下用于描述父母照顾孩子时的请假政策。",
-    meanings: [
-      {
-        definition: {
-          chinese: "父母育儿假",
-          english:
-            "Leave from work granted to a parent to take care of a child.",
-        },
-        examples: [
-          {
-            sentence:
-              "Many companies now offer paid parental leave to both parents.",
-            translation: "现在很多公司提供带薪的父母育儿假。",
-          },
-        ],
-      },
-    ],
-    common_collocations: [
-      "maternity leave",
-      "paternity leave",
-      "paid parental leave",
-    ],
-    related_words: [
-      {
-        word: "maternity leave",
-        definition: {
-          chinese: "产假",
-          english: "Leave taken by a mother before or after childbirth.",
-        },
-      },
-      {
-        word: "paternity leave",
-        definition: {
-          chinese: "陪产假",
-          english: "Leave taken by a father around the time of childbirth.",
-        },
-      },
-    ],
-    origin_of_multiple_meanings: {
-      explanation_chinese: "‘parental’ 指父母的；‘leave’ 是正式语境下的请假。",
-      explanation_english:
-        "Derived from ‘parent’ and ‘leave’ as time off from work.",
-    },
-    variation_between_british_american: {
-      british: "强调法律规定的 parental leave rights。",
-      american: "更多公司自主决定，法规不统一。",
-    },
-  },
-  {
     word: "maternity",
     pronunciation: {
       british: "/məˈtɜː.nə.ti/ 🇬🇧",
@@ -28811,65 +28600,6 @@ const wordData = [
     variation_between_british_american: {
       british: "‘Hairdresser’广泛用于男女理发师。",
       american: "‘Hair stylist’更为常见。",
-    },
-  },
-  {
-    word: "demonstration",
-    pronunciation: {
-      british: "/ˌdem.ənˈstreɪ.ʃən/ 🇬🇧",
-      american: "/ˌdem.ənˈstreɪ.ʃən/ 🇺🇸",
-    },
-    part_of_speech: "noun",
-    usage: "可用于抗议、产品展示、行为表现等多种语境。",
-    meanings: [
-      {
-        definition: {
-          chinese: "示范；示威；表现",
-          english:
-            "An act of showing how something works; a protest; a display of feeling.",
-        },
-        examples: [
-          {
-            sentence: "The teacher gave a demonstration of the experiment.",
-            translation: "老师演示了实验过程。",
-          },
-          {
-            sentence: "Thousands joined the peace demonstration.",
-            translation: "成千上万人参加了和平示威游行。",
-          },
-        ],
-      },
-    ],
-    common_collocations: [
-      "peaceful demonstration",
-      "product demonstration",
-      "demonstration of skill",
-    ],
-    related_words: [
-      {
-        word: "protest",
-        definition: {
-          chinese: "抗议",
-          english: "An expression or declaration of objection.",
-        },
-      },
-      {
-        word: "display",
-        definition: {
-          chinese: "展示",
-          english: "The act of showing something.",
-        },
-      },
-    ],
-    origin_of_multiple_meanings: {
-      explanation_chinese:
-        "‘demonstrate’ 的名词形式，有展示、抗议、情绪表达等扩展含义。",
-      explanation_english:
-        "From Latin ‘demonstrare’ – to show, extended to protest and emotional expression.",
-    },
-    variation_between_british_american: {
-      british: "更常用于政治语境中的‘demonstration’",
-      american: "商业语境中‘product demonstration’使用频繁",
     },
   },
   {
@@ -77132,6 +76862,317 @@ const wordData = [
     "variation_between_british_american": {
       "british": "用法一致。",
       "american": "用法一致。"
+    }
+  },
+  {
+    "word": "parental leave",
+    "pronunciation": {
+      "british": "/pəˈrentl liːv/ 🇬🇧",
+      "american": "/pəˈrentl liːv/ 🇺🇸"
+    },
+    "phrase_type": "noun phrase 名词短语",
+    "usage": "非常常用 👍：职场核心词汇，指为了照顾新生儿或新领养的孩子而准许的带薪或无薪假期。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "育儿假，家长假",
+          "english": "A period of time away from work granted to a parent for the care of a new child, whether through birth, adoption, or foster care."
+        },
+        "examples": [
+          {
+            "sentence": "The company recently increased its paid parental leave to sixteen weeks.",
+            "translation": "公司最近将带薪育儿假增加到了16周。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "maternity leave",
+        "type": "noun",
+        "definition": {
+          "chinese": "产假",
+          "english": "Period of absence from work granted to a mother before and after the birth of her child."
+        }
+      },
+      {
+        "word": "paternity leave",
+        "type": "noun",
+        "definition": {
+          "chinese": "陪产假",
+          "english": "Period of absence from work granted to a father after the birth of his child."
+        }
+      },
+      {
+        "word": "adoption leave",
+        "type": "noun",
+        "definition": {
+          "chinese": "领养假",
+          "english": "Time off for parents who are adopting a child."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "中性化趋势",
+        "explanation": "‘Parental leave’ 是一个性别中性（gender-neutral）的词，它涵盖了父亲和母亲，体现了现代职场对双方共同抚育责任的认可。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "由 ‘parental’（父母的）和 ‘leave’（准假/许可）组成。‘Leave’ 在这里源于古英语词根，意为‘许可、同意’。这个词的组合在20世纪中叶随着劳动法的发展而出现，用来统一描述针对父母的职业假期。",
+      "explanation_english": "A compound of ‘parental’ and ‘leave.’ In this context, ‘leave’ derives from an Old English root meaning ‘permission.’ The phrase emerged in the mid-20th century alongside labor law developments to provide a collective term for workplace absence related to childcare."
+    },
+    "variation_between_british_american": {
+      "british": "英国法律规定了‘Shared Parental Leave’（共享育儿假），允许父母双方灵活分配一年的假期。",
+      "american": "美国通常通过《家庭与医疗假法案》(FMLA) 提供保护，但联邦层面不强制要求‘带薪’（paid），通常由各州或公司自行决定。"
+    }
+  },
+  {
+    "word": "awakening",
+    "pronunciation": {
+      "british": "/əˈweɪkənɪŋ/ 🇬🇧",
+      "american": "/əˈweɪkənɪŋ/ 🇺🇸"
+    },
+    "phrase_type": "noun/adjective 多义词",
+    "usage": "非常常用 👍：核心在于‘从无意识转向有意识’。既指生理上的苏醒，也指心理、精神或政治上的觉醒。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（生理上的）苏醒，醒来",
+          "english": "The act of waking from sleep."
+        },
+        "examples": [
+          {
+            "sentence": "Her awakening was slow and peaceful as the sun rose.",
+            "translation": "随着太阳升起，她慢慢地、平静地醒了过来。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（精神或政治上的）觉醒，领悟",
+          "english": "A sudden realization, or a renewal of interest in something (like religion or social issues)."
+        },
+        "examples": [
+          {
+            "sentence": "The trip to Africa was a spiritual awakening for him.",
+            "translation": "那次非洲之旅对他来说是一次精神上的觉醒。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "正在觉醒的，初醒的",
+          "english": "Coming into existence or awareness."
+        },
+        "examples": [
+          {
+            "sentence": "She had an awakening interest in classical music.",
+            "translation": "她对古典音乐开始产生兴趣（兴趣正在觉醒）。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "wake-up call",
+        "type": "noun (idiom)",
+        "definition": {
+          "chinese": "警钟，觉醒的契机",
+          "english": "An event that makes people realize they need to change a situation."
+        },
+        "examples": [
+          {
+            "sentence": "The minor heart attack was a wake-up call for him to start exercising.",
+            "translation": "那次轻微的心脏病发作成了他的警钟，让他开始锻炼身体。"
+          }
+        ]
+      },
+      {
+        "word": "enlightenment",
+        "type": "noun",
+        "definition": {
+          "chinese": "启蒙，教化",
+          "english": "The state of having knowledge or understanding."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见搭配",
+        "explanation": "‘Rude awakening’ 指‘残酷的觉醒’，通常是一个令人不快、如冷水泼头般的突然意识到真相的过程。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语 ‘awæcnan’，本意只是“停止睡眠”。后续由于隐喻修辞，人们将“睡眠”比作“无知或麻木”，将“醒来”比作“获得智慧或意识”，从而延伸出精神和政治层面的含义。",
+      "explanation_english": "Derived from Old English ‘awæcnan,’ originally meaning only to stop sleeping. Metaphorically, 'sleep' became a stand-in for ignorance or apathy, and 'waking up' became a leap in understanding or consciousness."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致。",
+      "american": "在历史语境下，‘The Great Awakening’ 特指美国历史上几次著名的宗教复兴运动。"
+    }
+  },
+  {
+    "word": "demonstration",
+    "pronunciation": {
+      "british": "/ˌdemənˈstreɪʃn/ 🇬🇧",
+      "american": "/ˌdemənˈstreɪʃn/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "非常常用 👍：缩写为 'demo'。涵盖了“演示”、“示威”以及“证明”三大核心含义。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "演示，示范 (常简称为 demo)",
+          "english": "A practical exhibition and explanation of how something works or is performed."
+        },
+        "examples": [
+          {
+            "sentence": "The chef gave a cooking demonstration to the students.",
+            "translation": "厨师给学生们做了一次烹饪演示。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "示威游行",
+          "english": "A public meeting or march at which people show that they are protesting against or supporting something."
+        },
+        "examples": [
+          {
+            "sentence": "Thousands of people took part in a peaceful demonstration against the new law.",
+            "translation": "数千人参加了反对新法律的和平示威游行。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "证明，论证",
+          "english": "An act of showing that something exists or is true by giving proof or evidence."
+        },
+        "examples": [
+          {
+            "sentence": "The project is a clear demonstration of their commitment to quality.",
+            "translation": "这个项目清楚地证明了他们对质量的承诺。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "protest",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "抗议",
+          "english": "A statement or action expressing disapproval of or objection to something."
+        }
+      },
+      {
+        "word": "presentation",
+        "type": "noun",
+        "definition": {
+          "chinese": "展示，陈述",
+          "english": "The giving of something to someone, especially as part of a formal ceremony."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "缩写用法",
+        "explanation": "在科技和软件行业，几乎永远只说 'demo'（比如：Can you give us a quick demo?）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘demonstrare’（指出，充分显示）。‘De-’（加强语气）+ ‘monstrare’（展示）。“展示如何操作”演变为“演示”；“公开展示力量或态度”演变为“示威”；“通过事实展示真相”演变为“证明”。",
+      "explanation_english": "From Latin ‘demonstrare’ (to point out, to show fully). ‘De-’ (intensive) + ‘monstrare’ (to show). To show how to use something became 'demonstration' (instructional); to openly show one's feelings/power became 'demonstration' (protest); to show the truth via evidence became 'demonstration' (proof)."
+    },
+    "variation_between_british_american": {
+      "british": "在口语中，‘demo’ 也常用来指音乐人的“小样”。",
+      "american": "用法一致。在政治语境下，美国人有时会交替使用 'protest' 和 'demonstration'。"
+    }
+  },
+  {
+    "word": "literacy",
+    "pronunciation": {
+      "british": "/ˈlɪtrəsi/ 🇬🇧",
+      "american": "/ˈlɪtərəsi/ 🇺🇸"
+    },
+    "phrase_type": "noun 多义词",
+    "usage": "非常常用 👍：基础含义是“识字”，但在现代语境下，它几乎可以指代任何领域的“基本素养”或“能力”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "读写能力，识字",
+          "english": "The ability to read and write."
+        },
+        "examples": [
+          {
+            "sentence": "The government is investing in adult literacy programs.",
+            "translation": "政府正在向成人识字计划投入资金。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "（某领域的）素养，能力",
+          "english": "Competence or knowledge in a specified area."
+        },
+        "examples": [
+          {
+            "sentence": "Computer literacy is now a requirement for most jobs.",
+            "translation": "计算机素养现在是大多数职位的要求。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "literate",
+        "type": "adjective",
+        "definition": {
+          "chinese": "受过教育的，识字的",
+          "english": "Able to read and write; knowledgeable."
+        }
+      },
+      {
+        "word": "illiteracy",
+        "type": "noun",
+        "definition": {
+          "chinese": "文盲，不识字",
+          "english": "The inability to read or write."
+        }
+      },
+      {
+        "word": "numeracy",
+        "type": "noun",
+        "definition": {
+          "chinese": "识数能力，计算能力",
+          "english": "The ability to understand and work with numbers."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见派生表达",
+        "explanation": "Financial literacy (财商/金融素养), Media literacy (媒介素养), Digital literacy (数字素养)。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自拉丁语 ‘littera’（字母）。最初该词严格指代“识别字母”的能力。随着社会进步，仅仅识字已不足以在社会生存，于是人们将这个词“借用”到了其他复杂领域，指代在该领域生存所需的“基础工具性知识”。",
+      "explanation_english": "From Latin ‘littera’ (letter). Originally, it strictly meant the ability to recognize letters. As society became more complex, knowing how to read wasn't enough to function, so the word was 'borrowed' to describe the 'new basics' required to navigate fields like technology or finance."
+    },
+    "variation_between_british_american": {
+      "british": "用法一致，常在教育改革报告中出现。",
+      "american": "用法一致，在职场技能描述中极度高频。"
     }
   }
 ];
