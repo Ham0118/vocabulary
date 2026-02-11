@@ -77174,5 +77174,1562 @@ const wordData = [
       "british": "用法一致，常在教育改革报告中出现。",
       "american": "用法一致，在职场技能描述中极度高频。"
     }
+  },
+  {
+  "word": "intimate",
+  "pronunciation": {
+    "british": "/ˈɪntɪmət/ 🇬🇧",
+    "american": "/ˈɪntɪmət/ 🇺🇸"
+  },
+  "phrase_type": "adj/verb 多义词",
+  "usage": "非常常用 👍：形容亲密的关系或私密的氛围；作动词时意为“暗示”。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "亲密的，私密的",
+        "english": "Closely acquainted; familiar, close, or private."
+      },
+      "examples": [
+        {
+          "sentence": "They shared an intimate dinner by candlelight.",
+          "translation": "他们共享了一顿烛光私密晚餐。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "暗示，提示 (正式用法)",
+        "english": "To state or make known slowly or indirectly."
+      },
+      "examples": [
+        {
+          "sentence": "He intimated that he might be resigning soon.",
+          "translation": "他暗示他可能很快就会辞职。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "intimacy",
+      "type": "noun",
+      "definition": {
+        "chinese": "亲密，亲近",
+        "english": "Close familiarity or friendship."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "发音区别",
+      "explanation": "形容词词尾发短音 /mət/；动词词尾发长音 /meɪt/。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 ‘intimatus’（使人了解/最内在的）。“最内在的”演变为形容关系亲密；“使人了解最内在的想法”演变为暗示。",
+    "explanation_english": "From Latin 'intimatus' (made known/innermost). The sense of 'innermost' led to describing close relationships; 'making innermost thoughts known' led to the verb sense of hinting."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
   }
+},
+{
+  "word": "cervix / crotch",
+  "pronunciation": {
+    "cervix": "/ˈsɜːvɪks/",
+    "crotch": "/krɒtʃ/"
+  },
+  "phrase_type": "noun 解剖/身体部位",
+  "usage": "常用 👍：cervix 是医学术语（子宫颈）；crotch 是日常词汇（胯下）。",
+  "meanings": [
+    {
+      "type": "noun (cervix)",
+      "definition": {
+        "chinese": "子宫颈",
+        "english": "The narrow necklike passage forming the lower end of the uterus."
+      }
+    },
+    {
+      "type": "noun (crotch)",
+      "definition": {
+        "chinese": "胯部，腹股沟处",
+        "english": "The part of the human body where the legs join the torso."
+      },
+      "examples": [
+        {
+          "sentence": "The pants were too tight in the crotch.",
+          "translation": "这裤子的胯部太紧了。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "语体区别",
+      "explanation": "Cervix 仅用于医疗或生理语境；Crotch 是普通生活词汇，描述衣服合身度或身体部位。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "Cervix 在拉丁语中意为“脖子”。Crotch 源自古法语‘croche’（钩子），形容两条腿像叉子或钩子一样分开的地方。",
+    "explanation_english": "Cervix means 'neck' in Latin (the neck of the womb). Crotch comes from Old French 'croche' (hook/fork), describing the place where the body forks into two legs."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "bite the bullet / tough it out / suck it up",
+  "pronunciation": {
+    "usage": "这是一组表达“忍耐”的强力短语。"
+  },
+  "phrase_type": "idiom 习语组合",
+  "usage": "非常常用 👍：用于鼓励某人面对痛苦或不快的情况。",
+  "meanings": [
+    {
+      "type": "bite the bullet",
+      "definition": {
+        "chinese": "咬紧牙关，硬着头皮做某事",
+        "english": "To accept something difficult or unpleasant."
+      },
+      "examples": [
+        {
+          "sentence": "I hate the dentist, but I'll just have to bite the bullet.",
+          "translation": "我讨厌看牙医，但我只能硬着头皮去了。"
+        }
+      ]
+    },
+    {
+      "type": "tough it out",
+      "definition": {
+        "chinese": "坚持到底，挺过去",
+        "english": "To endure a difficult situation through willpower."
+      },
+      "examples": [
+        {
+          "sentence": "It’s a hard course, but you need to tough it out.",
+          "translation": "这门课很难，但你需要挺过去。"
+        }
+      ]
+    },
+    {
+      "type": "suck it up",
+      "definition": {
+        "chinese": "别抱怨，忍着（语气较粗鲁）",
+        "english": "To accept something unpleasant without complaining."
+      },
+      "examples": [
+        {
+          "sentence": "Stop whining and just suck it up!",
+          "translation": "别发牢骚了，忍着点！"
+        }
+      ]
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "Bite the bullet 源于手术没麻药时让病人咬子弹。Suck it up 源于飞行员或潜水员在高压下忍受生理不适。Tough it out 则是意志力的直接体现。",
+    "explanation_english": "Bite the bullet comes from historical battlefield surgery without anesthesia. Suck it up likely stems from pilots or divers suppressing physical nausea. Tough it out emphasizes the 'tough' character needed to survive."
+  },
+  "variation_between_british_american": {
+    "british": "都常用，但 'stiff upper lip' 是更传统的英式表达。",
+    "american": "'Suck it up' 在美式口语中极度流行，尽管有些粗鲁。"
+  }
+},
+{
+  "word": "intuitive / problematic",
+  "pronunciation": {
+    "intuitive": "/ɪnˈtjuːɪtɪv/",
+    "problematic": "/ˌprɒbləˈmætɪk/"
+  },
+  "phrase_type": "adjective 评价词",
+  "usage": "非常常用 👍：前者形容“凭直觉的/好用的”，后者形容“有问题的/有争议的”。",
+  "meanings": [
+    {
+      "type": "intuitive",
+      "definition": {
+        "chinese": "直观的，凭直觉的",
+        "english": "Using or based on what one feels to be true without conscious reasoning."
+      },
+      "examples": [
+        {
+          "sentence": "The app's interface is very intuitive.",
+          "translation": "这个App的界面非常直观好用。"
+        }
+      ]
+    },
+    {
+      "type": "problematic",
+      "definition": {
+        "chinese": "有问题的，引起争议的",
+        "english": "Constituting or presenting a problem or difficulty."
+      },
+      "examples": [
+        {
+          "sentence": "Some of his old comments are now seen as problematic.",
+          "translation": "他以前的一些言论现在被认为是有问题的（不合时宜或冒犯的）。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "point": "社会语境",
+      "explanation": "‘Problematic’ 在现代网络语境下常指某人的行为或言论在道德/政治上不正确。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "Intuitive 源自拉丁语 ‘intueri’（凝视/关注内部）。Problematic 源自希腊语 ‘problema’（摆在面前的障碍）。",
+    "explanation_english": "Intuitive stems from Latin 'intueri' (to gaze at/look within). Problematic comes from Greek 'problema' (a hurdle placed before one)."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "cushion the blow",
+  "pronunciation": {
+    "british": "/ˈkʊʃn ðə bləʊ/ 🇬🇧",
+    "american": "/ˈkʊʃn ðə bloʊ/ 🇺🇸"
+  },
+  "phrase_type": "idiom 习语",
+  "usage": "非常常用 👍：比喻减轻坏消息或负面影响带来的打击。",
+  "meanings": [
+    {
+      "type": "verb phrase",
+      "definition": {
+        "chinese": "缓冲，减轻打击",
+        "english": "To make a bad situation or news seem less unpleasant or severe."
+      },
+      "examples": [
+        {
+          "sentence": "He tried to cushion the blow by mentioning the severance package first.",
+          "translation": "他先提到补偿金，试图以此来减轻（裁员消息带来的）打击。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "soften",
+      "type": "verb",
+      "definition": {
+        "chinese": "软化，缓解",
+        "english": "To make less hard or severe."
+      }
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "字面意思是“用垫子（cushion）挡住重击（blow）”。从物理防御延伸到情感和社交沟通中的保护。",
+    "explanation_english": "Literally placing a soft cushion to absorb a physical strike. It moved from physical protection to emotional buffering in communication."
+  }
+},
+{
+  "word": "linen",
+  "pronunciation": {
+    "british": "/ˈlɪnɪn/ 🇬🇧",
+    "american": "/ˈlɪnɪn/ 🇺🇸"
+  },
+  "phrase_type": "noun 名词",
+  "usage": "非常常用 👍：指亚麻布，也泛指家用的床单、被罩、桌布等。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "亚麻布",
+        "english": "Cloth woven from flax."
+      },
+      "examples": [
+        {
+          "sentence": "She wore a cool white linen dress.",
+          "translation": "她穿了一件清凉的白色亚麻连衣裙。"
+        }
+      ]
+    },
+    {
+      "type": "noun (collective)",
+      "definition": {
+        "chinese": "（统称）床上用品，桌布，内衣",
+        "english": "Articles such as sheets, pillowcases, and tablecloths collectively."
+      },
+      "examples": [
+        {
+          "sentence": "We need to change the bed linens.",
+          "translation": "我们需要更换床单被套。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "flax",
+      "type": "noun",
+      "definition": {
+        "chinese": "亚麻（植物）",
+        "english": "The plant from which linen is made."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "习语",
+      "explanation": "‘Wash one's dirty linen in public’ 意为“家丑外扬”。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自古英语 ‘lin’（亚麻植物）。最初指这种特定材质。由于历史上床单、内衣多由亚麻制成，‘linens’ 逐渐演变为这些物品的统称，即便现在材质多为棉或化纤。",
+    "explanation_english": "From Old English 'lin' (the flax plant). Originally meant only the fabric. Because bedsheets and undergarments were historically made of linen, the term 'linens' became a collective noun for these items regardless of actual material."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "scrub",
+  "pronunciation": {
+    "british": "/skrʌb/ 🇬🇧",
+    "american": "/skrʌb/ 🇺🇸"
+  },
+  "phrase_type": "verb/noun 多义词",
+  "usage": "非常常用 👍：物理上指用力擦洗；医疗上指术前刷手；俚语指“菜鸟”或“没用的人”。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "用力擦洗，刷洗",
+        "english": "To rub something hard with a stiff brush or cloth to clean it."
+      },
+      "examples": [
+        {
+          "sentence": "I had to scrub the floor to get the stain out.",
+          "translation": "我不得不使劲刷地才把污渍弄掉。"
+        }
+      ]
+    },
+    {
+      "type": "noun (plural)",
+      "definition": {
+        "chinese": "（医生、护士穿的）洗手衣，手术服",
+        "english": "The plain clothes worn by surgeons and nurses in an operating room."
+      },
+      "examples": [
+        {
+          "sentence": "The doctor was still in her scrubs.",
+          "translation": "医生还穿着她的手术服。"
+        }
+      ]
+    },
+    {
+      "type": "noun (slang)",
+      "definition": {
+        "chinese": "【俚】没本事的人，无名小卒",
+        "english": "A person of little talent or ability; someone who isn't successful (often in sports or dating)."
+      }
+    }
+  ],
+  "related_words": [
+    {
+      "word": "cancel",
+      "type": "verb",
+      "definition": {
+        "chinese": "取消（任务）",
+        "english": "To cancel a planned event or mission (e.g., 'scrub the mission')."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "生活化",
+      "explanation": "‘Face scrub’ 指的是“磨砂膏”。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自中古荷兰语 ‘schrubben’（摩擦）。医疗含义源于医生必须刷洗双手；而俚语“没用的人”可能源于“灌木丛（scrubland）”中矮小无用的树木。",
+    "explanation_english": "From Middle Dutch 'schrubben' (to rub). The medical sense comes from the necessity of scrubbing hands before surgery. The slang 'loser' sense likely comes from stunted, low-quality trees in 'scrubland'."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "在美式俚语中，‘scrub’ 常指在恋爱关系中没钱没上进心的男性。"
+  }
+},
+{
+  "word": "triple threat",
+  "pronunciation": {
+    "british": "/ˌtrɪpl ˈθret/ 🇬🇧",
+    "american": "/ˌtrɪpl ˈθret/ 🇺🇸"
+  },
+  "phrase_type": "noun phrase 褒义词",
+  "usage": "非常常用 👍：形容在三个不同领域（通常是唱歌、跳舞、演戏）都极其出色的人。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "全能奇才，三栖明星",
+        "english": "A person, especially an entertainer, who is proficient in three different skills."
+      },
+      "examples": [
+        {
+          "sentence": "Hugh Jackman is a real triple threat; he can sing, dance, and act.",
+          "translation": "休·杰克曼是个真正的全能奇才；他能唱、能跳、还能演。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "all-rounder",
+      "type": "noun",
+      "definition": {
+        "chinese": "全才",
+        "english": "A person who is good at many different things."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "语境延伸",
+      "explanation": "在篮球中，指球员接到球后处于可以“投篮、传球或运球”的状态。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "最初源于美式橄榄球（能跑、能传、能踢的球员）。20世纪20年代被百老汇（Broadway）借用，指代同时具备唱歌、跳舞、演戏能力的演员。",
+    "explanation_english": "Originally a sports term (American football) for a player who could run, pass, and kick. In the 1920s, it was adopted by Broadway to describe performers who could sing, dance, and act."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致，虽然这个词源自美国。",
+    "american": "在演艺圈和体育评论中极度高频。"
+  }
+},
+{
+  "word": "tiara",
+  "pronunciation": {
+    "british": "/tiˈɑːrə/ 🇬🇧",
+    "american": "/tiˈerə/ 🇺🇸"
+  },
+  "phrase_type": "noun 名词",
+  "usage": "常用 👍：指女性戴的半冠状头饰，常出现在婚礼或皇室场合。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "女式小冠冕，发冕",
+        "english": "A jeweled semi-circular headpiece worn by women on formal occasions."
+      },
+      "examples": [
+        {
+          "sentence": "The princess wore a diamond tiara for the royal banquet.",
+          "translation": "公主戴着钻石冠冕参加了皇室宴会。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "crown",
+      "type": "noun",
+      "definition": {
+        "chinese": "皇冠（全圆的）",
+        "english": "A circular ornamental headdress worn by a monarch."
+      }
+    },
+    {
+      "word": "diadem",
+      "type": "noun",
+      "definition": {
+        "chinese": "冕额（装饰性的头带）",
+        "english": "A jeweled crown or headband worn as a symbol of sovereignty."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "区别",
+      "explanation": "Crown 通常是全圆的且由君主佩戴；Tiara 通常是半圆的，现代常出现在选美比赛或正式舞会（prom）中。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自古希腊语 ‘tiāra’，最初指古代波斯国王戴的高头巾。后来演变为天主教教皇的冠冕，最后固定为现代这种珠宝装饰的女式头饰。",
+    "explanation_english": "From Ancient Greek 'tiāra,' originally describing high headdresses worn by Persian kings. It later referred to the Papal crown before becoming the modern term for the ornamental jeweled headpieces for women."
+  },
+  "variation_between_british_american": {
+    "british": "由于英国有王室，这个词在正式场合非常常见。",
+    "american": "常与选美比赛（pageant）联系在一起。"
+  }
+},
+{
+  "word": "bent over backwards",
+  "pronunciation": {
+    "british": "/bent ˈəʊvə ˈbækwədz/ 🇬🇧",
+    "american": "/bent ˈoʊvər ˈbækwərdz/ 🇺🇸"
+  },
+  "phrase_type": "idiom 习语",
+  "usage": "非常常用 👍：形容极力讨好某人，或费尽心思地提供帮助。",
+  "meanings": [
+    {
+      "type": "verb phrase",
+      "definition": {
+        "chinese": "竭尽全力（尤指为了取悦他人）",
+        "english": "To make a major effort to help or please someone."
+      },
+      "examples": [
+        {
+          "sentence": "I bent over backwards to finish the report for him, but he didn't even say thank you.",
+          "translation": "我费了九牛二虎之力帮他完成报告，他甚至连声谢谢都没说。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "go the extra mile",
+      "type": "idiom",
+      "definition": {
+        "chinese": "再多出一份力",
+        "english": "To do more than what is expected."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "情感色彩",
+      "explanation": "常带有“委屈自己”或“卑微”的意味，因为向后弯腰是一个很不自然的动作。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源于体操或杂技。想象一个人向后弯腰去够东西，这需要极大的努力和灵活度。比喻这种行为已经超出了“顺手帮忙”的范围。",
+    "explanation_english": "Originates from gymnastics or acrobatics. Visualizing someone literally bending backwards to reach something; it implies an extreme effort that goes beyond simple or easy help."
+  }
+},
+{
+  "word": "overdo",
+  "pronunciation": {
+    "british": "/ˌəʊvəˈduː/ 🇬🇧",
+    "american": "/ˌoʊvərˈduː/ 🇺🇸"
+  },
+  "phrase_type": "verb 动词",
+  "usage": "非常常用 👍：指做某事做得过分、过火，或者烹饪时间过长。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "把...做得过分；做得过火",
+        "english": "To do, use, or carry to excess; to exaggerate."
+      },
+      "examples": [
+        {
+          "sentence": "I think you overdid the exercise yesterday; your muscles look sore.",
+          "translation": "我觉得你昨天运动得过火了，你的肌肉看起来很酸痛。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "煮得过久",
+        "english": "To cook something for too long."
+      },
+      "examples": [
+        {
+          "sentence": "The steak was a bit overdone.",
+          "translation": "牛排煮得有点过头了。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "exaggerate",
+      "type": "verb",
+      "definition": {
+        "chinese": "夸大",
+        "english": "To represent something as being larger or better than it really is."
+      }
+    },
+    {
+      "word": "overkill",
+      "type": "noun",
+      "definition": {
+        "chinese": "过头，杀鸡用牛刀",
+        "english": "More than is necessary or appropriate for a particular purpose."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "常见用法",
+      "explanation": "‘Don't overdo it’ 是一个非常地道的口语，用来劝人不要太拼或不要做过头。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "由 ‘over’（超过）和 ‘do’（做）简单组合。它的演变逻辑非常直接：从行为上的“超过限度”延伸到烹饪上的“超过时间”。",
+    "explanation_english": "A straightforward compound of ‘over’ and ‘do.’ The logic evolved directly from performing an action beyond a reasonable limit to cooking food beyond the necessary time."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "insulting",
+  "pronunciation": {
+    "british": "/ɪnˈsʌltɪŋ/ 🇬🇧",
+    "american": "/ɪnˈsʌltɪŋ/ 🇺🇸"
+  },
+  "phrase_type": "adjective 描述词",
+  "usage": "非常常用 👍：形容某人的言行具有侮辱性、冒犯性。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "侮辱性的，无礼的",
+        "english": "Disrespectful or scornfully abusive."
+      },
+      "examples": [
+        {
+          "sentence": "His comments about her work were deeply insulting.",
+          "translation": "他对她工作的评价具有极强的侮辱性。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "offensive",
+      "type": "adjective",
+      "definition": {
+        "chinese": "冒犯的",
+        "english": "Causing someone to feel deeply hurt, upset, or angry."
+      }
+    },
+    {
+      "word": "rude",
+      "type": "adjective",
+      "definition": {
+        "chinese": "粗鲁的",
+        "english": "Lacking manners or refinement."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "主被动区别",
+      "explanation": "‘Insulting’ 形容事物（如评论、行为）；‘Insulted’ 形容人的感受（感到受侮辱）。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自动词 ‘insult’。其拉丁语词根 ‘insultare’ 原意是“跳到...上面”，引申为“轻蔑地对待”，最终演变为现代的“侮辱”。",
+    "explanation_english": "Derived from the verb ‘insult.’ Its Latin root ‘insultare’ originally meant ‘to leap upon,’ metaphorically evolving into treating someone with contempt, and finally into the modern sense of causing offense."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},{
+  "word": "confine",
+  "pronunciation": {
+    "british": "/kənˈfaɪn/ 🇬🇧",
+    "american": "/kənˈfaɪn/ 🇺🇸"
+  },
+  "phrase_type": "verb 动词",
+  "usage": "常用 👍：指限制在某个空间内，或者限制在某个范围内。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "限制，局限于",
+        "english": "To keep or restrict someone or something within certain limits."
+      },
+      "examples": [
+        {
+          "sentence": "Please confine your remarks to the topic under discussion.",
+          "translation": "请将你的发言局限在正在讨论的话题内。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "监禁，禁闭",
+        "english": "To keep someone in a closed place."
+      },
+      "examples": [
+        {
+          "sentence": "The prisoner was confined to a small cell.",
+          "translation": "囚犯被关押在一个狭小的牢房里。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "restrict",
+      "type": "verb",
+      "definition": {
+        "chinese": "限制",
+        "english": "Put a limit on; keep under control."
+      }
+    },
+    {
+      "word": "limit",
+      "type": "verb",
+      "definition": {
+        "chinese": "局限",
+        "english": "Set or serve as a limit to."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "常见短语",
+      "explanation": "‘Confined space’ 指狭小的密闭空间。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 ‘con-’（一起）+ ‘finis’（边界/尽头）。字面意思就是“放在边界内”。从物理上的“关起来”延伸到抽象意义上的“限制讨论范围”。",
+    "explanation_english": "From Latin ‘con-’ (together) + ‘finis’ (boundary/end). It literally means ‘to keep within boundaries.’ It evolved from the physical act of imprisonment to the abstract restriction of topics or scopes."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "devote",
+  "pronunciation": {
+    "british": "/dɪˈvəʊt/ 🇬🇧",
+    "american": "/dɪˈvoʊt/ 🇺🇸"
+  },
+  "phrase_type": "verb 动词",
+  "usage": "非常常用 👍：指奉献时间、精力或生命于某事。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "奉献，致力于",
+        "english": "To give all or a large part of one's time or resources to a person, activity, or cause."
+      },
+      "examples": [
+        {
+          "sentence": "She decided to devote her life to medical research.",
+          "translation": "她决定将毕生精力致力于医学研究。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "dedicate",
+      "type": "verb",
+      "definition": {
+        "chinese": "献给",
+        "english": "To set apart and consecrate to a deity or sacred purpose."
+      }
+    },
+    {
+      "word": "devotion",
+      "type": "noun",
+      "definition": {
+        "chinese": "热爱，奉献",
+        "english": "Love, loyalty, or enthusiasm for a person, activity, or cause."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "语法搭配",
+      "explanation": "必须搭配介词 ‘to’：devote something to something/someone。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 ‘devovere’（发愿/奉献）。原本指对神灵的许愿和献祭，后来世俗化，指代对任何事业或人的全心全意投入。",
+    "explanation_english": "From Latin ‘devovere’ (to vow). Originally referred to making religious vows or sacrifices to deities. It later secularized to mean committing one's time or effort to any cause or person."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "shovel",
+  "pronunciation": {
+    "british": "/ˈʃʌvl/ 🇬🇧",
+    "american": "/ˈʃʌvl/ 🇺🇸"
+  },
+  "phrase_type": "noun/verb 多义词",
+  "usage": "常用 👍：名词指铲子；动词指用铲子铲，或（比喻）大口地吃。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "铲子，铁锹",
+        "english": "A tool with a broad blade and a long handle, used for moving coal, earth, snow, etc."
+      },
+      "examples": [
+        {
+          "sentence": "We used a shovel to clear the snow from the driveway.",
+          "translation": "我们用铁锹清理车道上的积雪。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "铲（起）；胡乱地往嘴里塞（食物）",
+        "english": "To move something with a shovel; or (informal) to put food into your mouth in large amounts."
+      },
+      "examples": [
+        {
+          "sentence": "He was so hungry that he shoveled the food into his mouth.",
+          "translation": "他太饿了，大口大口地往嘴里塞食物。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "spade",
+      "type": "noun",
+      "definition": {
+        "chinese": "平头铲",
+        "english": "A tool for digging, with a flat blade."
+      }
+    },
+    {
+      "word": "scoop",
+      "type": "verb/noun",
+      "definition": {
+        "chinese": "勺，舀",
+        "english": "To pick up with a small ladle or similar tool."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "生活场景",
+      "explanation": "‘Shoveling snow’（铲雪）是欧美冬季非常典型的生活场景。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自古英语 ‘scofl’，最初就是指搬运散装物料的工具。由于其“大块搬运”的动作特征，被形象地引申为形容吃饭时大口吞咽的动作。",
+    "explanation_english": "From Old English ‘scofl,’ originally referring to the tool used for moving bulk material. Due to the action's characteristic of moving large amounts at once, it was metaphorically extended to describe eating quickly and in large quantities."
+  },
+  "variation_between_british_american": {
+    "british": "动词过去式习惯拼写为 ‘shovelled’。",
+    "american": "动词过去式习惯拼写为 ‘shoveled’。"
+  }
+},
+{
+  "word": "antique",
+  "pronunciation": {
+    "british": "/ænˈtiːk/ 🇬🇧",
+    "american": "/ænˈtiːk/ 🇺🇸"
+  },
+  "phrase_type": "noun/adjective 多义词",
+  "usage": "非常常用 👍：指古董，或形容风格古旧、过时的。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "古董，古玩",
+        "english": "A collectible object such as a piece of furniture or work of art that has high value because of its age."
+      },
+      "examples": [
+        {
+          "sentence": "This desk is a genuine antique from the 18th century.",
+          "translation": "这张书桌是18世纪真正的古董。"
+        }
+      ]
+    },
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "古老的，古董的；过时的",
+        "english": "Belonging to ancient times; or (sometimes negative) old-fashioned."
+      },
+      "examples": [
+        {
+          "sentence": "My grandmother has a collection of antique jewelry.",
+          "translation": "我祖母收藏了很多古董珠宝。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "vintage",
+      "type": "adjective",
+      "definition": {
+        "chinese": "复古的 (通常指20-100年前)",
+        "english": "Denoting something from the past of high quality."
+      }
+    },
+    {
+      "word": "ancient",
+      "type": "adjective",
+      "definition": {
+        "chinese": "古代的 (几千年前)",
+        "english": "Belonging to the very distant past."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "定义标准",
+      "explanation": "通常‘古董（antique）’指有100年以上历史的物品。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 ‘antiquus’（以前的/古代的）。最初是指古代的艺术品。现在除了指高价值的古玩外，有时也带调侃地形容某样东西“太老、太旧了”。",
+    "explanation_english": "From Latin ‘antiquus’ (former/ancient). Originally applied to works of art from ancient times. Today, besides high-value collectibles, it is sometimes used humorously to describe something as being very old-fashioned."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "implication",
+  "pronunciation": {
+    "british": "/ˌɪmplɪˈkeɪʃn/ 🇬🇧",
+    "american": "/ˌɪmplɪˈkeɪʃn/ 🇺🇸"
+  },
+  "phrase_type": "noun 多义词",
+  "usage": "非常常用 👍：学术、商业中指“可能的后果”或“含意”；法律中指“卷入/牵连”。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "可能的后果，影响",
+        "english": "A likely consequence of something."
+      },
+      "examples": [
+        {
+          "sentence": "The decision has serious implications for the future of the company.",
+          "translation": "这个决定对公司的未来有严重的后果。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "言外之意，暗示",
+        "english": "The conclusion that can be drawn from something although it is not explicitly stated."
+      },
+      "examples": [
+        {
+          "sentence": "The implication was that he wasn't telling the whole truth.",
+          "translation": "言外之意是他并没有说出全部真相。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "consequence",
+      "type": "noun",
+      "definition": {
+        "chinese": "后果",
+        "english": "A result or effect of an action or condition."
+      }
+    },
+    {
+      "word": "inference",
+      "type": "noun",
+      "definition": {
+        "chinese": "推断",
+        "english": "A conclusion reached on the basis of evidence and reasoning."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "常用搭配",
+      "explanation": "‘By implication’ 意为“含蓄地、暗示地”。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 ‘implicare’（折叠进去/缠绕）。“折叠在里面”的东西就是“含意”；而当一件事发生时，它“折叠”在未来的影子就是“后果”。",
+    "explanation_english": "From Latin ‘implicare’ (to infold/entwine). Things 'folded inside' are meanings (implications); the future shadows 'folded into' a present action are its consequences."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "anticipate",
+  "pronunciation": {
+    "british": "/ænˈtɪsɪpeɪt/ 🇬🇧",
+    "american": "/ænˈtɪsɪpeɪt/ 🇺🇸"
+  },
+  "phrase_type": "verb 动词",
+  "usage": "非常常用 👍：指预料到某事并提前做好准备，比 'expect' 更有主观能动性。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "预料，预期；期望",
+        "english": "To expect or predict; to look forward to."
+      },
+      "examples": [
+        {
+          "sentence": "We anticipate that the project will be finished by June.",
+          "translation": "我们预计项目将在六月前完成。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "先于...行动，提前做准备",
+        "english": "To act as a forerunner or precursor of; to forestall."
+      },
+      "examples": [
+        {
+          "sentence": "He anticipated the competitor's move and launched the product first.",
+          "translation": "他预判了竞争对手的动作，抢先发布了产品。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "expect",
+      "type": "verb",
+      "definition": {
+        "chinese": "期待 (较被动)",
+        "english": "Regard as likely to happen."
+      }
+    },
+    {
+      "word": "foresee",
+      "type": "verb",
+      "definition": {
+        "chinese": "预见",
+        "english": "Be aware of beforehand; predict."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "辨析",
+      "explanation": "‘Expect’ 只是觉得会发生；‘Anticipate’ 通常包含“为了应对而提前行动”的意思。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 ‘anti-’（提前）+ ‘capere’（抓取）。字面意思是“提前抓住”。预料到某事并“提前抓住”先机，这就是这个词的核心逻辑。",
+    "explanation_english": "From Latin ‘anti-’ (before) + ‘capere’ (to take). It literally means ‘to take beforehand.’ To foresee something and 'take' action early is the core logic of the word."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "在商务英语中极度常用。"
+  }
+},
+{
+  "word": "plow",
+  "pronunciation": {
+    "british": "/plaʊ/ 🇬🇧",
+    "american": "/plaʊ/ 🇺🇸"
+  },
+  "phrase_type": "noun/verb 多义词",
+  "usage": "常用 👍：物理上指耕地、除雪；比喻意义上指“费力地推进”。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "犁，耕犁",
+        "english": "A large farming implement with one or more blades fixed in a frame, drawn by a tractor or animal."
+      }
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "耕（地）；除（雪）",
+        "english": "To turn over soil with a plow; to clear snow from a road."
+      },
+      "examples": [
+        {
+          "sentence": "The trucks were out early to plow the roads after the blizzard.",
+          "translation": "暴风雪过后，卡车清晨就出来铲除道路积雪了。"
+        }
+      ]
+    },
+    {
+      "type": "verb (metaphorical)",
+      "definition": {
+        "chinese": "费力地通过；埋头苦干",
+        "english": "To move through something in a slow and laborious way."
+      },
+      "examples": [
+        {
+          "sentence": "I spent the whole weekend plowing through a pile of paperwork.",
+          "translation": "我整个周末都在埋头处理一堆文件。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "cultivate",
+      "type": "verb",
+      "definition": {
+        "chinese": "耕作",
+        "english": "Prepare and use (land) for crops or gardening."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "习语",
+      "explanation": "‘Plow money into’ 意为“将大量资金投入到...中”。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自古诺斯语 ‘plógr’。犁地是一项缓慢、沉重且不断向前的体力活，因此引申为形容费力地阅读长篇大论或处理繁琐任务。",
+    "explanation_english": "From Old Norse ‘plógr.’ Plowing is slow, heavy, forward-moving labor, which metaphorically extended to moving through dense books or tedious tasks."
+  },
+  "variation_between_british_american": {
+    "british": "习惯拼写为 **plough**。",
+    "american": "习惯拼写为 **plow**。"
+  }
+},
+{
+  "word": "field trip",
+  "pronunciation": {
+    "british": "/ˈfiːld trɪp/ 🇬🇧",
+    "american": "/ˈfiːld trɪp/ 🇺🇸"
+  },
+  "phrase_type": "noun 名词短语",
+  "usage": "非常常用 👍：特指学校组织的校外考察或研学旅行。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "校外考察，实地考察旅行",
+        "english": "A trip made by students or research workers to study something at first hand."
+      },
+      "examples": [
+        {
+          "sentence": "The science class went on a field trip to the local aquarium.",
+          "translation": "科学课的学生们去当地的水族馆进行了校外考察。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "excursion",
+      "type": "noun",
+      "definition": {
+        "chinese": "远足，短途旅行",
+        "english": "A short journey or trip, especially one engaged in as a leisure activity."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "生活化",
+      "explanation": "在职场中，有时也指去工厂或实地的“现场办公”或“考察”。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "字面意思：去“田野（field）”中旅行。由 ‘field’（领域/实地）和 ‘trip’（旅行）组合而成，强调离开课堂，进入真实环境。",
+    "explanation_english": "A literal compound of ‘field’ (referring to a practical area of study) and ‘trip.’ It emphasizes leaving the academic setting to learn from the real world."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "美国中小学文化中非常核心的一部分。"
+  }
+},
+{
+  "word": "ratio",
+  "pronunciation": {
+    "british": "/ˈreɪʃiəʊ/ 🇬🇧",
+    "american": "/ˈreɪʃioʊ/ 🇺🇸"
+  },
+  "phrase_type": "noun 数学/逻辑词汇",
+  "usage": "非常常用 👍：数学上的比率；社交媒体上的“评论数远超点赞数（被骂了）”。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "比，比率",
+        "english": "The quantitative relation between two amounts showing the number of times one value contains or is contained within the other."
+      },
+      "examples": [
+        {
+          "sentence": "The ratio of men to women in the office is $2:3$.",
+          "translation": "办公室里男女比例是 $2:3$。"
+        }
+      ]
+    },
+    {
+      "type": "verb (slang)",
+      "definition": {
+        "chinese": "（社交媒体）评论数压倒点赞数（通常表示观点被群体攻击）",
+        "english": "On social media, to have a response significantly outperform the original post in terms of engagement, usually indicating a disagreement."
+      },
+      "examples": [
+        {
+          "sentence": "He made a controversial tweet and got absolutely ratioed.",
+          "translation": "他发了一条有争议的推文，结果被骂惨了（评论数远超点赞）。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "proportion",
+      "type": "noun",
+      "definition": {
+        "chinese": "比例，部分",
+        "english": "A part, share, or number considered in comparative relation to a whole."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "网络俚语",
+      "explanation": "‘Getting ratioed’ 是 2020 年代非常流行的网络用语，特别是在 Twitter/X 上。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 ‘ratio’（计算/理由）。原本是严谨的数学术语。进入互联网时代后，网友发现当一个帖子“评论数比点赞数多”时通常意味着它被大众反驳，于是创造了 ‘ratioed’ 这个新含义。",
+    "explanation_english": "From Latin ‘ratio’ (reckoning/reason). Originally a strict mathematical term. In the social media age, users noticed that a 'bad' post often has a higher ratio of replies to likes, leading to the new slang usage."
+  },
+  "variation_between_british_american": {
+    "british": "用法一致。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "pier",
+  "pronunciation": {
+    "british": "/pɪə(r)/ 🇬🇧",
+    "american": "/pɪr/ 🇺🇸"
+  },
+  "phrase_type": "noun 建筑词汇",
+  "usage": "常用 👍：特指从陆地伸向水中的长型码头或桥墩。",
+  "meanings": [
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "码头，（伸向海中的）突堤；桥墩",
+        "english": "A structure leading out from the shore into a body of water; a support for a bridge."
+      },
+      "examples": [
+        {
+          "sentence": "We walked to the end of the pier to see the sunset.",
+          "translation": "我们走到码头尽头去看日落。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "dock",
+      "type": "noun",
+      "definition": {
+        "chinese": "码头（更侧重船只停靠处）",
+        "english": "A structure extending of a harbor for loading and unloading ships."
+      }
+    },
+    {
+      "word": "wharf",
+      "type": "noun",
+      "definition": {
+        "chinese": "货运码头",
+        "english": "A level quayside area to which a ship may be moored to load and unload."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "生活场景",
+      "explanation": "在美国和英国的沿海城市，‘pier’ 往往是游乐场、餐厅和钓鱼者的聚集地（如圣莫尼卡码头）。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自中世纪拉丁语 ‘pira’。最初指桥梁的支撑柱（桥墩），后来演变为描述这种从岸边伸出去的长条状步行或停放结构。",
+    "explanation_english": "From Medieval Latin ‘pira.’ Originally referred to the support pillars of a bridge. It evolved to describe the long structures extending from the shore for walking or mooring."
+  },
+  "variation_between_british_american": {
+    "british": "英国沿海有著名的“海滨码头文化”（seaside piers）。",
+    "american": "用法一致。"
+  }
+},
+{
+  "word": "twist",
+  "pronunciation": {
+    "british": "/twɪst/ 🇬🇧",
+    "american": "/twɪst/ 🇺🇸"
+  },
+  "phrase_type": "verb/noun 多义词",
+  "usage": "非常常用 👍：物理上的扭转；故事情节的“反转”；或者是饮料里的柠檬皮装饰。",
+  "meanings": [
+    {
+      "type": "verb/noun",
+      "definition": {
+        "chinese": "扭转，缠绕；扭伤",
+        "english": "To turn or bend out of shape; to sprain a joint."
+      },
+      "examples": [
+        {
+          "sentence": "I fell and twisted my ankle.",
+          "translation": "我摔倒并扭伤了脚踝。"
+        }
+      ]
+    },
+    {
+      "type": "noun",
+      "definition": {
+        "chinese": "（故事情节的）转折，意外发展",
+        "english": "An unexpected development in a book, film, or television program."
+      },
+      "examples": [
+        {
+          "sentence": "The movie has a surprising twist at the end.",
+          "translation": "这部电影在结尾有一个令人吃惊的反转。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "spin",
+      "type": "verb",
+      "definition": {
+        "chinese": "旋转",
+        "english": "Turn or cause to turn or whirl around quickly."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "生活场景",
+      "explanation": "在酒吧点餐时，'with a twist' 通常指在饮料里加入一小片扭过的柠檬皮或橙皮。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自古英语 ‘twistan’（扭转/编织）。核心逻辑是“偏离直线”。物理上的偏离是扭曲，逻辑上的偏离就是“反转”。",
+    "explanation_english": "From Old English ‘twistan’ (to twist/weave). The core logic is 'deviating from a straight line.' Physical deviation is twisting; logical deviation is a plot 'twist'."
+  }
+},
+{
+  "word": "tweak",
+  "pronunciation": {
+    "british": "/twiːk/ 🇬🇧",
+    "american": "/twiːk/ 🇺🇸"
+  },
+  "phrase_type": "verb/noun 动词",
+  "usage": "非常常用 👍：特指微调、稍微修改以使某物更趋完善。在技术和设计中极高频。",
+  "meanings": [
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "微调，稍作修改",
+        "english": "To make small changes to something in order to improve it."
+      },
+      "examples": [
+        {
+          "sentence": "We just need to tweak the design a little bit.",
+          "translation": "我们只需要对设计稍作修改即可。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "adjust",
+      "type": "verb",
+      "definition": {
+        "chinese": "调整",
+        "english": "Alter or move something slightly in order to achieve the desired fit or appearance."
+      }
+    },
+    {
+      "word": "fine-tune",
+      "type": "verb",
+      "definition": {
+        "chinese": "精调",
+        "english": "Make small adjustments to an instrument or a process to achieve the best performance."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "语感",
+      "explanation": "‘Tweak’ 强调的是在已有成果基础上的“润色”，而不是推倒重来。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "最初是指“拧、捏（如捏鼻子）”。想象一下你在调整老式收音机的旋钮时那种细微、精确的动作，这就是为什么它被引申为微调参数或方案。",
+    "explanation_english": "Originally meant 'to pinch or pull sharply.' Think of the precise, small motion of twisting a knob on an old radio; this led to its current meaning of making small, precise adjustments."
+  }
+},
+{
+  "word": "cheesy",
+  "pronunciation": {
+    "british": "/ˈtʃiːzi/ 🇬🇧",
+    "american": "/ˈtʃiːzi/ 🇺🇸"
+  },
+  "phrase_type": "adjective 描述词",
+  "usage": "非常常用 👍：形容某事物俗气的、廉价的、土味的，或者（感情）过于煽情的。",
+  "meanings": [
+    {
+      "type": "adjective (informal)",
+      "definition": {
+        "chinese": "俗气的，陈腐的，土味的",
+        "english": "Cheap, unpleasant, or insincere; lacking in style."
+      },
+      "examples": [
+        {
+          "sentence": "That romantic movie was so cheesy.",
+          "translation": "那部浪漫电影太土/太煽情了。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "corny",
+      "type": "adjective",
+      "definition": {
+        "chinese": "陈腐的，过时的",
+        "english": "Trite, banal, or mawkishly sentimental."
+      }
+    },
+    {
+      "word": "tacky",
+      "type": "adjective",
+      "definition": {
+        "chinese": "俗气的（通常指审美或质量）",
+        "english": "Showing poor taste and quality."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "辨析",
+      "explanation": "‘Cheesy’ 常用于形容台词、笑容或廉价的礼物。比如 'a cheesy grin' 指一种尴尬而僵硬的笑容。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源于印地语 ‘chiz’（东西）。19世纪在英国军队中流传，最初指“好东西”。后来由于讽刺语气的使用，意思发生了反转，变成了形容那种“试图装好东西但由于质量差而显得俗气”的东西。",
+    "explanation_english": "Derived from the Hindi word 'chiz' (thing). It spread through the British army in the 19th century, originally meaning 'the real thing' (good). Over time, via sarcastic usage, it flipped to mean something trying to be good but failing due to poor quality or cliché."
+  }
+},
+{
+  "word": "fume",
+  "pronunciation": {
+    "british": "/fjuːm/ 🇬🇧",
+    "american": "/fjuːm/ 🇺🇸"
+  },
+  "phrase_type": "noun/verb 多义词",
+  "usage": "常用 👍：名词指有害烟气；动词指（因愤怒而）冒火。",
+  "meanings": [
+    {
+      "type": "noun (usually plural)",
+      "definition": {
+        "chinese": "（有害的）烟，气",
+        "english": "Gas, smoke, or vapor that smells strongly or is dangerous to inhale."
+      },
+      "examples": [
+        {
+          "sentence": "I was overwhelmed by the exhaust fumes.",
+          "translation": "我被汽车尾气熏得受不了。"
+        }
+      ]
+    },
+    {
+      "type": "verb",
+      "definition": {
+        "chinese": "愤怒，怒气冲冲",
+        "english": "To feel or show great anger."
+      },
+      "examples": [
+        {
+          "sentence": "She was still fuming about the comment he made.",
+          "translation": "她还在为他说的那些话感到愤愤不平。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "seethe",
+      "type": "verb",
+      "definition": {
+        "chinese": "强压怒火",
+        "english": "Be filled with intense but unexpressed anger."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "语感对比",
+      "explanation": "‘Fuming’ 描述的是那种虽然没大喊大叫，但整个人像要喷火一样的愤怒状态。"
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "源自拉丁语 ‘fumus’（烟）。古代人们认为愤怒像身体内部冒出的烟。这是一种非常形象的比喻，至今依然生动。",
+    "explanation_english": "From Latin ‘fumus’ (smoke). Ancient people conceptualized anger as smoke rising within the body. This vivid metaphor has persisted for centuries to describe internal rage."
+  }
+},
+{
+  "word": "preoccupied",
+  "pronunciation": {
+    "british": "/priˈɒkjupaɪd/ 🇬🇧",
+    "american": "/priˈɑːkjupaɪd/ 🇺🇸"
+  },
+  "phrase_type": "adjective 描述词",
+  "usage": "非常常用 👍：形容某人因为在想别的事情而心不在焉。",
+  "meanings": [
+    {
+      "type": "adjective",
+      "definition": {
+        "chinese": "心事重重的，心不在焉的",
+        "english": "Engrossed in thought; distracted."
+      },
+      "examples": [
+        {
+          "sentence": "He seemed preoccupied and didn't notice me come in.",
+          "translation": "他看起来心事重重，没注意到我进来。"
+        }
+      ]
+    }
+  ],
+  "related_words": [
+    {
+      "word": "distracted",
+      "type": "adjective",
+      "definition": {
+        "chinese": "分心的",
+        "english": "Unable to concentrate because one's mind is on something else."
+      }
+    },
+    {
+      "word": "absent-minded",
+      "type": "adjective",
+      "definition": {
+        "chinese": "健忘的，心不在焉的",
+        "english": "Having or showing a habitually forgetful or inattentive disposition."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "point": "辨析",
+      "explanation": "‘Distracted’ 通常是被外部干扰；‘Preoccupied’ 通常是由于内心的忧虑或思考导致的。 "
+    }
+  ],
+  "origin_of_multiple_meanings": {
+    "explanation_chinese": "由 ‘pre-’（提前）+ ‘occupied’（占据）组成。意思就是你的大脑空间被某件事“提前占据”了，所以没法处理当前的事。",
+    "explanation_english": "Formed from ‘pre-’ (before) + ‘occupied.’ It literally means your mind is 'already taken' by another thought, leaving no room for current activities."
+  }
+}
 ];
