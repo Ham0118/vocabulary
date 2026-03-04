@@ -141,6 +141,116 @@
         padding: 8px 12px;
       }
     }
+    .g-section{
+      color: #222222;
+    }
+    .g-subject {
+      background: #A3D5FF;
+      border-radius: 4px;
+      padding: 0 5px;
+      position: relative;
+    }
+
+    .g-subject::after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      left: 0;
+      width: 11px;
+      height: 11px;
+      background: url('./letter-s.svg') no-repeat center / contain;
+    }
+
+    .g-verb {
+      background: #FFD9A3;
+      border-radius: 4px;
+      padding: 0 5px;
+      position: relative;
+    }
+    .g-verb::after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      left: 0;
+      width: 11px;
+      height: 11px;
+      background: url('./letter-v.svg') no-repeat center / contain;
+    }
+    .g-object {
+      background: #B6E7A9;
+      border-radius: 4px;
+      padding: 0 5px;
+      position: relative;
+    }
+    .g-object::after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      left: 0;
+      width: 11px;
+      height: 11px;
+      background: url('./letter-o.svg') no-repeat center / contain;
+    }
+    .g-complement{
+      background: #FFF39C;
+      border-radius: 4px;
+      padding: 0 5px;
+      position: relative;
+    }
+    .g-complement::after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      left: 0;
+      width: 11px;
+      height: 11px;
+      background: url('./letter-c.svg') no-repeat center / contain;
+    }
+    .g-noun-clause {
+      background: #D6C1FF;
+      border-radius: 4px;
+      padding: 0 5px;
+      position: relative;
+    }
+    .g-noun-clause::after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      right: 0;
+      width: 13px;
+      height: 13px;
+      background: url('./nc.svg') no-repeat center / contain;
+    }
+    .g-adverbial-clause{
+      background: #F0D3B2;
+      border-radius: 4px;
+      padding: 0 5px;
+      position: relative;
+    }
+    .g-adverbial-clause::after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      right: 0;
+      width: 13px;
+      height: 13px;
+      background: url('./ac.svg') no-repeat center / contain;
+    }
+    .g-relative-clause{
+      background: #D6C1FF;
+      border-radius: 4px;
+      padding: 0 5px;
+      position: relative;
+    }
+    .g-relative-clause::after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      right: 0;
+      width: 13px;
+      height: 13px;
+      background: url('./rc.svg') no-repeat center / contain;
+    }
   </style>
 
 </head>
@@ -152,6 +262,23 @@
     <input type="text" id="seach">
     <button id="seach_btn">搜索</button>
   </div>
+  <div >
+    <span>Edit: <span class='g-subject'>I</span> <span class='g-verb'>'m not giving</span> <span
+        class='g-object'>everything</span> <span class='g-adverbial-clause'>because it's still stuff I worked hard
+        on</span> 😭😭 <span class='g-subject'>I</span> <span class='g-verb'>just don't wanna mention</span> <span
+        class='g-object'>pricing</span> <span class='g-adverbial-clause'>because of post rules</span>.</span>
+  </div>
+  <div>
+    <span><span class="g-subject">I</span> <span class="g-verb">'m giving</span> <span class="g-object">everything</span> for free <span class="g-adverbial-clause">because it's still stuff I worked hard on</span>.</span> <span><span class="g-subject">I</span> just <span class="g-verb">do</span>n't wanna mention <span class="g-object">pricing</span> <span class="g-adverbial-clause">because of post rules</span>.</span>
+  </div>
+  <div>
+    Edit: <span><span class="g-subject">I</span> <span class="g-verb">am not giving</span> <span class="g-object">everything</span> for free <span class="g-adverbial-clause">because it is still stuff I worked hard on</span></span> 😭😭 <span><span class="g-subject">I</span> just <span class="g-verb">do not want to mention</span> <span class="g-object">pricing</span> because of post rules</span>
+  </div>
+
+  <div>
+    <span>Edit: <span class='g-subject'>I</span> <span class='g-verb'>am not giving</span> <span class='g-object'>everything</span> <span class='g-adverbial-clause'>for free because it is still stuff I worked hard on</span> 😭😭 <span class='g-subject'>I</span> <span class='g-verb'>just do not wanna mention</span> <span class='g-object'>pricing</span> <span class='g-adverbial-clause'>because of post rules</span>.</span>
+  </div>
+<span><span class='g-subject'>I</span> always <span class='g-verb'>know</span> <span class='g-object g-noun-clause'>that I am right</span>.</span>
   <div id="word_literal"></div>
   <div id="app"></div>
   <script src="./wordData.js"></script>
@@ -162,7 +289,7 @@
     // 渲染单词卡片的通用函数
     function renderWordCard(word) {
       const card = document.createElement("div");
-      card.className = "word-card";
+      card.class = "word-card";
       card.innerHTML = `
         <h2>${word.word}</h2>
         <div class="pronunciation">
@@ -237,7 +364,7 @@
     }
 
     // 搜索按钮点击事件
-    document.getElementById('seach_btn').addEventListener('click', function() {
+    document.getElementById('seach_btn').addEventListener('click', function () {
       const keyword = document.getElementById('seach').value.trim().toLowerCase();
 
       if (!keyword) {
