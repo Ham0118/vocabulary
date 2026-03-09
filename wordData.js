@@ -80342,5 +80342,87 @@ const wordData = [
       "explanation_chinese": "这个词来自法语 sabotage，与 'sabot'（木鞋）有关。一个流行的说法是早期工人把木鞋扔进机器里破坏机器以抗议工作条件，因此形成“破坏”的含义。后来这个词扩展为任何故意破坏行为。",
       "explanation_english": "The word comes from French 'sabot' meaning wooden shoe. A popular story says workers threw their wooden shoes into machinery to stop production during protests. The meaning later expanded to any deliberate act of destruction or interference."
     }
+  },
+  {
+    "word": "disguise",
+    "pronunciation": {
+      "british": "/dɪsˈɡaɪz/ 🇬🇧",
+      "american": "/dɪsˈɡaɪz/ 🇺🇸"
+    },
+    "phrase_type": "verb / noun",
+    "usage": "常用 👍：既可以指真实的伪装（衣服、外表），也常用于比喻隐藏真实情感或意图。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "伪装；乔装",
+          "english": "To change someone's appearance so that people cannot recognize them."
+        },
+        "examples": [
+          {
+            "sentence": "He disguised himself as a waiter.",
+            "translation": "他乔装成一个服务员。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "掩饰；隐藏",
+          "english": "To hide or conceal something such as feelings or intentions."
+        },
+        "examples": [
+          {
+            "sentence": "She couldn't disguise her disappointment.",
+            "translation": "她无法掩饰自己的失望。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "伪装；化装",
+          "english": "A set of clothes, makeup, or other items used to change someone's appearance."
+        },
+        "examples": [
+          {
+            "sentence": "The spy wore a clever disguise.",
+            "translation": "这个间谍使用了巧妙的伪装。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "conceal",
+        "type": "verb",
+        "definition": {
+          "chinese": "隐藏",
+          "english": "To hide something carefully."
+        }
+      },
+      {
+        "word": "camouflage",
+        "type": "verb",
+        "definition": {
+          "chinese": "伪装（通常用于军事或自然环境）",
+          "english": "To hide something by making it blend into the surroundings."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见表达",
+        "explanation": "in disguise 是非常常见的表达，例如 blessing in disguise（因祸得福）。"
+      },
+      {
+        "point": "使用场景",
+        "explanation": "既可以用于真实伪装（电影、间谍、万圣节），也常用于情绪或事实被隐藏的情况。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古法语 desguiser，意思是“改变外表”。最初指改变外貌让人认不出来，后来引申为隐藏情绪或真实意图。",
+      "explanation_english": "From Old French 'desguiser,' meaning 'to change appearance.' It first referred to altering one's look, and later extended to hiding emotions or intentions."
+    }
   }
 ];
