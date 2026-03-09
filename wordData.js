@@ -79593,5 +79593,754 @@ const wordData = [
       "explanation_chinese": "来自法语 détour（转弯、偏离）。原本就是‘改变路线’，后来也可用于比喻‘人生或计划的偏离’。",
       "explanation_english": "From French 'détour' meaning a turn or deviation. Originally literal in road context, later extended metaphorically to plans or life paths."
     }
+  },
+  {
+    "word": "wind down",
+    "pronunciation": {
+      "british": "/waɪnd daʊn/ 🇬🇧",
+      "american": "/waɪnd daʊn/ 🇺🇸"
+    },
+    "phrase_type": "phrasal verb 短语动词",
+    "usage": "非常常用 👍：日常口语和职场都常见，用于表示逐渐放松或逐渐结束某件事。",
+    "meanings": [
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "放松下来，逐渐平静",
+          "english": "To relax gradually after stress or activity."
+        },
+        "examples": [
+          {
+            "sentence": "I like to watch TV to wind down after work.",
+            "translation": "我喜欢下班后看电视放松一下。"
+          }
+        ]
+      },
+      {
+        "type": "phrasal verb",
+        "definition": {
+          "chinese": "逐渐结束（活动、业务等）",
+          "english": "To gradually bring something to an end."
+        },
+        "examples": [
+          {
+            "sentence": "The company is winding down its operations.",
+            "translation": "这家公司正在逐渐结束业务。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "relax",
+        "type": "verb",
+        "definition": {
+          "chinese": "放松",
+          "english": "To become less tense or anxious."
+        }
+      },
+      {
+        "word": "unwind",
+        "type": "verb",
+        "definition": {
+          "chinese": "放松身心",
+          "english": "To relax after stress."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "在日常英语中非常常见，比如下班后放松 (wind down after work)。商业环境中也用来表示公司逐渐停止业务。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自机械装置的比喻，例如上发条的装置停止运转时需要慢慢“放松发条”。因此引申为逐渐放松或逐渐结束。",
+      "explanation_english": "Originally from mechanical devices that unwind or release tension slowly. The metaphor extended to people relaxing or activities gradually ending."
+    }
+  },
+  {
+    "word": "lousy",
+    "pronunciation": {
+      "british": "/ˈlaʊzi/ 🇬🇧",
+      "american": "/ˈlaʊzi/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "非常常用 👍：口语中常见，表达质量很差或感觉不好。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "很差的，糟糕的",
+          "english": "Very bad or of poor quality."
+        },
+        "examples": [
+          {
+            "sentence": "The weather today is lousy.",
+            "translation": "今天的天气很糟糕。"
+          }
+        ]
+      },
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "感觉很差的，不舒服的",
+          "english": "Feeling ill or unwell."
+        },
+        "examples": [
+          {
+            "sentence": "I feel lousy today.",
+            "translation": "我今天感觉很不舒服。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "terrible",
+        "type": "adjective",
+        "definition": {
+          "chinese": "糟糕的",
+          "english": "Extremely bad."
+        }
+      },
+      {
+        "word": "awful",
+        "type": "adjective",
+        "definition": {
+          "chinese": "很差的",
+          "english": "Very bad or unpleasant."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "非常口语化，在日常对话中常用，但在正式写作中较少使用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初来自“louse（虱子）”，表示“充满虱子的”，后来引申为肮脏、糟糕，因此演变为表示“很差”。",
+      "explanation_english": "Originally meant 'infested with lice.' Because lice were associated with dirtiness and poor conditions, the meaning expanded to describe anything unpleasant or bad."
+    }
+  },
+  {
+    "word": "hatch",
+    "pronunciation": {
+      "british": "/hætʃ/ 🇬🇧",
+      "american": "/hætʃ/ 🇺🇸"
+    },
+    "phrase_type": "verb / noun",
+    "usage": "常用 👍：常见于动物、计划、建筑结构等语境。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "孵化（蛋）",
+          "english": "To emerge from an egg."
+        },
+        "examples": [
+          {
+            "sentence": "The chicks hatched this morning.",
+            "translation": "小鸡今天早上孵出来了。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "策划（通常指秘密计划）",
+          "english": "To plan something secretly."
+        },
+        "examples": [
+          {
+            "sentence": "They hatched a plan to surprise him.",
+            "translation": "他们策划了一个惊喜计划。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "舱口，门盖",
+          "english": "An opening or door in a ship, aircraft, or roof."
+        },
+        "examples": [
+          {
+            "sentence": "He climbed down through the hatch.",
+            "translation": "他从舱口爬了下去。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "incubate",
+        "type": "verb",
+        "definition": {
+          "chinese": "孵化",
+          "english": "To keep eggs warm until they hatch."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "表达",
+        "explanation": "短语 'hatch a plan' 在英语中很常见，表示秘密策划。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初指蛋孵化。后来因为“新生命从蛋中产生”的概念，人们用它来比喻“计划被构思出来”。",
+      "explanation_english": "Originally referred to eggs producing new life. The idea of something emerging led to the figurative use meaning to create or plan something."
+    }
+  },
+  {
+    "word": "slumber",
+    "pronunciation": {
+      "british": "/ˈslʌmbə/ 🇬🇧",
+      "american": "/ˈslʌmbər/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb",
+    "usage": "较少用于日常口语 📘：偏文学或正式表达，常见于书面或文学。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "睡眠",
+          "english": "Sleep, especially deep or peaceful sleep."
+        },
+        "examples": [
+          {
+            "sentence": "The baby fell into a deep slumber.",
+            "translation": "婴儿进入了沉睡。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "沉睡",
+          "english": "To sleep deeply."
+        },
+        "examples": [
+          {
+            "sentence": "He slumbered through the storm.",
+            "translation": "他在暴风雨中仍然沉睡。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "sleep",
+        "type": "verb",
+        "definition": {
+          "chinese": "睡觉",
+          "english": "To rest with eyes closed."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用频率",
+        "explanation": "现代英语中更常说 sleep，slumber 更偏文学风格。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古英语 slumerian，意思是睡觉。名词和动词意义一直存在，没有太多语义变化。",
+      "explanation_english": "From Old English 'slumerian.' The noun and verb meanings have remained stable over time."
+    }
+  },
+  {
+    "word": "identical",
+    "pronunciation": {
+      "british": "/aɪˈdentɪkəl/ 🇬🇧",
+      "american": "/aɪˈdentɪkəl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "非常常用 👍：用于比较两个或多个事物完全一样。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "完全相同的",
+          "english": "Exactly the same in every detail."
+        },
+        "examples": [
+          {
+            "sentence": "The two houses are identical.",
+            "translation": "这两栋房子完全一样。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "same",
+        "type": "adjective",
+        "definition": {
+          "chinese": "相同的",
+          "english": "Not different."
+        }
+      },
+      {
+        "word": "alike",
+        "type": "adjective",
+        "definition": {
+          "chinese": "相像的",
+          "english": "Similar in appearance."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "区别",
+        "explanation": "identical 表示完全一样；similar 或 alike 只是相似。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 identity（身份、同一性），表示两个事物拥有相同的“身份”。",
+      "explanation_english": "Derived from 'identity,' meaning something sharing the same identity or characteristics."
+    }
+  },
+  {
+    "word": "blemish",
+    "pronunciation": {
+      "british": "/ˈblemɪʃ/ 🇬🇧",
+      "american": "/ˈblemɪʃ/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb",
+    "usage": "常用 👍：常见于描述皮肤问题、物品表面瑕疵，也常用于比喻名誉上的污点。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "瑕疵；斑点；缺陷",
+          "english": "A small mark or flaw that spoils the appearance of something."
+        },
+        "examples": [
+          {
+            "sentence": "The apple had a small blemish on its skin.",
+            "translation": "这个苹果表皮有一个小瑕疵。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "污点（名誉上的）",
+          "english": "A moral flaw or stain on someone's reputation."
+        },
+        "examples": [
+          {
+            "sentence": "The scandal was a blemish on his career.",
+            "translation": "这次丑闻成了他职业生涯的污点。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "损害；玷污",
+          "english": "To spoil or damage something's appearance or reputation."
+        },
+        "examples": [
+          {
+            "sentence": "The mistake blemished the company's reputation.",
+            "translation": "这个错误损害了公司的声誉。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "flaw",
+        "type": "noun",
+        "definition": {
+          "chinese": "缺陷",
+          "english": "A mark or fault that makes something imperfect."
+        }
+      },
+      {
+        "word": "stain",
+        "type": "noun",
+        "definition": {
+          "chinese": "污点",
+          "english": "A mark that is difficult to remove."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "常见于美容、皮肤护理、商品描述，也经常用于比喻人的名誉受到损害。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初表示物理上的“污点或瑕疵”，后来人们把这种“破坏外观”的概念延伸到“破坏名誉”。",
+      "explanation_english": "Originally meant a physical mark or flaw. The idea extended metaphorically to damage to reputation."
+    }
+  },
+  {
+    "word": "freshen",
+    "pronunciation": {
+      "british": "/ˈfreʃən/ 🇬🇧",
+      "american": "/ˈfreʃən/ 🇺🇸"
+    },
+    "phrase_type": "verb",
+    "usage": "常用 👍：常见于日常生活，如 freshen up（整理一下自己）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "使清新；使恢复精神",
+          "english": "To make something fresh or cleaner."
+        },
+        "examples": [
+          {
+            "sentence": "She went to the bathroom to freshen up.",
+            "translation": "她去洗手间整理了一下自己。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "变得更清新（风、空气）",
+          "english": "To become fresher or stronger."
+        },
+        "examples": [
+          {
+            "sentence": "The breeze began to freshen in the evening.",
+            "translation": "傍晚时风变得更凉爽了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "refresh",
+        "type": "verb",
+        "definition": {
+          "chinese": "使恢复精神",
+          "english": "To make someone feel less tired."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见表达",
+        "explanation": "短语 freshen up 非常常见，表示洗脸、整理衣服、恢复精神。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 fresh（新鲜的）。最初表示使东西变得更新鲜，后来扩展到让人恢复精神。",
+      "explanation_english": "Derived from 'fresh.' The meaning expanded from making something fresh to making a person feel refreshed."
+    }
+  },
+  {
+    "word": "hamster",
+    "pronunciation": {
+      "british": "/ˈhæmstə/ 🇬🇧",
+      "american": "/ˈhæmstər/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "常用 👍：常见于宠物语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "仓鼠",
+          "english": "A small furry rodent often kept as a pet."
+        },
+        "examples": [
+          {
+            "sentence": "My sister keeps a hamster as a pet.",
+            "translation": "我妹妹养了一只仓鼠当宠物。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "rodent",
+        "type": "noun",
+        "definition": {
+          "chinese": "啮齿类动物",
+          "english": "A gnawing mammal such as a mouse or rat."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "主要用于描述宠物。英语里也有 'hamster wheel' 比喻不停重复的工作。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自德语 Hamster，指这种小型啮齿动物，本身没有明显的语义扩展。",
+      "explanation_english": "Borrowed from German 'Hamster.' The meaning has remained stable."
+    }
+  },
+  {
+    "word": "infection",
+    "pronunciation": {
+      "british": "/ɪnˈfekʃən/ 🇬🇧",
+      "american": "/ɪnˈfekʃən/ 🇺🇸"
+    },
+    "phrase_type": "noun",
+    "usage": "非常常用 👍：医学和日常健康话题中常见。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "感染",
+          "english": "A condition caused by bacteria, viruses, or other microorganisms entering the body."
+        },
+        "examples": [
+          {
+            "sentence": "He developed an infection after the surgery.",
+            "translation": "他在手术后出现了感染。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "virus",
+        "type": "noun",
+        "definition": {
+          "chinese": "病毒",
+          "english": "A microscopic organism that causes disease."
+        }
+      },
+      {
+        "word": "bacteria",
+        "type": "noun",
+        "definition": {
+          "chinese": "细菌",
+          "english": "Single-celled microorganisms."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "常见于医疗、健康和日常对话，如 skin infection、ear infection。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自拉丁语 infectio，意思是“污染、染上”。后来专门用于医学中的疾病传播。",
+      "explanation_english": "From Latin 'infectio' meaning 'to contaminate or taint.' It later became a medical term."
+    }
+  },
+  {
+    "word": "shrink",
+    "pronunciation": {
+      "british": "/ʃrɪŋk/ 🇬🇧",
+      "american": "/ʃrɪŋk/ 🇺🇸"
+    },
+    "phrase_type": "verb / noun",
+    "usage": "非常常用 👍：既用于物理缩小，也用于俚语。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "缩小；收缩",
+          "english": "To become smaller in size."
+        },
+        "examples": [
+          {
+            "sentence": "My sweater shrank after washing.",
+            "translation": "我的毛衣洗完后缩水了。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "退缩；畏缩",
+          "english": "To move back or avoid something due to fear."
+        },
+        "examples": [
+          {
+            "sentence": "He shrank from the challenge.",
+            "translation": "他对这个挑战退缩了。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "心理医生（俚语）",
+          "english": "A slang term for a psychiatrist or therapist."
+        },
+        "examples": [
+          {
+            "sentence": "He decided to see a shrink.",
+            "translation": "他决定去看心理医生。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "contract",
+        "type": "verb",
+        "definition": {
+          "chinese": "收缩",
+          "english": "To become smaller."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "俚语",
+        "explanation": "'shrink' 表示心理医生是口语俚语，来自 'headshrinker' 的缩写。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初表示物理缩小。俚语 'shrink' 来源于 'headshrinker'，比喻心理医生能“缩小你的头里的问题”。",
+      "explanation_english": "The slang meaning came from 'headshrinker,' a humorous reference to psychiatrists reducing mental problems."
+    }
+  },
+  {
+    "word": "dented",
+    "pronunciation": {
+      "british": "/ˈdentɪd/ 🇬🇧",
+      "american": "/ˈdentɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective / past participle",
+    "usage": "常用 👍：常用于描述物体被撞凹。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "凹陷的；被撞出坑的",
+          "english": "Having a hollow or indentation caused by impact."
+        },
+        "examples": [
+          {
+            "sentence": "The car door was badly dented.",
+            "translation": "车门被撞凹了。"
+          }
+        ]
+      },
+      {
+        "type": "verb (past participle)",
+        "definition": {
+          "chinese": "使凹陷",
+          "english": "To make a hollow or indentation."
+        },
+        "examples": [
+          {
+            "sentence": "He dented the metal with a hammer.",
+            "translation": "他用锤子把金属敲出了一个凹痕。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "scratch",
+        "type": "noun",
+        "definition": {
+          "chinese": "划痕",
+          "english": "A mark made by scraping."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见表达",
+        "explanation": "dent 也常用作动词，例如 dent someone's confidence（打击某人的信心）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "最初表示物体被压出凹痕。后来人们把这种“留下痕迹”的概念比喻到心理或影响上。",
+      "explanation_english": "Originally referred to physical indentations. It later expanded metaphorically to describe damaging confidence or reputation."
+    }
+  },
+  {
+    "word": "sabotage",
+    "pronunciation": {
+      "british": "/ˈsæbətɑːʒ/ 🇬🇧",
+      "american": "/ˈsæbətɑːʒ/ 🇺🇸"
+    },
+    "phrase_type": "verb / noun",
+    "usage": "常用 👍：既用于政治、战争、商业，也常用于日常口语中的比喻表达（例如 self-sabotage）。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "蓄意破坏；暗中破坏",
+          "english": "To deliberately damage or destroy something, especially for political or military advantage."
+        },
+        "examples": [
+          {
+            "sentence": "The rebels sabotaged the railway line.",
+            "translation": "叛军破坏了铁路。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "暗中破坏（计划、成功等）",
+          "english": "To intentionally interfere with something so that it fails."
+        },
+        "examples": [
+          {
+            "sentence": "His negative attitude sabotaged the whole project.",
+            "translation": "他的消极态度毁掉了整个项目。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "破坏行为；蓄意破坏",
+          "english": "The act of deliberately destroying or obstructing something."
+        },
+        "examples": [
+          {
+            "sentence": "The factory suspected sabotage after the machines stopped working.",
+            "translation": "机器停止运作后，工厂怀疑是人为破坏。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "undermine",
+        "type": "verb",
+        "definition": {
+          "chinese": "暗中削弱",
+          "english": "To weaken something gradually or secretly."
+        }
+      },
+      {
+        "word": "vandalize",
+        "type": "verb",
+        "definition": {
+          "chinese": "故意破坏（公共财物）",
+          "english": "To deliberately damage property."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "常见表达",
+        "explanation": "self-sabotage 是一个非常常见的表达，指一个人因为自己的行为或心理问题而破坏自己的成功机会。"
+      },
+      {
+        "point": "使用场景",
+        "explanation": "既可以指真实的破坏行为（战争、政治），也常用于比喻，例如 sabotaging a relationship 或 sabotaging your career。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "这个词来自法语 sabotage，与 'sabot'（木鞋）有关。一个流行的说法是早期工人把木鞋扔进机器里破坏机器以抗议工作条件，因此形成“破坏”的含义。后来这个词扩展为任何故意破坏行为。",
+      "explanation_english": "The word comes from French 'sabot' meaning wooden shoe. A popular story says workers threw their wooden shoes into machinery to stop production during protests. The meaning later expanded to any deliberate act of destruction or interference."
+    }
   }
 ];
