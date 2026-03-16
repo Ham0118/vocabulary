@@ -2,22 +2,24 @@
 my vocabulary list
 
 
-
-
-
-
+frighten
+planetarium
+planet
+alcoholic
+principle
+devour
+mantis
+stab
+unattainable
 brutal
-sud
-behold
-cane
-carton
-possession
-nag
+confession
+brible
 
-demon
-freaky
-crown
-immensely
-caterpillar
-stich
-tragic
+affidavit
+urbanite
+hoarse
+atrium
+vestibule
+irony
+cheap out
+improvise
