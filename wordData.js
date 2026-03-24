@@ -87067,5 +87067,1580 @@ const wordData = [
       "explanation_chinese": "来源于法语，没有多义扩展。",
       "explanation_english": "From French; no semantic branching."
     }
+  },
+  {
+    "word": "rehearsal",
+    "pronunciation": {
+      "british": "/rɪˈhɜːsəl/ 🇬🇧",
+      "american": "/rɪˈhɜːrsəl/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：表演、演讲前的练习。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "排练",
+          "english": "A practice session before a performance."
+        },
+        "examples": [
+          {
+            "sentence": "We have a rehearsal before the show.",
+            "translation": "演出前我们要排练。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "practice",
+        "type": "noun",
+        "definition": {
+          "chinese": "练习",
+          "english": "Repeated exercise to improve skill."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "区别",
+        "explanation": "rehearsal 更强调正式演出前的排练；practice 更泛指练习。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自法语，原意是“重复说”，后来变为“排练”。",
+      "explanation_english": "From French meaning ‘to go over again’; evolved into practice before performance."
+    }
+  },
+  {
+    "word": "brisket",
+    "pronunciation": {
+      "british": "/ˈbrɪskɪt/ 🇬🇧",
+      "american": "/ˈbrɪskɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "中等 👍：烹饪/餐厅语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "牛胸肉",
+          "english": "A cut of meat from the breast of beef."
+        },
+        "examples": [
+          {
+            "sentence": "The brisket was slow-cooked for hours.",
+            "translation": "这块牛胸肉慢炖了好几个小时。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "beef",
+        "type": "noun",
+        "definition": {
+          "chinese": "牛肉",
+          "english": "Meat from cattle."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "常见于美式BBQ或菜单，不是日常基础词。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源自古英语，专指部位，没有多义。",
+      "explanation_english": "Old English origin; specific anatomical term."
+    }
+  },
+  {
+    "word": "tempt",
+    "pronunciation": {
+      "british": "/tempt/ 🇬🇧",
+      "american": "/tempt/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：表示“诱惑”。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "诱惑，引诱",
+          "english": "To attract or entice someone."
+        },
+        "examples": [
+          {
+            "sentence": "The dessert tempted me.",
+            "translation": "甜点诱惑了我。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "attract",
+        "type": "verb",
+        "definition": {
+          "chinese": "吸引",
+          "english": "To draw attention."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "常带“明知道不该但还是想做”的感觉。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自宗教语境（诱惑犯罪），后扩展到日常生活。",
+      "explanation_english": "Originally religious (tempt into sin); broadened to everyday attraction."
+    }
+  },
+  {
+    "word": "proof",
+    "pronunciation": {
+      "british": "/pruːf/ 🇬🇧",
+      "american": "/pruːf/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb",
+    "usage": "非常常用 👍：多义词。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "证据",
+          "english": "Evidence showing something is true."
+        },
+        "examples": [
+          {
+            "sentence": "Do you have proof?",
+            "translation": "你有证据吗？"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "校样（印刷）",
+          "english": "A trial print for checking errors."
+        },
+        "examples": [
+          {
+            "sentence": "She checked the proof before publishing.",
+            "translation": "她在出版前检查了校样。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "evidence",
+        "type": "noun",
+        "definition": {
+          "chinese": "证据",
+          "english": "Information indicating truth."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义",
+        "explanation": "核心是“验证”，延伸到印刷和法律。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“测试/验证”扩展到“证据”和“校对版本”。",
+      "explanation_english": "From ‘test/verify’ → extended to evidence and printing proofs."
+    }
+  },
+  {
+    "word": "gurney",
+    "pronunciation": {
+      "british": "/ˈɡɜːni/ 🇬🇧",
+      "american": "/ˈɡɜːrni/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "中等 👍：医院/急救语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "担架车",
+          "english": "A wheeled stretcher used in hospitals."
+        },
+        "examples": [
+          {
+            "sentence": "They rushed him in on a gurney.",
+            "translation": "他们用担架车把他推进来。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "stretcher",
+        "type": "noun",
+        "definition": {
+          "chinese": "担架",
+          "english": "A device for carrying injured people."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "常见于美剧/医疗场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自品牌名演变，没有多义。",
+      "explanation_english": "From a brand name; no semantic branching."
+    }
+  },
+  {
+    "word": "frown",
+    "pronunciation": {
+      "british": "/fraʊn/ 🇬🇧",
+      "american": "/fraʊn/ 🇺🇸"
+    },
+    "phrase_type": "verb / noun",
+    "usage": "非常常用 👍：面部表情。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "皱眉",
+          "english": "To furrow the brow in displeasure."
+        },
+        "examples": [
+          {
+            "sentence": "She frowned at the news.",
+            "translation": "她听到消息后皱眉。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "smile",
+        "type": "verb",
+        "definition": {
+          "chinese": "微笑",
+          "english": "To form a pleased expression."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "通常表示不满、困惑或思考。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意就是面部表情，没有明显扩展。",
+      "explanation_english": "Core meaning remains facial expression."
+    }
+  },
+  {
+    "word": "verkakte",
+    "pronunciation": {
+      "british": "/fərˈkɑːktə/ 🇬🇧",
+      "american": "/fərˈkɑːktə/ 🇺🇸"
+    },
+    "phrase_type": "adjective（俚语）",
+    "usage": "较少用 ⚠️：带情绪/粗俗，源自意第绪语。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "糟糕的；该死的",
+          "english": "Messed up; lousy (slang)."
+        },
+        "examples": [
+          {
+            "sentence": "This verkakte plan failed again.",
+            "translation": "这个破计划又失败了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "crappy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "糟糕的",
+          "english": "Very bad."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "非常口语甚至带粗鲁，常见于特定文化背景（如纽约犹太文化）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自意第绪语，原意“拉屎的”，引申为“糟糕”。",
+      "explanation_english": "From Yiddish meaning ‘defecated’; extended to ‘messed up’."
+    }
+  },
+  {
+    "word": "arachnid",
+    "pronunciation": {
+      "british": "/əˈræknɪd/ 🇬🇧",
+      "american": "/əˈræknɪd/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "较少用 👌：生物学术语。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "蛛形纲动物（如蜘蛛）",
+          "english": "A class of joint-legged invertebrates including spiders."
+        },
+        "examples": [
+          {
+            "sentence": "Spiders are arachnids.",
+            "translation": "蜘蛛是蛛形纲动物。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "spider",
+        "type": "noun",
+        "definition": {
+          "chinese": "蜘蛛",
+          "english": "An arachnid with eight legs."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "多用于科普、考试或专业语境。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自希腊神话（Arachne），没有多义。",
+      "explanation_english": "From Greek myth ‘Arachne’; no semantic branching."
+    }
+  },
+  {
+    "word": "mole",
+    "pronunciation": {
+      "british": "/məʊl/ 🇬🇧",
+      "american": "/moʊl/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "非常常用 👍：多义词。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "痣",
+          "english": "A small dark spot on the skin."
+        },
+        "examples": [
+          {
+            "sentence": "She has a mole on her cheek.",
+            "translation": "她脸上有一颗痣。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "鼹鼠",
+          "english": "A small burrowing animal."
+        },
+        "examples": [
+          {
+            "sentence": "A mole dug tunnels in the garden.",
+            "translation": "一只鼹鼠在花园里挖洞。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "间谍（内鬼）",
+          "english": "A spy within an organization."
+        },
+        "examples": [
+          {
+            "sentence": "They discovered a mole in the agency.",
+            "translation": "他们发现机构里有内鬼。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "spy",
+        "type": "noun",
+        "definition": {
+          "chinese": "间谍",
+          "english": "A person who secretly collects information."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义",
+        "explanation": "不同来源词汇拼写相同，属于“同形异源”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "不同词源汇合（动物、皮肤、间谍），不是单一演变。",
+      "explanation_english": "Different etymologies merged into one spelling (homonym)."
+    }
+  },
+  {
+    "word": "smug",
+    "pronunciation": {
+      "british": "/smʌɡ/ 🇬🇧",
+      "american": "/smʌɡ/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "常用 👍：带负面情绪。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "自鸣得意的",
+          "english": "Excessively pleased with oneself."
+        },
+        "examples": [
+          {
+            "sentence": "He had a smug smile.",
+            "translation": "他露出自鸣得意的笑。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "arrogant",
+        "type": "adjective",
+        "definition": {
+          "chinese": "傲慢的",
+          "english": "Having an exaggerated sense of importance."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "比 arrogant 更轻，但带“讨厌的小得意”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原意“整洁满意”，后来变为“自满”。",
+      "explanation_english": "Originally ‘neat/satisfied’; shifted to self-satisfaction."
+    }
+  },
+  {
+    "word": "attic",
+    "pronunciation": {
+      "british": "/ˈætɪk/ 🇬🇧",
+      "american": "/ˈætɪk/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：房屋结构词。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "阁楼",
+          "english": "A space just below the roof of a house."
+        },
+        "examples": [
+          {
+            "sentence": "They stored old boxes in the attic.",
+            "translation": "他们把旧箱子放在阁楼。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "basement",
+        "type": "noun",
+        "definition": {
+          "chinese": "地下室",
+          "english": "The floor below ground level."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "文化",
+        "explanation": "常出现在美剧中（藏东西、恐怖场景）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自古希腊建筑风格，没有多义。",
+      "explanation_english": "From Attic Greek style; later used for upper rooms."
+    }
+  },
+  {
+    "word": "nursery",
+    "pronunciation": {
+      "british": "/ˈnɜːsəri/ 🇬🇧",
+      "american": "/ˈnɜːrsəri/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：多义。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "托儿所；婴儿房",
+          "english": "A place or room for young children."
+        },
+        "examples": [
+          {
+            "sentence": "The baby is sleeping in the nursery.",
+            "translation": "宝宝在婴儿房睡觉。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "苗圃",
+          "english": "A place where plants are grown."
+        },
+        "examples": [
+          {
+            "sentence": "We bought plants from a nursery.",
+            "translation": "我们从苗圃买了植物。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "daycare",
+        "type": "noun",
+        "definition": {
+          "chinese": "托儿所",
+          "english": "Child care facility."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "核心概念",
+        "explanation": "都是“培育成长的地方”（孩子 or 植物）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“养育”概念扩展到孩子和植物。",
+      "explanation_english": "From ‘nurture’; extended to children and plants."
+    }
+  },
+  {
+    "word": "lunatic",
+    "pronunciation": {
+      "british": "/ˈluːnətɪk/ 🇬🇧",
+      "american": "/ˈluːnətɪk/ 🇺🇸"
+    },
+    "phrase_type": "noun / adjective",
+    "usage": "常用（口语）⚠️：可能带冒犯。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "疯子",
+          "english": "A person who is mentally ill or acts wildly."
+        },
+        "examples": [
+          {
+            "sentence": "He drives like a lunatic.",
+            "translation": "他开车像个疯子。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "crazy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "疯狂的",
+          "english": "Mentally unstable or wild."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "现代语境可能被认为不礼貌，尽量避免用于正式或敏感场合。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 luna（月亮），古人认为月亮影响精神状态。",
+      "explanation_english": "From ‘luna’ (moon); belief that moon affected mental state."
+    }
+  },
+  {
+    "word": "mop",
+    "pronunciation": {
+      "british": "/mɒp/ 🇬🇧",
+      "american": "/mɑːp/ 🇺🇸"
+    },
+    "phrase_type": "noun / verb",
+    "usage": "常用 👍：清洁场景。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "拖把",
+          "english": "A tool for cleaning floors."
+        },
+        "examples": [
+          {
+            "sentence": "Use a mop to clean the floor.",
+            "translation": "用拖把清洁地板。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "拖地",
+          "english": "To clean with a mop."
+        },
+        "examples": [
+          {
+            "sentence": "She mopped the kitchen floor.",
+            "translation": "她拖了厨房地板。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "clean",
+        "type": "verb",
+        "definition": {
+          "chinese": "清洁",
+          "english": "To remove dirt."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "用法",
+        "explanation": "名词和动词形式完全一样。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "工具名 → 动作名，是常见语言模式。",
+      "explanation_english": "Tool → action shift (noun to verb)."
+    }
+  },
+  {
+    "word": "obligated",
+    "pronunciation": {
+      "british": "/ˈɒblɪɡeɪtɪd/ 🇬🇧",
+      "american": "/ˈɑːblɪɡeɪtɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective 描述词",
+    "usage": "常用 👍：正式语气。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "有义务的",
+          "english": "Bound by duty or responsibility."
+        },
+        "examples": [
+          {
+            "sentence": "I feel obligated to help.",
+            "translation": "我觉得有义务帮忙。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "required",
+        "type": "adjective",
+        "definition": {
+          "chinese": "必须的",
+          "english": "Necessary."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语感",
+        "explanation": "比 required 更带“道德/人情上的责任”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来自 obligation（义务），无复杂多义。",
+      "explanation_english": "From ‘obligation’; stable meaning."
+    }
+  },
+  {
+    "word": "colonoscopy",
+    "pronunciation": {
+      "british": "/ˌkɒləˈnɒskəpi/ 🇬🇧",
+      "american": "/ˌkɑːləˈnɑːskəpi/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "中等 👍：医学语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "结肠镜检查",
+          "english": "A medical examination of the colon using a camera."
+        },
+        "examples": [
+          {
+            "sentence": "He had a colonoscopy last week.",
+            "translation": "他上周做了肠镜检查。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "endoscopy",
+        "type": "noun",
+        "definition": {
+          "chinese": "内窥镜检查",
+          "english": "Internal examination using a scope."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "使用场景",
+        "explanation": "常见于医疗或健康话题。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "colon + scopy（观察），无多义。",
+      "explanation_english": "From ‘colon’ + ‘-scopy’ (to look); no branching."
+    }
+  },
+  {
+    "word": "smidge",
+    "pronunciation": {
+      "british": "/smɪdʒ/ 🇬🇧",
+      "american": "/smɪdʒ/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词（口语）",
+    "usage": "常用（口语）👍：表示“一点点”。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "一点点",
+          "english": "A very small amount."
+        },
+        "examples": [
+          {
+            "sentence": "Add a smidge of salt.",
+            "translation": "加一点点盐。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "a bit",
+        "type": "phrase",
+        "definition": {
+          "chinese": "一点",
+          "english": "A small amount."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "非常随意、生活化表达（尤其做饭）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "非正式词，可能来自 ‘smidgen’，没有复杂多义。",
+      "explanation_english": "Informal shortening of ‘smidgen’; no semantic branching."
+    }
+  },
+  {
+    "word": "spare",
+    "pronunciation": {
+      "british": "/speə/ 🇬🇧",
+      "american": "/sper/ 🇺🇸"
+    },
+    "phrase_type": "verb / adjective",
+    "usage": "非常常用 👍：多义词。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "备用的",
+          "english": "Extra; kept in case needed."
+        },
+        "examples": [
+          {
+            "sentence": "Do you have a spare key?",
+            "translation": "你有备用钥匙吗？"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "饶恕；免除",
+          "english": "To refrain from harming or to save someone from something."
+        },
+        "examples": [
+          {
+            "sentence": "Spare me the details.",
+            "translation": "别跟我说细节了。"
+          }
+        ]
+      }
+    ],
+    "related_words": [
+      {
+        "word": "extra",
+        "type": "adjective",
+        "definition": {
+          "chinese": "额外的",
+          "english": "More than necessary."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "多义",
+        "explanation": "“多余的”→“不需要用”→“放过/免除”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“多出来”发展为“可以不用”，再到“放过”。",
+      "explanation_english": "From ‘extra’ → ‘not needed’ → ‘to refrain from using/harming’."
+    }
+  },
+  {
+    "word": "grad",
+    "pronunciation": {
+      "british": "/ɡræd/ 🇬🇧",
+      "american": "/ɡræd/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词 (informal)",
+    "usage": "常用 👍：口语中非常常见，尤其在学生、职场语境中。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "毕业生",
+          "english": "A graduate, especially someone who has completed school or university."
+        },
+        "examples": [
+          {
+            "sentence": "She’s a recent grad looking for a job.",
+            "translation": "她是一个刚毕业正在找工作的毕业生。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["recent grad", "college grad"],
+    "related_words": [
+      {
+        "word": "graduate",
+        "type": "noun/verb",
+        "definition": {
+          "chinese": "毕业生；毕业",
+          "english": "A person who has completed studies; to finish a course of study."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "口语缩写",
+        "explanation": "‘grad’ 是 ‘graduate’ 的缩写，非常口语化，在正式写作中较少使用。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "来源于 graduate 的缩写，没有额外引申义。",
+      "explanation_english": "Shortened from 'graduate', with no major semantic expansion."
+    },
+    "variation_between_british_american": {
+      "british": "使用但稍少见。",
+      "american": "非常常见。"
+    }
+  },
+  {
+    "word": "duty",
+    "pronunciation": {
+      "british": "/ˈdjuːti/ 🇬🇧",
+      "american": "/ˈduːti/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：正式、日常都常见。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "责任；义务；职责",
+          "english": "A moral or legal obligation or responsibility."
+        },
+        "examples": [
+          {
+            "sentence": "It is your duty to report the issue.",
+            "translation": "报告问题是你的责任。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["sense of duty", "on duty"],
+    "related_words": [
+      {
+        "word": "responsibility",
+        "type": "noun",
+        "definition": {
+          "chinese": "责任",
+          "english": "Something you are required to do."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "正式感",
+        "explanation": "比 responsibility 更偏正式和道德层面。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于“应做之事”的核心含义，延伸到法律和道德责任。",
+      "explanation_english": "From obligation → expanded into moral and legal responsibility."
+    },
+    "variation_between_british_american": {
+      "british": "常见",
+      "american": "常见"
+    }
+  },
+  {
+    "word": "reception",
+    "pronunciation": {
+      "british": "/rɪˈsepʃn/ 🇬🇧",
+      "american": "/rɪˈsepʃn/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：多义词，非常常见。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "接待；欢迎",
+          "english": "The act of welcoming or receiving someone."
+        },
+        "examples": [
+          {
+            "sentence": "The reception was warm and friendly.",
+            "translation": "接待非常热情友好。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "招待会（如婚礼）",
+          "english": "A formal party or event, especially after a wedding."
+        },
+        "examples": [
+          {
+            "sentence": "The wedding reception was beautiful.",
+            "translation": "婚宴非常漂亮。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["wedding reception", "front desk reception"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "多场景使用",
+        "explanation": "可用于酒店、婚礼、公司等多种场景。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "核心含义是“接收”，延伸到接待、活动等。",
+      "explanation_english": "From 'receive' → extended to events and social contexts."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
+  },
+  {
+    "word": "millennial",
+    "pronunciation": {
+      "british": "/mɪˈleniəl/ 🇬🇧",
+      "american": "/mɪˈleniəl/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：媒体、社会讨论中高频。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "千禧一代（约1980-2000出生）",
+          "english": "A person born roughly between the early 1980s and late 1990s."
+        },
+        "examples": [
+          {
+            "sentence": "Millennials tend to value work-life balance.",
+            "translation": "千禧一代更重视工作与生活平衡。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["millennial generation"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "拼写注意",
+        "explanation": "正确拼写是 millennial（双 n）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于 millennium（千年），无明显多义。",
+      "explanation_english": "Derived from 'millennium', no major semantic shift."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
+  },
+  {
+    "word": "stubby",
+    "pronunciation": {
+      "british": "/ˈstʌbi/ 🇬🇧",
+      "american": "/ˈstʌbi/ 🇺🇸"
+    },
+    "phrase_type": "adjective / noun 形容词 / 名词",
+    "usage": "常用 👍：澳洲英语中很常见。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "短粗的",
+          "english": "Short and thick in shape."
+        },
+        "examples": [
+          {
+            "sentence": "He has stubby fingers.",
+            "translation": "他有短粗的手指。"
+          }
+        ]
+      },
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "小瓶啤酒（澳洲）",
+          "english": "A small beer bottle (Australian slang)."
+        },
+        "examples": [
+          {
+            "sentence": "Grab a stubby from the fridge.",
+            "translation": "从冰箱拿瓶啤酒。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["stubby bottle"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "地域用法",
+        "explanation": "在澳洲非常常见，尤其指啤酒瓶。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“短粗”形状引申到瓶子。",
+      "explanation_english": "From shape → applied to objects like bottles."
+    },
+    "variation_between_british_american": {
+      "british": "少见",
+      "american": "较少用于啤酒含义"
+    }
+  },
+  {
+    "word": "bummer",
+    "pronunciation": {
+      "british": "/ˈbʌmə/ 🇬🇧",
+      "american": "/ˈbʌmər/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词 (informal)",
+    "usage": "常用 👍：口语非常常见。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "令人失望的事",
+          "english": "Something disappointing or unpleasant."
+        },
+        "examples": [
+          {
+            "sentence": "Missing the flight was a real bummer.",
+            "translation": "错过航班真是太糟了。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["real bummer"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "轻松表达“可惜/倒霉”，不算严重。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于“坏体验”，没有复杂扩展。",
+      "explanation_english": "From negative experience → generalized disappointment."
+    },
+    "variation_between_british_american": {
+      "british": "较少",
+      "american": "非常常见"
+    }
+  },
+  {
+    "word": "sophisticated",
+    "pronunciation": {
+      "british": "/səˈfɪstɪkeɪtɪd/ 🇬🇧",
+      "american": "/səˈfɪstɪkeɪtɪd/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：正式和日常都常见。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "复杂精密的；见多识广的",
+          "english": "Complex or refined; having a lot of experience and knowledge."
+        },
+        "examples": [
+          {
+            "sentence": "This is a sophisticated system.",
+            "translation": "这是一个复杂精密的系统。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["sophisticated technology"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "双含义",
+        "explanation": "既可以指“技术复杂”，也可以指“人很有见识”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“复杂”引申到“成熟、有见识”。",
+      "explanation_english": "From complexity → extended to intellectual refinement."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
+  },
+  {
+    "word": "blast",
+    "pronunciation": {
+      "british": "/blɑːst/ 🇬🇧",
+      "american": "/blæst/ 🇺🇸"
+    },
+    "phrase_type": "noun & verb 名词 & 动词",
+    "usage": "常用 👍：口语和书面都常见，尤其在情绪表达和描述声音/爆炸时。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "爆炸；强风；一阵强烈的声音或活动",
+          "english": "An explosion; a strong gust of air; a sudden loud noise or intense experience."
+        },
+        "examples": [
+          {
+            "sentence": "The blast shook the building.",
+            "translation": "爆炸震动了整栋楼。"
+          },
+          {
+            "sentence": "We had a blast at the party.",
+            "translation": "我们在派对上玩得非常开心。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "爆破；猛烈播放（音乐）；猛烈批评",
+          "english": "To explode; to play something loudly; to criticize strongly."
+        },
+        "examples": [
+          {
+            "sentence": "He blasted music all night.",
+            "translation": "他整晚大声放音乐。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["have a blast", "blast music"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "口语表达",
+        "explanation": "‘have a blast’ 是非常常见的口语表达，表示“玩得很开心”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“爆炸”引申为“强烈体验”或“强烈行为”。",
+      "explanation_english": "From explosion → extended to strong experiences or actions."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "更常用于口语表达快乐"
+    }
+  },
+  {
+    "word": "slob",
+    "pronunciation": {
+      "british": "/slɒb/ 🇬🇧",
+      "american": "/slɑːb/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词 (informal)",
+    "usage": "常用 👍：口语中常见，带有轻微贬义。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "邋遢的人；懒散的人",
+          "english": "A person who is lazy and messy."
+        },
+        "examples": [
+          {
+            "sentence": "He’s such a slob, his room is always a mess.",
+            "translation": "他太邋遢了，房间总是乱糟糟的。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["lazy slob"],
+    "related_words": [
+      {
+        "word": "messy",
+        "type": "adjective",
+        "definition": {
+          "chinese": "凌乱的",
+          "english": "Untidy or disorganized."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气",
+        "explanation": "带有贬义，但不算特别严重，常用于朋友之间吐槽。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于“肮脏、懒散的人”的含义，没有明显扩展。",
+      "explanation_english": "Originated as a term for a dirty person, no major semantic shift."
+    },
+    "variation_between_british_american": {
+      "british": "常见",
+      "american": "常见"
+    }
+  },
+  {
+    "word": "martial",
+    "pronunciation": {
+      "british": "/ˈmɑːʃl/ 🇬🇧",
+      "american": "/ˈmɑːrʃl/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：多用于正式语境或军事相关。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "军事的；战争的",
+          "english": "Related to war or the military."
+        },
+        "examples": [
+          {
+            "sentence": "The country declared martial law.",
+            "translation": "该国宣布了戒严。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["martial law", "martial arts"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "固定搭配",
+        "explanation": "最常见搭配是 martial law（戒严）和 martial arts（武术）。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "源于罗马战神 Mars，表示“战争的”。",
+      "explanation_english": "From Mars (Roman god of war), meaning war-related."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
+  },
+  {
+    "word": "determine",
+    "pronunciation": {
+      "british": "/dɪˈtɜːmɪn/ 🇬🇧",
+      "american": "/dɪˈtɜːrmɪn/ 🇺🇸"
+    },
+    "phrase_type": "verb 动词",
+    "usage": "常用 👍：正式、学术、日常都常见。",
+    "meanings": [
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "决定；确定；查明",
+          "english": "To decide or establish something; to find out."
+        },
+        "examples": [
+          {
+            "sentence": "We need to determine the cause of the problem.",
+            "translation": "我们需要查明问题的原因。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["determine the cause", "determine whether"],
+    "related_words": [
+      {
+        "word": "decide",
+        "type": "verb",
+        "definition": {
+          "chinese": "决定",
+          "english": "To make a choice."
+        }
+      }
+    ],
+    "notes": [
+      {
+        "point": "语气区别",
+        "explanation": "比 decide 更正式，更偏“分析后得出结论”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“设定边界”引申到“决定”和“查明”。",
+      "explanation_english": "From 'set limits' → extended to deciding and finding out."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
+  },
+  {
+    "word": "carpet",
+    "pronunciation": {
+      "british": "/ˈkɑːpɪt/ 🇬🇧",
+      "american": "/ˈkɑːrpɪt/ 🇺🇸"
+    },
+    "phrase_type": "noun & verb 名词 & 动词",
+    "usage": "常用 👍：日常生活中常见。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "地毯",
+          "english": "A thick fabric covering for floors."
+        },
+        "examples": [
+          {
+            "sentence": "The room has a soft carpet.",
+            "translation": "这个房间铺着柔软的地毯。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "铺地毯；覆盖",
+          "english": "To cover something like a carpet."
+        },
+        "examples": [
+          {
+            "sentence": "The floor was carpeted.",
+            "translation": "地板铺上了地毯。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["red carpet"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "引申用法",
+        "explanation": "‘red carpet’ 表示隆重欢迎。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从名词“地毯”引申为动词“覆盖”。",
+      "explanation_english": "From noun → extended to verb meaning 'to cover'."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
+  },
+  {
+    "word": "giddy",
+    "pronunciation": {
+      "british": "/ˈɡɪdi/ 🇬🇧",
+      "american": "/ˈɡɪdi/ 🇺🇸"
+    },
+    "phrase_type": "adjective 形容词",
+    "usage": "常用 👍：描述情绪或身体状态。",
+    "meanings": [
+      {
+        "type": "adjective",
+        "definition": {
+          "chinese": "头晕的；兴奋得晕乎乎的",
+          "english": "Feeling dizzy or lightheaded; overly excited."
+        },
+        "examples": [
+          {
+            "sentence": "She felt giddy with excitement.",
+            "translation": "她兴奋得有点晕乎乎。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["giddy with excitement"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "双含义",
+        "explanation": "既可以是身体“头晕”，也可以是情绪“过度兴奋”。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“头晕”引申到“情绪过度兴奋”。",
+      "explanation_english": "From dizziness → extended to emotional excitement."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
+  },
+  {
+    "word": "glaze",
+    "pronunciation": {
+      "british": "/ɡleɪz/ 🇬🇧",
+      "american": "/ɡleɪz/ 🇺🇸"
+    },
+    "phrase_type": "noun & verb 名词 & 动词",
+    "usage": "常用 👍：烹饪和描述眼神时常见。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "釉；糖衣",
+          "english": "A shiny coating on food or pottery."
+        },
+        "examples": [
+          {
+            "sentence": "The cake has a sweet glaze.",
+            "translation": "蛋糕上有一层甜糖衣。"
+          }
+        ]
+      },
+      {
+        "type": "verb",
+        "definition": {
+          "chinese": "给…上釉；（眼神）变呆滞",
+          "english": "To apply a glossy coating; for eyes to become dull or unfocused."
+        },
+        "examples": [
+          {
+            "sentence": "His eyes glazed over during the lecture.",
+            "translation": "他听讲座时眼神变得呆滞。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["glazed eyes"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "比喻用法",
+        "explanation": "‘eyes glaze over’ 表示无聊或走神，非常常见。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "从“光滑表面”引申到“眼神失去焦点”。",
+      "explanation_english": "From shiny surface → extended to unfocused eyes."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
+  },
+  {
+    "word": "flea",
+    "pronunciation": {
+      "british": "/fliː/ 🇬🇧",
+      "american": "/fliː/ 🇺🇸"
+    },
+    "phrase_type": "noun 名词",
+    "usage": "常用 👍：日常和动物相关语境。",
+    "meanings": [
+      {
+        "type": "noun",
+        "definition": {
+          "chinese": "跳蚤",
+          "english": "A small insect that jumps and feeds on blood."
+        },
+        "examples": [
+          {
+            "sentence": "The dog has fleas.",
+            "translation": "这只狗有跳蚤。"
+          }
+        ]
+      }
+    ],
+    "common_collocations": ["flea market"],
+    "related_words": [],
+    "notes": [
+      {
+        "point": "固定表达",
+        "explanation": "‘flea market’ 表示跳蚤市场，与虫子本身无直接关系。"
+      }
+    ],
+    "origin_of_multiple_meanings": {
+      "explanation_chinese": "原义为昆虫，引申为旧货市场名称。",
+      "explanation_english": "Literal insect → extended metaphorically to market name."
+    },
+    "variation_between_british_american": {
+      "british": "一致",
+      "american": "一致"
+    }
   }
 ];
