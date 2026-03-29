@@ -3,20 +3,25 @@ my vocabulary list
 
 
 
-grad
-duty
-reception
-millenial
-stubby
-blast
-slob
-martial
-bummer
-sophisticated
-determine
-carpet
-giddy
-hanut
-glaze
-glit
-flea
+
+choppy
+pursuing
+banal
+disturbing
+recollection
+aside
+rube
+rub
+feminist
+underprivileged
+cozy 
+tenure
+betrothal
+threaten
+contest
+intense
+creepy
+dysfunctional
+codependent
+skedaddle
+pantry 
