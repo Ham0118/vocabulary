@@ -102805,8 +102805,7 @@ const wordData = [
       "american": "用法一致。"
     }
   },
-  Gemini 说
-{
+  {
     "word": "the coast is clear",
     "pronunciation": {
       "british": "/ðə kəʊst ɪz klɪə(r)/ 🇬🇧",
