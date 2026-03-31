@@ -2,6 +2,3 @@
 my vocabulary list
 
 
-
-
-
