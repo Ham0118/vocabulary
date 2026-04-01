@@ -59166,60 +59166,6 @@ const wordData = [
     },
   },
   {
-    word: "suspicious",
-    pronunciation: {
-      british: "/səˈspɪʃəs/ 🇬🇧",
-      american: "/səˈspɪʃəs/ 🇺🇸",
-    },
-    phrase_type: "adjective",
-    usage: "用于描述怀疑、不信任，或可疑的事物。",
-    meanings: [
-      {
-        type: "adjective",
-        definition: {
-          chinese: "怀疑的，多疑的",
-          english: "Feeling distrust or doubt.",
-        },
-        examples: [
-          {
-            sentence: "She became suspicious of his excuses.",
-            translation: "她开始怀疑他的借口。",
-          },
-        ],
-      },
-      {
-        type: "adjective",
-        definition: {
-          chinese: "可疑的",
-          english: "Causing doubt or suspicion.",
-        },
-        examples: [
-          {
-            sentence: "There was a suspicious package at the station.",
-            translation: "车站有个可疑包裹。",
-          },
-        ],
-      },
-    ],
-    related_words: [],
-    notes: [
-      {
-        point: "易混",
-        explanation:
-          "`suspicious`（让人怀疑/我怀疑别人） vs `suspect`（动词/名词/嫌疑人）。",
-      },
-    ],
-    origin_of_multiple_meanings: {
-      explanation_chinese:
-        "来自拉丁语 suspicere（向上看/怀疑）→ 多义围绕“怀疑”展开。",
-      explanation_english: "From Latin 'suspicere' meaning 'to mistrust'.",
-    },
-    variation_between_british_american: {
-      british: "用法一致。",
-      american: "同。",
-    },
-  },
-  {
     word: "turn to",
     pronunciation: {
       british: "/tɜːn tuː/ 🇬🇧",
@@ -106998,6 +106944,2886 @@ const wordData = [
       british: "英美用法完全一致，都是指法律层面的房屋驱逐。",
       american:
         "用法一致。在美媒中常见 'eviction notice'（驱逐通知）这一搭配。",
+    },
+  },
+  {
+    word: "honk",
+    pronunciation: {
+      british: "/hɒŋk/ 🇬🇧",
+      american: "/hɑːŋk/ 🇺🇸",
+    },
+    phrase_type: "verb & noun 动词 & 名词",
+    usage: "常用 👍：日常生活中常用于指汽车按喇叭，或大雁/鹅发出的叫声。",
+    meanings: [
+      {
+        type: "verb",
+        definition: {
+          chinese: "按汽车喇叭；（鹅或大雁）发声",
+          english:
+            "To make a short, loud sound (typically of a car horn or a goose).",
+        },
+        examples: [
+          {
+            sentence: "The driver behind me started to honk his horn.",
+            translation: "我后面的司机开始按喇叭。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "汽车喇叭声；雁叫声",
+          english: "The sound of a car horn or a goose.",
+        },
+        examples: [
+          {
+            sentence: "We heard the honk of geese flying overhead.",
+            translation: "我们听到了头顶飞过的大雁的叫声。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["honk the horn", "a loud honk"],
+    related_words: [
+      {
+        word: "beep",
+        type: "verb/noun",
+        definition: {
+          chinese: "发出嘟嘟声；嘟嘟声",
+          english: "To make a short, high-pitched electronic sound.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "生活场景",
+        explanation:
+          "在交通拥堵时，你经常会听到 'honking'。这是一个非常拟声的词汇。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "‘Honk’ 最初是一个拟声词，用来模仿野生鹅的叫声。随着汽车的发明，早期汽车喇叭发出的声音与鹅叫声相似，因此这个词被借用来指代按汽车喇叭。",
+      explanation_english:
+        "Originally an imitative word simulating the cry of a wild goose. When cars were invented, the sound of early car horns resembled a goose's cry, so the word was adopted for car horns.",
+    },
+    variation_between_british_american: {
+      british:
+        "发音带有短促的 /ɒ/，英式英语中也常用 'hoot' 来代替 'honk' 表示按喇叭。",
+      american: "发音带有 /ɑː/，在北美 'honk' 是表示按喇叭最常用、最标准的词。",
+    },
+  },
+  {
+    word: "remain",
+    pronunciation: {
+      british: "/rɪˈmeɪn/ 🇬🇧",
+      american: "/rɪˈmeɪn/ 🇺🇸",
+    },
+    phrase_type: "verb 动词",
+    usage:
+      "常用 👍：非常高频的正式词汇，用于描述保持某种状态、留在某处，或表示某事物“剩余”。",
+    meanings: [
+      {
+        type: "verb",
+        definition: {
+          chinese: "保持；依然；留下；剩余",
+          english:
+            "To continue to exist, especially after other similar or related people or things have ceased to exist; to stay in the place that one has been occupying.",
+        },
+        examples: [
+          {
+            sentence:
+              "Please remain seated until the seatbelt sign is turned off.",
+            translation: "在安全带指示灯熄灭前，请保持就坐。",
+          },
+          {
+            sentence: "Much work remains to be done.",
+            translation: "还有很多工作要做（剩余）。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["remain calm", "remain silent", "remain to be seen"],
+    related_words: [
+      {
+        word: "stay",
+        type: "verb",
+        definition: {
+          chinese: "停留；保持（不如remain正式）",
+          english: "To remain in the same place.",
+        },
+      },
+      {
+        word: "remainder",
+        type: "noun",
+        definition: {
+          chinese: "剩余物；其余的人",
+          english: "A part, number, or quantity that is left over.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "语体差异",
+        explanation:
+          "‘Remain’ 比 'stay' 或 'keep' 更正式，常用于书面语、新闻报道或官方广播中（如航班上的广播）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 remanere（re- '向后' + manere '停留'）。从字面意思“停留在后面/原地”自然延伸出了“保持原样”和“（被消耗后）剩余”的意思。",
+      explanation_english:
+        "From Latin remanere (re- 'back' + manere 'to stay'). Its literal meaning 'to stay back/behind' naturally extended to 'stay in the same state' and 'be left over'.",
+    },
+    variation_between_british_american: {
+      british: "英美用法和发音完全一致，属于核心通用词汇。",
+      american: "用法一致。在正式文体中广泛使用。",
+    },
+  },
+  {
+    word: "telescope",
+    pronunciation: {
+      british: "/ˈtelɪskəʊp/ 🇬🇧",
+      american: "/ˈtelɪskoʊp/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "常用 👍：作为名词时用于天文和科学观测；作为动词时较少见，用于描述物体像望远镜套筒一样缩短或重叠。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "望远镜",
+          english:
+            "An optical instrument designed to make distant objects appear nearer.",
+        },
+        examples: [
+          {
+            sentence: "He looked at the moon through a telescope.",
+            translation: "他通过望远镜观察月亮。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "（使）变短；套筒式缩短",
+          english:
+            "To crush together or to slide one part into another like the cylindrical sections of a hand telescope.",
+        },
+        examples: [
+          {
+            sentence:
+              "The train cars telescoped into one another during the crash.",
+            translation: "碰撞时，火车车厢像套筒一样互相挤压变形了。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["space telescope", "look through a telescope"],
+    related_words: [
+      {
+        word: "microscope",
+        type: "noun",
+        definition: {
+          chinese: "显微镜",
+          english: "An optical instrument used for viewing very small objects.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "构词法",
+        explanation:
+          "由前缀 'tele-'（远处的）和后缀 '-scope'（观看的仪器）组成。理解这个词根有助于记忆其他类似单词（如 microscope, stethoscope）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自希腊语 tele-（远）和 skopein（看）。名词意思是直接的。动词意思（套筒式缩短）是因为早期的手持折叠望远镜是由一节一节的圆筒套在一起组成的，收缩时可以缩短。",
+      explanation_english:
+        "From Greek tele- (far) and skopein (to look). The noun meaning is literal. The verb meaning arose because early hand-held telescopes were made of cylindrical sections that slid into each other to become shorter.",
+    },
+    variation_between_british_american: {
+      british: "发音略有不同，元音组合偏向 /əʊ/。",
+      american: "发音偏向 /oʊ/。用法上没有区别。",
+    },
+  },
+  {
+    word: "eliminate",
+    pronunciation: {
+      british: "/ɪˈlɪmɪneɪt/ 🇬🇧",
+      american: "/ɪˈlɪmɪneɪt/ 🇺🇸",
+    },
+    phrase_type: "verb 动词",
+    usage:
+      "常用 👍：在工作、学术和竞技体育中非常常见，指消除（问题、隐患）或淘汰（比赛选手）。",
+    meanings: [
+      {
+        type: "verb",
+        definition: {
+          chinese: "消除；排除；淘汰",
+          english:
+            "To completely remove or get rid of something; to defeat someone so that they cannot continue in a competition.",
+        },
+        examples: [
+          {
+            sentence: "We must eliminate the risks before proceeding.",
+            translation: "在继续之前，我们必须消除风险。",
+          },
+          {
+            sentence: "Our team was eliminated in the first round.",
+            translation: "我们的队伍在第一轮就被淘汰了。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "eliminate the possibility",
+      "eliminate poverty",
+      "be eliminated from",
+    ],
+    related_words: [
+      {
+        word: "elimination",
+        type: "noun",
+        definition: {
+          chinese: "消除；淘汰",
+          english: "The complete removal or destruction of something.",
+        },
+      },
+      {
+        word: "remove",
+        type: "verb",
+        definition: {
+          chinese: "移除（比eliminate程度轻）",
+          english: "To take something away or off from the position occupied.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "竞技场景",
+        explanation:
+          "在体育或选秀节目中，'eliminate' 是一个绝对的高频词，指选手因为表现不佳出局。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 eliminare，字面意思是“赶出门外”（ex- '出' + limen '门槛'）。从“赶出门”引申出“彻底移除、消除”，在竞技语境下自然演变为“将选手从比赛中踢出/淘汰”。",
+      explanation_english:
+        "From Latin eliminare, literally 'to turn out of doors' (ex- 'out' + limen 'threshold'). The idea of 'throwing something out the door' evolved into completely removing a problem, and later, removing a competitor from a contest.",
+    },
+    variation_between_british_american: {
+      british: "用法和发音完全一致。",
+      american:
+        "用法一致。常在美剧的竞技类真人秀中听到（如 'You have been eliminated'）。",
+    },
+  },
+  {
+    word: "shave",
+    pronunciation: {
+      british: "/ʃeɪv/ 🇬🇧",
+      american: "/ʃeɪv/ 🇺🇸",
+    },
+    phrase_type: "verb & noun 动词 & 名词",
+    usage:
+      "常用 👍：日常生活中指刮胡子或剃毛。也用于比喻削减（成本、时间等）或险胜（a close shave）。",
+    meanings: [
+      {
+        type: "verb",
+        definition: {
+          chinese: "刮（脸、胡子等）；剃除（毛发）；削减",
+          english:
+            "To cut hair from the surface of the skin with a razor; to cut a very thin slice from something; to reduce by a small amount.",
+        },
+        examples: [
+          {
+            sentence: "He shaves his beard every morning.",
+            translation: "他每天早上刮胡子。",
+          },
+          {
+            sentence: "The runner shaved two seconds off his personal best.",
+            translation: "这位赛跑选手把他的个人最好成绩缩短了两秒。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "刮脸；剃胡子；（引申）幸免于难（a close shave）",
+          english:
+            "The act of shaving; a narrow escape from danger or disaster (idiom: a close shave).",
+        },
+        examples: [
+          {
+            sentence: "I need to have a shave before the interview.",
+            translation: "面试前我需要刮个胡子。",
+          },
+          {
+            sentence: "That car almost hit me—it was a close shave!",
+            translation: "那辆车差点撞到我——真是千钧一发！",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["have a shave", "shave off", "a close shave"],
+    related_words: [
+      {
+        word: "razor",
+        type: "noun",
+        definition: {
+          chinese: "剃须刀",
+          english:
+            "An instrument with a sharp blade or combination of blades, used to remove unwanted hair from the face or body.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "习惯用语",
+        explanation:
+          "'a close shave' 是一个非常地道的俚语，形容危险擦肩而过（就像刀片贴着皮肤刮过去一样危险）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古英语 sceafan（刮、擦）。从“刮去表面的毛发”，引申出“削去极薄的一层”，再比喻为“以微小的差距打破记录”或“极其微小的距离（险些发生危险）”。",
+      explanation_english:
+        "From Old English sceafan (to scrape). Meaning expanded from removing hair from skin to taking off thin slices of any material, leading to metaphorical uses like reducing time slightly or narrowly escaping danger.",
+    },
+    variation_between_british_american: {
+      british:
+        "用法一致。在英国，'have a shave' 比 'shave' 单独作动词使用更常见。",
+      american: "用法一致。美国人更倾向于直接用动词，如 'I need to shave'。",
+    },
+  },
+  {
+    word: "passionate",
+    pronunciation: {
+      british: "/ˈpæʃənət/ 🇬🇧",
+      american: "/ˈpæʃənət/ 🇺🇸",
+    },
+    phrase_type: "adjective 形容词",
+    usage:
+      "常用 👍：用于形容人对某事物充满热情、感情强烈（如热爱事业、爱好），或形容两人之间热烈的浪漫情感。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: {
+          chinese: "充满激情的；热烈的；酷爱的",
+          english: "Showing or caused by strong feelings or a strong belief.",
+        },
+        examples: [
+          {
+            sentence: "She is a passionate advocate for human rights.",
+            translation: "她是人权的狂热倡导者。",
+          },
+          {
+            sentence: "He gave her a passionate kiss.",
+            translation: "他给了她一个热烈的吻。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "passionate about",
+      "passionate speech",
+      "passionate kiss",
+    ],
+    related_words: [
+      {
+        word: "passion",
+        type: "noun",
+        definition: {
+          chinese: "激情",
+          english: "Strong and barely controllable emotion.",
+        },
+      },
+      {
+        word: "enthusiastic",
+        type: "adjective",
+        definition: {
+          chinese: "热情的；热心的",
+          english:
+            "Having or showing intense and eager enjoyment, interest, or approval.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "介词搭配",
+        explanation:
+          "表达“对……充满热情”时，最常用的介词是 'about'，即 'be passionate about something'。这是求职面试中的极高频句型。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "由名词 'passion' 加上形容词后缀 '-ate' 构成。正如 passion 演变出了强烈感情和热爱的意思，passionate 也主要用于形容这两种情感状态。",
+      explanation_english:
+        "Derived from the noun 'passion' with the adjective suffix '-ate'. It directly mirrors the noun's evolution, describing either intense enthusiasm for a subject or intense romantic feeling.",
+    },
+    variation_between_british_american: {
+      british: "用法完全一致。",
+      american: "用法完全一致。",
+    },
+  },
+  {
+    word: "greet",
+    pronunciation: {
+      british: "/ɡriːt/ 🇬🇧",
+      american: "/ɡriːt/ 🇺🇸",
+    },
+    phrase_type: "verb 动词",
+    usage:
+      "常用 👍：基础词汇，指在见面时打招呼、迎接，或指景色/声音等映入眼帘或传入耳中。",
+    meanings: [
+      {
+        type: "verb",
+        definition: {
+          chinese: "打招呼；迎接；欢迎",
+          english:
+            "To give a polite word or sign of welcome or recognition to (someone) on meeting.",
+        },
+        examples: [
+          {
+            sentence: "She greeted the guests at the door.",
+            translation: "她在门口迎接了客人们。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "呈现在...眼前；传入...耳中",
+          english:
+            "(Of a sight or sound) to become apparent to (a person arriving somewhere).",
+        },
+        examples: [
+          {
+            sentence: "A beautiful view greeted us from the window.",
+            translation: "从窗户望去，一片美丽的景色映入我们的眼帘。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "greet someone warmly",
+      "greet with a smile",
+      "be greeted by",
+    ],
+    related_words: [
+      {
+        word: "greeting",
+        type: "noun",
+        definition: {
+          chinese: "问候；致意",
+          english: "A polite word or sign of welcome or recognition.",
+        },
+      },
+      {
+        word: "welcome",
+        type: "verb",
+        definition: {
+          chinese: "欢迎",
+          english:
+            "To greet (someone arriving) in a glad, polite, or friendly way.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "感官表达",
+        explanation:
+          "'Be greeted by' 经常用于文学或描写性的段落中，不仅用于人，也用来表达“一到达某处，首先感受到/看到/听到的是什么”。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古英语 grētan，本意就是“接近某人、打招呼、交谈”。后来它不仅用于人与人的互动，也比喻为事物（如声音、风景）主动“迎接”人们的感官。",
+      explanation_english:
+        "From Old English grētan (to approach, address, call upon). The meaning naturally extended from a person welcoming another, to sights or sounds metaphorically 'welcoming' one's senses upon arrival.",
+    },
+    variation_between_british_american: {
+      british: "用法完全一致。",
+      american: "用法完全一致。",
+    },
+  },
+  {
+    word: "tunnel",
+    pronunciation: {
+      british: "/ˈtʌnl/ 🇬🇧",
+      american: "/ˈtʌnl/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage: "常用 👍：常指地下的通道、隧道（名词）；或挖掘隧道的动作（动词）。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "隧道；地道",
+          english:
+            "An artificial underground passage, especially one built through a hill or under a building, road, or river.",
+        },
+        examples: [
+          {
+            sentence: "The train went through a dark tunnel.",
+            translation: "火车穿过了一条黑暗的隧道。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "开凿隧道；挖地道",
+          english:
+            "To dig or force a passage underground or through something.",
+        },
+        examples: [
+          {
+            sentence: "The prisoners tunnelled under the wall to escape.",
+            translation: "囚犯们在墙下挖地道逃跑了。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["wind tunnel", "railway tunnel", "tunnel through"],
+    related_words: [
+      {
+        word: "passage",
+        type: "noun",
+        definition: {
+          chinese: "通道；走廊",
+          english:
+            "A way through or along which someone or something may pass.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "引申意义",
+        explanation:
+          "短语 'light at the end of the tunnel' 是极常见习语，指经过长期的困难后终于看到了希望的曙光。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古法语 tonnelle（桶状物、网）。因为它最初是用来捕猎的管状网，后来用于形容任何管状或筒状的地下通道，名词和动词之间的转换是英语非常典型的情况。",
+      explanation_english:
+        "From Old French tonnelle (tubular net). It originally described a tube-like net for catching birds, which led to the modern meaning of a tube-like underground passage. The verb is a direct functional derivative of the noun.",
+    },
+    variation_between_british_american: {
+      british: "动词变形时，过去式通常双写 'l'，即 'tunnelled'。",
+      american: "动词变形时通常不双写 'l'，即 'tunneled'。",
+    },
+  },
+  {
+    word: "diet",
+    pronunciation: {
+      british: "/ˈdaɪət/ 🇬🇧",
+      american: "/ˈdaɪət/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "极常用 👍：既可以指日常的饮食结构（名词），也可以特指为了减肥或健康而“节食”（名词/动词）。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "日常饮食",
+          english:
+            "The kinds of food that a person, animal, or community habitually eats.",
+        },
+        examples: [
+          {
+            sentence: "A healthy diet is important for children.",
+            translation: "健康的饮食对孩子们很重要。",
+          },
+        ],
+      },
+      {
+        type: "noun / verb",
+        definition: {
+          chinese: "节食；特种饮食",
+          english:
+            "A special course of food to which one restricts oneself, either to lose weight or for medical reasons; to restrict oneself to such a course of food.",
+        },
+        examples: [
+          {
+            sentence: "I'm going on a diet next week.",
+            translation: "我下周要开始节食了。",
+          },
+          {
+            sentence: "She has been dieting for two months.",
+            translation: "她已经节食两个月了。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["go on a diet", "healthy diet", "balanced diet"],
+    related_words: [
+      {
+        word: "nutrition",
+        type: "noun",
+        definition: {
+          chinese: "营养",
+          english:
+            "The process of providing or obtaining the food necessary for health and growth.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "词义区分",
+        explanation:
+          "注意不要一看到 'diet' 就以为是“减肥”。它很多时候只是中立地表示“饮食结构”，比如 'Japanese diet'（日本人的饮食习惯，并非日本式减肥）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自希腊语 diaita，意思是“生活方式”或“生活习惯”。后来演变为特指饮食习惯。现代社会由于肥胖问题增加，这个词逐渐衍生出“为了减肥而采取的特定饮食控制”这层含义。",
+      explanation_english:
+        "From Greek diaita (way of life). It originally referred to an overall lifestyle, then narrowed to eating habits. The modern 'weight-loss' meaning is a more recent extension due to societal focus on weight management.",
+    },
+    variation_between_british_american: {
+      british: "用法一致。在英国，'Diet Coke' 等饮料品牌词极常见。",
+      american: "用法一致。美国人同样常用 'go on a diet'。",
+    },
+  },
+  {
+    word: "radio",
+    pronunciation: {
+      british: "/ˈreɪdiəʊ/ 🇬🇧",
+      american: "/ˈreɪdioʊ/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "极常用 👍：指收音机、无线电广播。作为动词时用于军事、航空或警务中，表示用对讲机/无线电呼叫。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "收音机；无线电广播",
+          english:
+            "The transmission and reception of electromagnetic waves of radio frequency, especially those carrying sound messages; a device used to receive these signals.",
+        },
+        examples: [
+          {
+            sentence: "I like listening to the radio while driving.",
+            translation: "我喜欢开车时听收音机。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "用无线电发送（信息）；用无线电与...联系",
+          english:
+            "To communicate with (someone) or send (a message) by radio.",
+        },
+        examples: [
+          {
+            sentence: "The pilot radioed for help.",
+            translation: "飞行员用无线电呼救。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "listen to the radio",
+      "radio station",
+      "radio signal",
+    ],
+    related_words: [
+      {
+        word: "broadcast",
+        type: "verb/noun",
+        definition: {
+          chinese: "广播",
+          english:
+            "Transmit (a program or some information) by radio or television.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "定冠词使用",
+        explanation:
+          "表示听广播节目时，固定搭配是 'listen to the radio'，而看电视通常是 'watch TV'（不加the）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "由 'radio-'（表示辐射的词缀）简化而来。最初指无线电波（radiotelegraphy），后来直接用来指代接收无线电波的设备（收音机）以及利用该设备进行通讯的动作（动词）。",
+      explanation_english:
+        "Shortened from 'radiotelegraphy' or 'radiophone' in the early 20th century. Evolved from denoting the physical waves to the receiving device, and finally the act of communicating using it.",
+    },
+    variation_between_british_american: {
+      british: "发音元音为 /əʊ/。用法与美式相同。",
+      american: "发音元音为 /oʊ/。用法完全一致。",
+    },
+  },
+  {
+    word: "poop",
+    pronunciation: {
+      british: "/puːp/ 🇬🇧",
+      american: "/puːp/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "非正式常用：指排泄物或大便，常用于儿童口语、家庭谈话或养宠物的场景。在航海术语中也有“船尾”的意思（极少用）。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "便便；屎（儿语或非正式）",
+          english: "Excrement (informal, often used by or to children).",
+        },
+        examples: [
+          {
+            sentence: "Don't step in the dog poop!",
+            translation: "别踩到狗屎！",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "拉屎",
+          english: "To defecate (informal).",
+        },
+        examples: [
+          {
+            sentence: "The baby pooped in her diaper.",
+            translation: "婴儿把尿布拉脏了。",
+          },
+        ],
+      },
+      {
+        type: "adjective",
+        definition: {
+          chinese: "精疲力尽的（用作pooped）",
+          english: "Exhausted (usually 'pooped out' or 'pooped').",
+        },
+        examples: [
+          {
+            sentence: "I'm completely pooped after that hike.",
+            translation: "徒步之后我彻底累瘫了。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["dog poop", "pick up the poop", "poop scoop"],
+    related_words: [
+      {
+        word: "feces",
+        type: "noun",
+        definition: {
+          chinese: "粪便（正式/医学）",
+          english: "Waste matter discharged from the bowels (formal/medical).",
+        },
+      },
+      {
+        word: "crap",
+        type: "noun/verb",
+        definition: {
+          chinese: "屎；废话（比poop稍微粗俗一点）",
+          english: "Excrement or nonsense (slang/mildly vulgar).",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "语境注意",
+        explanation:
+          "‘poop’ 并不粗俗，它是父母对孩子说话时的标准用词，也是狗主人遛狗时常用的词（pick up poop）。但不在商务等正式场合使用。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "作为排泄物的意思，很可能源自模仿排气或婴儿发音的拟声词。‘Pooped’（累坏了）可能来源于航海术语中被海浪冲刷过船尾（poop deck）后船只停滞不前的状态，比喻人没力气了。",
+      explanation_english:
+        "The excrement meaning is likely of imitative origin or from nursery talk. The meaning of 'exhausted' (pooped) may come from sailing, where being 'pooped' meant a ship was swamped by a wave over the poop deck and rendered motionless.",
+    },
+    variation_between_british_american: {
+      british: "英式英语中，对于儿语更常使用 'poo' 而不是 'poop'。",
+      american: "美式英语中最标准的儿语和非正式用词，'poop' 非常普及。",
+    },
+  },
+  {
+    word: "crankiness",
+    pronunciation: {
+      british: "/ˈkræŋkinəs/ 🇬🇧",
+      american: "/ˈkræŋkinəs/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage: "一般常用：用于形容人（尤其是儿童或没睡好的人）易怒、暴躁的状态。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "暴躁；易怒；脾气坏",
+          english:
+            "The state of being easily annoyed or angered; bad-tempered.",
+        },
+        examples: [
+          {
+            sentence: "His crankiness was due to lack of sleep.",
+            translation: "他的暴躁是因为睡眠不足。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["excuse my crankiness", "morning crankiness"],
+    related_words: [
+      {
+        word: "cranky",
+        type: "adjective",
+        definition: {
+          chinese: "脾气坏的；易怒的",
+          english: "Ill-tempered; irritable.",
+        },
+      },
+      {
+        word: "grumpiness",
+        type: "noun",
+        definition: {
+          chinese: "脾气不好；嘟囔",
+          english: "The state of being bad-tempered and sulky.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "情景使用",
+        explanation:
+          "这个词并不代表深刻的愤怒或仇恨，而是那种日常的、由疲惫或饥饿引起的“起床气”或“烦躁”。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "来自形容词 'cranky' + 名词后缀 '-ness'。'Cranky' 原本指机器中的曲柄（crank）运作不畅或弯曲，后来比喻人的性格也是“弯曲、不顺畅”的，即易怒难伺候。",
+      explanation_english:
+        "From the adjective 'cranky' + '-ness'. 'Cranky' originally referred to a machine part (crank) acting up or being bent/crooked, which metaphorically extended to someone having a 'crooked' or difficult temper.",
+    },
+    variation_between_british_american: {
+      british:
+        "英式英语中形容坏脾气，更常使用 'grumpiness' 或 'bad-tempered'。",
+      american: "在北美非常普遍，家长经常说孩子没睡午觉会 'cranky'。",
+    },
+  },
+  {
+    word: "crematorium",
+    pronunciation: {
+      british: "/ˌkrɛməˈtɔːriəm/ 🇬🇧",
+      american: "/ˌkriːməˈtɔːriəm/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "特定场景常用：指火葬场。通常出现在新闻、法律文件或安排葬礼时的严肃谈话中。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "火葬场",
+          english: "A place where a dead person's body is cremated.",
+        },
+        examples: [
+          {
+            sentence: "The service was held at the local crematorium.",
+            translation: "仪式在当地的火葬场举行。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["local crematorium", "crematorium service"],
+    related_words: [
+      {
+        word: "cremate",
+        type: "verb",
+        definition: {
+          chinese: "火葬；火化",
+          english:
+            "Dispose of (a dead person's body) by burning it to ashes, typically after a funeral ceremony.",
+        },
+      },
+      {
+        word: "cemetery",
+        type: "noun",
+        definition: {
+          chinese: "墓地",
+          english: "A burial ground; a graveyard.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "文化背景",
+        explanation:
+          "在很多西方国家，即使进行火化，家人也会先举办告别仪式（funeral/service），地点经常就在火葬场的礼拜堂里进行。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自现代拉丁语，由 cremator（火化者，源自拉丁语 cremare 燃烧）加上表示“地点”的后缀 -ium 构成。",
+      explanation_english:
+        "Modern Latin formation from cremator (burner, from Latin cremare to burn) + -ium (suffix denoting a place). It specifically means 'place of burning'.",
+    },
+    variation_between_british_american: {
+      british: "发音第一个音节多为短音 /krɛ/。",
+      american:
+        "发音第一个音节多为长音 /kriː/。另外，美语中有时也简称为 'crematory'。",
+    },
+  },
+  {
+    word: "rag",
+    pronunciation: {
+      british: "/ræɡ/ 🇬🇧",
+      american: "/ræɡ/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "常用 👍：日常生活中指抹布或破布。也常出现在习语中，如 'rags to riches'（从赤贫到暴富）。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "破布；抹布",
+          english:
+            "A piece of old cloth, especially one torn from a larger piece, used typically for cleaning things.",
+        },
+        examples: [
+          {
+            sentence: "He wiped his greasy hands on an old rag.",
+            translation: "他用一块旧抹布擦去手上油污。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "低劣的报纸（俚语，带贬义）",
+          english:
+            "A newspaper or magazine of low quality or lacking respectability (derogatory).",
+        },
+        examples: [
+          {
+            sentence: "I wouldn't believe a word in that rag.",
+            translation: "那家小报上的话我一个字都不信。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["cleaning rag", "from rags to riches", "in rags"],
+    related_words: [
+      {
+        word: "ragged",
+        type: "adjective",
+        definition: {
+          chinese: "衣衫褴褛的；粗糙的",
+          english:
+            "(Of cloth or clothes) old and torn; wearing old and torn clothes.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "习语表达",
+        explanation:
+          "'In rags' 表示某人穿着破破烂烂的衣服。'Rags to riches' 是英语文学和媒体中最常见的词组之一，形容白手起家的励志故事。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "可能源自古诺斯语 rögg（毛发、破布条）。其基本意思就是破损的织物。后来引申为形容低质量的东西，比如满纸胡言的八卦小报（小报就像用来擦地就丢的抹布一样廉价）。",
+      explanation_english:
+        "Likely from Old Norse rögg (tuft of hair, rough edge). The primary meaning is torn cloth. This devolved metaphorically into a derogatory term for a low-quality newspaper, suggesting it's only fit to be used as waste paper or a cleaning cloth.",
+    },
+    variation_between_british_american: {
+      british:
+        "英国大学文化中还有一个特殊动词用法 'rag week'，指大学生为慈善募捐而进行的狂欢或搞怪活动。",
+      american:
+        "美语中主要用作抹布或形容烂报纸。俚语中也常指捉弄某人（rag on someone）。",
+    },
+  },
+  {
+    word: "fearsome",
+    pronunciation: {
+      british: "/ˈfɪəsəm/ 🇬🇧",
+      american: "/ˈfɪrsəm/ 🇺🇸",
+    },
+    phrase_type: "adjective 形容词",
+    usage:
+      "较常用：带有文学或戏剧色彩的词，用于形容非常可怕、令人敬畏的人、动物或事物（如龙、对手、武器）。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: {
+          chinese: "可怕的；令人生畏的",
+          english: "Frightening, especially in appearance.",
+        },
+        examples: [
+          {
+            sentence: "He has a fearsome reputation as a fighter.",
+            translation: "他有着令人胆寒的格斗家名声。",
+          },
+          {
+            sentence: "The dragon was a fearsome beast.",
+            translation: "这条龙是一只可怕的野兽。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "fearsome reputation",
+      "fearsome opponent",
+      "fearsome weapon",
+    ],
+    related_words: [
+      {
+        word: "scary",
+        type: "adjective",
+        definition: {
+          chinese: "可怕的（更口语化）",
+          english: "Frightening; causing fear.",
+        },
+      },
+      {
+        word: "formidable",
+        type: "adjective",
+        definition: {
+          chinese: "强大的；令人敬畏的",
+          english:
+            "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "词义区分",
+        explanation:
+          "‘Fearsome’ 比普通的 'scary' 更强烈，且常常带有“令人敬畏”的成分。比如形容一个出色的体育对手，说他 'fearsome'，其实是在称赞他的实力极强。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "由名词 'fear'（恐惧）加上后缀 '-some'（产生...的，倾向于...的）组成。字面意思就是“制造恐惧的”。",
+      explanation_english:
+        "Formed from the noun 'fear' and the suffix '-some' (characterized by, producing). It literally means 'producing fear'.",
+    },
+    variation_between_british_american: {
+      british: "发音不卷舌 /ɪə/。用法一致。",
+      american: "发音卷舌 /ɪr/。用法一致。",
+    },
+  },
+  {
+    word: "disturbance",
+    pronunciation: {
+      british: "/dɪˈstɜːbəns/ 🇬🇧",
+      american: "/dɪˈstɜːrbəns/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "常用 👍：正式用语，常出现于新闻、警方报告或公共场合规定中，指骚乱、打扰、破坏和平安宁的行为。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "打扰；干扰；骚乱；动乱",
+          english:
+            "The interruption of a settled and peaceful condition; a riot, brawl, or public turmoil.",
+        },
+        examples: [
+          {
+            sentence: "The police were called to a disturbance at the pub.",
+            translation: "警察被叫去处理酒吧里的一起骚乱。",
+          },
+          {
+            sentence: "I can work without disturbance here.",
+            translation: "我在这里工作不会受到干扰。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "cause a disturbance",
+      "create a disturbance",
+      "emotional disturbance",
+    ],
+    related_words: [
+      {
+        word: "disturb",
+        type: "verb",
+        definition: {
+          chinese: "打扰",
+          english: "Interfere with the normal arrangement or functioning of.",
+        },
+      },
+      {
+        word: "disruption",
+        type: "noun",
+        definition: {
+          chinese: "中断；扰乱",
+          english:
+            "Disturbance or problems which interrupt an event, activity, or process.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "特定法律含义",
+        explanation:
+          "在美国等西方国家的法律里，'disturbance of the peace'（扰乱公共治安）是一个轻罪罪名，比如深夜大声放音乐。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古法语 destorbance，来自动词 disturb。原意是将事物“打碎、拆散”。现在泛指一切破坏正常秩序、安静或社会和平的状态。",
+      explanation_english:
+        "From Old French destorbance, derived from the verb disturb. The core idea is tearing apart the order of things, which translates to anything that interrupts peace, quiet, or social order.",
+    },
+    variation_between_british_american: {
+      british:
+        "用法一致。常在公共交通广播中听到，提醒乘客不要造成 disturbance。",
+      american: "用法一致。常在新闻报道中形容酒吧打架或街头小规模冲突。",
+    },
+  },
+  {
+    word: "poultry",
+    pronunciation: {
+      british: "/ˈpəʊltri/ 🇬🇧",
+      american: "/ˈpoʊltri/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "较常用：在农业、食品工业或超市分类中常用，统指家禽（如鸡、鸭、火鸡等）及其肉类。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "家禽；家禽肉",
+          english:
+            "Domestic fowl, such as chickens, turkeys, ducks, and geese; the flesh of these birds used as food.",
+        },
+        examples: [
+          {
+            sentence: "He runs a poultry farm.",
+            translation: "他经营着一个家禽养殖场。",
+          },
+          {
+            sentence: "Make sure the poultry is cooked thoroughly.",
+            translation: "确保禽肉彻底煮熟。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["poultry farm", "meat and poultry", "frozen poultry"],
+    related_words: [
+      {
+        word: "fowl",
+        type: "noun",
+        definition: {
+          chinese: "禽类（尤指家禽，略古老）",
+          english:
+            "A galliform bird kept for its eggs and flesh; a domestic cock or hen.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "分类常识",
+        explanation:
+          "在西方的超市里，肉类通常被清晰地分为 'Meat'（红肉如牛羊猪）和 'Poultry'（白肉/家禽类）以及 'Seafood'（海鲜）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古法语 pouletrie，基于 poulet（小鸡）。它是一个集体名词，因此演变成不仅指活的鸟类，也指端上餐桌的肉类。",
+      explanation_english:
+        "From Old French pouletrie, based on poulet (young fowl/chicken). As a collective noun, it naturally evolved to mean both the live domesticated birds and their flesh prepared as food.",
+    },
+    variation_between_british_american: {
+      british: "元音发音为 /əʊ/。用法一致。",
+      american: "元音发音为 /oʊ/。用法一致。",
+    },
+  },
+  {
+    word: "blare",
+    pronunciation: {
+      british: "/bleə(r)/ 🇬🇧",
+      american: "/bler/ 🇺🇸",
+    },
+    phrase_type: "verb & noun 动词 & 名词",
+    usage:
+      "较常用：专指发出极其响亮、刺耳的声音。多用于形容警笛、喇叭或巨大的音乐声。",
+    meanings: [
+      {
+        type: "verb",
+        definition: {
+          chinese: "高声鸣叫；大声播放",
+          english: "To make or cause to make a loud, harsh sound.",
+        },
+        examples: [
+          {
+            sentence: "Music was blaring from his open car windows.",
+            translation: "音乐从他敞开的车窗里震耳欲聋地传出来。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "巨响；刺耳的声音",
+          english: "A loud, harsh sound.",
+        },
+        examples: [
+          {
+            sentence: "The blare of the sirens woke everyone up.",
+            translation: "刺耳的警笛声把所有人都吵醒了。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["blare out", "sirens blaring", "music blaring"],
+    related_words: [
+      {
+        word: "blast",
+        type: "verb",
+        definition: {
+          chinese: "大声播放（音乐）；爆炸",
+          english: "To produce loud, continuous music or noise.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "感情色彩",
+        explanation:
+          "‘Blare’ 通常带有一点负面色彩，因为这种声音过于响亮，通常具有侵入性，会干扰到别人。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自中世纪荷兰语 blaren，意为“吼叫，哭喊”。它的核心意思一直是响亮、粗糙且难以忽视的声音，所以自然用来形容现代扩音器、喇叭的声音。",
+      explanation_english:
+        "From Middle Dutch blaren (to roar, cry). The core meaning has always been a loud, rough, unignorable noise, making it perfectly suited to describe modern sirens and loud speakers.",
+    },
+    variation_between_british_american: {
+      british: "英式英语中 r 不发音。",
+      american: "美式英语中 r 发音。用法一致。",
+    },
+  },
+  {
+    word: "proposition",
+    pronunciation: {
+      british: "/ˌprɒpəˈzɪʃn/ 🇬🇧",
+      american: "/ˌprɑːpəˈzɪʃn/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "常用 👍：在商务、法律和数学逻辑中非常重要，指提议、主张或待处理的事情。动词形式非正式，指提出（常带有性暗示的）邀请。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "提议；建议；主张；（美国选举中的）提案",
+          english:
+            "A statement or assertion that expresses a judgment or opinion; a suggested scheme or plan of action, especially in a business context.",
+        },
+        examples: [
+          {
+            sentence: "He made an attractive business proposition.",
+            translation: "他提出了一个有吸引力的商业合作计划。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "待处理的问题/任务",
+          english: "A project, task, or idea to be dealt with.",
+        },
+        examples: [
+          {
+            sentence: "Starting a new business is a risky proposition.",
+            translation: "创业是一项有风险的事情。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "向...提议（常指不道德的或性方面的提议）",
+          english:
+            "To make a suggestion of sexual intercourse to (someone with whom one is not sexually involved).",
+        },
+        examples: [
+          {
+            sentence: "She was offended when her boss propositioned her.",
+            translation: "当老板向她提出非分之想时，她感到受到了侮辱。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "business proposition",
+      "risky proposition",
+      "value proposition",
+    ],
+    related_words: [
+      {
+        word: "proposal",
+        type: "noun",
+        definition: {
+          chinese: "提议；求婚（比proposition更正式、更正面）",
+          english:
+            "A plan or suggestion, especially a formal or written one, put forward for consideration.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "词义区分",
+        explanation:
+          "在商业上，'value proposition' (价值主张) 是核心概念。但要特别注意动词用法：如果你说 'He propositioned me'，通常是指他提出了性暗示的邀请，而不是商业合作！",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 propositio（向前放置、展示）。从“摆出来的主意”，演变为商业计划、数学命题。动词用法的性暗示含义是在近代演变出来的俚语用法，表示“把那个想法摆到台面上”。",
+      explanation_english:
+        "From Latin propositio (a setting forth). It evolved from 'an idea set forward' to denote business plans and mathematical statements. The slang verb meaning of making sexual advances evolved in modern times as a euphemism for 'setting that specific idea forth'.",
+    },
+    variation_between_british_american: {
+      british: "常发音 /ɒ/。",
+      american:
+        "常发音 /ɑː/。在美国政治中，Proposition（常简写为 Prop）特指由公民投票表决的州级提案（如加州的 Prop 8）。",
+    },
+  },
+  {
+    word: "sewer",
+    pronunciation: {
+      british: "/ˈsuːə(r)/ 🇬🇧",
+      american: "/ˈsuːər/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage: "常用 👍：日常及市政工程词汇，指地下排水管或下水道。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "下水道；阴沟",
+          english:
+            "An underground conduit for carrying off drainage water and waste matter.",
+        },
+        examples: [
+          {
+            sentence: "The city needs to upgrade its sewer system.",
+            translation: "这座城市需要升级其下水道系统。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["sewer system", "open sewer", "storm sewer"],
+    related_words: [
+      {
+        word: "sewage",
+        type: "noun",
+        definition: {
+          chinese: "污水；排泄物（在sewer中流动的物质）",
+          english: "Waste water and excrement conveyed in sewers.",
+        },
+      },
+      {
+        word: "drain",
+        type: "noun",
+        definition: {
+          chinese: "排水管；地漏",
+          english: "A channel or pipe carrying off surplus liquid.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "发音警告",
+        explanation:
+          "注意！这个词发音像 'soo-er'。英语中还有一个词拼写一模一样：'sewer' (发音为 /ˈsəʊər/ /soʊər/)，意思是“缝纫者”（源自动词 sew）。根据语境判断。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "作为下水道，源自古法语 esseveur（排出水的地方），最终追溯到拉丁语 exaquare（把水排出）。这与发音完全不同的“缝纫者”（来自 sew）属于同形异义词（偶然拼写相同，词源完全不同）。",
+      explanation_english:
+        "The drainage pipe meaning comes from Old French esseveur (to drain off water), from Latin exaquare. This is a completely different etymology from the homograph 'sewer' (a person who sews), which comes from the verb 'sew'.",
+    },
+    variation_between_british_american: {
+      british: "用法一致。发音不卷舌。",
+      american: "用法一致。发音带卷舌 /r/。",
+    },
+  },
+  {
+    word: "pedal",
+    pronunciation: {
+      british: "/ˈpedl/ 🇬🇧",
+      american: "/ˈpedl/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "常用 👍：日常生活中非常基础，常用于自行车、汽车（油门/刹车/离合器）或钢琴上的脚踏板。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "踏板；脚蹬",
+          english:
+            "A foot-operated lever used for controlling a mechanism, such as a bicycle, car, or piano.",
+        },
+        examples: [
+          {
+            sentence: "He put his foot on the brake pedal.",
+            translation: "他把脚踩在了刹车踏板上。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "踩踏板；骑自行车",
+          english: "To move by working the pedals of a bicycle.",
+        },
+        examples: [
+          {
+            sentence: "She pedalled hard up the hill.",
+            translation: "她奋力踩着自行车上山。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["brake pedal", "gas pedal", "pedal a bike"],
+    related_words: [
+      {
+        word: "pedestrian",
+        type: "noun",
+        definition: {
+          chinese: "行人",
+          english:
+            "A person walking rather than travelling in a vehicle (shares the same root).",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "生活场景",
+        explanation:
+          "在美式英语中，油门被称为 'gas pedal'；在英式中则多称为 'accelerator'。习语 'put the pedal to the metal' 意思是把油门踩到底/全力以赴。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 pedalis，意思是“属于脚的”（词根 ped- 意为脚，类似还有 pedicure 足疗）。因为踏板就是用脚控制的装置，作动词时自然也就是“用脚踩踏板”。",
+      explanation_english:
+        "From Latin pedalis (relating to the foot), from pes/ped- (foot). Since a pedal is a mechanism operated by the foot, the verb naturally means the action of operating it.",
+    },
+    variation_between_british_american: {
+      british: "动词过去式和进行时常双写 l：pedalled, pedalling。",
+      american:
+        "汽车油门常叫 gas pedal。动词变形常不双写 l：pedaled, pedaling。",
+    },
+  },
+  {
+    word: "curly",
+    pronunciation: {
+      british: "/ˈkɜːli/ 🇬🇧",
+      american: "/ˈkɜːrli/ 🇺🇸",
+    },
+    phrase_type: "adjective 形容词",
+    usage:
+      "常用 👍：最常用于描述人的头发、动物的毛发，或是蔬菜、叶子等卷曲的形状。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: {
+          chinese: "卷曲的；长着卷发的",
+          english: "Made, growing, or arranged in curls or curves.",
+        },
+        examples: [
+          {
+            sentence: "She has beautiful curly hair.",
+            translation: "她有一头美丽的卷发。",
+          },
+          {
+            sentence: "We bought some curly kale from the market.",
+            translation: "我们从市场上买了一些卷叶羽衣甘蓝。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["curly hair", "curly fries", "naturally curly"],
+    related_words: [
+      {
+        word: "curl",
+        type: "noun/verb",
+        definition: {
+          chinese: "卷发；使卷曲",
+          english:
+            "A complete circle or a shape like a spiral; to form into such a shape.",
+        },
+      },
+      {
+        word: "straight",
+        type: "adjective",
+        definition: {
+          chinese: "直的（反义词）",
+          english:
+            "Extending uniformly in one direction without a curve or bend.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "食物名称",
+        explanation:
+          "'Curly fries' (扭扭薯条/卷薯条) 在快餐店是非常受欢迎的单品。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "来自动词/名词 'curl' 加上形容词后缀 '-y'。核心含义没有变化，都是指非直线的、环状的特征。",
+      explanation_english:
+        "Derived from 'curl' + the adjective suffix '-y'. The core meaning remains focused on having spiral or curved shapes.",
+    },
+    variation_between_british_american: {
+      british: "发音不卷舌 /ɜː/。",
+      american:
+        "发音卷舌 /ɜːr/。美式英语中常用它来形容一种括号 '{}' 为 'curly brackets'。",
+    },
+  },
+  {
+    word: "crunch",
+    pronunciation: {
+      british: "/krʌntʃ/ 🇬🇧",
+      american: "/krʌntʃ/ 🇺🇸",
+    },
+    phrase_type: "verb & noun 动词 & 名词",
+    usage:
+      "常用 👍：既可以指咬碎硬物的声音和动作（如吃薯片、踩在雪地上），也可以比喻处理大量数据，或者指“紧要关头”。",
+    meanings: [
+      {
+        type: "verb",
+        definition: {
+          chinese: "嘎吱作响地咀嚼；踩踏出嘎吱声",
+          english:
+            "To crush a hard food with the teeth, making a loud sound; to make a crunching sound when walking over something like gravel or snow.",
+        },
+        examples: [
+          {
+            sentence: "She was crunching on an apple.",
+            translation: "她正嘎吱嘎吱地啃苹果。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "大量处理（数字、数据）",
+          english:
+            "To process large quantities of information or numbers (crunch numbers).",
+        },
+        examples: [
+          {
+            sentence: "The computer is crunching the data right now.",
+            translation: "电脑目前正在处理这些数据。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "嘎吱声；紧要关头（the crunch）",
+          english:
+            "A loud muffled grinding sound; a crucial point or situation, typically one where a decision with important consequences must be made.",
+        },
+        examples: [
+          {
+            sentence: "When the crunch comes, we'll have to choose.",
+            translation: "到了紧要关头，我们就必须做出选择。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "crunch numbers",
+      "when it comes to the crunch",
+      "crunch time",
+    ],
+    related_words: [
+      {
+        word: "crunchy",
+        type: "adjective",
+        definition: {
+          chinese: "松脆的；咬起来嘎吱作响的",
+          english: "Making a sharp noise when bitten or crushed.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "职场/科技词汇",
+        explanation:
+          "在游戏开发和科技公司，'crunch time'（或者直接叫 crunch）是一个臭名昭著的词，指项目发布前高压、超长时间的疯狂加班期。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "最初是一个拟声词，模仿咬碎骨头或踩在碎石上的声音。后来由于计算器处理大量数据就像粉碎机“粉碎”物品一样，引申出了 'crunch numbers'（处理数据）。而“巨大的压力将事物挤碎”的意象，则引申出了“紧要关头/极端压力期”的意思。",
+      explanation_english:
+        "Originally an imitative word mimicking the sound of crushing hard things. The idea of machinery aggressively grinding things up led to the phrase 'crunch numbers' (processing large amounts of data). The metaphorical idea of things being squeezed under extreme pressure gave rise to 'the crunch' meaning a crucial or stressful situation.",
+    },
+    variation_between_british_american: {
+      british: "当说到腹部锻炼时，英国人常说 sit-ups，但也理解 crunches。",
+      american:
+        "美语中极常使用 'crunches' 指代“卷腹”这种健身动作。'Crunch time' 在北美职场非常流行。",
+    },
+  },
+  {
+    word: "imperative",
+    pronunciation: {
+      british: "/ɪmˈperətɪv/ 🇬🇧",
+      american: "/ɪmˈperətɪv/ 🇺🇸",
+    },
+    phrase_type: "adjective & noun 形容词 & 名词",
+    usage:
+      "常用 👍：常用于正式场合，表示极其重要、紧急的，或在语法中表示祈使句。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: {
+          chinese: "至关重要的；迫切的",
+          english: "Of vital importance; crucial.",
+        },
+        examples: [
+          {
+            sentence: "It is absolutely imperative that we finish by Friday.",
+            translation: "我们必须在周五前完成，这至关重要。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "必要的事；（语法）祈使语气",
+          english:
+            "An essential or urgent thing; a verb or phrase in the imperative mood.",
+        },
+        examples: [
+          {
+            sentence: "Free speech is a democratic imperative.",
+            translation: "言论自由是民主的必要条件。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "absolutely imperative",
+      "moral imperative",
+      "business imperative",
+    ],
+    related_words: [
+      {
+        word: "crucial",
+        type: "adjective",
+        definition: {
+          chinese: "至关重要的",
+          english:
+            "Decisive or critical, especially in the success or failure of something.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "句型固定",
+        explanation:
+          "‘It is imperative that...’ 是一种非常正式且强调语气的句型，后面的从句中动词通常使用原形（虚拟语气）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 imperativus，意为“命令的”。因为是“命令”，所以引申为“必须做的、极其重要的事物”，在语法里自然就被用来指代命令句/祈使句。",
+      explanation_english:
+        "From Latin imperativus (commanding). Because it implies a command, it evolved to mean something absolutely necessary or urgent, and in grammar, it directly refers to command sentences.",
+    },
+    variation_between_british_american: {
+      british: "用法完全一致。",
+      american: "用法完全一致。",
+    },
+  },
+  {
+    word: "crotchless",
+    pronunciation: {
+      british: "/ˈkrɒtʃləs/ 🇬🇧",
+      american: "/ˈkrɑːtʃləs/ 🇺🇸",
+    },
+    phrase_type: "adjective 形容词",
+    usage:
+      "特定情境：指没有裆部的（通常指内衣或连裤袜），属于成人用品或情趣服饰的专有词汇。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: {
+          chinese: "开裆的",
+          english: "(Of underpants or tights) having the crotch removed.",
+        },
+        examples: [
+          {
+            sentence: "She bought some crotchless lingerie.",
+            translation: "她买了一些开裆情趣内衣。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "crotchless panties",
+      "crotchless tights",
+      "crotchless lingerie",
+    ],
+    related_words: [
+      {
+        word: "crotch",
+        type: "noun",
+        definition: {
+          chinese: "裆部",
+          english:
+            "The part of the human body between the legs where they join the torso.",
+        },
+      },
+      {
+        word: "lingerie",
+        type: "noun",
+        definition: {
+          chinese: "女式内衣",
+          english: "Women's underwear and nightclothes.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "使用语境",
+        explanation:
+          "这是一个非常具体的产品描述词汇，带有强烈的成人色彩，在正式场合不会使用。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "由名词 'crotch'（裆部）加上否定后缀 '-less'（没有...的）组合而成，字面意思就是“没有裆部的”。",
+      explanation_english:
+        "A direct combination of the noun 'crotch' and the suffix '-less' (without), literally meaning 'without a crotch'.",
+    },
+    variation_between_british_american: {
+      british: "发音包含 /ɒ/。拼写与含义一致。",
+      american: "发音包含 /ɑː/。拼写与含义一致。",
+    },
+  },
+  {
+    word: "accomplishment",
+    pronunciation: {
+      british: "/əˈkʌmplɪʃmənt/ 🇬🇧",
+      american: "/əˈkɑːmplɪʃmənt/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "常用 👍：用于简历、面试或表扬时，指取得的成就、完成的壮举或某人的才华技能。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "成就；成绩；完成",
+          english:
+            "Something that has been achieved successfully; the successful completion of something.",
+        },
+        examples: [
+          {
+            sentence:
+              "Getting the project done on time was a major accomplishment.",
+            translation: "按时完成项目是一项重大成就。",
+          },
+          {
+            sentence: "She felt a great sense of accomplishment.",
+            translation: "她感到巨大的成就感。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "才华；造诣",
+          english: "An acquired skill or highly developed characteristic.",
+        },
+        examples: [
+          {
+            sentence:
+              "Playing the piano is just one of her many accomplishments.",
+            translation: "弹钢琴只是她众多才华中的一项。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "sense of accomplishment",
+      "great accomplishment",
+      "proudest accomplishment",
+    ],
+    related_words: [
+      {
+        word: "achieve",
+        type: "verb",
+        definition: {
+          chinese: "实现；达到",
+          english:
+            "Successfully bring about or reach (a desired objective or result) by effort, skill, or courage.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "面试高频词",
+        explanation:
+          "在职场面试中，面试官最常问的问题之一就是 'What is your greatest accomplishment?'（你最大的成就是什么？）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古法语 acomplir（完成），最终追溯到拉丁语 complere（填满）。从“成功地完成一件事”，引申出“做成的事（成就）”，再引申为“通过练习掌握的技能（才华）”。",
+      explanation_english:
+        "From Old French acomplir (to complete). The core idea of 'successfully finishing something' evolved to mean the successful result itself (achievement), and later, a skill acquired through practice.",
+    },
+    variation_between_british_american: {
+      british: "发音元音为 /ʌ/ 或 /ɒ/。",
+      american: "发音元音为 /ɑː/。用法完全一致。",
+    },
+  },
+  {
+    word: "drone",
+    pronunciation: {
+      british: "/drəʊn/ 🇬🇧",
+      american: "/droʊn/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "常用 👍：现代最常用于指“无人机”。传统上指雄蜂或持续嗡嗡作响的声音/说话方式。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "无人机；雄蜂；嗡嗡声",
+          english:
+            "An unmanned aerial vehicle (UAV); a male bee; a continuous low humming sound.",
+        },
+        examples: [
+          {
+            sentence: "They used a drone to film the wedding from above.",
+            translation: "他们用无人机从空中拍摄了婚礼。",
+          },
+          {
+            sentence: "I could hear the drone of a distant airplane.",
+            translation: "我能听到远处飞机的嗡嗡声。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "发出嗡嗡声；喋喋不休地说",
+          english:
+            "To make a continuous low humming sound; to speak tediously in a dull monotonous tone.",
+        },
+        examples: [
+          {
+            sentence: "The professor droned on for two hours.",
+            translation: "教授单调乏味地喋喋不休了两个小时。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["drone strike", "fly a drone", "drone on"],
+    related_words: [
+      {
+        word: "buzz",
+        type: "noun/verb",
+        definition: {
+          chinese: "嗡嗡声",
+          english: "A low, continuous humming or murmuring sound.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "短语动词",
+        explanation:
+          "‘drone on’ 是一个非常生动的贬义短语，指某人用无聊单调的声音一直讲个不停，让人昏昏欲睡。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古英语 dran（雄蜂）。因为雄蜂飞行时发出低沉单调的嗡嗡声，这个词就被用来形容类似的声音。到了现代，因为早期的靶机飞行时也会发出这种单调的嗡嗡声，就被形象地命名为 drone，也就是现在的“无人机”。",
+      explanation_english:
+        "From Old English dran (male honeybee). Because of the low, monotonous humming sound male bees make, it became a verb/noun for such sounds. Later, early unmanned target aircraft were nicknamed 'drones' due to their similar humming noise, leading to the modern UAV meaning.",
+    },
+    variation_between_british_american: {
+      british: "发音包含 /əʊ/。用法完全相同。",
+      american: "发音包含 /oʊ/。用法完全相同。",
+    },
+  },
+  {
+    word: "legal",
+    pronunciation: {
+      british: "/ˈliːɡl/ 🇬🇧",
+      american: "/ˈliːɡl/ 🇺🇸",
+    },
+    phrase_type: "adjective 形容词",
+    usage:
+      "极常用 👍：法律相关的核心词汇，表示事物是合法的，或者与法律体系相关的。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: {
+          chinese: "合法的",
+          english: "Permitted by law.",
+        },
+        examples: [
+          {
+            sentence: "Is it legal to park here?",
+            translation: "停在这里合法吗？",
+          },
+        ],
+      },
+      {
+        type: "adjective",
+        definition: {
+          chinese: "法律的；法定的",
+          english: "Appointed or required by the law; relating to the law.",
+        },
+        examples: [
+          {
+            sentence: "They are seeking legal advice.",
+            translation: "他们正在寻求法律建议。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["legal advice", "legal action", "completely legal"],
+    related_words: [
+      {
+        word: "illegal",
+        type: "adjective",
+        definition: {
+          chinese: "非法的",
+          english: "Contrary to or forbidden by law, especially criminal law.",
+        },
+      },
+      {
+        word: "lawful",
+        type: "adjective",
+        definition: {
+          chinese: "合法的；正当的",
+          english:
+            "Conforming to, permitted by, or recognized by law or rules (often implies moral correctness).",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "概念区分",
+        explanation:
+          "‘legal’ 是一个严格、中立的术语，指字面意义上“符合法律”。而 'lawful' 有时带有一点“道德上正当”的色彩。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 legalis，来自 lex（法律）。其所有含义（“与法律有关的”和“法律所允许的”）都直接源于这个词根。",
+      explanation_english:
+        "From Latin legalis, from lex (law). Both of its primary meanings (relating to the law, and permitted by the law) stem directly from this root.",
+    },
+    variation_between_british_american: {
+      british:
+        "发音和用法一致。在英国有个俚语 'legal eagle' 形容精明强干的律师。",
+      american: "发音和用法一致。同样使用 'legal eagle' 这个说法。",
+    },
+  },
+  {
+    word: "alley",
+    pronunciation: {
+      british: "/ˈæli/ 🇬🇧",
+      american: "/ˈæli/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage: "常用 👍：指建筑物之间狭窄的小巷、胡同，或专指保龄球道。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "小巷；胡同",
+          english: "A narrow passageway between or behind buildings.",
+        },
+        examples: [
+          {
+            sentence: "The dog ran down a dark alley.",
+            translation: "那只狗跑进了一条黑暗的小巷。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "（保龄球）球道",
+          english:
+            "A long, narrow wooden lane down which balls are rolled in bowling.",
+        },
+        examples: [
+          {
+            sentence: "We spent Saturday night at the bowling alley.",
+            translation: "我们周六晚上在保龄球馆度过。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["dark alley", "bowling alley", "blind alley"],
+    related_words: [
+      {
+        word: "lane",
+        type: "noun",
+        definition: {
+          chinese: "小路；车道",
+          english: "A narrow road, especially in a rural area.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "常用习语",
+        explanation:
+          "‘Right up my alley’ 是一个极其常用的地道习语，意思是“正合我意”或“正好是我的强项/兴趣所在”。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古法语 alee（行走、通道）。本意就是两旁有遮挡的狭窄通道。后来保龄球运动的狭长木质赛道因为形状相似，也被借用了这个词。",
+      explanation_english:
+        "From Old French alee (a walking, a passage). It originally meant a narrow passageway. The narrow, enclosed wooden lane used for bowling was naturally called an 'alley' due to its physical similarity.",
+    },
+    variation_between_british_american: {
+      british:
+        "用法一致。在英国，'blind alley'（死胡同）常用来比喻没有前途的工作或研究方向。",
+      american:
+        "用法一致。在美国，'back alley' 经常用来形容不正当或非法的行为（如 back-alley deal）。",
+    },
+  },
+  {
+    word: "cabin",
+    pronunciation: {
+      british: "/ˈkæbɪn/ 🇬🇧",
+      american: "/ˈkæbɪn/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "常用 👍：既可以指野外的简陋小木屋，也是交通工具（如飞机、船只）里供乘客或机组人员休息的座舱/客舱。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "小木屋",
+          english:
+            "A small shelter or house, made of wood and situated in a wild or remote area.",
+        },
+        examples: [
+          {
+            sentence: "They spent the weekend in a log cabin in the woods.",
+            translation: "他们在树林里的一座小木屋里度过了周末。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "（飞机、船只的）客舱；船舱",
+          english:
+            "The area for passengers in an aircraft; a private room on a ship or boat.",
+        },
+        examples: [
+          {
+            sentence: "The cabin crew will serve drinks shortly.",
+            translation: "机组乘务人员很快将提供饮料。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["log cabin", "cabin crew", "first-class cabin"],
+    related_words: [
+      {
+        word: "cottage",
+        type: "noun",
+        definition: {
+          chinese: "村舍；小别墅",
+          english: "A small house, typically one in the country.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "心理学俗语",
+        explanation:
+          "‘Cabin fever’ (幽闭烦躁症) 指因为长时间被困在室内（尤其是在冬天或生病时）而产生的烦躁和幽闭恐惧感。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自晚期拉丁语 capanna（小屋）。最开始指人类居住的简陋小房子。当人类开始建造大型帆船时，船上隔出来供人居住的小房间就被称作 cabin。随着航空业发展，这个词被直接移植到了飞机客舱上。",
+      explanation_english:
+        "From Late Latin capanna (hut). Originally meant a small, rough dwelling. When large ships were built, the small sleeping compartments were called cabins. With the advent of aviation, the term was transferred to passenger areas in airplanes.",
+    },
+    variation_between_british_american: {
+      british: "用法一致。飞机上的空乘人员多被称为 'cabin crew'。",
+      american: "用法一致。美国人度假常说 'go to the cabin'（去木屋度假）。",
+    },
+  },
+  {
+    word: "drama",
+    pronunciation: {
+      british: "/ˈdrɑːmə/ 🇬🇧",
+      american: "/ˈdrɑːmə/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "极常用 👍：除了指艺术形式上的戏剧外，在现代口语中极高频地用于指代人际关系中不必要的冲突、夸张的情绪和狗血事件。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "戏剧；戏剧艺术",
+          english:
+            "A play for theatre, radio, or television; the academic subject of drama.",
+        },
+        examples: [
+          {
+            sentence: "He studied drama in college.",
+            translation: "他在大学里学习了戏剧。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "（生活中的）戏剧性事件；夸张的冲突；小题大做",
+          english:
+            "An exciting, emotional, or unexpected series of events or set of circumstances.",
+        },
+        examples: [
+          {
+            sentence: "I just want a quiet life without all the drama.",
+            translation: "我只想过平静的生活，不要那么多抓马（狗血冲突）。",
+          },
+          {
+            sentence: "Stop creating drama over such a small issue.",
+            translation: "别为这么点小事小题大做了。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["drama queen", "cause drama", "family drama"],
+    related_words: [
+      {
+        word: "dramatic",
+        type: "adjective",
+        definition: {
+          chinese: "戏剧性的；夸张的",
+          english:
+            "Relating to drama; sudden and striking; acting in a way that is exaggerated.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "流行文化",
+        explanation:
+          "中文网络流行语“抓马”正是音译自这个词。'Drama queen' 指那些喜欢博取眼球、遇到一点小事就大惊小怪的戏精。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自希腊语 drama（行动、表演），来自动词 dran（去做）。最初专指舞台上的表演。后来人们发现现实生活中的激烈冲突、背叛、大哭大闹就像舞台上表演的一样，所以引申为“生活中的戏剧性冲突”。",
+      explanation_english:
+        "From Greek drama (action, play), from dran (to do, act). Originally referring strictly to theatrical performances, it metaphorically expanded to describe real-life situations that are highly emotional, exaggerated, or conflict-ridden, much like a stage play.",
+    },
+    variation_between_british_american: {
+      british: "发音一致，/ɑː/。",
+    },
+  },
+  {
+    word: "wink",
+    pronunciation: {
+      british: "/wɪŋk/ 🇬🇧",
+      american: "/wɪŋk/ 🇺🇸",
+    },
+    phrase_type: "verb & noun 动词 & 名词",
+    usage:
+      "常用 👍：指眨一只眼睛，通常带有暗示、开玩笑或秘密共识的含义。也可以指星星或灯光闪烁。",
+    meanings: [
+      {
+        type: "verb",
+        definition: {
+          chinese: "眨单眼；使眼色",
+          english:
+            "To close and open one eye quickly, typically to indicate that something is a joke or a secret.",
+        },
+        examples: [
+          {
+            sentence: "He winked at me to show he was just joking.",
+            translation: "他向我眨了眨眼，表示他只是在开玩笑。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "眨眼；眼色",
+          english: "An act of winking.",
+        },
+        examples: [
+          {
+            sentence: "She gave him a knowing wink.",
+            translation: "她给了他一个心照不宣的眼神（眨眼）。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["wink at", "give a wink", "not sleep a wink"],
+    related_words: [
+      {
+        word: "blink",
+        type: "verb",
+        definition: {
+          chinese: "眨双眼",
+          english: "To shut and open both eyes quickly.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "区别与习语",
+        explanation:
+          "记住：'Wink' 是一只眼（常带有社交暗示），'Blink' 是两只眼的生理性眨眼。习语 'I didn't sleep a wink' 意思是“我一夜都没合眼”。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自古英语 wincian（闭上眼睛）。后来意思逐渐特化为“快速闭合一只眼睛”作为一种非语言交流方式。因为眨眼的动作是瞬间的一亮一灭，后来也引申出灯光或星星“闪烁”的意思。",
+      explanation_english:
+        "From Old English wincian (to close one's eyes). The meaning specialized to closing one eye quickly as a form of non-verbal communication. Due to the 'on-off' visual effect of a blink, it also came to describe a light or star flashing quickly.",
+    },
+    variation_between_british_american: {
+      british: "用法完全一致。",
+      american:
+        "用法完全一致。俚语 'in the blink/wink of an eye' (眨眼间) 都很常用。",
+    },
+  },
+  {
+    word: "script",
+    pronunciation: {
+      british: "/skrɪpt/ 🇬🇧",
+      american: "/skrɪpt/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "常用 👍：在影视娱乐中指“剧本”；在计算机科学中指“脚本”；在日常中也可指“手写体”。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "剧本；广播稿",
+          english: "The written text of a play, movie, or broadcast.",
+        },
+        examples: [
+          {
+            sentence: "The actors are reading through the script today.",
+            translation: "演员们今天正在通读剧本。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "（计算机）脚本",
+          english:
+            "An automated series of instructions carried out in a specific order.",
+        },
+        examples: [
+          {
+            sentence: "I wrote a Python script to automate the data entry.",
+            translation: "我写了一个 Python 脚本来自动录入数据。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "为...写剧本；事先准备（怎么说/怎么做）",
+          english: "To write a script for; to plan or arrange in advance.",
+        },
+        examples: [
+          {
+            sentence: "The documentary was heavily scripted.",
+            translation: "这部纪录片很大程度上是按剧本演的。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "movie script",
+      "stick to the script",
+      "flip the script",
+    ],
+    related_words: [
+      {
+        word: "manuscript",
+        type: "noun",
+        definition: {
+          chinese: "手稿",
+          english:
+            "A book, document, or piece of music written by hand rather than typed or printed.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "口语俚语",
+        explanation:
+          "‘Flip the script’ 是一个非常酷的口语短语，意思是“反转局面”、“一反常态”或“完全改变原来的计划”。'Stick to the script' 则是要求别人照本宣科，不要节外生枝。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 scriptum（写下的东西）。所有的意思（剧本、手写体、代码脚本）都是从“写下的指令/文字”这个核心概念衍生出来的。",
+      explanation_english:
+        "From Latin scriptum (something written). All modern meanings—whether a play's text, handwriting, or a computer code sequence—derive from the core concept of 'written instructions or text'.",
+    },
+    variation_between_british_american: {
+      british:
+        "用法一致。在英国医药领域，有时作为 prescription（处方）的缩写口语。",
+      american:
+        "用法一致。同样也是处方的口语缩写（I need to pick up my script at the pharmacy）。",
+    },
+  },
+  {
+    word: "notch",
+    pronunciation: {
+      british: "/nɒtʃ/ 🇬🇧",
+      american: "/nɑːtʃ/ 🇺🇸",
+    },
+    phrase_type: "noun & verb 名词 & 动词",
+    usage:
+      "常用 👍：指物体上的V型刻痕，但在日常口语中更常用于比喻等级、档次或程度。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "刻痕；凹口",
+          english: "An indentation or incision on an edge or surface.",
+        },
+        examples: [
+          {
+            sentence: "He carved a notch in the stick.",
+            translation: "他在棍子上刻了一道痕。",
+          },
+        ],
+      },
+      {
+        type: "noun",
+        definition: {
+          chinese: "等级；档次；程度",
+          english: "A point or degree on a scale.",
+        },
+        examples: [
+          {
+            sentence: "The new restaurant is a notch above the others.",
+            translation: "这家新餐厅比其他餐厅高出一个档次。",
+          },
+          {
+            sentence: "You need to turn the volume down a notch.",
+            translation: "你需要把音量调低一档。",
+          },
+        ],
+      },
+      {
+        type: "verb",
+        definition: {
+          chinese: "赢取；获得（常与up连用：notch up）",
+          english: "To score or achieve something.",
+        },
+        examples: [
+          {
+            sentence: "The team notched up their third victory.",
+            translation: "该队赢得了他们的第三场胜利。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["top-notch", "take it down a notch", "a notch above"],
+    related_words: [
+      {
+        word: "level",
+        type: "noun",
+        definition: {
+          chinese: "水平；等级",
+          english:
+            "A position on a real or imaginary scale of amount, quantity, extent, or quality.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "高频俚语",
+        explanation:
+          "‘Top-notch’ 极常用，表示“顶级的、第一流的”。当有人过于激动或愤怒时，你可以对他说 'Take it down a notch'（收敛一点/消消气）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自中古英语（可能来自古法语 oche）。过去人们为了计数或记录刻度，会在木棒或皮带上刻下“V形记号（notch）”。因此，每一个记号就代表了一个“等级”或“数值”，这就引申出了现代英语中“档次、程度”的意思。",
+      explanation_english:
+        "From Middle English, likely an alteration of Old French oche (notch). Historically, people kept count or marked measurements by carving V-shaped cuts into wood or belts. Thus, each cut represented a specific 'level' or 'degree', leading to its modern metaphorical meaning of a scale or grade.",
+    },
+    variation_between_british_american: {
+      british: "发音 /ɒ/。'notch up' 作为动词短语很常见。",
+      american:
+        "发音 /ɑː/。'take it down a notch' 在美剧极常见。手机屏幕上的“刘海”也被称为 notch。",
+    },
+  },
+  {
+    word: "sorority",
+    pronunciation: {
+      british: "/səˈrɒrəti/ 🇬🇧",
+      american: "/səˈrɔːrəti/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "特定文化词汇：几乎专用于描述北美大学校园里的“女生联谊会”或“姐妹会”。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "（美国大学的）女生联谊会；姐妹会",
+          english:
+            "A society for female students in a university or college, typically for social purposes.",
+        },
+        examples: [
+          {
+            sentence: "She joined a sorority in her freshman year.",
+            translation: "她在大学一年级时加入了一个女生姐妹会。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "sorority sister",
+      "sorority house",
+      "join a sorority",
+    ],
+    related_words: [
+      {
+        word: "fraternity",
+        type: "noun",
+        definition: {
+          chinese: "男生联谊会；兄弟会",
+          english:
+            "A group of people sharing a common profession or interests; a male students' society in a university or college.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "校园文化",
+        explanation:
+          "在美国大学系统（Greek life）中，这些组织通常用几个希腊字母命名（如 Alpha Phi）。如果电影里出现一大群住在一栋大房子里、经常举办派对的大学女生，那这就是 sorority。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自中世纪拉丁语 sororitas（姐妹情谊），直接来源于拉丁语词根 soror（姐妹）。这个词专门用来对应“兄弟会”（fraternity）。",
+      explanation_english:
+        "From Medieval Latin sororitas (sisterhood), stemming from the Latin root soror (sister). It was adopted specifically to parallel the male equivalent, 'fraternity'.",
+    },
+    variation_between_british_american: {
+      british:
+        "英国大学没有这种组织体系，所以英国人虽然认识这个词，但只用来描述美国文化。",
+      american: "美国校园文化核心词汇，使用极其频繁。",
+    },
+  },
+  {
+    word: "interrogation",
+    pronunciation: {
+      british: "/ɪnˌterəˈɡeɪʃn/ 🇬🇧",
+      american: "/ɪnˌterəˈɡeɪʃn/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "较常用：指正式、严厉的审问，通常出现在警匪片、法律环境或军事语境中。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "审问；讯问；盘问",
+          english:
+            "The action of interrogating or the process of being interrogated (asking questions of someone closely, aggressively, or formally).",
+        },
+        examples: [
+          {
+            sentence: "The suspect broke down under police interrogation.",
+            translation: "嫌疑人在警方的审问下崩溃了。",
+          },
+          {
+            sentence:
+              "I didn't expect this dinner to turn into an interrogation.",
+            translation: "我没料到这顿晚饭会变成一场盘问。（比喻用法）",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "under interrogation",
+      "police interrogation",
+      "interrogation room",
+    ],
+    related_words: [
+      {
+        word: "interrogate",
+        type: "verb",
+        definition: {
+          chinese: "审问",
+          english:
+            "To ask questions of (someone) closely, aggressively, or formally.",
+        },
+      },
+      {
+        word: "questioning",
+        type: "noun",
+        definition: {
+          chinese: "询问；盘问（语气比interrogation轻）",
+          english:
+            "The action of asking someone questions, especially in an official context.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "语气强度",
+        explanation:
+          "‘Interrogation’ 的语气非常重，带有强迫性和攻击性。如果朋友一直追问你问题，你说 'Stop the interrogation!'，这是一种带有夸张色彩的抱怨。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 interrogatio，由 inter-（在...之间）和 rogare（询问）组成。字面意思就是严密地提出问题。",
+      explanation_english:
+        "From Latin interrogatio, based on inter- (between/among) and rogare (to ask). It literally implies deeply and formally questioning someone.",
+    },
+    variation_between_british_american: {
+      british: "发音和用法一致。",
+      american: "发音和用法一致。在美剧中，审讯室通常叫 'interrogation room'。",
+    },
+  },
+  {
+    word: "twaddle",
+    pronunciation: {
+      british: "/ˈtwɒdl/ 🇬🇧",
+      american: "/ˈtwɑːdl/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "较少用（英式偏多）：指废话、胡言乱语、毫无意义的话。带有轻微的贬义和一点点老派色彩。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "废话；胡说八道",
+          english: "Trivial or foolish speech or writing; nonsense.",
+        },
+        examples: [
+          {
+            sentence: "He was talking absolute twaddle.",
+            translation: "他完全是在胡说八道。",
+          },
+          {
+            sentence: "Don't believe that twaddle.",
+            translation: "别信那种废话。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "absolute twaddle",
+      "talk twaddle",
+      "a load of twaddle",
+    ],
+    related_words: [
+      {
+        word: "nonsense",
+        type: "noun",
+        definition: {
+          chinese: "胡说；废话（最常用）",
+          english:
+            "Spoken or written words that have no meaning or make no sense.",
+        },
+      },
+      {
+        word: "rubbish",
+        type: "noun",
+        definition: {
+          chinese: "垃圾；废话（英式常用口语）",
+          english: "Waste material; refuse or litter; nonsense.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "替代词汇",
+        explanation:
+          "在现代英语中，人们更倾向于使用 'nonsense'、'bullshit' (粗俗) 或 'rubbish' 来表达同样的意思，'twaddle' 显得有些文雅和复古。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "可能起源于18世纪晚期的拟声词 twattle（类似 chatter，表示叽叽喳喳的声音），后来演变成指代没有营养的闲聊和废话。",
+      explanation_english:
+        "Late 18th century variant of earlier twattle, which was likely of imitative origin resembling idle chatter or babbling. It evolved to mean foolish, meaningless speech.",
+    },
+    variation_between_british_american: {
+      british: "比美式英语更常用，属于比较典型的英式轻微贬义词。",
+      american:
+        "美国人能听懂，但自己极少使用，偶尔用在带有讽刺色彩或模仿英国人的语境中。",
+    },
+  },
+  {
+    word: "snarly",
+    pronunciation: {
+      british: "/ˈsnɑːli/ 🇬🇧",
+      american: "/ˈsnɑːrli/ 🇺🇸",
+    },
+    phrase_type: "adjective 形容词",
+    usage:
+      "不常用：口语化词汇，常用于形容人/动物脾气暴躁（像在咆哮），或者形容头发/线团缠结在一起。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: {
+          chinese: "爱咆哮的；脾气暴躁的",
+          english: "Ill-tempered or snarling.",
+        },
+        examples: [
+          {
+            sentence:
+              "He gets a bit snarly if he doesn't have his morning coffee.",
+            translation: "如果不喝晨间咖啡，他会有点脾气暴躁。",
+          },
+        ],
+      },
+      {
+        type: "adjective",
+        definition: {
+          chinese: "缠结的；乱作一团的",
+          english: "Tangled or knotted (usually referring to hair).",
+        },
+        examples: [
+          {
+            sentence: "My hair gets really snarly in the wind.",
+            translation: "风一吹我的头发就打结得厉害。",
+          },
+        ],
+      },
+    ],
+    common_collocations: ["snarly hair", "snarly mood", "snarly dog"],
+    related_words: [
+      {
+        word: "snarl",
+        type: "verb",
+        definition: {
+          chinese: "咆哮；露出牙齿（狗等）",
+          english:
+            "(Of an animal such as a dog) make an aggressive growl with bared teeth.",
+        },
+      },
+      {
+        word: "tangled",
+        type: "adjective",
+        definition: {
+          chinese: "纠缠的",
+          english: "Twisted together untidily; matted.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "构词法",
+        explanation:
+          "由动词/名词 'snarl' 加上后缀 '-y' 变成形容词。'Snarl' 本身就有“狗咆哮”和“线团打结”两个独立的意思，所以 snarly 也继承了这两个意思。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "来自动词 'snarl'。英语中有两个不同的词源都演变成了 snarl：一个来自仿声词（狗的低声咆哮）；另一个来自古词 'snare'（陷阱/套索），引申为线缠绕打结。这两个完全不同的意思共存于 'snarly' 这个形容词中。",
+      explanation_english:
+        "Derived from 'snarl' + '-y'. Interestingly, 'snarl' combines two different etymologies: one imitative of an animal's growl, and another related to 'snare' meaning a tangle or knot. 'Snarly' inherits both these distinct meanings.",
+    },
+    variation_between_british_american: {
+      british: "发音不卷舌 /ɑː/。",
+      american:
+        "发音卷舌 /ɑːr/。在美国，有一个非常著名的俚语 'gnarly' (拼写不同，发音有别)，指“极好”或“极危险”，不要与 snarly 混淆。",
+    },
+  },
+  {
+    word: "instinct",
+    pronunciation: {
+      british: "/ˈɪnstɪŋkt/ 🇬🇧",
+      american: "/ˈɪnstɪŋkt/ 🇺🇸",
+    },
+    phrase_type: "noun 名词",
+    usage:
+      "常用 👍：既可以指动物与生俱来的本能（如迁徙），也可以指人类在没有经过逻辑思考的情况下做出的直觉判断。",
+    meanings: [
+      {
+        type: "noun",
+        definition: {
+          chinese: "本能；天性；直觉",
+          english:
+            "An innate, typically fixed pattern of behavior in animals in response to certain stimuli; a natural or intuitive way of acting or thinking.",
+        },
+        examples: [
+          {
+            sentence: "Birds learn to fly by instinct.",
+            translation: "鸟类凭本能学会飞行。",
+          },
+          {
+            sentence: "My first instinct was to run away.",
+            translation: "我的第一直觉是逃跑。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "trust your instincts",
+      "maternal instinct",
+      "survival instinct",
+    ],
+    related_words: [
+      {
+        word: "intuition",
+        type: "noun",
+        definition: {
+          chinese: "直觉（更侧重于潜意识的认知和感觉，较少用于动物）",
+          english:
+            "The ability to understand something immediately, without the need for conscious reasoning.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "生活指导语",
+        explanation:
+          "当你犹豫不决时，英语母语者最常给的建议就是 'Trust your instincts'（相信你的直觉）。",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 instinctus（冲动、刺激），来自动词 instinguere（驱使）。它表示一种内在的、驱使生物采取特定行动的动力，因此涵盖了动物的生理本能和人类的心理直觉。",
+      explanation_english:
+        "From Latin instinctus (impulse, inspiration), from instinguere (to incite). The core idea is an internal drive that prompts action, which naturally applies to both animal biological programming and human intuitive gut reactions.",
+    },
+    variation_between_british_american: {
+      british: "发音和用法一致。",
+      american: "发音和用法一致。",
+    },
+  },
+  {
+    word: "suspicious",
+    pronunciation: {
+      british: "/səˈspɪʃəs/ 🇬🇧",
+      american: "/səˈspɪʃəs/ 🇺🇸",
+    },
+    phrase_type: "adjective 形容词",
+    usage:
+      "常用 👍：指人对某事物感到怀疑（多疑），或者某事物本身看起来不对劲、惹人怀疑（可疑）。",
+    meanings: [
+      {
+        type: "adjective",
+        definition: {
+          chinese: "可疑的（事物令人怀疑的）",
+          english:
+            "Having or showing a cautious distrust of someone or something; causing a feeling that something is wrong or illegal.",
+        },
+        examples: [
+          {
+            sentence: "The police found a suspicious package near the station.",
+            translation: "警察在车站附近发现了一个可疑的包裹。",
+          },
+        ],
+      },
+      {
+        type: "adjective",
+        definition: {
+          chinese: "起疑心的；多疑的（人感到怀疑的）",
+          english: "Having the feeling that someone has done something wrong.",
+        },
+        examples: [
+          {
+            sentence: "His behavior made me very suspicious.",
+            translation: "他的行为让我非常起疑心。",
+          },
+          {
+            sentence: "She is highly suspicious of his motives.",
+            translation: "她对他的动机高度怀疑。",
+          },
+        ],
+      },
+    ],
+    common_collocations: [
+      "suspicious behavior",
+      "highly suspicious",
+      "be suspicious of",
+    ],
+    related_words: [
+      {
+        word: "suspect",
+        type: "verb/noun",
+        definition: {
+          chinese: "怀疑；嫌疑犯",
+          english:
+            "Have an idea or impression of the existence, presence, or truth of (something) without certain proof; a person thought to be guilty of a crime.",
+        },
+      },
+      {
+        word: "suspicion",
+        type: "noun",
+        definition: {
+          chinese: "怀疑；嫌疑",
+          english:
+            "A feeling or thought that something is possible, likely, or true.",
+        },
+      },
+    ],
+    notes: [
+      {
+        point: "双向词性",
+        explanation:
+          "注意它的双向用法：‘I am suspicious’ 是“我起了疑心”；‘It is suspicious’ 是“它很可疑”。网络和游戏（如《Among Us》）中常简写为 'sus' (That guy is so sus).",
+      },
+    ],
+    origin_of_multiple_meanings: {
+      explanation_chinese:
+        "源自拉丁语 suspiciosus，动词形式是 suspicere（从下往上看，偷偷看）。从“暗中观察”引申为“不信任的心理状态”。所以它既可以形容引发这种状态的事物，也可以形容拥有这种状态的人。",
+      explanation_english:
+        "From Latin suspiciosus, from the verb suspicere (to look up at, look at secretly). 'Looking at something secretly' implies distrust. This state of distrust can naturally describe both the object causing it (a suspicious item) and the person feeling it (a suspicious individual).",
+    },
+    variation_between_british_american: {
+      british: "用法完全一致。",
+      american: "用法完全一致。年轻人更常用缩写词 'sus'。",
     },
   },
 ];

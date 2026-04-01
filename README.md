@@ -1,4 +1,2 @@
 # vocabulary
 my vocabulary list
-
-
